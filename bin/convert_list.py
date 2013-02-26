@@ -13,8 +13,6 @@ import codecs
 import re
 import json
 
-from pprint import pprint
-
 help_message = '''
 Converts text files containing political candidates data (from pdf files) to xml/json
 '''
@@ -63,7 +61,6 @@ class Runner(object):
                         'place': u''
                     }
                     position,info,member['place'] = re.split('\s{2,}', line_contents, 2)
-                    print member['position']
                     member['position'] = int(position)
                     match = re.match('([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)', info)
                     if match is not None:
@@ -74,7 +71,7 @@ class Runner(object):
                     data['members'].append(member)
             line_count += 1
         ifile.close()
-        json.dumps(data)
+        print json.dumps(data)
 
 
 def main(argv=None):
