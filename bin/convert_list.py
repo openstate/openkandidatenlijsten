@@ -11,6 +11,8 @@ import sys
 import getopt
 import codecs
 import re
+import json
+
 from pprint import pprint
 
 help_message = '''
@@ -72,7 +74,7 @@ class Runner(object):
                     data['members'].append(member)
             line_count += 1
         ifile.close()
-        pprint(data)
+        json.dumps(data)
 
 
 def main(argv=None):
