@@ -1,4 +1,5 @@
 This is a small set of script to extract candidcacy lists from the political parties and convert them into a json format.
+The PDF files were taken from http://www.kiesraad.nl/nieuws/kandidatenlijsten-bekend
 
 Requirements
 ============
