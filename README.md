@@ -1,5 +1,10 @@
 This is a small set of script to extract candidcacy lists from the political parties and convert them into a json format.
 
+Requirements
+============
+
+1. `pdftotext` (install xpdf)
+
 Installation
 ============
 
