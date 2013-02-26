@@ -14,5 +14,6 @@ Usage
 =====
 
 1. `cd $OPENKANDIDATELIJST_HOME/bin`
+2. `mkdir ../text && mkdir ../json`
 2. `./convert.sh`
 3. `cd ../json #contains json files`
