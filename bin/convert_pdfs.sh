@@ -3,6 +3,5 @@
 for i in ../pdf/*.pdf; do
   fn=`basename "$i" .pdf`
   echo $fn
-  pdftohtml -noframes -c "$i"
+  pdftotext -layout -nopgbrk -q "$i" "../text/$fn.txt"
 done
-mv ../pdf/*.html ../html/
