@@ -4,4 +4,5 @@ for i in ../pdf/*.pdf; do
   fn=`basename "$i" .pdf`
   echo $fn
   pdftotext -layout -nopgbrk -q "$i" "../text/$fn.txt"
+  ./convert_list.py -i "../text/$fn.txt" >"../json/$fn.json" 2>/dev/null
 done
