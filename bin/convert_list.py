@@ -51,23 +51,24 @@ class Runner(object):
                     in_description = True
                 if in_description:
                     data['description'] += u' %s' % (line_contents,)
-                if description_extracted and (re.search('^\d+\s+', line_contents)):
-                    member = {
-                        'first_name': u'',
-                        'last_name': u'',
-                        'full_name': u'',
-                        'gender': u'',
-                        'position': None,
-                        'place': u''
-                    }
-                    position,info,member['place'] = re.split('\s{2,}', line_contents, 2)
-                    member['position'] = int(position)
-                    match = re.match('([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)', info)
-                    if match is not None:
-                        member['last_name'] = match.group(1)
-                        member['full_name'] = "%s %s" % (match.group(2), match.group(1))
-                        member['first_name'] = match.group(3)
-                        member['gender'] = match.group(4)
+                member = {
+                    'first_name': u'',
+                    'last_name': u'',
+                    'full_name': u'',
+                    'gender': u'',
+                    'position': None,
+                    'place': u''
+                }
+                match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)\s+(.*)$', line_contents)
+                if match is None:
+                    match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+(.*)$', line_contents)
+                if match is not None:
+                    member['position'] = int(match.group(1))
+                    member['last_name'] = match.group(2)
+                    member['full_name'] = "%s %s" % (match.group(3), match.group(2))
+                    member['first_name'] = match.group(4)
+                    member['gender'] = match.group(5)
+                    member['place'] = match.group(6)
                     data['members'].append(member)
             line_count += 1
         ifile.close()
