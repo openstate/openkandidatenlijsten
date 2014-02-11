@@ -37,15 +37,16 @@ class Runner(object):
             'members': []
         }
         for line in contents.split("\n"):
+            # print data
             line_contents = line.strip()
             if line_count == 0:
                 data['title'] = line_contents
-            if line_contents == u'':
-                if in_description:
-                    description_extracted = True
-                in_description = False
+                in_description = True
             else:
-                if line.startswith('Nr '):
+                if line_contents.startswith('Nr ') or line_contents.startswith('---') or line_contents.startswith('   '):
+                    if in_description:
+                        description_extracted = True
+                    in_description = False
                     continue
                 if (line_count > 1) and not description_extracted:
                     in_description = True
