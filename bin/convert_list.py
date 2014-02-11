@@ -72,7 +72,7 @@ class Runner(object):
             if match is None:
                 match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([m|v])\)\s+(.*)$', line_contents)
             if match is None:
-                match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+(.*)$', line_contents)
+                match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+(.*)$', line_contents)
             if match is not None:
                 member['position'] = int(match.group(1))
                 member['last_name'] = match.group(2)
@@ -85,6 +85,10 @@ class Runner(object):
                     member['first_name'] = u''
                     member['gender'] = match.group(4)
                     member['place'] = match.group(5)
+                elif len(match.groups()) == 4:
+                    member['first_name'] = u''
+                    member['gender'] = u''
+                    member['place'] = match.group(4)
                 data['members'].append(member)
             line_count += 1
         ifile.close()
