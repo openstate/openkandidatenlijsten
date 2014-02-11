@@ -40,7 +40,6 @@ class Runner(object):
         for line in contents.split("\n"):
             # print data
             line_contents = line.strip()
-            print line_contents
             if line_contents.startswith('Lijst '):
                 if not in_header:
                     ofile = codecs.open("../json/%s.json" % data['title'], 'w', 'utf-8')
@@ -89,6 +88,9 @@ class Runner(object):
                 data['members'].append(member)
             line_count += 1
         ifile.close()
+        ofile = codecs.open("../json/%s.json" % data['title'], 'w', 'utf-8')
+        ofile.write(json.dumps(data))
+        ofile.close()
 
 
 def main(argv=None):
