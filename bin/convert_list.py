@@ -31,6 +31,7 @@ class Runner(object):
         line_count = 0
         in_description = False
         description_extracted = False
+        in_header = True
         data = {
             'title': u'',
             'description': u'',
@@ -39,41 +40,55 @@ class Runner(object):
         for line in contents.split("\n"):
             # print data
             line_contents = line.strip()
-            if line_count == 0:
-                data['title'] = line_contents
-                in_description = True
-            else:
-                if line_contents.startswith('Nr ') or line_contents.startswith('---') or line_contents.startswith('   '):
-                    if in_description:
-                        description_extracted = True
-                    in_description = False
-                    continue
-                if (line_count > 1) and not description_extracted:
-                    in_description = True
-                if in_description:
-                    data['description'] += u' %s' % (line_contents,)
-                member = {
-                    'first_name': u'',
-                    'last_name': u'',
-                    'full_name': u'',
-                    'gender': u'',
-                    'position': None,
-                    'place': u''
+            print line_contents
+            if line_contents.startswith('Lijst '):
+                if not in_header:
+                    ofile = codecs.open("../json/%s.json" % data['title'], 'w', 'utf-8')
+                    ofile.write(json.dumps(data))
+                    ofile.close()
+                data = {
+                    'title': line_contents,
+                    'description': u'',
+                    'members': []
                 }
-                match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)\s+(.*)$', line_contents)
-                if match is None:
-                    match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+(.*)$', line_contents)
-                if match is not None:
-                    member['position'] = int(match.group(1))
-                    member['last_name'] = match.group(2)
-                    member['full_name'] = "%s %s" % (match.group(3), match.group(2))
+                in_description = True
+                in_header = False
+                continue
+            if line_contents.startswith('Nr ') or line_contents.startswith('---') or line_contents.startswith('   '):
+                if in_description:
+                    description_extracted = True
+                in_description = False
+                continue
+            if in_description:
+                data['description'] += u' %s' % (line_contents,)
+            member = {
+                'first_name': u'',
+                'last_name': u'',
+                'full_name': u'',
+                'gender': u'',
+                'position': None,
+                'place': u''
+            }
+            match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)\s+(.*)$', line_contents)
+            if match is None:
+                match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([m|v])\)\s+(.*)$', line_contents)
+            if match is None:
+                match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+(.*)$', line_contents)
+            if match is not None:
+                member['position'] = int(match.group(1))
+                member['last_name'] = match.group(2)
+                member['full_name'] = "%s %s" % (match.group(3), match.group(2))
+                if len(match.groups()) == 6:
                     member['first_name'] = match.group(4)
                     member['gender'] = match.group(5)
                     member['place'] = match.group(6)
-                    data['members'].append(member)
+                elif len(match.groups()) == 5:
+                    member['first_name'] = u''
+                    member['gender'] = match.group(4)
+                    member['place'] = match.group(5)
+                data['members'].append(member)
             line_count += 1
         ifile.close()
-        print json.dumps(data)
 
 
 def main(argv=None):
