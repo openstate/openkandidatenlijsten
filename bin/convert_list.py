@@ -40,7 +40,7 @@ class Runner(object):
         for line in contents.split("\n"):
             # print data
             line_contents = line.strip()
-            if line_contents.startswith('Lijst '):
+            if line_contents.startswith('Lijst ') or re.match('^[A-Z]\s*', line_contents):
                 if not in_header:
                     ofile = codecs.open("../json/%s.json" % data['title'], 'w', 'utf-8')
                     ofile.write(json.dumps(data))
@@ -58,8 +58,13 @@ class Runner(object):
                     description_extracted = True
                 in_description = False
                 continue
+            if in_description and re.match('^\d+\s+', line_contents):
+                description_extracted = True
+                in_description = False
             if in_description:
                 data['description'] += u' %s' % (line_contents,)
+            if line_contents.startswith('pagina') or line_contents.startswith('naam'):
+                continue
             member = {
                 'first_name': u'',
                 'last_name': u'',
@@ -68,31 +73,40 @@ class Runner(object):
                 'position': None,
                 'place': u''
             }
+            print line_contents
             match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)\s+(.*)$', line_contents)
             if match is None:
                 match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+\(([m|v])\)\s+(.*)$', line_contents)
             if match is None:
                 match = re.match('^(\d+)\s+([^,]+),\s+([A-Z\.]+)\s+(.*)$', line_contents)
+            if match is None:
+                match = re.match('^(\d+)\s+([^,]+)\s{2,}([A-Z\.]+)\s+\(([^\)]+)\)\s+\(([m|v])\)\s+(.*)$', line_contents)
+            if match is None:
+                match = re.match('^(\d+)\s+([^,]+)\s{2,}([A-Z\.]+)\s+\(([m|v])\)\s+(.*)$', line_contents)
+            if match is None:
+                match = re.match('^(\d+)\s+([^,]+)\s{2,}([A-Z\.]+)\s+(.*)$', line_contents)
+            print match
             if match is not None:
                 member['position'] = int(match.group(1))
-                member['last_name'] = match.group(2)
-                member['full_name'] = "%s %s" % (match.group(3), match.group(2))
+                member['last_name'] = match.group(2).strip()
+                member['full_name'] = "%s %s" % (match.group(3).strip(), match.group(2).strip())
                 if len(match.groups()) == 6:
-                    member['first_name'] = match.group(4)
-                    member['gender'] = match.group(5)
-                    member['place'] = match.group(6)
+                    member['first_name'] = match.group(4).strip()
+                    member['gender'] = match.group(5).strip()
+                    member['place'] = match.group(6).strip()
                 elif len(match.groups()) == 5:
                     member['first_name'] = u''
-                    member['gender'] = match.group(4)
-                    member['place'] = match.group(5)
+                    member['gender'] = match.group(4).strip()
+                    member['place'] = match.group(5).strip()
                 elif len(match.groups()) == 4:
                     member['first_name'] = u''
                     member['gender'] = u''
-                    member['place'] = match.group(4)
+                    member['place'] = match.group(4).strip()
                 data['members'].append(member)
             line_count += 1
         ifile.close()
-        ofile = codecs.open("../json/%s.json" % data['title'], 'w', 'utf-8')
+        title_file_name = re.sub(r'\s+', ' ', data['title']).strip()
+        ofile = codecs.open("../json/%s.json" % title_file_name, 'w', 'utf-8')
         ofile.write(json.dumps(data))
         ofile.close()
 
