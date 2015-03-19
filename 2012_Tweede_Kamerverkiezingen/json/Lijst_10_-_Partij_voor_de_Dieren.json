@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marianne", 
+            "last_name": "Thieme", 
+            "gender": "v", 
+            "place": "Maarssen", 
+            "full_name": "M.L. Thieme", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Ouwehand", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Ouwehand", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Wassenberg", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "F.P. Wassenberg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "Hazekamp", 
+            "gender": "v", 
+            "place": "Alteveer", 
+            "full_name": "A.A.H. Hazekamp", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Johnas", 
+            "last_name": "van Lammeren", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.F.W. van Lammeren", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "A.E. van Liere", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Birgit", 
+            "last_name": "Verstappen", 
+            "gender": "v", 
+            "place": "Hilvarenbeek", 
+            "full_name": "B.E.J.M. Verstappen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerjan", 
+            "last_name": "Kelder", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "G.J. Kelder", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "van der Veer", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "L.R. van der Veer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Diederik", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "D.W. van Liere", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ida", 
+            "last_name": "Been", 
+            "gender": "v", 
+            "place": "Weert", 
+            "full_name": "I. Been", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Corinne", 
+            "last_name": "Cornelisse", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "A.C. Cornelisse", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Trees", 
+            "last_name": "Janssens", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "T.A.O. Janssens", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Annemarie", 
+            "last_name": "van Gelder", 
+            "gender": "v", 
+            "place": "Makkinga", 
+            "full_name": "A.M.E. van Gelder", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Voss", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "S.H.D. Voss", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M.J.E. de Groot", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Floriske", 
+            "last_name": "van Leeuwen", 
+            "gender": "v", 
+            "place": "Wyler (DE)", 
+            "full_name": "F. van Leeuwen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "Heiloo", 
+            "full_name": "A.J. Dekker", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Erno", 
+            "last_name": "Eskens", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.B. Eskens", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Pablo", 
+            "last_name": "Moleman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Moleman", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Melissa", 
+            "last_name": "Bax", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.C. Bax", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ingrid", 
+            "last_name": "Ramaan", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "J. Ramaan", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Laura", 
+            "last_name": "Straver", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "L.M.C. Straver", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Janet", 
+            "last_name": "de Jong", 
+            "gender": "v", 
+            "place": "Zeewolde", 
+            "full_name": "E.J.G. de Jong", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Jan Peter", 
+            "last_name": "Cruiming", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.P. Cruiming", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 - Partij voor de Dieren"
+}

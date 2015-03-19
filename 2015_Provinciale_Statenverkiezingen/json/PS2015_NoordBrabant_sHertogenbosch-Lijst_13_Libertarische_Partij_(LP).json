@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jasper", 
+            "last_name": "de Groot", 
+            "gender": "", 
+            "place": "Mierlo", 
+            "full_name": "J.P.C. de Groot", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mathieu", 
+            "last_name": "Hampton", 
+            "gender": "", 
+            "place": "Mierlo", 
+            "full_name": "M.W. Hampton", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "de Groot", 
+            "gender": "", 
+            "place": "Mierlo", 
+            "full_name": "H.W.M. de Groot", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Iason", 
+            "last_name": "Palios", 
+            "gender": "", 
+            "place": "Eindhoven", 
+            "full_name": "I. Palios", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Aike", 
+            "last_name": "de Vries", 
+            "gender": "", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "A.J.W. de Vries", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Heirbaut", 
+            "gender": "", 
+            "place": "Tilburg", 
+            "full_name": "R.P.C. Heirbaut", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Ossenblok", 
+            "gender": "", 
+            "place": "Tilburg", 
+            "full_name": "R.J.A. Ossenblok", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Mathijssen", 
+            "gender": "", 
+            "place": "Etten-Leur", 
+            "full_name": "R.W.J. Mathijssen", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_13 Libertarische Partij (LP)"
+}

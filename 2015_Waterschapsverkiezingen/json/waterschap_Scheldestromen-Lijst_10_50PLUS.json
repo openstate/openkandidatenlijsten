@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Fred", 
+            "last_name": "Kalwij", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "F.J.M. Kalwij", 
+            "position": 1
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Roozen", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "J.L.A.M. Roozen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Willemse", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "W. Willemse", 
+            "position": 3
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "Lernout", 
+            "gender": "m", 
+            "place": "Sint Jansteen", 
+            "full_name": "G.L.C. Lernout", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Teunissen", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "R.F. Teunissen", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 50PLUS"
+}

@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Westeremden", 
+            "full_name": "J.J. Bos", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Huisman", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "W.G. Huisman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Wierenga", 
+            "gender": "m", 
+            "place": "Zuidhorn", 
+            "full_name": "K.L. Wierenga", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Woltjer", 
+            "gender": "m", 
+            "place": "Uithuizermeeden", 
+            "full_name": "H. Woltjer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jannie", 
+            "last_name": "Vogel", 
+            "gender": "v", 
+            "place": "Leens", 
+            "full_name": "J.H. Vogel", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Wiersema", 
+            "gender": "m", 
+            "place": "Spijk Gn", 
+            "full_name": "P.M. Wiersema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Drenth", 
+            "gender": "m", 
+            "place": "Middelstum", 
+            "full_name": "G.R. Drenth", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Bé", 
+            "last_name": "Prins", 
+            "gender": "m", 
+            "place": "Middelstum", 
+            "full_name": "B.H. Prins", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Rozema", 
+            "gender": "m", 
+            "place": "Uithuizen", 
+            "full_name": "L. Rozema", 
+            "position": 9
+        }
+    ], 
+    "description": "Gecombineerd met CDA", 
+    "title": "Lijst 5 ChristenUnie"
+}

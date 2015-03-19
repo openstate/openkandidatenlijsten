@@ -1,0 +1,174 @@
+{
+    "candidates": [
+        {
+            "first_name": "Daniël", 
+            "last_name": "van der Stoep", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "D.T. van der Stoep", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Alexander", 
+            "last_name": "Sassen", 
+            "gender": "m", 
+            "place": "Berkhout", 
+            "full_name": "J.H.N.A. Sassen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Yernaz", 
+            "last_name": "Ramautarsing", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "Y.J.S. Ramautarsing", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dirk Jan", 
+            "last_name": "Keijser", 
+            "gender": "m", 
+            "place": "Voorburg", 
+            "full_name": "D.J. Keijser", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gerton", 
+            "last_name": "van Unnik", 
+            "gender": "m", 
+            "place": "Weesp", 
+            "full_name": "G.A.L. van Unnik", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Kim", 
+            "last_name": "Winkelaar", 
+            "gender": "m", 
+            "place": "Aarlanderveen", 
+            "full_name": "K.P.G.H. Winkelaar", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Erna", 
+            "last_name": "Beentjes", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.J.M. Beentjes", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Lammert", 
+            "last_name": "Dijkstra", 
+            "gender": "m", 
+            "place": "Dokkum", 
+            "full_name": "L. Dijkstra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Boy", 
+            "last_name": "van Meetelen", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "B.D. van Meetelen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Arwin", 
+            "last_name": "van Wermeskerken", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "A. van Wermeskerken", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Luc", 
+            "last_name": "de Krosse", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "L.E.P.T. de Krosse", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Alle", 
+            "last_name": "de Haan", 
+            "gender": "m", 
+            "place": "Dokkum", 
+            "full_name": "A. de Haan", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Teunis", 
+            "last_name": "Dokter", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "T. Dokter", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Arnoud", 
+            "last_name": "Bakhuizen", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A. Bakhuizen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Walthaus", 
+            "gender": "m", 
+            "place": "Borsele", 
+            "full_name": "T. Walthaus", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Mike", 
+            "last_name": "de Roode", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "M. de Roode", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Andreas", 
+            "last_name": "Beverloo", 
+            "gender": "m", 
+            "place": "Waardenburg", 
+            "full_name": "A.V. Beverloo", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Maurice", 
+            "last_name": "Dörenberg", 
+            "gender": "m", 
+            "place": "Swalmen", 
+            "full_name": "M.H.F. Dörenberg", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jasper", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Mierlo", 
+            "full_name": "J.P.C. de Groot", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Luca", 
+            "last_name": "de la Torre Celorio", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.L. de la Torre Celorio", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Appel", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "P.J.A.M. Appel", 
+            "position": 21
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Artikel50"
+}

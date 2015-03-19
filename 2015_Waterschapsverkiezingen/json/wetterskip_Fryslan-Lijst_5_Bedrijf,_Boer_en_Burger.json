@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Trienke", 
+            "last_name": "Elshof", 
+            "gender": "v", 
+            "place": "Oldetrijne", 
+            "full_name": "T. Elshof", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Tine", 
+            "last_name": "Bijstra - de Vries", 
+            "gender": "v", 
+            "place": "Hoornsterzwaag", 
+            "full_name": "C. Bijstra - de Vries", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Kuipers", 
+            "gender": "m", 
+            "place": "Gerkesklooster", 
+            "full_name": "P. Kuipers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "van der Valk", 
+            "gender": "m", 
+            "place": "Workum", 
+            "full_name": "J. van der Valk", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gonnie", 
+            "last_name": "Ploeg- van den Brug", 
+            "gender": "v", 
+            "place": "De Wilgen", 
+            "full_name": "G.G. Ploeg- van den Brug", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jeljer", 
+            "last_name": "Wijnia", 
+            "gender": "m", 
+            "place": "Hitzum", 
+            "full_name": "J. Wijnia", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "de Vries", 
+            "gender": "v", 
+            "place": "Hallum", 
+            "full_name": "T. de Vries", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Kooistra", 
+            "gender": "m", 
+            "place": "Jutrijp", 
+            "full_name": "K. Kooistra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jelle", 
+            "last_name": "Bouma", 
+            "gender": "m", 
+            "place": "Scharnegoutum", 
+            "full_name": "J.T. Bouma", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Douwe", 
+            "last_name": "Faber", 
+            "gender": "m", 
+            "place": "Hallum", 
+            "full_name": "D. Faber", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Tjalling", 
+            "last_name": "van Eysinga", 
+            "gender": "m", 
+            "place": "Sint Nicolaasga", 
+            "full_name": "Jhr.T.A.J. van Eysinga", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Camiel", 
+            "last_name": "Hoogland", 
+            "gender": "m", 
+            "place": "Feanwâlden", 
+            "full_name": "C.C. Hoogland", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Wilco", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Nijeholtwolde", 
+            "full_name": "W.J. de Jong", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Geart", 
+            "last_name": "Kooistra", 
+            "gender": "m", 
+            "place": "Ee", 
+            "full_name": "G. Kooistra", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Siebren", 
+            "last_name": "Reitsma", 
+            "gender": "m", 
+            "place": "Workum", 
+            "full_name": "S.S. Reitsma", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Rakesh", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Sibrandabuorren", 
+            "full_name": "R. de Vries", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Teun", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "St.-Annaparochie", 
+            "full_name": "T.S. de Jong", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Harm", 
+            "last_name": "Beerda", 
+            "gender": "m", 
+            "place": "Ureterp", 
+            "full_name": "H. Beerda", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "van Weperen", 
+            "gender": "m", 
+            "place": "Oosterwolde", 
+            "full_name": "K.J. van Weperen", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Aaltje", 
+            "last_name": "Rispens", 
+            "gender": "v", 
+            "place": "Kollumerpomp", 
+            "full_name": "A.A. Rispens", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 Bedrijf, Boer en Burger"
+}

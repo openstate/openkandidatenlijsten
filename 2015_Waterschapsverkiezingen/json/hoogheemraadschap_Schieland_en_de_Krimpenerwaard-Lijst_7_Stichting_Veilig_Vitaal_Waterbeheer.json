@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jaap", 
+            "last_name": "Schep", 
+            "gender": "", 
+            "place": "Bergambacht", 
+            "full_name": "J.A. Schep", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Wel", 
+            "gender": "", 
+            "place": "Zevenhuizen", 
+            "full_name": "J.C. van der Wel", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Vonk Noordegraaf", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "A. Vonk Noordegraaf", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Cora", 
+            "last_name": "Koolhaas - van den Ban", 
+            "gender": "", 
+            "place": "Moerkapelle", 
+            "full_name": "T.C.G. Koolhaas - van den Ban", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Kool", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "L. Kool", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Hoogendoorn", 
+            "gender": "", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "J. Hoogendoorn", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "de Vos - van den Berg", 
+            "gender": "", 
+            "place": "Krimpen aan de Lek", 
+            "full_name": "P. de Vos - van den Berg", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "van den Hoek", 
+            "gender": "", 
+            "place": "Zevenhuizen", 
+            "full_name": "J.H. van den Hoek", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Antonie", 
+            "last_name": "Vonk Noordegraaf", 
+            "gender": "", 
+            "place": "Ouderkerk aan den IJssel", 
+            "full_name": "A. Vonk Noordegraaf", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jan Pieter", 
+            "last_name": "Stolk", 
+            "gender": "", 
+            "place": "Waddinxveen", 
+            "full_name": "J.P. Stolk", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Verburg", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "J. Verburg", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Kitty", 
+            "last_name": "Villerius - van Rijn", 
+            "gender": "", 
+            "place": "Moerkapelle", 
+            "full_name": "C.W. Villerius - van Rijn", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Pim", 
+            "last_name": "Boer", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "W.P. Boer", 
+            "position": 13
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Mostert", 
+            "gender": "", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "D.H. Mostert", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Verhagen", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "P.C. Verhagen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "de Vries", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "M. de Vries", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Leonard", 
+            "last_name": "Broere", 
+            "gender": "", 
+            "place": "Lekkerkerk", 
+            "full_name": "L. Broere", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Mart Jan", 
+            "last_name": "Verkaik", 
+            "gender": "", 
+            "place": "Ouderkerk aan den IJssel", 
+            "full_name": "M.J. Verkaik", 
+            "position": 18
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "de Jong", 
+            "gender": "", 
+            "place": "Stolwijk", 
+            "full_name": "D. de Jong", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Stoffel", 
+            "last_name": "de Bruijn", 
+            "gender": "", 
+            "place": "Berkenwoude", 
+            "full_name": "S. de Bruijn", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Blanken", 
+            "gender": "", 
+            "place": "Gouderak", 
+            "full_name": "P.G. Blanken", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Scheer", 
+            "gender": "", 
+            "place": "Lekkerkerk", 
+            "full_name": "A. Scheer", 
+            "position": 22
+        }
+    ], 
+    "description": "Gecombineerd met DWLK & Schieland: Helder als water", 
+    "title": "Lijst 7 Stichting Veilig Vitaal Waterbeheer"
+}

@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hans", 
+            "last_name": "van Baalen", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.C. van Baalen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Cora", 
+            "last_name": "van Nieuwenhuizen-Wijbenga", 
+            "gender": "v", 
+            "place": "Oisterwijk", 
+            "full_name": "C. van Nieuwenhuizen-Wijbenga", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M.F.D. Smit", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Dijk", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "M.H. Dijk", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Caroline", 
+            "last_name": "Nagtegaal-van Doorn", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "C.M.A.W. Nagtegaal-van Doorn", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Huitema", 
+            "gender": "m", 
+            "place": "Makkinga", 
+            "full_name": "J. Huitema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "van den Akker", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "J.P. van den Akker", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "van de Stadt", 
+            "gender": "m", 
+            "place": "Heemstede", 
+            "full_name": "P.H. van de Stadt", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Floor", 
+            "last_name": "Vermeulen", 
+            "gender": "m", 
+            "place": "Boskoop", 
+            "full_name": "F. Vermeulen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Van Wijngaarden", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Van Wijngaarden", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Monique", 
+            "last_name": "List-de Roos", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "M.C.T.M. List-de Roos", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Wyno", 
+            "last_name": "Zwanenburg", 
+            "gender": "m", 
+            "place": "Odiliapeel", 
+            "full_name": "W.E.M. Zwanenburg", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Huub", 
+            "last_name": "Hieltjes", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "H.B. Hieltjes", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "van Rijn", 
+            "gender": "m", 
+            "place": "Aalsmeer", 
+            "full_name": "R.K. van Rijn", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "Hengelo", 
+            "full_name": "S.M. Janssen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Hoogendoorn", 
+            "gender": "m", 
+            "place": "Maassluis", 
+            "full_name": "E.H. Hoogendoorn", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Poppens", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.N. Poppens", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Boumans", 
+            "gender": "m", 
+            "place": "Wijchen", 
+            "full_name": "R.J.L. Boumans", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Pluckel", 
+            "gender": "m", 
+            "place": "Zwaanshoek", 
+            "full_name": "H. Pluckel", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Derk Jan", 
+            "last_name": "Eppink", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "D.J. Eppink", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

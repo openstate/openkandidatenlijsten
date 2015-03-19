@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henri", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "H.M.G. Mulder", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Andries", 
+            "last_name": "van der Netten van Stigt", 
+            "gender": "m", 
+            "place": "Enspijk", 
+            "full_name": "A.H. van der Netten van Stigt", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van den Bosch", 
+            "gender": "m", 
+            "place": "Giessenburg", 
+            "full_name": "P.J.J.M. van den Bosch", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Mieke", 
+            "last_name": "Smits", 
+            "gender": "v", 
+            "place": "Bern", 
+            "full_name": "P.M.A.A. Smits", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Veth", 
+            "gender": "m", 
+            "place": "Meerkerk", 
+            "full_name": "C. Veth", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Eijte", 
+            "last_name": "Jansma", 
+            "gender": "m", 
+            "place": "Berg en Dal", 
+            "full_name": "E.W.E. Jansma", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Hoogveld", 
+            "gender": "m", 
+            "place": "Heteren", 
+            "full_name": "A.J.A. Hoogveld", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Patrick", 
+            "last_name": "Steer", 
+            "gender": "m", 
+            "place": "Beuningen", 
+            "full_name": "P. Steer", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gijsbert", 
+            "last_name": "van de Water", 
+            "gender": "m", 
+            "place": "Deil", 
+            "full_name": "G.F. van de Water", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Hoeber", 
+            "gender": "m", 
+            "place": "Gorinchem", 
+            "full_name": "G.J. Hoeber", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "van Luijk", 
+            "gender": "m", 
+            "place": "Gorinchem", 
+            "full_name": "R.J. van Luijk", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gabriëlle", 
+            "last_name": "van der Weide", 
+            "gender": "v", 
+            "place": "Buurmalsen", 
+            "full_name": "G.M.A.L. van der Weide", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henriëtte", 
+            "last_name": "Driesen - Joanknecht", 
+            "gender": "v", 
+            "place": "Millingen aan de Rijn", 
+            "full_name": "H.A.C. Driesen - Joanknecht", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "de Gaaij", 
+            "gender": "m", 
+            "place": "Delwijnen", 
+            "full_name": "W. de Gaaij", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 VVD"
+}

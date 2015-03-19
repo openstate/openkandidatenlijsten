@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Harmen", 
+            "last_name": "Hoogenhout", 
+            "gender": "m", 
+            "place": "Baambrugge", 
+            "full_name": "H. Hoogenhout", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wijnand", 
+            "last_name": "Hennipman", 
+            "gender": "m", 
+            "place": "Westbroek", 
+            "full_name": "W. Hennipman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wessel", 
+            "last_name": "Doorn", 
+            "gender": "m", 
+            "place": "Huizen", 
+            "full_name": "W. Doorn", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Bource", 
+            "gender": "m", 
+            "place": "Huizen", 
+            "full_name": "R.J.C. Bource", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Adrie", 
+            "last_name": "Groenendaal-Zwanenburg", 
+            "gender": "v", 
+            "place": "Weesp", 
+            "full_name": "A.M. Groenendaal-Zwanenburg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Palm", 
+            "gender": "m", 
+            "place": "Wilnis", 
+            "full_name": "H.W. Palm", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Elmer", 
+            "last_name": "Benjamin", 
+            "gender": "m", 
+            "place": "Bussum", 
+            "full_name": "E.V. Benjamin", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jacobus", 
+            "last_name": "van de Poel", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "J.A. van de Poel", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Dorine", 
+            "last_name": "Griffioen-Marissen", 
+            "gender": "v", 
+            "place": "Loenen aan de Vecht", 
+            "full_name": "D.E. Griffioen-Marissen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Schouten", 
+            "gender": "m", 
+            "place": "Mijdrecht", 
+            "full_name": "C.F. Schouten", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Annacarina", 
+            "last_name": "Klein", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.C. Klein", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 ChristenUnie - SGP"
+}

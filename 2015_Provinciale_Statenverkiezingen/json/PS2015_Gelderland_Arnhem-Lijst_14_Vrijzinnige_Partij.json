@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ineke", 
+            "last_name": "van Elk", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "C.C.J. van Elk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Huijbers", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "R.J. Huijbers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Klein", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "P.E.M. Klein", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Duiven", 
+            "full_name": "W.F. Smit", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Julsing", 
+            "gender": "m", 
+            "place": "Hoevelaken", 
+            "full_name": "H.H. Julsing", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Meerts", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "W.L. Meerts", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_14 Vrijzinnige Partij"
+}

@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Sint Odiliënberg", 
+            "full_name": "H.M.V. van der Linden", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Hein", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "H. Meijer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Truus", 
+            "last_name": "Cornelissen", 
+            "gender": "v", 
+            "place": "Heythuysen", 
+            "full_name": "G.M.J. Cornelissen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Michalides", 
+            "gender": "m", 
+            "place": "Bunde", 
+            "full_name": "P.J.M. Michalides", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Anne-Marie", 
+            "last_name": "Fischer-Otten", 
+            "gender": "v", 
+            "place": "Kerkrade", 
+            "full_name": "A.M.J.N. Fischer-Otten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Wissingh", 
+            "gender": "m", 
+            "place": "Venlo", 
+            "full_name": "H.A. Wissingh", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Bruijns", 
+            "gender": "m", 
+            "place": "Weert", 
+            "full_name": "M.A.M. Bruijns", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "van den Borne", 
+            "gender": "m", 
+            "place": "Griendtsveen", 
+            "full_name": "J.J.A.M. van den Borne", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "Kamps", 
+            "gender": "m", 
+            "place": "Sittard", 
+            "full_name": "H.L.J. Kamps", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Kers", 
+            "gender": "m", 
+            "place": "Weert", 
+            "full_name": "G.R.J. Kers", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Fons", 
+            "last_name": "Bovée", 
+            "gender": "m", 
+            "place": "Swalmen", 
+            "full_name": "A.L.E.W. Bovée", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Langenberg", 
+            "gender": "m", 
+            "place": "Heythuysen", 
+            "full_name": "J. Langenberg", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Natascha", 
+            "last_name": "Kroonstuiver", 
+            "gender": "v", 
+            "place": "Venlo", 
+            "full_name": "N.L.D. Kroonstuiver", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Charl", 
+            "last_name": "Martens", 
+            "gender": "m", 
+            "place": "Merkelbeek", 
+            "full_name": "C.R.J. Martens", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "de Bood", 
+            "gender": "m", 
+            "place": "Hulsberg", 
+            "full_name": "A. de Bood", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Miewies", 
+            "last_name": "Stijnen", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "M.L.J.T. Stijnen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Rolf", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "R.A.P. van Dijk", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_8 50PLUS"
+}

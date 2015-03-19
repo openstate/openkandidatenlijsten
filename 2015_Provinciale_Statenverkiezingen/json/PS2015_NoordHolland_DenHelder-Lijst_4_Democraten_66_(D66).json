@@ -1,0 +1,358 @@
+{
+    "candidates": [
+        {
+            "first_name": "Joke", 
+            "last_name": "Geldhof", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. Geldhof", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ilse", 
+            "last_name": "Zaal", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "I. Zaal", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Amélie", 
+            "last_name": "Strens", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.J.C.E. Strens", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "Klaassen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "S. Klaassen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Flip", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "F.K. de Groot", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Hein", 
+            "last_name": "Struben", 
+            "gender": "m", 
+            "place": "Overveen", 
+            "full_name": "H.W. Struben", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Buijtendorp", 
+            "gender": "m", 
+            "place": "Laren", 
+            "full_name": "T.M. Buijtendorp", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Boland", 
+            "gender": "m", 
+            "place": "Enkhuizen", 
+            "full_name": "C.H. Boland", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Zafer", 
+            "last_name": "Yurdakul", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "Z. Yurdakul", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Claudia", 
+            "last_name": "Weemhoff", 
+            "gender": "v", 
+            "place": "Naarden", 
+            "full_name": "C. Weemhoff", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Andries", 
+            "last_name": "Tijssens", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.E. Tijssens", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "W. Bakker", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Dijkslag", 
+            "gender": "m", 
+            "place": "Koedijk", 
+            "full_name": "R.A.J. Dijkslag", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Marijn", 
+            "last_name": "Makker", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Makker", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Job", 
+            "last_name": "Rook", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.H. Rook", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "van de Wetering", 
+            "gender": "v", 
+            "place": "Oudeschild", 
+            "full_name": "A.A.M. van de Wetering", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jet", 
+            "last_name": "Beaumont", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.M.M. Beaumont", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ernst", 
+            "last_name": "Debets", 
+            "gender": "m", 
+            "place": "Zaandijk", 
+            "full_name": "E.M. Debets", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Mock", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "M.L. Mock", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Cool", 
+            "gender": "m", 
+            "place": "Hauwert", 
+            "full_name": "W.N. Cool", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Rigtje", 
+            "last_name": "Passchier", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "R. Passchier", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Vegter", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "J.W. Vegter", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Shanta", 
+            "last_name": "Singh", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "S.M. Singh", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jan-Bert", 
+            "last_name": "Vroege", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.S.A. Vroege", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Kavita", 
+            "last_name": "Huizing", 
+            "gender": "v", 
+            "place": "Diemen", 
+            "full_name": "K. Huizing", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Donker", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L. Donker", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Janna", 
+            "last_name": "Groot", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.M. Groot", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Carline", 
+            "last_name": "de Boer", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "C.C. de Boer", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Hansma", 
+            "gender": "m", 
+            "place": "Hoofddorp", 
+            "full_name": "J.W. Hansma", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Felix", 
+            "last_name": "Woudenberg", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "F.G. Woudenberg", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "Zorg", 
+            "gender": "m", 
+            "place": "Zaandam", 
+            "full_name": "W.S. Zorg", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Mirck", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.H. Mirck", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Conny", 
+            "last_name": "van Stralen", 
+            "gender": "v", 
+            "place": "Aerdenhout", 
+            "full_name": "C.A. van Stralen", 
+            "position": 33
+        }, 
+        {
+            "first_name": "Harmen", 
+            "last_name": "van der Steenhoven", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "H. van der Steenhoven", 
+            "position": 34
+        }, 
+        {
+            "first_name": "Rik", 
+            "last_name": "Rolleman", 
+            "gender": "m", 
+            "place": "Aalsmeer", 
+            "full_name": "H.G. Rolleman", 
+            "position": 35
+        }, 
+        {
+            "first_name": "Arthur", 
+            "last_name": "Helling", 
+            "gender": "m", 
+            "place": "Zwaag", 
+            "full_name": "A. Helling", 
+            "position": 36
+        }, 
+        {
+            "first_name": "Elbert", 
+            "last_name": "Roest", 
+            "gender": "m", 
+            "place": "Laren", 
+            "full_name": "E.J. Roest", 
+            "position": 37
+        }, 
+        {
+            "first_name": "Bahar", 
+            "last_name": "Palabiyik", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "B. Palabiyik", 
+            "position": 38
+        }, 
+        {
+            "first_name": "Gabriëlle", 
+            "last_name": "Bekhuis", 
+            "gender": "v", 
+            "place": "Monnickendam", 
+            "full_name": "G.J.M. Bekhuis", 
+            "position": 39
+        }, 
+        {
+            "first_name": "Annette", 
+            "last_name": "Baerveldt", 
+            "gender": "v", 
+            "place": "Driehuis NH", 
+            "full_name": "A.V. Baerveldt", 
+            "position": 40
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Nederstigt", 
+            "gender": "m", 
+            "place": "Hoofddorp", 
+            "full_name": "J.C.W. Nederstigt", 
+            "position": 41
+        }, 
+        {
+            "first_name": "Patrick", 
+            "last_name": "Blokzijl", 
+            "gender": "m", 
+            "place": "Purmerend", 
+            "full_name": "P. Blokzijl", 
+            "position": 42
+        }, 
+        {
+            "first_name": "Annemieke", 
+            "last_name": "Schep", 
+            "gender": "v", 
+            "place": "Groet", 
+            "full_name": "A.M.C. Schep", 
+            "position": 43
+        }, 
+        {
+            "first_name": "Patrick", 
+            "last_name": "Poelmann", 
+            "gender": "m", 
+            "place": "Naarden", 
+            "full_name": "P.J.M. Poelmann", 
+            "position": 44
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_4 Democraten 66 (D66)"
+}

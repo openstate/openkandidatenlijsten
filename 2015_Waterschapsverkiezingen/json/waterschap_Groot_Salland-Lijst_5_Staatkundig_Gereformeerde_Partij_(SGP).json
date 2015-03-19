@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Visscher", 
+            "gender": "", 
+            "place": "Rouveen", 
+            "full_name": "J. Visscher", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "den Uijl", 
+            "gender": "", 
+            "place": "Kamperveen", 
+            "full_name": "A. den Uijl", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "Slager", 
+            "gender": "", 
+            "place": "Staphorst", 
+            "full_name": "R. Slager", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Hoepel", 
+            "gender": "", 
+            "place": "Kampen", 
+            "full_name": "J.J. Hoepel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Noorland", 
+            "gender": "", 
+            "place": "IJsselmuiden", 
+            "full_name": "A. Noorland", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Ommeren", 
+            "gender": "", 
+            "place": "Hasselt", 
+            "full_name": "J. van Ommeren", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Spiker", 
+            "gender": "", 
+            "place": "Staphorst", 
+            "full_name": "H. Spiker", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Vlastuin", 
+            "gender": "", 
+            "place": "Dalfsen", 
+            "full_name": "J. Vlastuin", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van der Weerd", 
+            "gender": "", 
+            "place": "Zalk", 
+            "full_name": "J. van der Weerd", 
+            "position": 9
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Lijst 5 Staatkundig Gereformeerde Partij (SGP)"
+}

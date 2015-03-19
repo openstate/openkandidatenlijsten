@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frans", 
+            "last_name": "van Kollem", 
+            "gender": "m", 
+            "place": "Zuiddorpe", 
+            "full_name": "F.H. van Kollem", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Polderman", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "C.P. Polderman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "van Eck", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "P.J. van Eck", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "van Hootegem", 
+            "gender": "m", 
+            "place": "Kruiningen", 
+            "full_name": "A.E.M.C. van Hootegem", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Leen", 
+            "last_name": "Harpe", 
+            "gender": "m", 
+            "place": "Kloetinge", 
+            "full_name": "L. Harpe", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Heidie", 
+            "last_name": "Menheere", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "H.M.C. Menheere", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Loes", 
+            "last_name": "de Jong", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "S.A. de Jong", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gert-Jan", 
+            "last_name": "Buth", 
+            "gender": "m", 
+            "place": "Serooskerke S.D.", 
+            "full_name": "G.J.C. Buth", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Tjeerd", 
+            "last_name": "Blauw", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "T.S. Blauw", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Lucien", 
+            "last_name": "Calle", 
+            "gender": "m", 
+            "place": "Vogelwaarde", 
+            "full_name": "L.L. Calle", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "D'hoore", 
+            "gender": "m", 
+            "place": "Waterlandkerkje", 
+            "full_name": "L.D.P. D'hoore", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Sandra", 
+            "last_name": "Dobbelaar", 
+            "gender": "v", 
+            "place": "Vogelwaarde", 
+            "full_name": "S.M.A.J. Dobbelaar", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jouke", 
+            "last_name": "Heringa", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "J.R. Heringa", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Hofstede", 
+            "gender": "m", 
+            "place": "Sint Kruis", 
+            "full_name": "P.H. Hofstede", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "van Overbeeke", 
+            "gender": "m", 
+            "place": "Heinkenszand", 
+            "full_name": "C.J. van Overbeeke", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Tamme", 
+            "last_name": "Seijnstra", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "T. Seijnstra", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ted", 
+            "last_name": "Sluijter", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "T.C.J. Sluijter", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Verherbrugge", 
+            "gender": "m", 
+            "place": "Breskens", 
+            "full_name": "J.W.D. Verherbrugge", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "Geluk", 
+            "gender": "v", 
+            "place": "Nieuwerkerk", 
+            "full_name": "C.J. Geluk", 
+            "position": 19
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Water Natuurlijk"
+}

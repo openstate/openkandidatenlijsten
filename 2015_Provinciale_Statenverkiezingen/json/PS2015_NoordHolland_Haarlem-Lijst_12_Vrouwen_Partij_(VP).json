@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Monique", 
+            "last_name": "Sparla", 
+            "gender": "v", 
+            "place": "De Kwakel", 
+            "full_name": "M.M. Sparla", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Khalid", 
+            "last_name": "Chaudry", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "K.A. Chaudry", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jolanda", 
+            "last_name": "Vermeulen-Wilshaus", 
+            "gender": "v", 
+            "place": "Bunnik", 
+            "full_name": "J. Vermeulen-Wilshaus", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Mar", 
+            "last_name": "de Jong", 
+            "gender": "v", 
+            "place": "Beverwijk", 
+            "full_name": "M.M. de Jong", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Aäron", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Beverwijk", 
+            "full_name": "A.C. de Jong", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Anita", 
+            "last_name": "Dijkkamp-de Leer", 
+            "gender": "v", 
+            "place": "Den Helder", 
+            "full_name": "A. Dijkkamp-de Leer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wietske", 
+            "last_name": "van der Schaaf", 
+            "gender": "v", 
+            "place": "Heerenveen", 
+            "full_name": "W. van der Schaaf", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_12 Vrouwen Partij (VP)"
+}

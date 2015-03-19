@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Nico", 
+            "last_name": "Uppelschoten", 
+            "gender": "m", 
+            "place": "Eelde", 
+            "full_name": "N.A. Uppelschoten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Bronts", 
+            "gender": "m", 
+            "place": "Veenhuizen", 
+            "full_name": "H.J.L. Bronts", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Vorenkamp", 
+            "gender": "m", 
+            "place": "Pesse", 
+            "full_name": "A. Vorenkamp", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "van Berkel", 
+            "gender": "m", 
+            "place": "Eelde", 
+            "full_name": "A.A.P.M. van Berkel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "Philips", 
+            "gender": "v", 
+            "place": "Eelde", 
+            "full_name": "E.H. Philips", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Pottjewijd", 
+            "gender": "m", 
+            "place": "Veenhuizen", 
+            "full_name": "J. Pottjewijd", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Miranda", 
+            "last_name": "Speelman", 
+            "gender": "v", 
+            "place": "Eelde", 
+            "full_name": "M. Speelman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "van der Meijden", 
+            "gender": "m", 
+            "place": "Zandpol", 
+            "full_name": "D. van der Meijden", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Zandpol", 
+            "full_name": "G. Bos", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Sonja", 
+            "last_name": "Kort", 
+            "gender": "v", 
+            "place": "Emmen", 
+            "full_name": "S.D. Kort", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jacqueline", 
+            "last_name": "Bruins", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "J. Bruins", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Winter", 
+            "gender": "m", 
+            "place": "Aalden", 
+            "full_name": "H. Winter", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Evi", 
+            "last_name": "van den Berg", 
+            "gender": "v", 
+            "place": "Coevorden", 
+            "full_name": "I.S. van den Berg", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 PVV (Partij voor de Vrijheid)"
+}

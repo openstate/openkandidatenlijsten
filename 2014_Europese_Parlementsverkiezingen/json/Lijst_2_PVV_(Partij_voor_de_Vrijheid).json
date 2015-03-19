@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marcel", 
+            "last_name": "de Graaff", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "M.J.R.L. de Graaff", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Vicky", 
+            "last_name": "Maeijer", 
+            "gender": "v", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "V. Maeijer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Olaf", 
+            "last_name": "Stuger", 
+            "gender": "m", 
+            "place": "Bussum", 
+            "full_name": "O.F. Stuger", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.J.G. Jansen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "Zijlstra", 
+            "gender": "m", 
+            "place": "Ridderkerk", 
+            "full_name": "A.J. Zijlstra", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Andre", 
+            "last_name": "Elissen", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A. Elissen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ino", 
+            "last_name": "van den Besselaar", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "I.H.C. van den Besselaar", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "van Kesteren", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "A.J.M. van Kesteren", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Willie", 
+            "last_name": "Dille", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "W.R. Dille", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Wilders", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "G. Wilders", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 PVV (Partij voor de Vrijheid)"
+}

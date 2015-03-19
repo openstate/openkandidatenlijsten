@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Bé", 
+            "last_name": "Hoeksema", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "B. Hoeksema", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marjan", 
+            "last_name": "Sanders", 
+            "gender": "v", 
+            "place": "Emmen", 
+            "full_name": "M. Sanders", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Grethe", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "J. Grethe", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "van Dijken", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "A. van Dijken", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Kruise", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "H. Kruise", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Wolf", 
+            "gender": "m", 
+            "place": "Bunne", 
+            "full_name": "H.E.H. Wolf", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Irene", 
+            "last_name": "Roelfzema", 
+            "gender": "v", 
+            "place": "Meppel", 
+            "full_name": "I.C.D. Roelfzema", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Geers", 
+            "gender": "m", 
+            "place": "Bovensmilde", 
+            "full_name": "J.C. Geers", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Pepping", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "A.A. Pepping", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Annemieke", 
+            "last_name": "Burgert", 
+            "gender": "v", 
+            "place": "Emmen", 
+            "full_name": "A.M. Burgert", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Reilman", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "J.K.A. Reilman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "Wijngaard", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "E.K. Wijngaard", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 Senioren Belang Noord"
+}

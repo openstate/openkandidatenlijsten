@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Louis", 
+            "last_name": "Bervoets", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "L.F. Bervoets", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mariëlle", 
+            "last_name": "Cornielje", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "M.J.M. Cornielje", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Lukretia", 
+            "last_name": "Tuinstra", 
+            "gender": "v", 
+            "place": "Drachten", 
+            "full_name": "L.S. Tuinstra", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Buda", 
+            "last_name": "Vasiljević", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "B. Vasiljević", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Dijken", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J. van Dijken", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Trix", 
+            "last_name": "Kruger", 
+            "gender": "v", 
+            "place": "Dieren", 
+            "full_name": "T.A. Kruger", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Brian", 
+            "last_name": "Gude", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "B.F. Gude", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Micha", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "T.R.M. Kuiper", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Martha", 
+            "last_name": "Reijnders", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "M.P.G. Reijnders", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Gersteling", 
+            "gender": "m", 
+            "place": "Eelderwolde", 
+            "full_name": "W. Gersteling", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 17 Partij voor Mens en Spirit (MenS)"
+}

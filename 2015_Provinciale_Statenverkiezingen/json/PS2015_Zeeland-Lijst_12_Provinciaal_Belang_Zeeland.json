@@ -1,0 +1,174 @@
+{
+    "candidates": [
+        {
+            "first_name": "Johan", 
+            "last_name": "Robesin", 
+            "gender": "m", 
+            "place": "Hoek", 
+            "full_name": "J.C. Robesin", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Netty", 
+            "last_name": "Vromans-van Es", 
+            "gender": "v", 
+            "place": "Koudekerke", 
+            "full_name": "N.C. Vromans-van Es", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ellen", 
+            "last_name": "de Neef", 
+            "gender": "v", 
+            "place": "Terneuzen", 
+            "full_name": "E.D. de Neef", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "Vastrick", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "W. Vastrick", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hester", 
+            "last_name": "van Rees", 
+            "gender": "v", 
+            "place": "Kloetinge", 
+            "full_name": "H.M. van Rees", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Mario", 
+            "last_name": "Bart", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "M. Bart", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Marjolein", 
+            "last_name": "Windrich", 
+            "gender": "v", 
+            "place": "Philippine", 
+            "full_name": "M.L. Windrich", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Sjako", 
+            "last_name": "Matthijsse", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "J.J. Matthijsse", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Ruedisueli", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "G. Ruedisueli", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van de Langkruis", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "G.B. van de Langkruis", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "De Waele", 
+            "gender": "m", 
+            "place": "Hulst", 
+            "full_name": "B.M.M. De Waele", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Poppe", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "J.C. Poppe", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Vlottes", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "J.E. Vlottes", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Ivens", 
+            "gender": "m", 
+            "place": "Sas van Gent", 
+            "full_name": "J.F.P. Ivens", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Veraart", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "J.M.G. Veraart", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Olesya", 
+            "last_name": "Lutsenko", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "O.V. Lutsenko", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Lionel", 
+            "last_name": "Kay", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "L.G. Kay", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Silvano", 
+            "last_name": "Bart", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "S.M. Bart", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Kamp", 
+            "gender": "m", 
+            "place": "Philippine", 
+            "full_name": "A.J.D. Kamp", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Rudy", 
+            "last_name": "de Mul", 
+            "gender": "m", 
+            "place": "Axel", 
+            "full_name": "R.G.P. de Mul", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Neeltje", 
+            "last_name": "Laffeber", 
+            "gender": "v", 
+            "place": "Terneuzen", 
+            "full_name": "N.M.J. Laffeber", 
+            "position": 21
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 Provinciaal Belang Zeeland"
+}

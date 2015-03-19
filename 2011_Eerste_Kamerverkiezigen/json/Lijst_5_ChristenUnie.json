@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Roel", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "R. Kuiper", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Ester", 
+            "gender": "m", 
+            "place": "Baarn", 
+            "full_name": "P. Ester", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Simone", 
+            "last_name": "Kennedy-Doornbos", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "S.J. Kennedy-Doornbos", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Sietsma", 
+            "gender": "m", 
+            "place": "Ermelo", 
+            "full_name": "H.H. Sietsma", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Leen", 
+            "last_name": "van Dijke", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "L.C. van Dijke", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Beatrice", 
+            "last_name": "de Graaf", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "B.A. de Graaf", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Marjan", 
+            "last_name": "Haak-Griffioen", 
+            "gender": "v", 
+            "place": "Woerden", 
+            "full_name": "M. Haak-Griffioen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Ruinen", 
+            "full_name": "L.C. Groen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Adriaan", 
+            "last_name": "Hoogendoorn", 
+            "gender": "m", 
+            "place": "Waddinxveen", 
+            "full_name": "A. Hoogendoorn", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Martijn", 
+            "last_name": "van Meppelen Scheppink", 
+            "gender": "m", 
+            "place": "Barendrecht", 
+            "full_name": "M.C. van Meppelen Scheppink", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Schaafsma", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "H.R. Schaafsma", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Thijs", 
+            "last_name": "van Daalen", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "M. van Daalen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Rein", 
+            "last_name": "Ferwerda", 
+            "gender": "m", 
+            "place": "Morra", 
+            "full_name": "R. Ferwerda", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Gerdien", 
+            "last_name": "Rots", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "D.G. Rots", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Westert", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "J. Westert", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jurn", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "J.P. de Vries", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van Kranenburg", 
+            "gender": "m", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "C.J. van Kranenburg", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Rhee", 
+            "gender": "m", 
+            "place": "Nieuwer ter Aa", 
+            "full_name": "H.J. van Rhee", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "de Graaff", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "R.J. de Graaff", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Lamberink", 
+            "gender": "m", 
+            "place": "Hattem", 
+            "full_name": "H. Lamberink", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Evertse", 
+            "gender": "m", 
+            "place": "Hardinxveld-Giessendam", 
+            "full_name": "J.L. Evertse", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Gerrit Jan", 
+            "last_name": "Bolks", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "G.J. Bolks", 
+            "position": 22
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 ChristenUnie"
+}

@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Bas", 
+            "last_name": "Eickhout", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "B. Eickhout", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "Sargentini", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. Sargentini", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Mattias", 
+            "last_name": "Gijsbertsen", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "M.T. Gijsbertsen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Isabelle", 
+            "last_name": "Diks", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "L.I. Diks", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Lara", 
+            "last_name": "de Araujo Cerqueira de Brito", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "L.D. de Araujo Cerqueira de Brito", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gert-Jan", 
+            "last_name": "Krabbendam", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "G. Krabbendam", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Daphne", 
+            "last_name": "Dertien", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "D.A.A. Dertien", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jeroni", 
+            "last_name": "Vergeer", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. Vergeer", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Truuske", 
+            "last_name": "Smits", 
+            "gender": "v", 
+            "place": "Krakau (PL)", 
+            "full_name": "T. Smits", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Toine", 
+            "last_name": "van de Ven", 
+            "gender": "m", 
+            "place": "Vught", 
+            "full_name": "T.O.S. van de Ven", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Guliz", 
+            "last_name": "Tomruk-Kisi", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "G. Tomruk-Kisi", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "van den Brand", 
+            "gender": "m", 
+            "place": "Spierdijk", 
+            "full_name": "A. van den Brand", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Strik", 
+            "gender": "v", 
+            "place": "Oosterbeek", 
+            "full_name": "M.H.A. Strik", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Smeulders", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "P.H.M. Smeulders", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Mariëtte", 
+            "last_name": "Pennarts-Pouw", 
+            "gender": "v", 
+            "place": "Montfoort", 
+            "full_name": "A.M.A. Pennarts-Pouw", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jasper", 
+            "last_name": "Blom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.G.W. Blom", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Marjolein", 
+            "last_name": "Meijer", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "M. Meijer", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Huub", 
+            "last_name": "Bellemakers", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "H.A. Bellemakers", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Rik", 
+            "last_name": "Grashoff", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "H.J. Grashoff", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Nel", 
+            "last_name": "van Dijk", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "P.B.M. van Dijk", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Lagendijk", 
+            "gender": "m", 
+            "place": "Istanbul (TR)", 
+            "full_name": "J.J. Lagendijk", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "Bijlo", 
+            "gender": "m", 
+            "place": "Bunnik", 
+            "full_name": "V.R. Bijlo", 
+            "position": 22
+        }
+    ], 
+    "description": "Gecombineerd met P.v.d.A./Europese Sociaaldemocraten", 
+    "title": "Lijst 6 GROENLINKS"
+}

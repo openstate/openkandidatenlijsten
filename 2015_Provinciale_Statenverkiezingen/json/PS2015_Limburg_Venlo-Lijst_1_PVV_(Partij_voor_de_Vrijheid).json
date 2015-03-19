@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Michael", 
+            "last_name": "Heemels", 
+            "gender": "m", 
+            "place": "Herkenbosch", 
+            "full_name": "M.J.T. Heemels", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Housmans", 
+            "gender": "m", 
+            "place": "Born", 
+            "full_name": "R.W.P.E. Housmans", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Donald", 
+            "last_name": "Fijnje", 
+            "gender": "m", 
+            "place": "Tegelen", 
+            "full_name": "D.A. Fijnje", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Groenendal", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "L. Groenendal", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Lei", 
+            "last_name": "Hermans", 
+            "gender": "m", 
+            "place": "Elsloo", 
+            "full_name": "L.J. Hermans", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Boudewijn", 
+            "last_name": "Simons", 
+            "gender": "m", 
+            "place": "Venray", 
+            "full_name": "B.A. Simons", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Mart", 
+            "last_name": "Bosch", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "M.T. Bosch", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Daryl", 
+            "last_name": "Pfoster", 
+            "gender": "m", 
+            "place": "Buchten", 
+            "full_name": "D.D.W. Pfoster", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van Soest", 
+            "gender": "m", 
+            "place": "Venlo", 
+            "full_name": "K.J.P. van Soest", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Niek", 
+            "last_name": "van der Loo", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "N.F.S. van der Loo", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Dierks", 
+            "gender": "m", 
+            "place": "Sittard", 
+            "full_name": "W.A.E. Dierks", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Orban", 
+            "last_name": "Moonen", 
+            "gender": "m", 
+            "place": "Landgraaf", 
+            "full_name": "O.H.H.M. Moonen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Sturtz", 
+            "gender": "m", 
+            "place": "Schinveld", 
+            "full_name": "F.F.P.J.G. Sturtz", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Truus", 
+            "last_name": "van Rijswijck-Rheiter", 
+            "gender": "v", 
+            "place": "Arcen", 
+            "full_name": "G.L. van Rijswijck-Rheiter", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Kornips", 
+            "gender": "m", 
+            "place": "Weert", 
+            "full_name": "B.W.G.J. Kornips", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jean-Marie", 
+            "last_name": "Weusten", 
+            "gender": "m", 
+            "place": "Mheer", 
+            "full_name": "J.M.G. Weusten", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "Meijer-Huibers", 
+            "gender": "v", 
+            "place": "Venlo", 
+            "full_name": "P.W.M. Meijer-Huibers", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_1 PVV (Partij voor de Vrijheid)"
+}

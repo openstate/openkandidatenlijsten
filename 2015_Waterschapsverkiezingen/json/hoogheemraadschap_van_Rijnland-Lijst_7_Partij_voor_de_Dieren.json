@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ramona", 
+            "last_name": "Bleyie", 
+            "gender": "v", 
+            "place": "IJmuiden", 
+            "full_name": "M. Bleyie", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "Boomsma", 
+            "gender": "v", 
+            "place": "Oegstgeest", 
+            "full_name": "J.C. Boomsma", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van Waard", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "F.M. van Waard", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Harbert", 
+            "last_name": "van der Kaap", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "H. van der Kaap", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joep", 
+            "last_name": "Beneken genaamd Kolmer", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "J.P.W. Beneken genaamd Kolmer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Schrama", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "J.E. Schrama", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Lowie", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "E. van Liere", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "de Vos", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "D. de Vos", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Partij voor de Dieren"
+}

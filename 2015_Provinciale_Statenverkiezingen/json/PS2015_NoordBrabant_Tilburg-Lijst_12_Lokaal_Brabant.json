@@ -1,0 +1,278 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Heijman", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "J.H.W.F. Heijman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Denise", 
+            "last_name": "Kunst- van Suijlekom", 
+            "gender": "v", 
+            "place": "'s Gravenmoer", 
+            "full_name": "G.P. Kunst- van Suijlekom", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van Aert", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "C.F.A.M. van Aert", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Ockers", 
+            "gender": "m", 
+            "place": "Veen", 
+            "full_name": "J.A. Ockers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "van Gorp", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "J.C.P. van Gorp", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Angelo", 
+            "last_name": "de Laat", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "A.W.G. de Laat", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Rene", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Dongen", 
+            "full_name": "I.C.H. Jansen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ron", 
+            "last_name": "Rosbak", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "E.R. Rosbak", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Rogier", 
+            "last_name": "Verhoeven", 
+            "gender": "m", 
+            "place": "Nispen", 
+            "full_name": "G.A.W.A. Verhoeven", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Renee", 
+            "last_name": "Koehof-Küpper", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "R.E.M. Koehof-Küpper", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Schijvenaars", 
+            "gender": "m", 
+            "place": "Roosendaal", 
+            "full_name": "A.J. Schijvenaars", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Pim", 
+            "last_name": "Bouman", 
+            "gender": "m", 
+            "place": "Genderen", 
+            "full_name": "P.A. Bouman", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "Brokx", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "M. Brokx", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jennie", 
+            "last_name": "Boer", 
+            "gender": "v", 
+            "place": "Etten-Leur", 
+            "full_name": "J.H. Boer", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "van Zweden-Timmermans", 
+            "gender": "v", 
+            "place": "Woensdrecht", 
+            "full_name": "A.M. van Zweden-Timmermans", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Zumker", 
+            "gender": "m", 
+            "place": "Bladel", 
+            "full_name": "D. Zumker", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Lammers", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "G.J.J. Lammers", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Ooms", 
+            "gender": "m", 
+            "place": "Steenbergen", 
+            "full_name": "J.G. Ooms", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Geers", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "F.T.A. Geers", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Suijkerbuijk", 
+            "gender": "m", 
+            "place": "Oudenbosch", 
+            "full_name": "H.M. Suijkerbuijk", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Mucharowski", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "J.S. Mucharowski", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Thea", 
+            "last_name": "Verhoeven", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "T.W.M Verhoeven", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Woudrichem", 
+            "full_name": "M. van Dijk", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Süleyman", 
+            "last_name": "Uslu", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "S. Uslu", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Ginneken", 
+            "gender": "m", 
+            "place": "Den Hout", 
+            "full_name": "H.C. van Ginneken", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Frans-Josef", 
+            "last_name": "Oeijen", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "F. Oeijen", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Adrienne", 
+            "last_name": "van Gorp-Adam", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "A.C.M.M. van Gorp-Adam", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Keesjan", 
+            "last_name": "Coenraad", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "C.J.G. Coenraad", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Nick", 
+            "last_name": "Robben", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "N.G. Robben", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "van der Kallen", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "L.H. van der Kallen", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Galle", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "P.A.W. Galle", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van Aarle", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "F.J.C.M. van Aarle", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "van Huijgevoort", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "J.A.A. van Huijgevoort", 
+            "position": 33
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Schijven", 
+            "gender": "m", 
+            "place": "St. Willebrord", 
+            "full_name": "A.A. Schijven", 
+            "position": 34
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_12 Lokaal Brabant"
+}

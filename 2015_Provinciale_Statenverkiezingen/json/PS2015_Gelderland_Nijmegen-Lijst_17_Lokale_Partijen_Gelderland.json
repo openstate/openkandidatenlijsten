@@ -1,0 +1,222 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ronald", 
+            "last_name": "van Meygaarden", 
+            "gender": "m", 
+            "place": "Rumpt", 
+            "full_name": "R.S. van Meygaarden", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "van Alfen", 
+            "gender": "m", 
+            "place": "Lienden", 
+            "full_name": "S. van Alfen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "van Kuilenburg", 
+            "gender": "v", 
+            "place": "Waardenburg", 
+            "full_name": "P. van Kuilenburg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "van den Burg", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "P. van den Burg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Andre", 
+            "last_name": "Bulten", 
+            "gender": "m", 
+            "place": "Lathum", 
+            "full_name": "H.A. Bulten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ed", 
+            "last_name": "Goossens", 
+            "gender": "m", 
+            "place": "Meteren", 
+            "full_name": "E.R. Goossens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Tapperwijn", 
+            "gender": "m", 
+            "place": "Buurmalsen", 
+            "full_name": "J.P. Tapperwijn", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rutger", 
+            "last_name": "van Stappershoef", 
+            "gender": "m", 
+            "place": "Rhenoy", 
+            "full_name": "R.T. van Stappershoef", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Staring", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "H.F.G.M. Staring", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Simone", 
+            "last_name": "de Boer", 
+            "gender": "v", 
+            "place": "Tiel", 
+            "full_name": "S. de Boer", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Rietbergen", 
+            "gender": "m", 
+            "place": "Geldermalsen", 
+            "full_name": "J.J.M. Rietbergen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Orlemans", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "F.H.W. Orlemans", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Nijhoff", 
+            "gender": "m", 
+            "place": "Waardenburg", 
+            "full_name": "C. Nijhoff", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Klaartje", 
+            "last_name": "de Heus", 
+            "gender": "v", 
+            "place": "Deil", 
+            "full_name": "K. de Heus", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "F. Groen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "Hol", 
+            "gender": "m", 
+            "place": "Beesd", 
+            "full_name": "L.C. Hol", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "van Vrouwerff", 
+            "gender": "v", 
+            "place": "Gellicum", 
+            "full_name": "J.W. van Vrouwerff", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Waldex", 
+            "last_name": "Kooijman", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "W. Kooijman", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Patricia", 
+            "last_name": "de Geus", 
+            "gender": "v", 
+            "place": "Waardenburg", 
+            "full_name": "P.N.C. de Geus", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Diana", 
+            "last_name": "Dekker", 
+            "gender": "v", 
+            "place": "Tiel", 
+            "full_name": "A.F.E. Dekker", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Veer", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "J.H.C. van der Veer", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "van IJzendoorn", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "E. van IJzendoorn", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Ali", 
+            "last_name": "Ok", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "A. Ok", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Hettie", 
+            "last_name": "Markenhof", 
+            "gender": "v", 
+            "place": "Deil", 
+            "full_name": "H.M. Markenhof", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Koops", 
+            "gender": "m", 
+            "place": "Babberich", 
+            "full_name": "H.P. Koops", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Dorien", 
+            "last_name": "Riswick", 
+            "gender": "v", 
+            "place": "Zevenaar", 
+            "full_name": "T.J.E.M. Riswick", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Gerritsen", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "L.K.W. Gerritsen", 
+            "position": 27
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_17 Lokale Partijen Gelderland"
+}

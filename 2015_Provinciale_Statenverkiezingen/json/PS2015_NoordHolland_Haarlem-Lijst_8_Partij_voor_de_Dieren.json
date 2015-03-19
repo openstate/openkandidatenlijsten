@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Bram", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "A.E. van Liere", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lammert", 
+            "last_name": "van Raan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L. van Raan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Fabian", 
+            "last_name": "Zoon", 
+            "gender": "m", 
+            "place": "Koedijk", 
+            "full_name": "F.A.S. Zoon", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Vermaas", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.D. Vermaas", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Eva", 
+            "last_name": "Akerboom", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E.S. Akerboom", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Iris", 
+            "last_name": "Dicke", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.M. Dicke", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Imke", 
+            "last_name": "Banen", 
+            "gender": "v", 
+            "place": "Assendelft", 
+            "full_name": "I.J. Banen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Tamar", 
+            "last_name": "Oetelmans", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.A. Oetelmans", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Astrud", 
+            "last_name": "Wildschut", 
+            "gender": "v", 
+            "place": "Purmerend", 
+            "full_name": "A.K. Wildschut", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Joep", 
+            "last_name": "Beneken genaamd Kolmer", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "J.P.W. Beneken genaamd Kolmer", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Xandra", 
+            "last_name": "Asselbergs", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "X. Asselbergs", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Lauren", 
+            "last_name": "Haenen", 
+            "gender": "v", 
+            "place": "Den Ilp", 
+            "full_name": "L.R. Haenen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Mastbergen", 
+            "gender": "m", 
+            "place": "Westbeemster", 
+            "full_name": "R.P.L. Mastbergen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Karla", 
+            "last_name": "Mikulić", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "K.Y. Mikulić", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jurgen", 
+            "last_name": "Suurmeijer", 
+            "gender": "m", 
+            "place": "Spaarndam", 
+            "full_name": "J.J. Suurmeijer", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Judit", 
+            "last_name": "Raa", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "T.J. Raa", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Isabelle", 
+            "last_name": "Sternheim", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.E. Sternheim", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Joyce", 
+            "last_name": "van Heijningen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. van Heijningen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Janine", 
+            "last_name": "Visser", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "J. Visser", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Anke", 
+            "last_name": "Bakker", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.L. Bakker", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Broersen-van Dijk", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.M. Broersen-van Dijk", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van Waard", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "F.M. van Waard", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Kitty", 
+            "last_name": "van Dam-Kooijman", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "C.E.M. van Dam-Kooijman", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Dreas", 
+            "last_name": "van Donselaar", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.J. van Donselaar", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Johnas", 
+            "last_name": "van Lammeren", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.F.W. van Lammeren", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Cliteur", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P.B. Cliteur", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Mensje", 
+            "last_name": "van der Steen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.F. van der Steen", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Eddy", 
+            "last_name": "Terstall", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.H. Terstall", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Charlotte", 
+            "last_name": "Mutsaers", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.J.M. Mutsaers", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Ewald", 
+            "last_name": "Engelen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.R. Engelen", 
+            "position": 30
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_8 Partij voor de Dieren"
+}

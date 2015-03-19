@@ -1,0 +1,134 @@
+{
+    "candidates": [
+        {
+            "first_name": "Egbert", 
+            "last_name": "Schuurman", 
+            "gender": "m", 
+            "place": "Breukelen", 
+            "full_name": "E. Schuurman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Remmelt", 
+            "last_name": "de Boer", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "R. de Boer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Flora", 
+            "last_name": "Lagerwerf-Vergunst", 
+            "gender": "v", 
+            "place": "Ridderkerk", 
+            "full_name": "E.F. Lagerwerf-Vergunst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "R. Kuiper", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Ruinen", 
+            "full_name": "L.C. Groen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Lia", 
+            "last_name": "van Gastel", 
+            "gender": "v", 
+            "place": "Langelo", 
+            "full_name": "C.P. van Gastel", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Verhage-van Kooten", 
+            "gender": "v", 
+            "place": "Huizen", 
+            "full_name": "M. Verhage-van Kooten", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Adriaan", 
+            "last_name": "Hoogendoorn", 
+            "gender": "m", 
+            "place": "Waddinxveen", 
+            "full_name": "A. Hoogendoorn", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerdien", 
+            "last_name": "Rots", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "D.G. Rots", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Thijs", 
+            "last_name": "van Daalen", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "M. van Daalen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Jochemsen", 
+            "gender": "m", 
+            "place": "Bennekom", 
+            "full_name": "H. Jochemsen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Westert", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "J. Westert", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Evertse", 
+            "gender": "m", 
+            "place": "Hardinxveld-Giessendam", 
+            "full_name": "J.L. Evertse", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Greving", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "J.E. Greving", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Elburg", 
+            "full_name": "H. Visser", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Rein", 
+            "last_name": "Ferwerda", 
+            "gender": "m", 
+            "place": "Morra", 
+            "full_name": "R. Ferwerda", 
+            "position": 16
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 ChristenUnie"
+}

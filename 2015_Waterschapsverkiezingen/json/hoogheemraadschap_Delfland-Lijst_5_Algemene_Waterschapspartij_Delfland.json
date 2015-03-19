@@ -1,0 +1,230 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hans", 
+            "last_name": "Middendorp", 
+            "gender": "m", 
+            "place": "Voorburg", 
+            "full_name": "A.J. Middendorp", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Antoinette", 
+            "last_name": "Jans", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.C.J. Jans", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Guido", 
+            "last_name": "van der Wedden", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "G.A. van der Wedden", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Nooy", 
+            "gender": "m", 
+            "place": "Westland", 
+            "full_name": "J. de Nooy", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Boekestijn", 
+            "gender": "m", 
+            "place": "Westland", 
+            "full_name": "L.G. Boekestijn", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ko", 
+            "last_name": "Heijboer", 
+            "gender": "m", 
+            "place": "Maassluis", 
+            "full_name": "J.A. Heijboer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van Kasteren", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "F.L.J. van Kasteren", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Poul", 
+            "last_name": "de Haan", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "P.J. de Haan", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Ruijs", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "P.P.M. Ruijs", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jessie", 
+            "last_name": "Heemskerk", 
+            "gender": "v", 
+            "place": "Rijswijk", 
+            "full_name": "J. Heemskerk", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Sjef", 
+            "last_name": "van Put", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "J.H. van Put", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.L.C. Janssen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henry", 
+            "last_name": "Koster", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "H.L. Koster", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Rian", 
+            "last_name": "van Luijk", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.J.M. van Luijk", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Reinier", 
+            "last_name": "Westermann", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "R. Westermann", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Robin", 
+            "last_name": "van Wissen", 
+            "gender": "m", 
+            "place": "Leidschendam", 
+            "full_name": "R.C. van Wissen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "van der Helm", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "H.C. van der Helm", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Maaike", 
+            "last_name": "Bon", 
+            "gender": "v", 
+            "place": "Delft", 
+            "full_name": "M. Bon", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Haarsma", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.N.P. Haarsma", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Coline", 
+            "last_name": "Lugassy", 
+            "gender": "v", 
+            "place": "Schiedam", 
+            "full_name": "C.A.D.E. Lugassy", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Arnoud", 
+            "last_name": "Muizer", 
+            "gender": "m", 
+            "place": "Berkel en Rodenrijs", 
+            "full_name": "A.P. Muizer", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Jeanine", 
+            "last_name": "Floris", 
+            "gender": "v", 
+            "place": "Leidschendam", 
+            "full_name": "J.M. Floris", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Lammert", 
+            "last_name": "Bouwer", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "L. Bouwer", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Perdijk", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "F.A. Perdijk", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Rem", 
+            "last_name": "Koolhaas", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "D.R. Koolhaas", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Sipke", 
+            "last_name": "van der Werf", 
+            "gender": "m", 
+            "place": "Leidschendam", 
+            "full_name": "S.W. van der Werf", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Aad", 
+            "last_name": "Meuleman", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "A. Meuleman", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Kappelle", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "H.J. Kappelle", 
+            "position": 28
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 Algemene Waterschapspartij Delfland"
+}

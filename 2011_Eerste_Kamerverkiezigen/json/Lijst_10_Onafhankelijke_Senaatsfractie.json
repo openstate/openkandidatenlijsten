@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Kees", 
+            "last_name": "de Lange", 
+            "gender": "m", 
+            "place": "Monnickendam", 
+            "full_name": "C.A. de Lange", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "ten Hoeve", 
+            "gender": "m", 
+            "place": "Stiens", 
+            "full_name": "H. ten Hoeve", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Bierman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Bierman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "François", 
+            "last_name": "Babijn", 
+            "gender": "m", 
+            "place": "Oostburg", 
+            "full_name": "F. Babijn", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 Onafhankelijke Senaatsfractie"
+}

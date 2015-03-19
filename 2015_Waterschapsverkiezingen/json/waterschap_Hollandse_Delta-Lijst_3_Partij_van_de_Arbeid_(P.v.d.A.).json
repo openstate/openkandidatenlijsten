@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Dorien", 
+            "last_name": "Kickert - Schotting", 
+            "gender": "v", 
+            "place": "Ouddorp", 
+            "full_name": "D.A. Kickert - Schotting", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Cok", 
+            "last_name": "Sas", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "C. Sas", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Verbeek", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J. Verbeek", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hanneke", 
+            "last_name": "Stengs - Nijhof", 
+            "gender": "v", 
+            "place": "Spijkenisse", 
+            "full_name": "J. Stengs - Nijhof", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "van Straaten", 
+            "gender": "m", 
+            "place": "Zwijndrecht", 
+            "full_name": "T.J. van Straaten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Vegter", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "D. Vegter", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)"
+}

@@ -1,0 +1,174 @@
+{
+    "candidates": [
+        {
+            "first_name": "Els", 
+            "last_name": "Rutting", 
+            "gender": "v", 
+            "place": "Braamt", 
+            "full_name": "E.T.J.M. Rutting", 
+            "position": 1
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Haverdil", 
+            "gender": "m", 
+            "place": "Ulft", 
+            "full_name": "J.W. Haverdil", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Oege", 
+            "last_name": "Feitsma", 
+            "gender": "m", 
+            "place": "Velp", 
+            "full_name": "O. Feitsma", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Famke", 
+            "last_name": "van der Loon", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "F. van der Loon", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Hollander", 
+            "gender": "m", 
+            "place": "Barchem", 
+            "full_name": "J.M. Hollander", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Beverdam", 
+            "gender": "m", 
+            "place": "Laag-Keppel", 
+            "full_name": "J. Beverdam", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Betsy", 
+            "last_name": "Wormgoor", 
+            "gender": "v", 
+            "place": "Neede", 
+            "full_name": "W.A. Wormgoor", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Lap", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "M.R.A. Lap", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Gudden", 
+            "gender": "m", 
+            "place": "Westervoort", 
+            "full_name": "G.T.W Gudden", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Rene", 
+            "last_name": "Isselman", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "R.G.W. Isselman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Kortschot", 
+            "gender": "m", 
+            "place": "Winterswijk Meddo", 
+            "full_name": "G.J. Kortschot", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Hissink", 
+            "gender": "m", 
+            "place": "Zutphen", 
+            "full_name": "M. Hissink", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Beks", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "H.J. Beks", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Hielke Jan", 
+            "last_name": "van der Leij", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "H.J. van der Leij", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Yvonne", 
+            "last_name": "Schrader e/v Irving", 
+            "gender": "v", 
+            "place": "Doesburg", 
+            "full_name": "Y. Schrader e/v Irving", 
+            "position": 15
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "Angenent", 
+            "gender": "m", 
+            "place": "Dinxperlo", 
+            "full_name": "G. Angenent", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Cornelia", 
+            "last_name": "Klaster", 
+            "gender": "v", 
+            "place": "Zevenaar", 
+            "full_name": "C.J. Klaster", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Donker", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "P. Donker", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Brugman", 
+            "gender": "m", 
+            "place": "Borculo", 
+            "full_name": "P.W. Brugman", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Arno", 
+            "last_name": "Sent", 
+            "gender": "m", 
+            "place": "Spijk", 
+            "full_name": "A. Sent", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Baks", 
+            "gender": "m", 
+            "place": "Lichtenvoorde", 
+            "full_name": "P.H.M Baks", 
+            "position": 21
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)"
+}

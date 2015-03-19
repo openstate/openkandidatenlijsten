@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Raimond", 
+            "last_name": "Franssen", 
+            "gender": "m", 
+            "place": "Klimmen", 
+            "full_name": "R.J.H. Franssen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "Renet", 
+            "gender": "m", 
+            "place": "Sittard-Geleen", 
+            "full_name": "J.J. Renet", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jean Paul", 
+            "last_name": "Kompier", 
+            "gender": "m", 
+            "place": "Vaals", 
+            "full_name": "J.P.M.H. Kompier", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "Beeren-Adriaans", 
+            "gender": "v", 
+            "place": "Roermond", 
+            "full_name": "P.T.G.J. Beeren-Adriaans", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marienel", 
+            "last_name": "Engelen-Wijen", 
+            "gender": "v", 
+            "place": "Weert", 
+            "full_name": "M.A. Engelen-Wijen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Thieu", 
+            "last_name": "Sevriens", 
+            "gender": "m", 
+            "place": "Koningsbosch", 
+            "full_name": "P.M.M. Sevriens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "Hakke", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "L. Hakke", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wiel", 
+            "last_name": "Hoenen", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "P.W.V.P. Hoenen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Roest", 
+            "gender": "m", 
+            "place": "Venlo", 
+            "full_name": "A.G.M. Roest", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Berger", 
+            "gender": "m", 
+            "place": "Maasgouw", 
+            "full_name": "A.M. Berger", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "Lipsch", 
+            "gender": "v", 
+            "place": "Voerendaal", 
+            "full_name": "S.M.F. Lipsch", 
+            "position": 11
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "de Vogel", 
+            "gender": "m", 
+            "place": "Kerkrade", 
+            "full_name": "J.M. de Vogel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "Hellenbrand", 
+            "gender": "m", 
+            "place": "Beek", 
+            "full_name": "A.G.M. Hellenbrand", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Meijers", 
+            "gender": "m", 
+            "place": "Simpelveld", 
+            "full_name": "J.H. Meijers", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jo", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "J.H.H. van der Linden", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Roger", 
+            "last_name": "Thijssen", 
+            "gender": "m", 
+            "place": "Geulle", 
+            "full_name": "R.A.A. Thijssen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Reijnders", 
+            "gender": "m", 
+            "place": "Echt-Susteren", 
+            "full_name": "P.L. Reijnders", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "T. Meijer", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Harda", 
+            "last_name": "Bieshaar", 
+            "gender": "v", 
+            "place": "Melick", 
+            "full_name": "E.C. Bieshaar", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Armand", 
+            "last_name": "Thomas", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "A. Thomas", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Monique", 
+            "last_name": "Allard", 
+            "gender": "v", 
+            "place": "Roerdalen", 
+            "full_name": "M.L.A.M. Allard", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Hoogeboom", 
+            "gender": "m", 
+            "place": "Beek", 
+            "full_name": "R.H. Hoogeboom", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Melick", 
+            "full_name": "L.F. de Jong", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Dukers", 
+            "gender": "m", 
+            "place": "Born", 
+            "full_name": "J.M.G. Dukers", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Leppers", 
+            "gender": "m", 
+            "place": "Roerdalen", 
+            "full_name": "A.C.A. Leppers", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Jo", 
+            "last_name": "Palmen", 
+            "gender": "m", 
+            "place": "Brunssum", 
+            "full_name": "J.M.H. Palmen", 
+            "position": 26
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_11 LOKAAL-LIMBURG"
+}

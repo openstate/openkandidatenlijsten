@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marjolein", 
+            "last_name": "van de Klashorst - Faber", 
+            "gender": "v", 
+            "place": "Hoevelaken", 
+            "full_name": "M.H.M. van de Klashorst - Faber", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Alexander", 
+            "last_name": "Kops", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "A. Kops", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Venema", 
+            "gender": "m", 
+            "place": "Dieren", 
+            "full_name": "E.N. Venema", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Johann", 
+            "last_name": "Scheers", 
+            "gender": "m", 
+            "place": "Azewijn", 
+            "full_name": "J.W. Scheers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Elmar", 
+            "last_name": "Vlottes", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "E. Vlottes", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Bulder - Poortinga", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "C.A. Bulder - Poortinga", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kurt", 
+            "last_name": "Bossmann", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "K.J. Bossmann", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Zaltbommel", 
+            "full_name": "P. Bakker", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Cees-Jan", 
+            "last_name": "Straver", 
+            "gender": "m", 
+            "place": "Maurik", 
+            "full_name": "C.J.T. Straver", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Sanders", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "R.H.A. Sanders", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Andreas", 
+            "last_name": "Beverloo", 
+            "gender": "m", 
+            "place": "Waardenburg", 
+            "full_name": "A.V. Beverloo", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "de Vos", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "A.P. de Vos", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marjolein", 
+            "last_name": "van Tessel", 
+            "gender": "v", 
+            "place": "Ede", 
+            "full_name": "M.T. van Tessel", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Krelekamp", 
+            "gender": "m", 
+            "place": "Eerbeek", 
+            "full_name": "C.A. Krelekamp", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "van der Kemp", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "G.B. van der Kemp", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Cantor", 
+            "last_name": "Drost", 
+            "gender": "m", 
+            "place": "Zutphen", 
+            "full_name": "C.J. Drost", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Reinette", 
+            "last_name": "Klever", 
+            "gender": "v", 
+            "place": "Ermelo", 
+            "full_name": "R.J. Klever", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_4 PVV (Partij voor de Vrijheid)"
+}

@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Nees", 
+            "last_name": "Pellikaan", 
+            "gender": "m", 
+            "place": "Tervuren (BE)", 
+            "full_name": "N.J.A. Pellikaan", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Meike", 
+            "last_name": "Korpershoek", 
+            "gender": "v", 
+            "place": "Amstelveen", 
+            "full_name": "M. Korpershoek", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jan-Leendert", 
+            "last_name": "'t Lam", 
+            "gender": "m", 
+            "place": "Kraainem (BE)", 
+            "full_name": "J.L. 't Lam", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Weber", 
+            "gender": "v", 
+            "place": "Schiedam", 
+            "full_name": "M.M.H. Weber", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hasso", 
+            "last_name": "Weeke", 
+            "gender": "m", 
+            "place": "Maassluis", 
+            "full_name": "H.P.G. Weeke", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Erik-Jan", 
+            "last_name": "Klijn", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "E.J. Klijn", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 16 Partij voor Europese Politiek (PEP)"
+}

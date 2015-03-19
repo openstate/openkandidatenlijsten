@@ -1,0 +1,30 @@
+{
+    "candidates": [
+        {
+            "first_name": "Klaas", 
+            "last_name": "Wassenaar", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "K.J. Wassenaar", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "van der Wal", 
+            "gender": "m", 
+            "place": "Kollumerzwaag", 
+            "full_name": "M. van der Wal", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jurjen", 
+            "last_name": "Koopmans", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "J. Koopmans", 
+            "position": 3
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 14 Libertarische Partij (LP)"
+}

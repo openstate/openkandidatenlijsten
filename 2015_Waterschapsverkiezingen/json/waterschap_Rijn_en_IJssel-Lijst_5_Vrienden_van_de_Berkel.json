@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tonni", 
+            "last_name": "Wormgoor", 
+            "gender": "m", 
+            "place": "Eibergen", 
+            "full_name": "A.J. Wormgoor", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Tiggeloven", 
+            "gender": "m", 
+            "place": "Winterswijk Meddo", 
+            "full_name": "J.W.B. Tiggeloven", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Rekken", 
+            "full_name": "H.J. Bos", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Steven", 
+            "last_name": "Braakhekke", 
+            "gender": "m", 
+            "place": "Zutphen", 
+            "full_name": "S.B. Braakhekke", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Tiemessen", 
+            "gender": "m", 
+            "place": "Lochem", 
+            "full_name": "G.W.M. Tiemessen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bertus", 
+            "last_name": "Hesselink", 
+            "gender": "m", 
+            "place": "Geesteren", 
+            "full_name": "L. Hesselink", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Giesen", 
+            "gender": "m", 
+            "place": "Epse", 
+            "full_name": "J.A.M. Giesen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ramon", 
+            "last_name": "Hesselink", 
+            "gender": "m", 
+            "place": "Almen", 
+            "full_name": "R. Hesselink", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Gönning", 
+            "gender": "m", 
+            "place": "Borculo", 
+            "full_name": "G.J. Gönning", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marja", 
+            "last_name": "Schulenberg-v.d. Werf", 
+            "gender": "v", 
+            "place": "Borculo", 
+            "full_name": "M. Schulenberg-v.d. Werf", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Krajenbrink", 
+            "gender": "m", 
+            "place": "Varsseveld", 
+            "full_name": "G.W.M. Krajenbrink", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Geerts", 
+            "gender": "m", 
+            "place": "Ulft", 
+            "full_name": "R.H.E.M. Geerts", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "ter Meulen", 
+            "gender": "m", 
+            "place": "Almen", 
+            "full_name": "H.W. ter Meulen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Stef", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Beltrum", 
+            "full_name": "S.J.M. Smit", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Braakman", 
+            "gender": "m", 
+            "place": "Laren", 
+            "full_name": "G.H. Braakman", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Mogezomp", 
+            "gender": "m", 
+            "place": "Borculo", 
+            "full_name": "H.W.G. Mogezomp", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Schieven", 
+            "gender": "m", 
+            "place": "Almen", 
+            "full_name": "H.W. Schieven", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "ter Braak", 
+            "gender": "m", 
+            "place": "Lichtenvoorde", 
+            "full_name": "B.M.C. ter Braak", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Meerburg", 
+            "gender": "m", 
+            "place": "Gorssel", 
+            "full_name": "N. Meerburg", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Nieuwburg", 
+            "gender": "m", 
+            "place": "Eefde", 
+            "full_name": "J. Nieuwburg", 
+            "position": 20
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 5 Vrienden van de Berkel"
+}

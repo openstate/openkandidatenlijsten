@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Dannij", 
+            "last_name": "van der Sluijs", 
+            "gender": "m", 
+            "place": "Uitgeest", 
+            "full_name": "D.J. van der Sluijs", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "van Hooff", 
+            "gender": "m", 
+            "place": "Naarden", 
+            "full_name": "J.J.A.M. van Hooff", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ilse", 
+            "last_name": "Bezaan", 
+            "gender": "v", 
+            "place": "Blaricum", 
+            "full_name": "I.A. Bezaan", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Menno", 
+            "last_name": "Ludriks", 
+            "gender": "m", 
+            "place": "Uithoorn", 
+            "full_name": "M.S. Ludriks", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "Portegijs", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Portegijs", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Nick", 
+            "last_name": "Kaptheijns", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N. Kaptheijns", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "van der Heide", 
+            "gender": "m", 
+            "place": "Heerhugowaard", 
+            "full_name": "F. van der Heide", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "Deen", 
+            "gender": "m", 
+            "place": "Zandvoort", 
+            "full_name": "M. Deen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Saskia", 
+            "last_name": "Besseling", 
+            "gender": "v", 
+            "place": "Oudesluis", 
+            "full_name": "S.F. Besseling", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hervé", 
+            "last_name": "van Praag", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.Y. van Praag", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Michael", 
+            "last_name": "ten Brink", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "M. ten Brink", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Troost", 
+            "gender": "m", 
+            "place": "Heerhugowaard", 
+            "full_name": "N.J. Troost", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Tol", 
+            "gender": "m", 
+            "place": "Volendam", 
+            "full_name": "C.T.J.J.M. Tol", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Bernadette", 
+            "last_name": "de Wit", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B.J.M. de Wit", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Olaf", 
+            "last_name": "Stuger", 
+            "gender": "m", 
+            "place": "Bussum", 
+            "full_name": "O.F. Stuger", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.J.G. Jansen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Bosma", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Bosma", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_3 PVV (Partij voor de Vrijheid)"
+}

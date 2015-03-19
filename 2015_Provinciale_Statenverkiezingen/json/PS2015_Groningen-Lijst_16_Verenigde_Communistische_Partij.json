@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Kenter", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "J.A. Kenter", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Steenhuis", 
+            "gender": "m", 
+            "place": "Midwolda", 
+            "full_name": "J.H. Steenhuis", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Engel", 
+            "last_name": "Modderman", 
+            "gender": "m", 
+            "place": "Oostwold", 
+            "full_name": "E. Modderman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Swarts", 
+            "gender": "m", 
+            "place": "Nieuwe Pekela", 
+            "full_name": "J.J. Swarts", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Appie", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "H. Kuiper", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Be", 
+            "last_name": "Pluim", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "B. Pluim", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Strating", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "H.E. Strating", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Dijke", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "J.J.H. van Dijke", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Appie", 
+            "last_name": "Haan", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "H. Haan", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dikkie", 
+            "last_name": "Zwik", 
+            "gender": "m", 
+            "place": "Blijham", 
+            "full_name": "D. Zwik", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Annemiek", 
+            "last_name": "Udema", 
+            "gender": "v", 
+            "place": "Beerta", 
+            "full_name": "A.M. Udema", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bassie", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Oude Pekela", 
+            "full_name": "S. Kuiper", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Modderman-Mickat", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "J. Modderman-Mickat", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Drenth", 
+            "gender": "m", 
+            "place": "Veendam", 
+            "full_name": "J.W. Drenth", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Amber", 
+            "last_name": "Lankamp", 
+            "gender": "v", 
+            "place": "Oude Pekela", 
+            "full_name": "A. Lankamp", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Alma", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "Heiligerlee", 
+            "full_name": "A. de Groot", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Drenth", 
+            "gender": "m", 
+            "place": "Beerta", 
+            "full_name": "J. Drenth", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Johannes", 
+            "last_name": "Zoutman", 
+            "gender": "m", 
+            "place": "Scheemda", 
+            "full_name": "J. Zoutman", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 16 Verenigde Communistische Partij"
+}

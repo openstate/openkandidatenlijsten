@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Barry", 
+            "last_name": "Madlener", 
+            "gender": "m", 
+            "place": "Rockanje", 
+            "full_name": "B. Madlener", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Bontes", 
+            "gender": "m", 
+            "place": "Hellevoetsluis", 
+            "full_name": "L. Bontes", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Daniël", 
+            "last_name": "van der Stoep", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "D.T. van der Stoep", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Laurence", 
+            "last_name": "Stassen", 
+            "gender": "v", 
+            "place": "Echt", 
+            "full_name": "L.J.A.J. Stassen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Lucas", 
+            "last_name": "Hartong", 
+            "gender": "m", 
+            "place": "Sommelsdijk", 
+            "full_name": "L. Hartong", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "Zijlstra", 
+            "gender": "m", 
+            "place": "Ridderkerk", 
+            "full_name": "A.J. Zijlstra", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Patricia", 
+            "last_name": "van der Kammen", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "P. van der Kammen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Besselink", 
+            "gender": "m", 
+            "place": "Roosendaal", 
+            "full_name": "G.H. Besselink", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Menno", 
+            "last_name": "Ludriks", 
+            "gender": "m", 
+            "place": "Uithoorn", 
+            "full_name": "M.S. Ludriks", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Wilders", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "G. Wilders", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 14 PVV (Partij voor de Vrijheid)"
+}

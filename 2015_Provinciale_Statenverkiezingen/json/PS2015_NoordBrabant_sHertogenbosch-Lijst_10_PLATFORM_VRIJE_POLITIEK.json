@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Leo", 
+            "last_name": "Broers", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "J.L. Broers", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan Piet", 
+            "last_name": "van der Meer", 
+            "gender": "m", 
+            "place": "Hilvarenbeek", 
+            "full_name": "J.P. van der Meer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Rijnders", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "K.M. Rijnders", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Teeven", 
+            "gender": "m", 
+            "place": "Sint-Oedenrode", 
+            "full_name": "A.R.B.G. Teeven", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ge", 
+            "last_name": "Wonink", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "G.A. Wonink", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_10 PLATFORM VRIJE POLITIEK"
+}

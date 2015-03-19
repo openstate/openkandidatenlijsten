@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Bé", 
+            "last_name": "de Winter", 
+            "gender": "m", 
+            "place": "Sintjohannesga", 
+            "full_name": "B. de Winter", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Paula", 
+            "last_name": "van den Burg-Boersma", 
+            "gender": "v", 
+            "place": "Sloten", 
+            "full_name": "A.P. van den Burg-Boersma", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Rinus", 
+            "last_name": "van Stee", 
+            "gender": "m", 
+            "place": "Boijl", 
+            "full_name": "M.H. van Stee", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Speerstra", 
+            "gender": "m", 
+            "place": "Lemmer", 
+            "full_name": "M. Speerstra", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Atze", 
+            "last_name": "Holwerda", 
+            "gender": "m", 
+            "place": "Ee", 
+            "full_name": "A. Holwerda", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Joure", 
+            "full_name": "D. Visser", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Aukje", 
+            "last_name": "de Jong-de Jong", 
+            "gender": "v", 
+            "place": "Langweer", 
+            "full_name": "A. de Jong-de Jong", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Lammert", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Opeinde", 
+            "full_name": "L. Mulder", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Broer", 
+            "last_name": "Roorda", 
+            "gender": "m", 
+            "place": "Grou", 
+            "full_name": "B.A. Roorda", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Sinkeldam", 
+            "gender": "m", 
+            "place": "Witmarsum", 
+            "full_name": "J. Sinkeldam", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jochem", 
+            "last_name": "Puite", 
+            "gender": "m", 
+            "place": "Harlingen", 
+            "full_name": "J. Puite", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Daniël", 
+            "last_name": "Tangerman", 
+            "gender": "m", 
+            "place": "Feanwâlden", 
+            "full_name": "D. Tangerman", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Tjallingii", 
+            "gender": "m", 
+            "place": "Appelscha", 
+            "full_name": "F. Tjallingii", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Wiepke", 
+            "last_name": "Schukken", 
+            "gender": "m", 
+            "place": "Dronryp", 
+            "full_name": "W. Schukken", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Symen", 
+            "last_name": "Tamminga", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "S. Tamminga", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Kam", 
+            "gender": "m", 
+            "place": "Aldeboarn", 
+            "full_name": "J. de Kam", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Langweer", 
+            "full_name": "G.J. Kuiper", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Boon", 
+            "gender": "m", 
+            "place": "Harlingen", 
+            "full_name": "H.G.N. Boon", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 CDA"
+}

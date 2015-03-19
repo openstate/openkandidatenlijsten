@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tof", 
+            "last_name": "Thissen", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "C.P. Thissen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Britta", 
+            "last_name": "Böhler", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B. Böhler", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Strik", 
+            "gender": "v", 
+            "place": "Oosterbeek", 
+            "full_name": "M.H.A. Strik", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Yolan", 
+            "last_name": "Koster-Dreese", 
+            "gender": "v", 
+            "place": "Harmelen", 
+            "full_name": "Y. Koster-Dreese", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "H. Meijer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Goos", 
+            "last_name": "Minderman", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "G.D. Minderman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Dogan", 
+            "last_name": "Gök", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "D. Gök", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Floris", 
+            "last_name": "Tas", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "F.J.W.M. Tas", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Laurier", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "J.P. Laurier", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Nugteren", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "B. Nugteren", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Röell", 
+            "gender": "m", 
+            "place": "Hollandsche Rading", 
+            "full_name": "J.A. Röell", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Attie", 
+            "last_name": "Bos", 
+            "gender": "v", 
+            "place": "Houwerzijl", 
+            "full_name": "A.F. Bos", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 GROENLINKS"
+}

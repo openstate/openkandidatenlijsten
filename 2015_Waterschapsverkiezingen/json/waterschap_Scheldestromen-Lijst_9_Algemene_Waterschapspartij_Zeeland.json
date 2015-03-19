@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Lou", 
+            "last_name": "Waterman", 
+            "gender": "m", 
+            "place": "Oost-Souburg", 
+            "full_name": "L.F. Waterman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van de Heijning", 
+            "gender": "m", 
+            "place": "Hulst", 
+            "full_name": "J.W.M. van de Heijning", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Cathrien", 
+            "last_name": "Kole", 
+            "gender": "v", 
+            "place": "Wemeldinge", 
+            "full_name": "C.W.A. Kole", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Boom", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "L.D. Boom", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Hoeijmakers", 
+            "gender": "m", 
+            "place": "Zonnemaire", 
+            "full_name": "J.T.H. Hoeijmakers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "Wilbrink - Leijen Heeneman", 
+            "gender": "v", 
+            "place": "Westkapelle", 
+            "full_name": "M.I.J.G. Wilbrink - Leijen Heeneman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Co", 
+            "last_name": "Eger", 
+            "gender": "m", 
+            "place": "Zierikzee", 
+            "full_name": "J. Eger", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Leen", 
+            "last_name": "van Doorn", 
+            "gender": "m", 
+            "place": "Sint-Maartensdijk", 
+            "full_name": "L.J. van Doorn", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Hirdes", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "P.W. Hirdes", 
+            "position": 9
+        }
+    ], 
+    "description": "Gecombineerd met Waterschapspartij Zeeuws-Vlaanderen", 
+    "title": "Lijst 9 Algemene Waterschapspartij Zeeland"
+}

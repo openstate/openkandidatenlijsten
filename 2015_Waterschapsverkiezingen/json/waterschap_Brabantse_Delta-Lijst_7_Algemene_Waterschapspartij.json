@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "", 
+            "last_name": "van Dam", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "J. van Dam", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Rubbens", 
+            "gender": "v", 
+            "place": "Standdaarbuiten", 
+            "full_name": "D.C.M. Rubbens", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Dalen", 
+            "gender": "m", 
+            "place": "Steenbergen", 
+            "full_name": "J.M. van Dalen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Bremen", 
+            "gender": "m", 
+            "place": "Lage Zwaluwe", 
+            "full_name": "R.S.A. van Bremen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Pinxteren", 
+            "gender": "m", 
+            "place": "Ulvenhout", 
+            "full_name": "R.S. van Pinxteren", 
+            "position": 5
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Dikmans", 
+            "gender": "v", 
+            "place": "Wagenberg", 
+            "full_name": "M.C. Dikmans", 
+            "position": 6
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Scholten", 
+            "gender": "m", 
+            "place": "Ulvenhout", 
+            "full_name": "H.J.P. Scholten", 
+            "position": 7
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Diepeningen", 
+            "gender": "m", 
+            "place": "Halsteren", 
+            "full_name": "J.A. van Diepeningen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Kuijpers", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "J.J.M. Kuijpers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Lambregts", 
+            "gender": "m", 
+            "place": "Zevenbergschen Hoek", 
+            "full_name": "A.J.L.M. Lambregts", 
+            "position": 10
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Andel", 
+            "gender": "v", 
+            "place": "Zevenbergen", 
+            "full_name": "B.C. van Andel", 
+            "position": 11
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van der Werff", 
+            "gender": "m", 
+            "place": "Lage Zwaluwe", 
+            "full_name": "E. van der Werff", 
+            "position": 12
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Olislagers", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "P.V.J.M. Olislagers", 
+            "position": 13
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Spronk", 
+            "gender": "v", 
+            "place": "Bergen op Zoom", 
+            "full_name": "N.I. Spronk", 
+            "position": 14
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Antes", 
+            "gender": "v", 
+            "place": "Terheijden", 
+            "full_name": "H.G.J. Antes", 
+            "position": 15
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "von Meijenfeldt", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "T. von Meijenfeldt", 
+            "position": 16
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Kubuz", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "M. Kubuz", 
+            "position": 17
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Verhoeve", 
+            "gender": "m", 
+            "place": "Made", 
+            "full_name": "A. Verhoeve", 
+            "position": 18
+        }
+    ], 
+    "description": "Gecombineerd met 50PLUS", 
+    "title": "Lijst 7 Algemene Waterschapspartij"
+}

@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Otto", 
+            "last_name": "ter Haar", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "O.H. ter Haar", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Rascha", 
+            "last_name": "Wisse", 
+            "gender": "v", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "R.V. Wisse", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marijn", 
+            "last_name": "Freriks", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "M.P. Freriks", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Trudy", 
+            "last_name": "van der Hoop van Slochteren", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "G.S. van der Hoop van Slochteren", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Berendsen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Berendsen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Nora", 
+            "last_name": "Borsboom", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.J. Borsboom", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Wolbrink sr.", 
+            "gender": "m", 
+            "place": "Hengelo Ov", 
+            "full_name": "W.H. Wolbrink sr.", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Sweers", 
+            "gender": "m", 
+            "place": "Velp Gld", 
+            "full_name": "W.A. Sweers", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 De Groenen"
+}

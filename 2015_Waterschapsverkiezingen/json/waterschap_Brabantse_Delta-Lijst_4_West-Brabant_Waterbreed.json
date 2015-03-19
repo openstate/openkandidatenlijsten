@@ -1,0 +1,254 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ad", 
+            "last_name": "Wijnen", 
+            "gender": "m", 
+            "place": "Hoeven", 
+            "full_name": "A.A.F.M. Wijnen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Niels", 
+            "last_name": "Mureau", 
+            "gender": "m", 
+            "place": "Wagenberg", 
+            "full_name": "C.C.F. Mureau", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Spierings", 
+            "gender": "m", 
+            "place": "Sprang-Capelle", 
+            "full_name": "W. Spierings", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Poppelaars", 
+            "gender": "m", 
+            "place": "Achtmaal", 
+            "full_name": "H.J.M. Poppelaars", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Adrienne", 
+            "last_name": "van Gorp-Adam", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "A.C.M.M. van Gorp-Adam", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Suijkerbuijk", 
+            "gender": "m", 
+            "place": "Oudenbosch", 
+            "full_name": "H.M. Suijkerbuijk", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "van Oorschot", 
+            "gender": "m", 
+            "place": "Kruisland", 
+            "full_name": "J.C.J. van Oorschot", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Kaam", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "P.G.M. van Kaam", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van Aert", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "C.F.A.M. van Aert", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Ginneken", 
+            "gender": "m", 
+            "place": "Den Hout", 
+            "full_name": "H.C. van Ginneken", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "de Regt", 
+            "gender": "m", 
+            "place": "Nispen", 
+            "full_name": "P.M.G.M. de Regt", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Guido", 
+            "last_name": "Antonissen", 
+            "gender": "m", 
+            "place": "Schijf", 
+            "full_name": "A.J.H. Antonissen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Schellekens", 
+            "gender": "m", 
+            "place": "Riel", 
+            "full_name": "J.H.M. Schellekens", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Carola", 
+            "last_name": "Hereijgers-van Lakwijk", 
+            "gender": "v", 
+            "place": "Lepelstraat", 
+            "full_name": "C.F.C.M. Hereijgers-van Lakwijk", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Vissers", 
+            "gender": "m", 
+            "place": "Rijsbergen", 
+            "full_name": "J.A.W. Vissers", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Tilburg", 
+            "gender": "m", 
+            "place": "Baarle-Nassau", 
+            "full_name": "J.J.M. van Tilburg", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Örjan", 
+            "last_name": "Schrauwen", 
+            "gender": "m", 
+            "place": "Zevenbergen", 
+            "full_name": "A.L.G.H. Schrauwen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "Broos", 
+            "gender": "m", 
+            "place": "Schijf", 
+            "full_name": "A.J.F.G. Broos", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Marie-José", 
+            "last_name": "Pals-Wouters", 
+            "gender": "v", 
+            "place": "Zevenbergschen Hoek", 
+            "full_name": "M.J.A. Pals-Wouters", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Broekmans", 
+            "gender": "m", 
+            "place": "Waspik", 
+            "full_name": "M.A.J.M. Broekmans", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Romme", 
+            "gender": "m", 
+            "place": "Standdaarbuiten", 
+            "full_name": "W.P.B. Romme", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Eugene", 
+            "last_name": "Buijs", 
+            "gender": "m", 
+            "place": "Oud Gastel", 
+            "full_name": "E.C.G.M. Buijs", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Jac", 
+            "last_name": "Bovée", 
+            "gender": "m", 
+            "place": "Halsteren", 
+            "full_name": "J.P.A. Bovée", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Peet", 
+            "last_name": "Hectors", 
+            "gender": "m", 
+            "place": "Huijbergen", 
+            "full_name": "P.A.J.M. Hectors", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Koopmans", 
+            "gender": "m", 
+            "place": "Kruisland", 
+            "full_name": "L.P.V.M. Koopmans", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Jorien", 
+            "last_name": "Schrauwen-Jongeneelen", 
+            "gender": "v", 
+            "place": "Zegge", 
+            "full_name": "J.C.M. Schrauwen-Jongeneelen", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "Smulders", 
+            "gender": "v", 
+            "place": "Kaatsheuvel", 
+            "full_name": "C.J.W. Smulders", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Rina", 
+            "last_name": "Vanlaerhoven-Oostvogels", 
+            "gender": "v", 
+            "place": "Sprundel", 
+            "full_name": "C.M.J.G. Vanlaerhoven-Oostvogels", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Brons", 
+            "gender": "m", 
+            "place": "Oosterhout", 
+            "full_name": "P.M. Brons", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Wilma", 
+            "last_name": "Knipscheer-Spierings", 
+            "gender": "v", 
+            "place": "Sprang-Capelle", 
+            "full_name": "W.P. Knipscheer-Spierings", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Kavelaars", 
+            "gender": "m", 
+            "place": "Dinteloord", 
+            "full_name": "J.A.M. Kavelaars", 
+            "position": 31
+        }
+    ], 
+    "description": "Gecombineerd met Ons Water", 
+    "title": "Lijst 4 West-Brabant Waterbreed"
+}

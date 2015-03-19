@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jock", 
+            "last_name": "Geselschap", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.H. Geselschap", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Huug", 
+            "last_name": "Luigies", 
+            "gender": "m", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "H.H. Luigies", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "van den Eijnden", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "P.F.J. van den Eijnden", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Karima", 
+            "last_name": "Bouchtaoui", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "K. Bouchtaoui", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jeffry", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.G. de Jong", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Pahud de Mortanges", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.E.W. Pahud de Mortanges", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hendrik-Jan", 
+            "last_name": "Vos", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "H.J. Vos", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Feenstra", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "T.D.S. Feenstra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Wiekart", 
+            "gender": "m", 
+            "place": "Waddinxveen", 
+            "full_name": "A.A. Wiekart", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van Poeteren", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J. van Poeteren", 
+            "position": 10
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "van Eijk", 
+            "gender": "m", 
+            "place": "Zevenhuizen", 
+            "full_name": "J.G.H. van Eijk", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 VVD"
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sjef", 
+            "last_name": "Siemons", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.C. Siemons", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "De Mulder", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "R.V. De Mulder", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Aad", 
+            "last_name": "de Man", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "A.A. de Man", 
+            "position": 3
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Struijlaard", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.W.A. Struijlaard", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 50PLUS"
+}

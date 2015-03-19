@@ -1,0 +1,262 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ernest", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Uden", 
+            "full_name": "E.H.J.M. de Groot", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "Asten", 
+            "full_name": "J.G. Janssen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "de Zoeten", 
+            "gender": "v", 
+            "place": "Escharen", 
+            "full_name": "S.J. de Zoeten", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Toon", 
+            "last_name": "Voets", 
+            "gender": "m", 
+            "place": "Berghem", 
+            "full_name": "A.G.M. Voets", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "van der Laan", 
+            "gender": "m", 
+            "place": "Schaijk", 
+            "full_name": "K. van der Laan", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "van den Broek", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "J.J. van den Broek", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Francis", 
+            "last_name": "van Zandbrink", 
+            "gender": "v", 
+            "place": "Berlicum", 
+            "full_name": "F.A. van Zandbrink", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "Hendrickx", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "J. Hendrickx", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gert-Jan", 
+            "last_name": "Wientjens", 
+            "gender": "m", 
+            "place": "Uden", 
+            "full_name": "G.J.H.M. Wientjens", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "van Otterloo", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "R.H. van Otterloo", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jannes", 
+            "last_name": "van Hove", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "J. van Hove", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Wouter-Jan", 
+            "last_name": "Oosten", 
+            "gender": "m", 
+            "place": "Veghel", 
+            "full_name": "W. Oosten", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Adam", 
+            "last_name": "Brouwers", 
+            "gender": "m", 
+            "place": "Someren", 
+            "full_name": "A.P.G. Brouwers", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Helmich", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "M.K.N.M. Helmich", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Harald", 
+            "last_name": "Opdam", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "H.J.W.Y. Opdam", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Arno", 
+            "last_name": "Uijlenhoet", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "A. Uijlenhoet", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Léon", 
+            "last_name": "Weeterings", 
+            "gender": "m", 
+            "place": "Heesch", 
+            "full_name": "L.J.H.P. Weeterings", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Winston", 
+            "last_name": "Bouwman", 
+            "gender": "m", 
+            "place": "Schijndel", 
+            "full_name": "W.H.H. Bouwman", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Nabuurs", 
+            "gender": "m", 
+            "place": "Sint Hubert", 
+            "full_name": "J.A.G. Nabuurs", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "van der Wijst", 
+            "gender": "m", 
+            "place": "Zeeland", 
+            "full_name": "J.H.A.M. van der Wijst", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Teusink", 
+            "gender": "m", 
+            "place": "Cuijk", 
+            "full_name": "H. Teusink", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ger", 
+            "last_name": "Klaus", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "G.T.H. Klaus", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Panjer", 
+            "gender": "m", 
+            "place": "Veghel", 
+            "full_name": "F. Panjer", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Boot", 
+            "gender": "m", 
+            "place": "Schaijk", 
+            "full_name": "H.N.G.M. Boot", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Schaap", 
+            "gender": "m", 
+            "place": "Beugen", 
+            "full_name": "T.C. Schaap", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Toonen", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "A.W.J. Toonen", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Kaathoven", 
+            "gender": "m", 
+            "place": "Schijndel", 
+            "full_name": "P. van Kaathoven", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "van den Boomen", 
+            "gender": "m", 
+            "place": "Asten", 
+            "full_name": "M.A.T.M. van den Boomen", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Kaandorp", 
+            "gender": "m", 
+            "place": "Heeswijk-Dinther", 
+            "full_name": "J.H.P. Kaandorp", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Swinkels", 
+            "gender": "m", 
+            "place": "Deurne", 
+            "full_name": "F.G.J. Swinkels", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Verstegen", 
+            "gender": "m", 
+            "place": "Sint Hubert", 
+            "full_name": "G.V.M. Verstegen", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "van Poppel", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "P.H.M. van Poppel", 
+            "position": 32
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 Water Natuurlijk"
+}

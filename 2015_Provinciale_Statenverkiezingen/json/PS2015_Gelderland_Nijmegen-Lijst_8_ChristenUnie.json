@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Pieter", 
+            "last_name": "Plug", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "P. Plug", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Vreugdenhil", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "D.E. Vreugdenhil", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van 't Hoog", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "P. van 't Hoog", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Ebbers", 
+            "gender": "m", 
+            "place": "Zelhem", 
+            "full_name": "D.W. Ebbers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Janneke", 
+            "last_name": "Slingerland-Koppelaar", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "J. Slingerland-Koppelaar", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gijs", 
+            "last_name": "van den Brink", 
+            "gender": "m", 
+            "place": "Wezep", 
+            "full_name": "G. van den Brink", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van der Velde", 
+            "gender": "m", 
+            "place": "Wezep", 
+            "full_name": "G. van der Velde", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Martha", 
+            "last_name": "Kool-Tulp", 
+            "gender": "v", 
+            "place": "Tricht", 
+            "full_name": "M.A. Kool-Tulp", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Marc-Jan", 
+            "last_name": "Trouwborst", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "M.J.T. Trouwborst", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Janneke", 
+            "last_name": "Vos-Arwert", 
+            "gender": "v", 
+            "place": "Duiven", 
+            "full_name": "J.L. Vos-Arwert", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Govert", 
+            "last_name": "van Bezooijen", 
+            "gender": "m", 
+            "place": "Herwijnen", 
+            "full_name": "G. van Bezooijen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "de Haan", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "P. de Haan", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "Dickhof", 
+            "gender": "m", 
+            "place": "Elburg", 
+            "full_name": "J. Dickhof", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Lia", 
+            "last_name": "de Waard-Oudesluijs", 
+            "gender": "v", 
+            "place": "Emst", 
+            "full_name": "C.M. de Waard-Oudesluijs", 
+            "position": 14
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Oldenkamp", 
+            "gender": "m", 
+            "place": "Warnsveld", 
+            "full_name": "A. Oldenkamp", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Nunspeet", 
+            "full_name": "G. van den Berg", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Daniël", 
+            "last_name": "Jumelet", 
+            "gender": "m", 
+            "place": "Culemborg", 
+            "full_name": "S.A.D. Jumelet", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ilonka", 
+            "last_name": "Donker-Jak", 
+            "gender": "v", 
+            "place": "Harderwijk", 
+            "full_name": "I.J.J. Donker-Jak", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "van Willigen-Verstegen", 
+            "gender": "v", 
+            "place": "Asperen", 
+            "full_name": "A. van Willigen-Verstegen", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Joël", 
+            "last_name": "Kers", 
+            "gender": "m", 
+            "place": "Doornspijk", 
+            "full_name": "J.S. Kers", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "van den Dool", 
+            "gender": "m", 
+            "place": "Nederhemert", 
+            "full_name": "L.L. van den Dool", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "van der Stege", 
+            "gender": "m", 
+            "place": "Wapenveld", 
+            "full_name": "H.G. van der Stege", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Derck", 
+            "last_name": "Buitendijk", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "D. Buitendijk", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Hanny", 
+            "last_name": "van Brakel-Huijgen", 
+            "gender": "v", 
+            "place": "Randwijk", 
+            "full_name": "J.J. van Brakel-Huijgen", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "Doddema-Kodde", 
+            "gender": "v", 
+            "place": "Nijkerk", 
+            "full_name": "M.J. Doddema-Kodde", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Harten", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "J. van Harten", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Jet", 
+            "last_name": "Weigand-Timmer", 
+            "gender": "v", 
+            "place": "Ermelo", 
+            "full_name": "H.A.C. Weigand-Timmer", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Jacobien", 
+            "last_name": "van der Worp-Westerik", 
+            "gender": "v", 
+            "place": "Hattem", 
+            "full_name": "B.J. van der Worp-Westerik", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Peels", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "H.G.L. Peels", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "de Graaf", 
+            "gender": "m", 
+            "place": "Putten", 
+            "full_name": "E.H. de Graaf", 
+            "position": 30
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_8 ChristenUnie"
+}

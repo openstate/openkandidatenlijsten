@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Elco", 
+            "last_name": "Brinkman", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "L.C. Brinkman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sophie", 
+            "last_name": "van Bijsterveld", 
+            "gender": "v", 
+            "place": "Rijen", 
+            "full_name": "S.C. van Bijsterveld", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Greetje", 
+            "last_name": "de Vries-Leggedoor", 
+            "gender": "v", 
+            "place": "Nieuw-Buinen", 
+            "full_name": "G. de Vries-Leggedoor", 
+            "position": 3
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Nuth", 
+            "full_name": "P.R.H.M. van der Linden", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Anne", 
+            "last_name": "Flierman", 
+            "gender": "m", 
+            "place": "Markelo", 
+            "full_name": "A.H. Flierman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Maria", 
+            "last_name": "Martens", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "M.J.T. Martens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Franken", 
+            "gender": "m", 
+            "place": "Zoeterwoude", 
+            "full_name": "H. Franken", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Terpstra", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "G.H. Terpstra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wopke", 
+            "last_name": "Hoekstra", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "W.B. Hoekstra", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Pia", 
+            "last_name": "Lokin-Sassen", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "P.E.M.S. Lokin-Sassen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Siem", 
+            "last_name": "Buijs", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "S. Buijs", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Essers", 
+            "gender": "m", 
+            "place": "Loon op Zand", 
+            "full_name": "P.H.J. Essers", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Geart", 
+            "last_name": "Benedictus", 
+            "gender": "m", 
+            "place": "Joure", 
+            "full_name": "G. Benedictus", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Tiesinga", 
+            "gender": "m", 
+            "place": "Bant", 
+            "full_name": "H.L. Tiesinga", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Lianne", 
+            "last_name": "Dekker", 
+            "gender": "v", 
+            "place": "’s-Gravenhage", 
+            "full_name": "C.J. Dekker", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Huub", 
+            "last_name": "Doek", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "H.A. Doek", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "G.J. Jansen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Janse de Jonge", 
+            "gender": "m", 
+            "place": "Engelen", 
+            "full_name": "E.J. Janse de Jonge", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Klein Breteler", 
+            "gender": "m", 
+            "place": "Wateringen", 
+            "full_name": "J.J.A.H. Klein Breteler", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Karel", 
+            "last_name": "Leunissen", 
+            "gender": "m", 
+            "place": "Eijsden", 
+            "full_name": "K.M.L. Leunissen", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Marian", 
+            "last_name": "Passchier", 
+            "gender": "v", 
+            "place": "Katwijk ZH", 
+            "full_name": "M.J. Passchier", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Sebastiaan", 
+            "last_name": "Roes", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "J.S.L.A.W.B. Roes", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Luyer", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M. Luyer", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Boekhoud", 
+            "gender": "m", 
+            "place": "Barendrecht", 
+            "full_name": "P. Boekhoud", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Marja", 
+            "last_name": "van der Tas", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "M.A.J. van der Tas", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Marius", 
+            "last_name": "Buiting", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.M. Buiting", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Annie", 
+            "last_name": "Kamp", 
+            "gender": "v", 
+            "place": "Breukelen UT", 
+            "full_name": "J.G.J. Kamp", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Anne-Marie", 
+            "last_name": "Vreman-Muijrers", 
+            "gender": "v", 
+            "place": "Ede GLD", 
+            "full_name": "A.M.T. Vreman-Muijrers", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Fessem", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "W.M.M. van Fessem", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van den Heuvel", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "F.A.M. van den Heuvel", 
+            "position": 30
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 Christen Democratisch Appèl (CDA)"
+}

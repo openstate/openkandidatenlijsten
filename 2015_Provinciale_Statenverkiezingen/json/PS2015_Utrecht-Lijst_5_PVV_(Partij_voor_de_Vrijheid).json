@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "René", 
+            "last_name": "Dercksen", 
+            "gender": "m", 
+            "place": "Bosch en Duin", 
+            "full_name": "R.G.J. Dercksen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "IJssennagger", 
+            "gender": "m", 
+            "place": "Bilthoven", 
+            "full_name": "H. IJssennagger", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Elly", 
+            "last_name": "Broere-Kaal", 
+            "gender": "v", 
+            "place": "Soest", 
+            "full_name": "E.J. Broere-Kaal", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Ubaghs", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "W.J. Ubaghs", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Deún", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "H. van Deún", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ino", 
+            "last_name": "van den Besselaar", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "I.H.C. van den Besselaar", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Folkert", 
+            "last_name": "Thiadens", 
+            "gender": "m", 
+            "place": "Doorn", 
+            "full_name": "F.M. Thiadens", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Daan", 
+            "last_name": "van Eibergen Santhagens", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "D.C. van Eibergen Santhagens", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "van Well", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "P.R. van Well", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Joeri", 
+            "last_name": "Pool", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J. Pool", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Peter Frans", 
+            "last_name": "Koops", 
+            "gender": "m", 
+            "place": "Bunschoten-Spakenburg", 
+            "full_name": "P.F. Koops", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Ketjen", 
+            "gender": "m", 
+            "place": "Eemnes", 
+            "full_name": "J. Ketjen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Henken", 
+            "gender": "m", 
+            "place": "Elst Ut", 
+            "full_name": "G.J.H. Henken", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jochem", 
+            "last_name": "Daeter", 
+            "gender": "m", 
+            "place": "Montfoort", 
+            "full_name": "J.D.F. Daeter", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Michel", 
+            "last_name": "van der Horst", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "M.E.D. van der Horst", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 PVV (Partij voor de Vrijheid)"
+}

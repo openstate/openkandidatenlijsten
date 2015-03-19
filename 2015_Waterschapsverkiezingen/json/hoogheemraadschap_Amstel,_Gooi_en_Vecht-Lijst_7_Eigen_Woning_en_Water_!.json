@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hans", 
+            "last_name": "Bremer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.C. Bremer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ineke", 
+            "last_name": "Versélewel de Witt Hamer", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "Jkvr.J.W.M. Versélewel de Witt Hamer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Hollander", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "G.C. Hollander", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anneke", 
+            "last_name": "van de Wetering", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.E. van de Wetering", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hein", 
+            "last_name": "Eiting", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "H.J. Eiting", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jorg", 
+            "last_name": "Monker", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.A. Monker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Teun", 
+            "last_name": "Sevenheck", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "A.J.J. Sevenheck", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Albada Jelgersma", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.H.A. Albada Jelgersma", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Saim", 
+            "last_name": "Simsek", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S.G. Simsek", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Berend", 
+            "last_name": "Wapstra", 
+            "gender": "m", 
+            "place": "Laren", 
+            "full_name": "B. Wapstra", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Eigen Woning en Water !"
+}

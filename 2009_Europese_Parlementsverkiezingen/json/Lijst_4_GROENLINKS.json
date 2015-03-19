@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "Judith", 
+            "last_name": "Sargentini", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. Sargentini", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Eickhout", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "B. Eickhout", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marije", 
+            "last_name": "Cornelissen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M. Cornelissen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Niels", 
+            "last_name": "van den Berge", 
+            "gender": "m", 
+            "place": "Tholen", 
+            "full_name": "C.N. van den Berge", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Nadya", 
+            "last_name": "van Putten", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "N.L. van Putten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Rogier", 
+            "last_name": "Elshout", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "R.J. Elshout", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Isabelle", 
+            "last_name": "Diks", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "L.I. Diks", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Kosta", 
+            "last_name": "Skliris", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "K. Skliris", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Harold", 
+            "last_name": "Boerekamp", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "H.J.H. Boerekamp", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Inti", 
+            "last_name": "Suarez", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "I. Suarez", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Laura", 
+            "last_name": "Punt", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "L.E. Punt", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ewout", 
+            "last_name": "Deurwaarder", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "E.P. Deurwaarder", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Toine", 
+            "last_name": "Wuts", 
+            "gender": "m", 
+            "place": "Swalmen", 
+            "full_name": "A.M.J.G. Wuts", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "van den Berg", 
+            "gender": "v", 
+            "place": "Hooge Zwaluwe", 
+            "full_name": "K. van den Berg", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "van Abshoven", 
+            "gender": "m", 
+            "place": "Alphen aan den Rijn", 
+            "full_name": "P. van Abshoven", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Sebastiaan", 
+            "last_name": "van 't Erve", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "S.W. van 't Erve", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Strik", 
+            "gender": "v", 
+            "place": "Oosterbeek", 
+            "full_name": "M.H.A. Strik", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Lagendijk", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "J.J. Lagendijk", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Kathalijne", 
+            "last_name": "Buitenweg", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "K.M. Buitenweg", 
+            "position": 19
+        }
+    ], 
+    "description": "Gecombineerd met P.v.d.A./Europese Sociaaldemocraten", 
+    "title": "Lijst 4 GROENLINKS"
+}

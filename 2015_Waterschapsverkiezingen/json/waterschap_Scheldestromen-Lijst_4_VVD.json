@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Conny", 
+            "last_name": "Almekinders", 
+            "gender": "m", 
+            "place": "Cadzand", 
+            "full_name": "C.J. Almekinders", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Huisman", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "J. Huisman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Roelse", 
+            "gender": "m", 
+            "place": "Zoutelande", 
+            "full_name": "K. Roelse", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hubrecht", 
+            "last_name": "Janse", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "H. Janse", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "Mol", 
+            "gender": "m", 
+            "place": "'s-Heerenhoek", 
+            "full_name": "L. Mol", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gabri", 
+            "last_name": "Hoek", 
+            "gender": "m", 
+            "place": "Sint Maartensdijk", 
+            "full_name": "G.J. Hoek", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sal", 
+            "last_name": "Cracau", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "S.F. Cracau", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "van Oost", 
+            "gender": "m", 
+            "place": "Tholen", 
+            "full_name": "A.J.C. van Oost", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Stan", 
+            "last_name": "Jasperse", 
+            "gender": "m", 
+            "place": "Wolphaartsdijk", 
+            "full_name": "B.H. Jasperse", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Maanen", 
+            "gender": "m", 
+            "place": "Oostkapelle", 
+            "full_name": "W. van Maanen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Brand", 
+            "gender": "m", 
+            "place": "Hulst", 
+            "full_name": "P.J.W. Brand", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Glenn", 
+            "last_name": "Lijesen", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "C.M. Lijesen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van Geesbergen", 
+            "gender": "m", 
+            "place": "Zierikzee", 
+            "full_name": "H.J. van Geesbergen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Beumer", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "B.H. Beumer", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Christian", 
+            "last_name": "Koeman", 
+            "gender": "m", 
+            "place": "Kruiningen", 
+            "full_name": "C.G Koeman", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Stoel", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "P.A.J. Stoel", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Vermeulen", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "A. Vermeulen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Groeneveld", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "M. Groeneveld", 
+            "position": 18
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Ruissen", 
+            "gender": "m", 
+            "place": "Hulst", 
+            "full_name": "R. Ruissen", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Andre", 
+            "last_name": "Bosman", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "A. Bosman", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

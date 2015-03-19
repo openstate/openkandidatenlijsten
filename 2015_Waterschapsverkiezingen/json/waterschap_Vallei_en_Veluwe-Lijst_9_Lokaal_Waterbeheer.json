@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Kolk", 
+            "gender": "m", 
+            "place": "Harderwijk", 
+            "full_name": "J. van der Kolk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Landsbergen", 
+            "gender": "m", 
+            "place": "Bennekom", 
+            "full_name": "R.F. Landsbergen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk-Jan", 
+            "last_name": "van Hartskamp", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "H.J. van Hartskamp", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rien", 
+            "last_name": "Bor", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "M.K. Bor", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Motshagen", 
+            "gender": "m", 
+            "place": "Harderwijk", 
+            "full_name": "H.J.P. Motshagen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Hoeve", 
+            "gender": "m", 
+            "place": "Elburg", 
+            "full_name": "G.W. Hoeve", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Elly", 
+            "last_name": "Bos", 
+            "gender": "v", 
+            "place": "Beekbergen", 
+            "full_name": "E.C. Bos", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Hierden", 
+            "full_name": "W.B.A. Groen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mame", 
+            "last_name": "Douma", 
+            "gender": "m", 
+            "place": "Eerbeek", 
+            "full_name": "M. Douma", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marion", 
+            "last_name": "Riemens", 
+            "gender": "v", 
+            "place": "Eemnes", 
+            "full_name": "M.C.A. Riemens", 
+            "position": 10
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Beeldsnijder", 
+            "gender": "m", 
+            "place": "Renswoude", 
+            "full_name": "D.S.M. Beeldsnijder", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Geertje", 
+            "last_name": "Wiesenekker", 
+            "gender": "v", 
+            "place": "Rhenen", 
+            "full_name": "G. Wiesenekker", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Rein", 
+            "last_name": "Hazelaar", 
+            "gender": "m", 
+            "place": "Voorst", 
+            "full_name": "R.G.H. Hazelaar", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "van den Wildenberg", 
+            "gender": "v", 
+            "place": "Barneveld", 
+            "full_name": "J.A.G.M. van den Wildenberg", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "van de Hoef", 
+            "gender": "m", 
+            "place": "Woudenberg", 
+            "full_name": "M. van de Hoef", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Danielle", 
+            "last_name": "Gerritsen-van Bentem", 
+            "gender": "v", 
+            "place": "Doorwerth", 
+            "full_name": "C.D. Gerritsen-van Bentem", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Laponder", 
+            "gender": "m", 
+            "place": "Hoenderloo", 
+            "full_name": "J.C. Laponder", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "A.H. Janssen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Edwin", 
+            "last_name": "Kouwenberg", 
+            "gender": "m", 
+            "place": "Baarn", 
+            "full_name": "E.R. Kouwenberg", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Bunschoten", 
+            "full_name": "H. Bos", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Porte", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "G. Porte", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Brons", 
+            "gender": "m", 
+            "place": "Scherpenzeel", 
+            "full_name": "H.M. Brons", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Tijmen", 
+            "last_name": "Koelewijn", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "T. Koelewijn", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Bijsterbosch", 
+            "gender": "m", 
+            "place": "Wapenveld", 
+            "full_name": "J. Bijsterbosch", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Gradus", 
+            "last_name": "van Eek", 
+            "gender": "m", 
+            "place": "Vaassen", 
+            "full_name": "G.M. van Eek", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Lokaal Waterbeheer"
+}

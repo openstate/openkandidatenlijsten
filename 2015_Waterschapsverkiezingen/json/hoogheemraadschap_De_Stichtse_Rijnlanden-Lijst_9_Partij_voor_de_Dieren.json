@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Willem", 
+            "last_name": "van der Steeg", 
+            "gender": "m", 
+            "place": "De Meern", 
+            "full_name": "W. van der Steeg", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Anjo", 
+            "last_name": "Travaille", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "A. Travaille", 
+            "position": 2
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "van der Kruk", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "R. van der Kruk", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Barbara", 
+            "last_name": "van Genne", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "B. van Genne", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Korteweg", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "E.I. Korteweg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Claudia", 
+            "last_name": "Verkleij", 
+            "gender": "v", 
+            "place": "Everdingen", 
+            "full_name": "C. Verkleij", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Saskia", 
+            "last_name": "Oskam", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "S.W. Oskam", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wanda", 
+            "last_name": "Bodewitz", 
+            "gender": "v", 
+            "place": "Vleuten", 
+            "full_name": "W.A. Bodewitz", 
+            "position": 8
+        }
+    ], 
+    "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", 
+    "title": "Lijst 9 Partij voor de Dieren"
+}

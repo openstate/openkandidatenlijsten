@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Leny", 
+            "last_name": "van Vliet-Smit", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.J.J. van Vliet-Smit", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Rolf", 
+            "last_name": "Steenwinkel-Zhang", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.A. Steenwinkel-Zhang", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Mirugia", 
+            "last_name": "Sikkens", 
+            "gender": "v", 
+            "place": "Diemen", 
+            "full_name": "M.L.A. Sikkens", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Egbert", 
+            "last_name": "de Vries-Sandoval Taco", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.J. de Vries-Sandoval Taco", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bea", 
+            "last_name": "de Buisonjé", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B.H. de Buisonjé", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gerjet", 
+            "last_name": "Wisse", 
+            "gender": "m", 
+            "place": "Kockengen", 
+            "full_name": "G.J. Wisse", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Reinie", 
+            "last_name": "Kaas", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "R. Kaas", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Maasdijk", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.T.E.M. Maasdijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "van der Putten", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.L.F.B. van der Putten", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Femke", 
+            "last_name": "van Drooge", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "F.F. van Drooge", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Lourens", 
+            "last_name": "Burgers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L. Burgers", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Portegijs", 
+            "gender": "m", 
+            "place": "Diemen", 
+            "full_name": "N.C. Portegijs", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Winnubst", 
+            "gender": "m", 
+            "place": "Muiden", 
+            "full_name": "F.A.M. Winnubst", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "Post", 
+            "gender": "v", 
+            "place": "Duivendrecht", 
+            "full_name": "W. Post", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Erick", 
+            "last_name": "van de Wouw", 
+            "gender": "m", 
+            "place": "Blaricum", 
+            "full_name": "E.J. van de Wouw", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Kappert", 
+            "gender": "m", 
+            "place": "Weesp", 
+            "full_name": "J. Kappert", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Valentijn", 
+            "last_name": "Nilsson", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "V. Nilsson", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Annemarijke", 
+            "last_name": "Wooldrik-van Schooten", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.M.C.A. Wooldrik-van Schooten", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Manfred", 
+            "last_name": "van der Heijde", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.H.J. van der Heijde", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Job", 
+            "last_name": "Cohen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.J. Cohen", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)"
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tjitske", 
+            "last_name": "Kroon-Leegwater", 
+            "gender": "v", 
+            "place": "Voorschoten", 
+            "full_name": "G.T. Kroon-Leegwater", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Arno", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "A.M.J.M. Janssen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Zandberg", 
+            "gender": "m", 
+            "place": "Voorburg", 
+            "full_name": "J.G. Zandberg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Madelon", 
+            "last_name": "Janssen-Middelkoop", 
+            "gender": "v", 
+            "place": "Papendrecht", 
+            "full_name": "M.A.H. Janssen-Middelkoop", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_15 Vrijzinnige Partij"
+}

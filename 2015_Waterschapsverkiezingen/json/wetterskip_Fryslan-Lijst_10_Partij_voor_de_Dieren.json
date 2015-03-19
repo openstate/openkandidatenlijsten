@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Theo", 
+            "last_name": "Scheper", 
+            "gender": "m", 
+            "place": "De Wilgen", 
+            "full_name": "T.N. Scheper", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van Genne", 
+            "gender": "m", 
+            "place": "Makkinga", 
+            "full_name": "F. van Genne", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Johannes", 
+            "last_name": "Brouwer", 
+            "gender": "m", 
+            "place": "Oudemirdum", 
+            "full_name": "J. Brouwer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Dunnebier", 
+            "gender": "m", 
+            "place": "Feanwâldsterwâl", 
+            "full_name": "J.M. Dunnebier", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Rinie", 
+            "last_name": "van der Zanden", 
+            "gender": "v", 
+            "place": "Reitsum", 
+            "full_name": "C.J.M. van der Zanden", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Hilda", 
+            "last_name": "Feenstra", 
+            "gender": "v", 
+            "place": "Joure", 
+            "full_name": "H.K. Feenstra", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 Partij voor de Dieren"
+}

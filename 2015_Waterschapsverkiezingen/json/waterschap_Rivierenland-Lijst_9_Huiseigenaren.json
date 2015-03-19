@@ -1,0 +1,198 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sander", 
+            "last_name": "Heutink", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "S.W. Heutink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jozephina", 
+            "last_name": "van Es", 
+            "gender": "v", 
+            "place": "Gellicum", 
+            "full_name": "J.H.M. van Es", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Roland", 
+            "last_name": "van der Klauw", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "R.A. van der Klauw", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Stuurman", 
+            "gender": "v", 
+            "place": "Spijk", 
+            "full_name": "M.C. Stuurman", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "van Hemert", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "D.J. van Hemert", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Boaz", 
+            "last_name": "Stephens", 
+            "gender": "m", 
+            "place": "Heukelum", 
+            "full_name": "B. Stephens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Stephens", 
+            "gender": "m", 
+            "place": "Heukelum", 
+            "full_name": "J.W.A. Stephens", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "van Weverwijk", 
+            "gender": "v", 
+            "place": "Leerdam", 
+            "full_name": "A.M. van Weverwijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Marius", 
+            "last_name": "Verweij", 
+            "gender": "m", 
+            "place": "Acquoy", 
+            "full_name": "M. Verweij", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Joey", 
+            "last_name": "Duis von Damm", 
+            "gender": "m", 
+            "place": "Spijk", 
+            "full_name": "J.D. Duis von Damm", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "den Braven", 
+            "gender": "m", 
+            "place": "Kedichem", 
+            "full_name": "J. den Braven", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Liempt", 
+            "gender": "m", 
+            "place": "Nederhemert", 
+            "full_name": "P.W.F. van Liempt", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hak", 
+            "gender": "m", 
+            "place": "Almkerk", 
+            "full_name": "J. Hak", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Saskia", 
+            "last_name": "van Helvoirt", 
+            "gender": "v", 
+            "place": "Zaltbommel", 
+            "full_name": "S.J.J. van Helvoirt", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Eugène", 
+            "last_name": "Huijgen", 
+            "gender": "m", 
+            "place": "Buren", 
+            "full_name": "E.L.H. Huijgen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "van der Vliet", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "G.W.A.S. van der Vliet", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Wildschut", 
+            "gender": "m", 
+            "place": "Spijk", 
+            "full_name": "H.S. Wildschut", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Marian", 
+            "last_name": "Smithjes", 
+            "gender": "v", 
+            "place": "Leerdam", 
+            "full_name": "J.M.T. Smithjes", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Pieterse", 
+            "gender": "m", 
+            "place": "Beusichem", 
+            "full_name": "W. Pieterse", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Verhagen", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "J.J.M. Verhagen", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Wilms", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "K.P. Wilms", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Marry", 
+            "last_name": "Roos", 
+            "gender": "v", 
+            "place": "Leerdam", 
+            "full_name": "M. Roos", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Gise", 
+            "last_name": "van Mourik", 
+            "gender": "m", 
+            "place": "Geldermalsen", 
+            "full_name": "G. van Mourik", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "de With", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "D. de With", 
+            "position": 24
+        }
+    ], 
+    "description": "Gecombineerd met Lokale Regiobelangen Rivierenland", 
+    "title": "Lijst 9 Huiseigenaren"
+}

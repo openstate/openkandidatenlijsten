@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Leonie", 
+            "last_name": "Vestering", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "L. Vestering", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Melissa", 
+            "last_name": "Bax", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.C. Bax", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "van der Avoird", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "A.W.H.J. van der Avoird", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "van der Sloot", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "R. van der Sloot", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Francis", 
+            "last_name": "van Staa", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "F. van Staa", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jenny", 
+            "last_name": "Dekker", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "C.J.M. Dekker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Vlak", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "C. Vlak", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jessica", 
+            "last_name": "Jansen", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "J.S. Jansen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gelfske", 
+            "last_name": "Oostindie", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "G.A. Oostindie", 
+            "position": 9
+        }
+    ], 
+    "description": "Gecombineerd met 50PLUS", 
+    "title": "Lijst 11 Partij voor de Dieren"
+}

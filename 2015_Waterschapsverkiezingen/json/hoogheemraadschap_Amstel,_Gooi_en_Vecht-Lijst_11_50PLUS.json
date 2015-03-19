@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Peter", 
+            "last_name": "Prins", 
+            "gender": "m", 
+            "place": "Diemen", 
+            "full_name": "P.A. Prins", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Richter", 
+            "gender": "m", 
+            "place": "Vinkeveen", 
+            "full_name": "A.P.J. Richter", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Carlo", 
+            "last_name": "Braun", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.F. Braun", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Yuen", 
+            "last_name": "Ng", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "Y.K. Ng", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 50PLUS"
+}

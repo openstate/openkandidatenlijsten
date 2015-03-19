@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ramon", 
+            "last_name": "Barends", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "R. Barends", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sent", 
+            "last_name": "Wierda", 
+            "gender": "m", 
+            "place": "Lent", 
+            "full_name": "S.G. Wierda", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Sleegers", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "R.H.J.J. Sleegers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Annemarie", 
+            "last_name": "van Harten", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "A.M. van Harten", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Mohamed", 
+            "last_name": "Achouitar", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "M. Achouitar", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Johannes", 
+            "last_name": "Kon", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "A.J. Kon", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Cevdet", 
+            "last_name": "Aktaş", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "C. Aktaş", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Bilal", 
+            "last_name": "Yachou", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "B. Yachou", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Hicham", 
+            "last_name": "Chaoui", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "H. Chaoui", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Nelly", 
+            "last_name": "Sendar", 
+            "gender": "v", 
+            "place": "'s-Heerenberg", 
+            "full_name": "N. Sendar", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Brouwer", 
+            "gender": "m", 
+            "place": "Dieren", 
+            "full_name": "M.R. Brouwer", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Aziz", 
+            "last_name": "Yousufzai", 
+            "gender": "m", 
+            "place": "Venray", 
+            "full_name": "A. Yousufzai", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Magda", 
+            "last_name": "Rook", 
+            "gender": "v", 
+            "place": "Dieren", 
+            "full_name": "M.M.H. Rook", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Edelenbosch", 
+            "gender": "m", 
+            "place": "Enkhuizen", 
+            "full_name": "C. Edelenbosch", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Peters", 
+            "gender": "m", 
+            "place": "Groesbeek", 
+            "full_name": "J.H. Peters", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 PSP'92 Rivierenland"
+}

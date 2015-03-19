@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Arnold", 
+            "last_name": "Reinten", 
+            "gender": "m", 
+            "place": "Moskou (RU)", 
+            "full_name": "A.G. Reinten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Gerrie", 
+            "last_name": "de Jongh-Gijsberts", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "G.F. de Jongh-Gijsberts", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Rijnders", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "J.T.G. Rijnders", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Bergwerf", 
+            "gender": "m", 
+            "place": "Beilen", 
+            "full_name": "F. Bergwerf", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Dam", 
+            "gender": "m", 
+            "place": "Harderwijk", 
+            "full_name": "F.A.J. van Dam", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_18_-_Anti_Europa_Partij-Kieskring 9 Amsterdam"
+}

@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rinie", 
+            "last_name": "van der Zanden", 
+            "gender": "v", 
+            "place": "Reitsum", 
+            "full_name": "C.J.M. van der Zanden", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Annemarie", 
+            "last_name": "van Gelder", 
+            "gender": "v", 
+            "place": "Makkinga", 
+            "full_name": "A.M.E. van Gelder", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "van Heuven", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "V.J.J.P. van Heuven", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lyde", 
+            "last_name": "Bander", 
+            "gender": "v", 
+            "place": "Donkerbroek", 
+            "full_name": "L.E. Bander", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Scheper", 
+            "gender": "m", 
+            "place": "De Wilgen", 
+            "full_name": "T.N. Scheper", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Daniëlle", 
+            "last_name": "Hutter", 
+            "gender": "v", 
+            "place": "Harlingen", 
+            "full_name": "D.C.J. Hutter", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hilda", 
+            "last_name": "Feenstra", 
+            "gender": "v", 
+            "place": "Joure", 
+            "full_name": "H.K. Feenstra", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marien", 
+            "last_name": "Abrahamse", 
+            "gender": "m", 
+            "place": "Reitsum", 
+            "full_name": "M.C.J. Abrahamse", 
+            "position": 8
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Dunnebier", 
+            "gender": "m", 
+            "place": "Feanwâldsterwâl", 
+            "full_name": "J.M. Dunnebier", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Gallé", 
+            "gender": "m", 
+            "place": "Britsum", 
+            "full_name": "H.W.M. Gallé", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "van Wijlick", 
+            "gender": "v", 
+            "place": "Burgum", 
+            "full_name": "S.G.D.M. van Wijlick", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van Genne", 
+            "gender": "m", 
+            "place": "Makkinga", 
+            "full_name": "F. van Genne", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Annemarie", 
+            "last_name": "Postma", 
+            "gender": "v", 
+            "place": "Oudehorne", 
+            "full_name": "A. Postma", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 Partij voor de Dieren"
+}

@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Peter", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Kattendijke", 
+            "full_name": "P. van Dijk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Haaze", 
+            "gender": "m", 
+            "place": "Arnemuiden", 
+            "full_name": "R.M. Haaze", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Caroline", 
+            "last_name": "Kooman", 
+            "gender": "v", 
+            "place": "Sluiskil", 
+            "full_name": "C.V.A. Kooman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Roland", 
+            "last_name": "de Wit", 
+            "gender": "m", 
+            "place": "Veere", 
+            "full_name": "R.L.J.M. de Wit", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marina", 
+            "last_name": "Eckhardt", 
+            "gender": "v", 
+            "place": "Vogelwaarde", 
+            "full_name": "M.D. Eckhardt", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "Bosch", 
+            "gender": "m", 
+            "place": "Poortvliet", 
+            "full_name": "V.L. Bosch", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "Mareels", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "V. Mareels", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Schenk", 
+            "gender": "m", 
+            "place": "Rilland", 
+            "full_name": "M. Schenk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Quaak", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "F.H. Quaak", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Luijten", 
+            "gender": "m", 
+            "place": "Sluiskil", 
+            "full_name": "P.A.F. Luijten", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Joyce", 
+            "last_name": "Ramgatie", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "J.S. Ramgatie", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Steven", 
+            "last_name": "Mareels", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "S. Mareels", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Loes", 
+            "last_name": "Roth-Heijman", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "L.G.J.H. Roth-Heijman", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Quist", 
+            "gender": "m", 
+            "place": "Heinkenszand", 
+            "full_name": "D.H.B. Quist", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Bouwens", 
+            "gender": "m", 
+            "place": "Aagtekerke", 
+            "full_name": "A.A. Bouwens", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 PVV (Partij voor de Vrijheid)"
+}

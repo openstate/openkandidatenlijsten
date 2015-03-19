@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Joop", 
+            "last_name": "van Ooijen", 
+            "gender": "", 
+            "place": "Giessenburg", 
+            "full_name": "J.A.C. van Ooijen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Andreas", 
+            "last_name": "van Ooijen", 
+            "gender": "", 
+            "place": "Giessenburg", 
+            "full_name": "A. van Ooijen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "van Hoek", 
+            "gender": "", 
+            "place": "Etten-Leur", 
+            "full_name": "J.B.C.W.J.R. van Hoek", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Laurens", 
+            "last_name": "Vonder", 
+            "gender": "", 
+            "place": "Zeewolde", 
+            "full_name": "L.J. Vonder", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Victor", 
+            "last_name": "Oudhoff", 
+            "gender": "", 
+            "place": "Oosterhout", 
+            "full_name": "V. Oudhoff", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "de Visser", 
+            "gender": "", 
+            "place": "Gorinchem", 
+            "full_name": "W. de Visser", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Cornelis", 
+            "last_name": "van Breugel", 
+            "gender": "", 
+            "place": "Giessen", 
+            "full_name": "C.H. van Breugel", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Romijn", 
+            "gender": "", 
+            "place": "Papendrecht", 
+            "full_name": "J. Romijn", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jane", 
+            "last_name": "Winters", 
+            "gender": "", 
+            "place": "Gorinchem", 
+            "full_name": "J. Winters", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 16 JEZUS LEEFT"
+}

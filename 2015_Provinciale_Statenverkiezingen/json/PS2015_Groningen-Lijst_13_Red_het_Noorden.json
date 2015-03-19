@@ -1,0 +1,22 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jerry", 
+            "last_name": "Scholtens", 
+            "gender": "m", 
+            "place": "Smilde", 
+            "full_name": "G.A. Scholtens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Muijzert", 
+            "gender": "m", 
+            "place": "Oude Pekela", 
+            "full_name": "P.C.J. Muijzert", 
+            "position": 2
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 Red het Noorden"
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Opschoor", 
+            "gender": "m", 
+            "place": "Nederhemert", 
+            "full_name": "J. Opschoor", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Bakkers", 
+            "gender": "m", 
+            "place": "Millingen aan de Rijn", 
+            "full_name": "R.G.J. Bakkers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Weijers", 
+            "gender": "m", 
+            "place": "Wijchen", 
+            "full_name": "T.A. Weijers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Walter", 
+            "last_name": "Verhoeven", 
+            "gender": "m", 
+            "place": "Elst", 
+            "full_name": "W.J.H. Verhoeven", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 50PLUS"
+}

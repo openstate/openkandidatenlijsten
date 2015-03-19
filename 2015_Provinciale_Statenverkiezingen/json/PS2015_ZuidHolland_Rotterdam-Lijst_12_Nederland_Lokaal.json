@@ -1,0 +1,278 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hilbrand", 
+            "last_name": "Nawijn", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "H.P.A. Nawijn", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "de Sutter-Besters", 
+            "gender": "v", 
+            "place": "Rozenburg", 
+            "full_name": "M.J. de Sutter-Besters", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Lammers", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "R. Lammers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Jense", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "D. Jense", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Susan", 
+            "last_name": "de Kluis", 
+            "gender": "v", 
+            "place": "Berkel en Rodenrijs", 
+            "full_name": "S.C. de Kluis", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "Paulides", 
+            "gender": "m", 
+            "place": "Wassenaar", 
+            "full_name": "B.G. Paulides", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Marga", 
+            "last_name": "van Hulst-Sundermeijer", 
+            "gender": "v", 
+            "place": "Nieuw-Beijerland", 
+            "full_name": "A.M.E. van Hulst-Sundermeijer", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Necat", 
+            "last_name": "Kaya", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "N. Kaya", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Cheryta", 
+            "last_name": "Buijs-Oschatz", 
+            "gender": "v", 
+            "place": "Bleiswijk", 
+            "full_name": "C.H. Buijs-Oschatz", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ed", 
+            "last_name": "Arnold", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "E.R. Arnold", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Oudman", 
+            "gender": "m", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "H.H. Oudman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hanneke", 
+            "last_name": "Ouwens", 
+            "gender": "v", 
+            "place": "Dordrecht", 
+            "full_name": "J. Ouwens", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "van der Drift", 
+            "gender": "m", 
+            "place": "Wassenaar", 
+            "full_name": "P.A. van der Drift", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Faber", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J. Faber", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Mart", 
+            "last_name": "Speelman", 
+            "gender": "m", 
+            "place": "Pernis Rotterdam", 
+            "full_name": "M. Speelman", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Teus", 
+            "last_name": "Meijdam", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "T. Meijdam", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Biemen", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "H.R. van Biemen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Buijs", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "C.G.Q. Buijs", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Anita", 
+            "last_name": "Rosa", 
+            "gender": "v", 
+            "place": "Rijswijk", 
+            "full_name": "A.J. Rosa", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Helmich", 
+            "last_name": "Rigter", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "H.J. Rigter", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "de Korte", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "W.M. de Korte", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van den Hoek", 
+            "gender": "m", 
+            "place": "Maassluis", 
+            "full_name": "J. van den Hoek", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Gerdingen", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "W.P. van Gerdingen", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Luijendijk", 
+            "gender": "m", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "H. Luijendijk", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Koning", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "J.M. de Koning", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Los", 
+            "gender": "m", 
+            "place": "Ridderkerk", 
+            "full_name": "A. Los", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van As", 
+            "gender": "m", 
+            "place": "Alphen aan den Rijn", 
+            "full_name": "G.P. van As", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Wiebe", 
+            "last_name": "Pannekoek", 
+            "gender": "m", 
+            "place": "Spijkenisse", 
+            "full_name": "W. Pannekoek", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Stoelinga", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "M.H.J.M. Stoelinga", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Jan Peter", 
+            "last_name": "de Wit", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "J.P. de Wit", 
+            "position": 30
+        }, 
+        {
+            "first_name": "José", 
+            "last_name": "van Noort", 
+            "gender": "v", 
+            "place": "Geervliet", 
+            "full_name": "J.J. van Noort", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Middendorp", 
+            "gender": "m", 
+            "place": "Hoogvliet Rotterdam", 
+            "full_name": "W.A.A. Middendorp", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Hendriks", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.A.M. Hendriks", 
+            "position": 33
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Euser", 
+            "gender": "m", 
+            "place": "Albrandswaard", 
+            "full_name": "B.G. Euser", 
+            "position": 34
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_12 Nederland Lokaal"
+}

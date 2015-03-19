@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Roy", 
+            "last_name": "Pustjens", 
+            "gender": "m", 
+            "place": "Nieuwstadt", 
+            "full_name": "R.P.E. Pustjens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Küppers", 
+            "gender": "m", 
+            "place": "Vlodrop", 
+            "full_name": "P.P. Küppers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Breugelmans", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "M.A.M. Breugelmans", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marij", 
+            "last_name": "Cox-Sevenich", 
+            "gender": "v", 
+            "place": "Roermond", 
+            "full_name": "M.H. Cox-Sevenich", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Sylvester", 
+            "last_name": "Mussche", 
+            "gender": "m", 
+            "place": "Maasbracht", 
+            "full_name": "S. Mussche", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Horsmans", 
+            "gender": "m", 
+            "place": "Maria Hoop", 
+            "full_name": "R.J.G.M. Horsmans", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "Wijnbeld", 
+            "gender": "v", 
+            "place": "Roermond", 
+            "full_name": "M.L.F. Wijnbeld", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Edwin", 
+            "last_name": "Kurstjens", 
+            "gender": "m", 
+            "place": "Montfort", 
+            "full_name": "E.G.C.J. Kurstjens", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ydo", 
+            "last_name": "Hoeben", 
+            "gender": "m", 
+            "place": "Maria Hoop", 
+            "full_name": "Y.A. Hoeben", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "van Melick", 
+            "gender": "m", 
+            "place": "Melick", 
+            "full_name": "H.B.J. van Melick", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Kemp", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "W.A.J. Kemp", 
+            "position": 11
+        }
+    ], 
+    "description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Westelijke Mijnstreek en Waterbelang", 
+    "title": "Lijst 6 Waterbelang Midden-Limburg"
+}

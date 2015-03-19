@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Reinout", 
+            "last_name": "Woittiez", 
+            "gender": "m", 
+            "place": "Doorn", 
+            "full_name": "R.D. Woittiez", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sebastiaan", 
+            "last_name": "Groenendijk", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "S. Groenendijk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Katrien", 
+            "last_name": "Varenhorst", 
+            "gender": "v", 
+            "place": "Odijk", 
+            "full_name": "K. Varenhorst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Joël", 
+            "last_name": "Scherrenberg", 
+            "gender": "m", 
+            "place": "De Bilt", 
+            "full_name": "J.J.M.W. Scherrenberg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Duijvelaar", 
+            "gender": "m", 
+            "place": "IJsselstein", 
+            "full_name": "K.A.M. Duijvelaar", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Mees", 
+            "gender": "m", 
+            "place": "Kamerik", 
+            "full_name": "R.A. Mees", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "van Linge", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "E.D. van Linge", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

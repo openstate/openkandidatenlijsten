@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Arno", 
+            "last_name": "Uijlenhoet", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "A. Uijlenhoet", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Kruitwagen", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "L.T.J. Kruitwagen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Veronique", 
+            "last_name": "Swinkels", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "V.M. Swinkels", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Taco", 
+            "last_name": "Dankers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.E.H. Dankers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Wencke", 
+            "last_name": "van der Meijden", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "W.M. van der Meijden", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "de Bourgraaf", 
+            "gender": "m", 
+            "place": "Groenekan", 
+            "full_name": "P. de Bourgraaf", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Thijs", 
+            "last_name": "van der Rol", 
+            "gender": "m", 
+            "place": "Castricum", 
+            "full_name": "T. van der Rol", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Reinder", 
+            "last_name": "Rustema", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. Rustema", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 Newropeans"
+}

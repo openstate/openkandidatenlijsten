@@ -1,0 +1,238 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marianne", 
+            "last_name": "Luyer", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M. Luyer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan Nico", 
+            "last_name": "Appelman", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "J.N.J. Appelman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Schotman", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "C.J. Schotman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wobbe", 
+            "last_name": "Bouma", 
+            "gender": "m", 
+            "place": "Luttelgeest", 
+            "full_name": "W.R. Bouma", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "van Slooten", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "J. van Slooten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Hopster", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "J. Hopster", 
+            "position": 6
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Claessens", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "R.J.H. Claessens", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "Westra", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "A.M. Westra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Lub", 
+            "last_name": "Ras", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "L. Ras", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Sanderse", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "C.F. Sanderse", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Greta", 
+            "last_name": "Kramer", 
+            "gender": "v", 
+            "place": "Tollebeek", 
+            "full_name": "G.H. Kramer", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jennie", 
+            "last_name": "Kempenaar-van Ittersum", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "J.W. Kempenaar-van Ittersum", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ina", 
+            "last_name": "Pater", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.M. Pater", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ine", 
+            "last_name": "van Maaren-Kamerbeek", 
+            "gender": "v", 
+            "place": "Urk", 
+            "full_name": "W.H.J. van Maaren-Kamerbeek", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Scholtmeijer", 
+            "gender": "m", 
+            "place": "Emmeloord", 
+            "full_name": "H. Scholtmeijer", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "van Gool", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "P.W.A. van Gool", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Hennie", 
+            "last_name": "Molenaar-Kiefte", 
+            "gender": "v", 
+            "place": "Urk", 
+            "full_name": "H. Molenaar-Kiefte", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Andre", 
+            "last_name": "Schuuring", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "A.J. Schuuring", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Thea", 
+            "last_name": "Douve", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "T.H. Douve", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Brouwer", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "K. Brouwer", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Egge Jan", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "E.J. de Jonge", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "van der Kroef", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J. van der Kroef", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Nelleke", 
+            "last_name": "van der Klis-Hovius", 
+            "gender": "v", 
+            "place": "Swifterbant", 
+            "full_name": "N.G. van der Klis-Hovius", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Faber", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "W.G. Faber", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Klopman", 
+            "gender": "m", 
+            "place": "Biddinghuizen", 
+            "full_name": "J. Klopman", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Hasper", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "H.J. Hasper", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Ferdinand", 
+            "last_name": "Zomerman", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "F.E.G. Zomerman", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Andries", 
+            "last_name": "Greiner", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "A.L. Greiner", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Graaf", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "J. de Graaf", 
+            "position": 29
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 CDA"
+}

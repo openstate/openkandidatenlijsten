@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ingrid", 
+            "last_name": "ter Woorst", 
+            "gender": "v", 
+            "place": "Delft", 
+            "full_name": "I.J.A. ter Woorst", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Belt", 
+            "gender": "m", 
+            "place": "Voorburg", 
+            "full_name": "M.W. Belt", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Lars", 
+            "last_name": "Nanninga", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "L.W. Nanninga", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Karen", 
+            "last_name": "Bebelaar", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "K. Bebelaar", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Anny", 
+            "last_name": "Beckers", 
+            "gender": "v", 
+            "place": "Pijnacker-Nootdorp", 
+            "full_name": "J.H. Beckers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "Jansen Verplanke", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.P. Jansen Verplanke", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Clement", 
+            "gender": "m", 
+            "place": "Vlaardingen", 
+            "full_name": "C. Clement", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Vissers", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "M. Vissers", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Riëtte", 
+            "last_name": "van der Werff", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "H.M. van der Werff", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Kleefman", 
+            "gender": "m", 
+            "place": "Maasdijk", 
+            "full_name": "R. Kleefman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Martje", 
+            "last_name": "Storm", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M.G.A. Storm", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jeannine", 
+            "last_name": "Engels", 
+            "gender": "v", 
+            "place": "Monster", 
+            "full_name": "J. Engels", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ryanne", 
+            "last_name": "Daalmijer", 
+            "gender": "v", 
+            "place": "Nootdorp", 
+            "full_name": "A.F. Daalmijer", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Stienstra", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "P. Stienstra", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marin", 
+            "last_name": "van Ruremonde", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "M.A.J.G. van Ruremonde", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "J.A. van Dijk", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Verhoeff", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J. Verhoeff", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Mareille", 
+            "last_name": "Konijn", 
+            "gender": "v", 
+            "place": "Delft", 
+            "full_name": "M.C.F. Konijn", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "van der Velde", 
+            "gender": "m", 
+            "place": "Vlaardingen", 
+            "full_name": "B.E. van der Velde", 
+            "position": 19
+        }
+    ], 
+    "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", 
+    "title": "Lijst 3 Water Natuurlijk"
+}

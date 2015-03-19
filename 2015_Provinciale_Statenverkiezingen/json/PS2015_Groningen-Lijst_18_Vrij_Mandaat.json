@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Johannes", 
+            "last_name": "Veerenhuis-Lens", 
+            "gender": "m", 
+            "place": "Vlagtwedde", 
+            "full_name": "J.W.M. Veerenhuis-Lens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Bolhuis", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J. Bolhuis", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wibe", 
+            "last_name": "Snelting", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "W.B.P.M. Snelting", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "van de Wardt-Olde Riekerink", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "M. van de Wardt-Olde Riekerink", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Grupstra", 
+            "gender": "m", 
+            "place": "Nieuwolda", 
+            "full_name": "M.F. Grupstra", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "van der Velde", 
+            "gender": "v", 
+            "place": "Wedde", 
+            "full_name": "P.M. van der Velde", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hut", 
+            "gender": "m", 
+            "place": "Zevenhuizen", 
+            "full_name": "J.H. Hut", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Aaldrik", 
+            "last_name": "Menkema", 
+            "gender": "m", 
+            "place": "Tjuchem", 
+            "full_name": "A. Menkema", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Josefien", 
+            "last_name": "Taatgen", 
+            "gender": "v", 
+            "place": "Wildervank", 
+            "full_name": "J. Taatgen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Johanna", 
+            "last_name": "Veerenhuis", 
+            "gender": "v", 
+            "place": "Vlagtwedde", 
+            "full_name": "J.J. Veerenhuis", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 18 Vrij Mandaat"
+}

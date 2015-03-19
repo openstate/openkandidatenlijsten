@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Reerink", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "J.G.M. Reerink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van Bork", 
+            "gender": "m", 
+            "place": "Woerden", 
+            "full_name": "F.J. van Bork", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Constantijn", 
+            "last_name": "Jansen op de Haar", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "C.G. Jansen op de Haar", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Steen", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "J.H. Steen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "Mutsaers", 
+            "gender": "m", 
+            "place": "Hollandsche Rading", 
+            "full_name": "H.P.M. Mutsaers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Mario", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "M.C. van Dijk", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jikke", 
+            "last_name": "Balkema", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "J.A. Balkema", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Nicole", 
+            "last_name": "Teeuwen", 
+            "gender": "v", 
+            "place": "Houten", 
+            "full_name": "N.A. Teeuwen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sheila", 
+            "last_name": "Kroes-van Sauers", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "S.L. Kroes-van Sauers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Ruigrok", 
+            "gender": "v", 
+            "place": "Oudewater", 
+            "full_name": "M.C.A.A. Ruigrok", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ineke", 
+            "last_name": "Holierook", 
+            "gender": "v", 
+            "place": "Elst Ut", 
+            "full_name": "I. Holierook", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bülent", 
+            "last_name": "Işik", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "B. Işik", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Erwin", 
+            "last_name": "Kordes", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "E.J.M. Kordes", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "van Kuijk", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "A. van Kuijk", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Bouchra", 
+            "last_name": "Dibi", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "B. Dibi", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Levering", 
+            "gender": "m", 
+            "place": "Montfoort", 
+            "full_name": "B. Levering", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "Vellekoop", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "L.E.C. Vellekoop", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Bergen", 
+            "gender": "m", 
+            "place": "Wijk bij Duurstede", 
+            "full_name": "J.G.P. van Bergen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Riet", 
+            "last_name": "van der Nat", 
+            "gender": "v", 
+            "place": "Nieuwegein", 
+            "full_name": "G.H. van der Nat", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Kaas", 
+            "gender": "m", 
+            "place": "Odijk", 
+            "full_name": "D. Kaas", 
+            "position": 20
+        }
+    ], 
+    "description": "Gecombineerd met Partij voor de Dieren", 
+    "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)"
+}

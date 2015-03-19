@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "René", 
+            "last_name": "Cruijsen", 
+            "gender": "m", 
+            "place": "Dreumel", 
+            "full_name": "R.G.C.M. Cruijsen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Stefan", 
+            "last_name": "Daamen", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "S.H.B. Daamen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Annie", 
+            "last_name": "van Wichen-Reijnen", 
+            "gender": "v", 
+            "place": "Niftrik", 
+            "full_name": "J.J. van Wichen-Reijnen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Lammers", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "R. Lammers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Wiggers", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "N.K.J. Wiggers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gretha", 
+            "last_name": "van den Berg-Verheul", 
+            "gender": "v", 
+            "place": "Bleskensgraaf", 
+            "full_name": "M.M. van den Berg-Verheul", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Harm", 
+            "last_name": "Dorenbos", 
+            "gender": "m", 
+            "place": "Ochten", 
+            "full_name": "H. Dorenbos", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Anne Marie", 
+            "last_name": "Brand", 
+            "gender": "v", 
+            "place": "Culemborg", 
+            "full_name": "A.M. Brand", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Gommers", 
+            "gender": "m", 
+            "place": "Dussen", 
+            "full_name": "J.C.C.M. Gommers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Renate", 
+            "last_name": "van Maaren", 
+            "gender": "v", 
+            "place": "Gorinchem", 
+            "full_name": "A.P. van Maaren", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Cler", 
+            "last_name": "Sels", 
+            "gender": "m", 
+            "place": "Alblasserdam", 
+            "full_name": "K. Sels", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Pluimes", 
+            "gender": "m", 
+            "place": "Dussen", 
+            "full_name": "J.P.R. Pluimes", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Leegwater", 
+            "gender": "m", 
+            "place": "Beuningen", 
+            "full_name": "R. Leegwater", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Lammers", 
+            "gender": "m", 
+            "place": "Ochten", 
+            "full_name": "J.G. Lammers", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Remco", 
+            "last_name": "van de Ven", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "R.G. van de Ven", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "van Amerongen", 
+            "gender": "m", 
+            "place": "Ochten", 
+            "full_name": "E. van Amerongen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Marga", 
+            "last_name": "Nillesen-Fleuren", 
+            "gender": "v", 
+            "place": "Groesbeek", 
+            "full_name": "M.G.W. Nillesen-Fleuren", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "Dielen", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "L. Dielen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "Barber", 
+            "gender": "v", 
+            "place": "Ooij", 
+            "full_name": "M.A. Barber", 
+            "position": 19
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 Algemene Waterschapspartij"
+}

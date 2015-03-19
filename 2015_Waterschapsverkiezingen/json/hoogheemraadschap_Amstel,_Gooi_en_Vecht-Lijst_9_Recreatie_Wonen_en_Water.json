@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ton", 
+            "last_name": "Vendrig", 
+            "gender": "m", 
+            "place": "Nederhorst den Berg", 
+            "full_name": "A.A.A. Vendrig", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Waveren", 
+            "gender": "m", 
+            "place": "Loosdrecht", 
+            "full_name": "J.C. van Waveren", 
+            "position": 2
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Pos", 
+            "gender": "m", 
+            "place": "Ankeveen", 
+            "full_name": "D. Pos", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Krook", 
+            "gender": "m", 
+            "place": "Loosdrecht", 
+            "full_name": "A. Krook", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Karen", 
+            "last_name": "Heerschop", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "H.C. Heerschop", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Friso", 
+            "last_name": "van Voorthuizen", 
+            "gender": "m", 
+            "place": "Ankeveen", 
+            "full_name": "W.F. van Voorthuizen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "van Wijk", 
+            "gender": "m", 
+            "place": "Vinkeveen", 
+            "full_name": "J.W.M. van Wijk", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Annetta", 
+            "last_name": "Klaassen", 
+            "gender": "v", 
+            "place": "Weesp", 
+            "full_name": "A.C. Klaassen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Broer", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "W. Broer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Koen", 
+            "last_name": "Bolt", 
+            "gender": "m", 
+            "place": "Vinkeveen", 
+            "full_name": "K. Bolt", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Freek", 
+            "last_name": "Goos", 
+            "gender": "m", 
+            "place": "Nederhorst den Berg", 
+            "full_name": "F. Goos", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "van Zanten", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.P.T. van Zanten", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Doede", 
+            "last_name": "Keuning", 
+            "gender": "m", 
+            "place": "Weesp", 
+            "full_name": "D. Keuning", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Recreatie Wonen en Water"
+}

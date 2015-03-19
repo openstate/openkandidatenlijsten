@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sammy", 
+            "last_name": "van Tuyll van Serooskerken", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "S.E. van Tuyll van Serooskerken", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Det", 
+            "last_name": "Regts", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "D. Regts", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "Cozijnsen", 
+            "gender": "m", 
+            "place": "Zandvoort", 
+            "full_name": "A.J. Cozijnsen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Diederik", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "D.W.J. Visser", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Beijlsmit", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "L.E. Beijlsmit", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Eenennaam", 
+            "gender": "m", 
+            "place": "Heiloo", 
+            "full_name": "P.J. van Eenennaam", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Niek", 
+            "last_name": "van Trigt", 
+            "gender": "m", 
+            "place": "Aerdenhout", 
+            "full_name": "G.N. van Trigt", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Charlotte", 
+            "last_name": "Lemmens", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "J.C. Lemmens", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Huijskes", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "L.D. Huijskes", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van de Camp", 
+            "gender": "m", 
+            "place": "Nuenen", 
+            "full_name": "F.N.B. van de Camp", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Cohen Tervaert", 
+            "gender": "m", 
+            "place": "Bosch en Duin", 
+            "full_name": "D.G. Cohen Tervaert", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 15 Liberaal Democratische Partij"
+}

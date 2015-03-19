@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Micha", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "T.R.M. Kuiper", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Andien", 
+            "last_name": "van den Heuvel", 
+            "gender": "v", 
+            "place": "Amstelveen", 
+            "full_name": "A.G.M. van den Heuvel", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Sträter", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P.J.M. Sträter", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Melanie", 
+            "last_name": "Riedewald", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.A. Riedewald", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Brockhus", 
+            "gender": "m", 
+            "place": "Huizen", 
+            "full_name": "R.M. Brockhus", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Martjan", 
+            "last_name": "Loot", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "M.C.J.L. Loot", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Rascha", 
+            "last_name": "Wisse", 
+            "gender": "v", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "R.V. Wisse", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Zeliha", 
+            "last_name": "Basoglu", 
+            "gender": "v", 
+            "place": "Koedijk", 
+            "full_name": "F.Z. Basoglu", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 Partij voor Mens en Spirit (MenS)"
+}

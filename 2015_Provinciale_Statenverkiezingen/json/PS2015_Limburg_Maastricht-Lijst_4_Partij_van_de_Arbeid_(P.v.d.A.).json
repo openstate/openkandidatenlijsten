@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Eric", 
+            "last_name": "Geurts", 
+            "gender": "m", 
+            "place": "Brunssum", 
+            "full_name": "E. Geurts", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "P.H. van Dijk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Bosch", 
+            "gender": "m", 
+            "place": "Kerkrade", 
+            "full_name": "J.G.G. Bosch", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Aleida", 
+            "last_name": "Berghorst", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "A. Berghorst", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Reinaerts", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "J.L.H. Reinaerts", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Lars", 
+            "last_name": "Kockelkoren", 
+            "gender": "m", 
+            "place": "Nuth", 
+            "full_name": "L.E.H. Kockelkoren", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "Tromp", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "A. Tromp", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "Heuvelmans", 
+            "gender": "m", 
+            "place": "Weert", 
+            "full_name": "L.F.A. Heuvelmans", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Hudales", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "T.R.G.F. Hudales", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Seddik", 
+            "last_name": "Ghoule", 
+            "gender": "m", 
+            "place": "Elsloo", 
+            "full_name": "S. Ghoule", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Rainer", 
+            "last_name": "Kersten", 
+            "gender": "m", 
+            "place": "Lemiers", 
+            "full_name": "R.H. Kersten", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Maurice", 
+            "last_name": "Weusten", 
+            "gender": "m", 
+            "place": "Beek", 
+            "full_name": "M.J.G.E. Weusten", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Lisa", 
+            "last_name": "Wolters", 
+            "gender": "v", 
+            "place": "Susteren", 
+            "full_name": "L.C.C.M. Wolters", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ferry", 
+            "last_name": "Ubachs", 
+            "gender": "m", 
+            "place": "Sittard-Geleen", 
+            "full_name": "G.F.A. Ubachs", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Pierre", 
+            "last_name": "Verbraak", 
+            "gender": "m", 
+            "place": "Klimmen", 
+            "full_name": "P.J.J. Verbraak", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Robin", 
+            "last_name": "Reichrath", 
+            "gender": "m", 
+            "place": "Landgraaf", 
+            "full_name": "R. Reichrath", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Franssen", 
+            "gender": "m", 
+            "place": "Bocholtz", 
+            "full_name": "J.C.L. Franssen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Zakaria", 
+            "last_name": "Bouders", 
+            "gender": "m", 
+            "place": "Venlo", 
+            "full_name": "Z. Bouders", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Hölscher", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "F.B.E. Hölscher", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Kersten", 
+            "gender": "m", 
+            "place": "Gennep", 
+            "full_name": "T.H. Kersten", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Veronica", 
+            "last_name": "Dirksen", 
+            "gender": "v", 
+            "place": "Bemelen", 
+            "full_name": "V.G. Dirksen", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Kannegieter", 
+            "gender": "m", 
+            "place": "Bingelrade", 
+            "full_name": "A. Kannegieter", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Remy", 
+            "last_name": "Meijers", 
+            "gender": "m", 
+            "place": "Valkenburg", 
+            "full_name": "R. Meijers", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jacques", 
+            "last_name": "Costongs", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "J.E.L. Costongs", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Smeets", 
+            "gender": "m", 
+            "place": "Einighausen", 
+            "full_name": "J.A.P. Smeets", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_4 Partij van de Arbeid (P.v.d.A.)"
+}

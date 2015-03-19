@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hennie", 
+            "last_name": "Roorda", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "H. Roorda", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Ameide", 
+            "full_name": "W. van Dijk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Anne Margreet", 
+            "last_name": "van Putten", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "A.M. van Putten", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Susanne", 
+            "last_name": "Agterbosch", 
+            "gender": "v", 
+            "place": "Lent", 
+            "full_name": "S. Agterbosch", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Laeven", 
+            "gender": "m", 
+            "place": "Culemborg", 
+            "full_name": "M.P. Laeven", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Kerkhof", 
+            "gender": "m", 
+            "place": "Vianen", 
+            "full_name": "Th.B.M. Kerkhof", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Maria", 
+            "last_name": "Wiebosch-Steeman", 
+            "gender": "v", 
+            "place": "Hardinxveld-Giessendam", 
+            "full_name": "M. Wiebosch-Steeman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hester", 
+            "last_name": "Swart", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "H.M. Swart", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gijsbert", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Rossum", 
+            "full_name": "G.B. Smit", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Wannyn", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "R.J.M.V. Wannyn", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jet", 
+            "last_name": "Westhoff", 
+            "gender": "v", 
+            "place": "Gorinchem", 
+            "full_name": "M.J. Westhoff", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Ende", 
+            "gender": "m", 
+            "place": "Culemborg", 
+            "full_name": "J. Ende", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Eetgerink", 
+            "gender": "m", 
+            "place": "Nederasselt", 
+            "full_name": "F.P. Eetgerink", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Lenders", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "H.J.R. Lenders", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "de Meijer", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "A.E.M. de Meijer", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Volkert", 
+            "last_name": "Vintges", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "V.A.M. Vintges", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Meer", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "J.W.M. van der Meer", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Arjen", 
+            "last_name": "Rijsdijk", 
+            "gender": "m", 
+            "place": "Gorinchem", 
+            "full_name": "A.J. Rijsdijk", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 Water Natuurlijk"
+}

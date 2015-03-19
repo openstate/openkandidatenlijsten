@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Arnold", 
+            "last_name": "Reinten", 
+            "gender": "m", 
+            "place": "Moskou (RU)", 
+            "full_name": "A.G. Reinten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "Rijnders", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "J.T.G. Rijnders", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Claudia", 
+            "last_name": "Pieron", 
+            "gender": "v", 
+            "place": "Purmerend", 
+            "full_name": "C.J. Pieron", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jerry", 
+            "last_name": "Scholtens", 
+            "gender": "m", 
+            "place": "Smilde", 
+            "full_name": "G.A. Scholtens", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Carla", 
+            "last_name": "de Vries", 
+            "gender": "v", 
+            "place": "Nieuwegein", 
+            "full_name": "C.E. de Vries", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 14 Anti EU(ro) Partij"
+}

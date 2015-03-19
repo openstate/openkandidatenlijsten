@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Daisha", 
+            "last_name": "de Wijs-van Geijn", 
+            "gender": "v", 
+            "place": "Voorst", 
+            "full_name": "T.J.M. de Wijs-van Geijn", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "de Wijs", 
+            "gender": "m", 
+            "place": "Voorst", 
+            "full_name": "S. de Wijs", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maria", 
+            "last_name": "Vermeulen", 
+            "gender": "v", 
+            "place": "Leudal", 
+            "full_name": "M.H.P. Vermeulen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ferdinand", 
+            "last_name": "Bol", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "F.E. Bol", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Kieskring 6-Lijst 15 Heel NL"
+}

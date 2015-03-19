@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Oegema", 
+            "gender": "m", 
+            "place": "Dalfsen", 
+            "full_name": "H. Oegema", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Tjeerd", 
+            "last_name": "Kingma", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "T.J. Kingma", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Holtmaat", 
+            "gender": "m", 
+            "place": "Mariënheem", 
+            "full_name": "H.G.A. Holtmaat", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Wonink", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "A.B. Wonink", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Wijhe", 
+            "full_name": "C.M.A. van den Berg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "IJsselmuiden", 
+            "full_name": "J. Smit", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Kalter", 
+            "gender": "m", 
+            "place": "IJsselmuiden", 
+            "full_name": "A.C.G. Kalter", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ok", 
+            "last_name": "Bolsenbroek", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "R.V.H. Bolsenbroek", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Alet", 
+            "last_name": "Boukes-Okkels", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "A.A.J. Boukes-Okkels", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 CDA"
+}

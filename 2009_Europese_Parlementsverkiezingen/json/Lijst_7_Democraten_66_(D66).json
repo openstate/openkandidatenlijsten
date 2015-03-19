@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sophie", 
+            "last_name": "in 't Veld", 
+            "gender": "v", 
+            "place": "Brussel (BE)", 
+            "full_name": "S.H. in 't Veld", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Gerben-Jan", 
+            "last_name": "Gerbrandij", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "G.M. Gerbrandij", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marietje", 
+            "last_name": "Schaake", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.R. Schaake", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Gerhard", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "G.J. Mulder", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ivo", 
+            "last_name": "Thijssen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "I.P.M. Thijssen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Stientje", 
+            "last_name": "van Veldhoven-van der Meer", 
+            "gender": "v", 
+            "place": "Etterbeek (BE)", 
+            "full_name": "S. van Veldhoven-van der Meer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Veldman", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "E.M. Veldman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Tim", 
+            "last_name": "Eestermans", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "T. Eestermans", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sietse", 
+            "last_name": "Wijnsma", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "S.T. Wijnsma", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Piet", 
+            "gender": "m", 
+            "place": "Diemen", 
+            "full_name": "J.L.P. Piet", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ernst", 
+            "last_name": "Klatte", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.R. Klatte", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Unico", 
+            "last_name": "van Kooten", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "G.J.U. van Kooten", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Douwe", 
+            "last_name": "Swierstra", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "D.W. Swierstra", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jolanta", 
+            "last_name": "Polomski", 
+            "gender": "v", 
+            "place": "Zeist", 
+            "full_name": "J. Polomski", 
+            "position": 14
+        }, 
+        {
+            "first_name": "At", 
+            "last_name": "Ipenburg", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "A.N. Ipenburg", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Osman", 
+            "last_name": "Biçen", 
+            "gender": "m", 
+            "place": "Zutphen", 
+            "full_name": "A.O. Biçen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Remco", 
+            "last_name": "Jaasma", 
+            "gender": "m", 
+            "place": "Ibach (CH)", 
+            "full_name": "R. Jaasma", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan-Willem", 
+            "last_name": "Bertens", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "J.W. Bertens", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Laurens Jan", 
+            "last_name": "Brinkhorst", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "L.J. Brinkhorst", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Annelien", 
+            "last_name": "Bredenoord", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "A.L. Bredenoord", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Coen", 
+            "last_name": "Brummer", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "C.C. Brummer", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Helga", 
+            "last_name": "Duijfjes-Dissel", 
+            "gender": "v", 
+            "place": "IJsselstein Ut", 
+            "full_name": "H.M.G. Duijfjes-Dissel", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Rineke", 
+            "last_name": "Gieske-Mastenbroek", 
+            "gender": "v", 
+            "place": "Almelo", 
+            "full_name": "J.C. Gieske-Mastenbroek", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Fleur", 
+            "last_name": "Gräper-van Koolwijk", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "F.Q. Gräper-van Koolwijk", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Bibi", 
+            "last_name": "van Ginkel", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "B.T. van Ginkel", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Mendeltje", 
+            "last_name": "van Keulen", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M. van Keulen", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Floris", 
+            "last_name": "Kreiken", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.H. Kreiken", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "van der Hagen", 
+            "gender": "m", 
+            "place": "Grave", 
+            "full_name": "D.T.A. van der Hagen", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Hana", 
+            "last_name": "van Ooijen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.M.A.E. van Ooijen", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Björn", 
+            "last_name": "van Roozendaal", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B. van Roozendaal", 
+            "position": 30
+        }
+    ], 
+    "description": "Gecombineerd met VVD - Europese Liberaal-Democraten", 
+    "title": "Lijst 7 Democraten 66 (D66)"
+}

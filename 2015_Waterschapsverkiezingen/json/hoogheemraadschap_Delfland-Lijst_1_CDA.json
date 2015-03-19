@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Cees", 
+            "last_name": "Kuijvenhoven", 
+            "gender": "m", 
+            "place": "Hoek van Holland", 
+            "full_name": "C. Kuijvenhoven", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Manita", 
+            "last_name": "Koop", 
+            "gender": "v", 
+            "place": "Delft", 
+            "full_name": "M.E.H. Koop", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ries", 
+            "last_name": "Smits", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M. Smits", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Relus", 
+            "last_name": "Breeuwsma", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.J. Breeuwsma", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Leidschendam", 
+            "full_name": "M.H.P. Jansen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Antoinette", 
+            "last_name": "Vietsch", 
+            "gender": "v", 
+            "place": "Vlaardingen", 
+            "full_name": "C.A. Vietsch", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "Terlouw", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A. Terlouw", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Job", 
+            "last_name": "Kleijn", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.P. Kleijn", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "Bianchi", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "W.C.J. Bianchi", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Michel", 
+            "last_name": "Rogier", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M.R. Rogier", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Vialle", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "P. Vialle", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Verbeek", 
+            "gender": "m", 
+            "place": "Honselersdijk", 
+            "full_name": "J.G.P. Verbeek", 
+            "position": 12
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie-SGP", 
+    "title": "Lijst 1 CDA"
+}

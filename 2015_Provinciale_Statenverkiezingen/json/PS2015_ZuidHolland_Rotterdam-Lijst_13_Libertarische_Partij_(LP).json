@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Kim", 
+            "last_name": "Winkelaar", 
+            "gender": "", 
+            "place": "Aarlanderveen", 
+            "full_name": "K.P.G.H. Winkelaar", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Leendert", 
+            "last_name": "de Rijke", 
+            "gender": "", 
+            "place": "Rotterdam", 
+            "full_name": "L.W. de Rijke", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Juan", 
+            "last_name": "van Ginkel", 
+            "gender": "", 
+            "place": "Waddinxveen", 
+            "full_name": "J.G.M. van Ginkel", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Arne", 
+            "last_name": "Verbrugh", 
+            "gender": "", 
+            "place": "Rotterdam", 
+            "full_name": "A.C. Verbrugh", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Quintus", 
+            "last_name": "Backhuijs", 
+            "gender": "", 
+            "place": "Leiden", 
+            "full_name": "W.Q. Backhuijs", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Lukas", 
+            "last_name": "Teijema", 
+            "gender": "", 
+            "place": "Oegstgeest", 
+            "full_name": "L.C. Teijema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Pallieter", 
+            "last_name": "Koopmans", 
+            "gender": "", 
+            "place": "Rotterdam", 
+            "full_name": "S.F.P. Koopmans", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Henry", 
+            "last_name": "Sturman", 
+            "gender": "", 
+            "place": "'s-Gravenhage", 
+            "full_name": "H.R. Sturman", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Ootjers", 
+            "gender": "", 
+            "place": "Rotterdam", 
+            "full_name": "F. Ootjers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Toine", 
+            "last_name": "Manders", 
+            "gender": "", 
+            "place": "Limassol (CY)", 
+            "full_name": "T.T.A.J. Manders", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_13 Libertarische Partij (LP)"
+}

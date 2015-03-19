@@ -1,0 +1,492 @@
+_________________________________________________________________________________
+
+
+Overzicht definitieve kandidatenlijsten
+_________________________________________________________________________________
+
+
+Voor de verkiezing van: de provinciale staten van Limburg
+
+Dag van stemming: 18 maart 2015
+
+Kieskring: Venlo
+
+_________________________________________________________________________________
+
+1    PVV (Partij voor de Vrijheid)
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Heemels                             M.J.T. (Michael) (m)                 Herkenbosch
+2    Housmans                            R.W.P.E. (Robert) (m)                Born
+3    Fijnje                              D.A. (Donald) (m)                    Tegelen
+4    Groenendal                          L. (Leo) (m)                         Maastricht
+5    Hermans                             L.J. (Lei) (m)                       Elsloo
+6    Simons                              B.A. (Boudewijn) (m)                 Venray
+7    Bosch                               M.T. (Mart) (m)                      Heerlen
+8    Pfoster                             D.D.W. (Daryl) (m)                   Buchten
+9    van Soest                           K.J.P. (Hans) (m)                    Venlo
+10   van der Loo                         N.F.S. (Niek) (m)                    Roermond
+11   Dierks                              W.A.E. (Willem) (m)                  Sittard
+12   Moonen                              O.H.H.M. (Orban) (m)                 Landgraaf
+13   Sturtz                              F.F.P.J.G. (Frank) (m)               Schinveld
+14   van Rijswijck-Rheiter               G.L. (Truus) (v)                     Arcen
+15   Kornips                             B.W.G.J. (Bart) (m)                  Weert
+16   Weusten                             J.M.G. (Jean-Marie) (m)              Mheer
+17   Meijer-Huibers                      P.W.M. (Petra) (v)                   Venlo
+_________________________________________________________________________________
+
+2    CDA
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Koopmans                            G.P.J. (Ger) (m)                     Velden
+2    van der Broeck                      P.F.C.W. (Patrick) (m)               Venray
+3    Giesen-Cox                          S.M.W. (Sara) (v)                    Roermond
+4    Mackus                              H.J.H. (Hubert) (m)                  Nederweert
+5    Frische                             G.H.C. (Geert) (m)                   Maasbracht
+6    Tegels                              R.J.J. (Rudy) (m)                    Sevenum
+7    Nillesen-van Lammeren               H. (Hennie) (v)                      Bergen (L)
+8    Verhoijsen                          M.L.M. (John) (m)                    Beringe
+9    Geraats                             J.M.L. (Johan) (m)                   Baexem
+10   Heldens                             F.T.M. (Frans) (m)                   Beesel
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33   pagina 1 / 10
+     naam kandidaat                      voorletters                          woonplaats
+11   Ensberg-Kleijkers                   D.S.C. (Dave) (m)                    Sittard
+12   Meziani                             A. (Aissa) (m)                       Venlo
+13   Gommans                             J. (Joey) (m)                        Venlo
+14   Titulaer                            M.J.J. (Jeu) (m)                     Mheer
+15   Drissen                             A.J.M. (Ton) (m)                     Arcen
+16   Bongers                             G.J.C. (Fred) (m)                    Meijel
+17   Linskens                            N.S.J. (Nicky) (v)                   Weert
+18   Cuijpers                            E.W.A.M. (Eugenie) (v)               Vlodrop
+19   Thielen                             A.H.M. (Anne) (v)                    Venray
+20   Cremers                             J.G.G. (Jeroen) (m)                  Montfort
+21   Jongen                              F.M.M. (François) (m)                Molenhoek
+22   van Lin                             P.M.H.M. (Nel) (v)                   Maasbracht
+23   Wijnbeld                            M.L.F. (Marieke) (v)                 Roermond
+24   De Goeij                            A.M.H. (Gonny) (v)                   Weert
+25   van der Broek                       J.M.A.R. (Roy) (m)                   Schinnen
+26   van Bergen                          J.W.G. (Jacques) (m)                 Ottersum
+27   Joosten                             F.M.H. (Frans) (m)                   Neer
+28   Fleuren                             G.M.N. (Gwen) (v)                    Helden
+29   van Meel                            R.W.A. (Rick) (m)                    Nederweert
+30   Verstraelen                         G.L. (Ger) (m)                       Tienray
+31   Ertürk                              K. (Kamelya) (v)                     Venray
+32   Stals                               H. (Hendrik) (m)                     Stramproy
+33   de Vries                            J.F.J. (Frank) (m)                   Roermond
+34   van der Putten                      R.G.J.M. (René) (m)                  Tegelen
+35   Simons                              L.L.M. (Lou) (m)                     Kessel
+36   van den Beuken                      J.M.M. (John) (m)                    Neeritter
+37   Hermans                             R.J. (Ruud) (m)                      Venlo
+38   Winters                             T. (Thamara) (v)                     Weert
+39   Reintjes                            A.G.H. (Twan) (m)                    Gennep
+40   Aslankurt                           Ö.F. (Faruk) (m)                     Roermond
+41   van Soest                           D.P.A. (Dave) (m)                    Baarlo
+42   Kemp                                W.A.J. (Wim) (m)                     Roermond
+43   Duijf                               F.A. (Filipe) (m)                    Baarlo
+44   Teeuwen                             J.H.G.M. (Jos) (m)                   Venlo
+45   Clabbers-Giebels                    M.J. (Mimi) (v)                      Broekhuizenvorst
+46   Hermans                             M.M.J.T. (Maud) (v)                  Munstergeleen
+47   Ruiters                             M.P.P. (Max) (m)                     Kerkrade
+48   Dauven                              N.J.M.M. (Niels) (m)                 Valkenburg aan de Geul
+49   van Helvert                         M.J.F. (Martijn) (m)                 Susteren
+50   Oomen-Ruijten                       M.G.H.C. (Ria) (v)                   Maasbracht
+_________________________________________________________________________________
+
+3    VVD
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Beurskens                           A.M.G. (Twan) (m)                    Venlo
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33            pagina 2 / 10
+     naam kandidaat                      voorletters                          woonplaats
+2    Wernink                             R.C.M. (Renée) (v)                   Ospel
+3    Koppe                               E.J. (Erik) (m)                      Brunssum
+4    van den Akker                       J.P. (Joost) (m)                     Maastricht
+5    van Bilsen                          L.G.P. (Lau) (m)                     Roermond
+6    Heuvelings                          J.M.E. (John) (m)                    Venlo
+7    Kirkels                             A.W.P. (Anton) (m)                   Weert
+8    Nijskens                            H.L.M. (Herman) (m)                  Melick
+9    Segers                              G.J.M. (Geert) (m)                   Baarlo
+10   Steenmetz                           M.J.B. (Marianne) (v)                Venlo
+11   Rodoe                               H. (Holger) (m)                      Gennep
+12   Meerts                              C.M.J.E.P. (Clemens) (m)             Beegden
+13   Tielen                              C.T.J. (Casper) (m)                  Venlo
+14   van Hulsteijn                       J.A. (Janine) (v)                    Heijen
+15   Leenen                              T.J.P. (Theo) (m)                    Tegelen
+16   Lodewijks                           A.J.V.C. (Dries) (m)                 Heerlen
+17   Korthals                            R.L.M. (Ronald) (m)                  Koningsbosch
+18   van Wezel                           R.A.W. (Raimond) (m)                 Nieuwstadt
+19   Hermans                             S.M.M. (Suzan) (v)                   Baarlo
+20   Schouwenaars                        J.P.C. (Jean-Pierre) (m)             Weert
+21   Claus                               F.J.L.M. (Frank) (m)                 Linne
+22   Keijsers                            M.G.J.P. (Marc) (m)                  Venlo
+23   Kerkman                             A. (Arie) (m)                        Goch (DE)
+24   Bruijnesteijn                       R. (Roland) (m)                      Horn
+25   van Oppen                           J.H.T.J. (Jack) (m)                  Brunssum
+26   Felix                               J.W.G. (Jonathan) (m)                Obbicht
+27   Meijers                             N.C.P. (Niels) (m)                   Doenrade
+28   Nysten                              G.A.E. (Ghislen) (m)                 Beek
+29   Suers                               B. (Bart) (m)                        Nuth
+30   Widdershoven-Hellwig                J.H.M. (Ine) (v)                     Ransdaal
+31   van de Wouw-Simons                  B.C.G.W. (Bibi) (v)                  Maastricht
+32   Noteborn                            G.M. (Guiseppe) (m)                  Geleen
+33   Regterschot                         K. (Kelly) (v)                       Landgraaf
+34   de Beer                             M.E.E. (Martin) (m)                  Hoensbroek
+35   Roberts-Souren                      A.M.J. (Agnes) (v)                   Ulestraten
+36   van der Steen                       P. (Perry) (m)                       Geleen
+37   Lambie                              B.W.H. (Björn) (m)                   Landgraaf
+38   Eurlings                            B.M.J.F. (Bianca) (v)                Valkenburg
+39   Borger                              R.A.M. (René) (m)                    Schinveld
+40   Glenz                               T.E.E. (Tim) (m)                     Kerkrade
+41   van Golde                           J (Jolien) (v)                       Maastricht
+42   Broersma                            A.G. (Ab) (m)                        Elsloo
+43   Helwig                              R.H.M. (Rob) (m)                     Stein
+44   Janssen                             J.J.E. (Jeroen) (m)                  Bunde
+45   Satijn                              S.H.M. (Stephan) (m)                 Velden
+46   Straus                              K.C.J. (Karin) (v)                   Roermond
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33   pagina 3 / 10
+     naam kandidaat                      voorletters                          woonplaats
+47   Verheijen                           M.L. (Mark) (m)                      Venlo
+_________________________________________________________________________________
+
+4    Partij van de Arbeid (P.v.d.A.)
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Geurts                              E. (Eric) (m)                        Brunssum
+2    Kuntzelaers                         J.J.M. (Jasper) (m)                  Venlo
+3    Houben                              T.A.H. (Tirza) (v)                   Roermond
+4    Bouders                             Z. (Zakaria) (m)                     Venlo
+5    Tromp                               A. (Sander) (m)                      Maastricht
+6    Heuvelmans                          L.F.A. (Leon) (m)                    Weert
+7    Kersten                             T.H. (Theo) (m)                      Gennep
+8    Bours-Vogels                        J.H. (Anneke) (v)                    Maasbracht
+9    van Wamelen                         E. (Esther) (v)                      Venray
+10   Kockelkoren                         L.E.H. (Lars) (m)                    Nuth
+11   Berghorst                           A. (Aleida) (v)                      Maastricht
+12   Glessner                            H.L. (Hilde) (v)                     Horn
+13   Frenken-Ras                         M.H.M. (Maria) (v)                   Ospel
+14   Wolters                             L.C.C.M. (Lisa) (v)                  Susteren
+15   Hölscher                            F.B.E. (Frans) (m)                   Heerlen
+16   Aelen                               J.C.L. (Jacqueline) (v)              Posterholt
+17   Bouten                              R.G.J. (Roy) (m)                     Horst
+18   Primowees                           A. (Annigje) (v)                     Maasbree
+19   Peters                              C.G.P.M. (Karin) (v)                 Molenhoek
+20   Roefs                               C.W.J.M. (Lia) (v)                   Bergen (L)
+21   Smeets                              J.A.P. (Jan) (m)                     Einighausen
+22   van Dijk                            P.H. (Peter) (m)                     Heerlen
+_________________________________________________________________________________
+
+5    SP (Socialistische Partij)
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Prevoo                              D.M.M.T. (Daan) (m)                  Munstergeleen
+2    van Rijnsbergen                     M. (Marleen) (v)                     Sittard
+3    Weingarten                          A.G.A. (Angelique) (v)               Venlo
+4    Evers                               B.E.P. (Bianca) (v)                  Roermond
+5    Visser                              P.M.G. (Peter) (m)                   Schin op Geul
+6    Schaminée                           B.J.A. (Bram) (m)                    Roermond
+7    Bus                                 E.H.J. (Edwin) (m)                   Heerlen
+8    Voncken                             M.M.W. (Math) (m)                    Amstenrade
+9    Quaedflieg                          H.J.M. (Huub) (m)                    Kerkrade
+10   Claessens-Schepers                  Y.M. (Yolanda) (v)                   Heerlen
+11   Baars                               A.G. (Tom) (m)                       Sittard
+12   Hesse                               C.J.W. (Chris) (m)                   Heerlen
+13   Schilders                           C. (Chris) (m)                       Munstergeleen
+14   Kusters                             J.G. (John) (m)                      Brunssum
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33   pagina 4 / 10
+     naam kandidaat                      voorletters                          woonplaats
+15   Vervoort                            A.P.M.A. (Alexander) (m)             Belfeld
+16   Janssen                             R. (Rob) (m)                         Ottersum
+17   Sweelssen                           E.A.K.N. (Elianne) (v)               Venray
+18   van Caldenberg                      M. (Marc) (m)                        Landgraaf
+19   Bonder                              M.C. (Marcel) (m)                    Maastricht
+20   Hendriks                            J.C.M. (Jan) (m)                     Venray
+21   Koopman                             F.W.M. (Irma) (v)                    Landgraaf
+22   Rambags                             J.T.J.M. (Sjef) (m)                  Venray
+23   Eijssen                             H.C. (Leny) (v)                      Maastricht
+24   Piters                              M.T.C. (Marjan) (v)                  Valkenburg
+25   Raemaekers                          G.J.H. (Eric) (m)                    Weert
+26   Wojtkowiak                          M. (Myrtho) (v)                      Brunssum
+27   Fonteyne                            A.J.H. (Aniet) (v)                   Lottum
+28   Geboers                             M.E.H. (Riya) (v)                    Weert
+29   Hügues                              W.S. (Stefan) (m)                    Venlo
+30   Tillie                              I.A.M.H. (Ivo) (m)                   Geleen
+31   Raijer                              P.H. (Petra) (v)                     Arcen
+32   Gielens                             J.J.G. (Joep) (m)                    Oostrum
+33   Laumann                             M.A.K.J. (Marianne) (v)              Kerkrade
+34   Heerschop                           A.H.J. (Ton) (m)                     Tegelen
+35   van Baal                            A.P.A.W.M. (Anthony) (m)             Tienray
+36   Kuijpers                            Y.B. (Yvonne) (v)                    Susteren
+37   Coenen                              K.E. (Katinka) (v)                   Brunssum
+38   Gunther                             J.A.L. (John) (m)                    Maastricht
+39   Goubet                              J.W.J. (Jeroen) (m)                  Weert
+40   Geraeds                             R.P.J.M. (Ruud) (m)                  Gennep
+41   Boshouwers                          J.J.T.M. (Juliet) (v)                Echt
+42   Roemer                              P.V.M. (Paul) (m)                    Heijen
+43   Peters                              E.L.B. (Ernst) (m)                   Kerkrade
+44   Meuffels-Rutten                     M.G.M. (Monique) (v)                 Susteren
+45   Meyer                               R.P.E. (Ron) (m)                     Heerlen
+46   Sterk                               P.P.H. (Paul) (m)                    Weert
+47   Gerats                              J.J.G.M. (Jack) (m)                  Maastricht
+48   Rewinkel                            B.A.L. (Ben) (m)                     Landgraaf
+49   de Wit-Romans                       M.F.A. (Riet) (v)                    Heerlen
+50   de Wit                              J.M.A.M. (Jan) (m)                   Heerlen
+_________________________________________________________________________________
+
+6    GROENLINKS
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Brugman-Rustenburg                  C. (Carla) (v)                       Blitterswijck
+2    Rossel                              A. (Andy) (m)                        Kerkrade
+3    Moison                              C.T.P. (Cees) (m)                    Herten
+4    Pollux                              M.P.A.G. (Marij) (v)                 Venlo
+5    Janssen                             W.R.L. (Wim) (m)                     Arcen
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33   pagina 5 / 10
+     naam kandidaat                      voorletters                          woonplaats
+6    Verhaeg                             W.H.J.C. (Willem) (m)                Sittard
+7    van Soest                           L.J.M. (Liesbeth) (v)                Melick
+8    Hendrickx                           C.W.M. (Ineke) (v)                   Venlo
+9    Winteraeken                         H.J. (Harrie) (m)                    Heerlen
+10   Janssen                             F.E.H. (Frank) (m)                   Echt
+11   Haanen                              G.T.C. (Fried) (m)                   Venlo
+12   Schmitz                             K. (Kim) (v)                         Sittard-Geleen
+13   Perrée                              A.L.M. (Gonnie) (v)                  Maria Hoop
+14   Vos                                 S.A.M.M. (Sacha) (v)                 Gulpen
+15   Hoogveld                            J.G.E. (Jos) (m)                     Venlo
+16   Tollenaar                           M. (Max) (m)                         Roermond
+17   Römkens                             M.A.W. (Mandy) (v)                   Mechelen
+18   Kerkhoff                            A.H. (Toon) (m)                      Merselo
+19   Schats                              M.A.M. (Marc) (m)                    Beek
+20   Koopmans                            K. (Karien) (v)                      Maasbracht
+21   Doorenbos                           S.J.M. (Susan) (v)                   Molenhoek
+22   Pijnenburg                          H.M.C. (Henk) (m)                    Venlo
+23   Ancion                              A.J.M.P. (Ton) (m)                   Landgraaf
+24   Korteland                           J.B.A. (José) (v)                    Leveroy
+25   Wingen                              M.M.C. (Margot) (v)                  Schin op Geul
+26   Freij                               P.C.M. (Peter) (m)                   Venlo
+27   Korsten                             M. (Marlise) (v)                     Maastricht
+28   Passenier                           H. (Hans) (m)                        Maastricht
+29   van Santwijk                        F.R. (Fred) (m)                      Molenhoek
+30   Meesters                            G.H.M. (Ger) (m)                     Heerlen
+31   Jonkman                             T. (Thomas) (m)                      Molenhoek
+32   van der Leeuw                       W.A.M. (Helma) (v)                   Venlo
+33   Maijntz                             J.M.H. (Jan) (m)                     Kerkrade
+34   Rahnama'i                           M.S. (Sajjad) (m)                    Heerlen
+35   Creemers                            W.T.J.A. (Willem) (m)                Molenhoek
+36   Kessels                             J.G.M.M. (Jan) (m)                   Venlo
+37   Schepens                            D.M.A. (Dorothé) (v)                 Venlo
+38   van der Gugten                      A.C. (Coen) (m)                      Maastricht
+39   de Haan                             A.A.W. (Aloys) (m)                   Heerlen
+40   van der Kleij                       A.M. (Marion) (v)                    Mechelen
+41   Baneke                              P.D. (Pepijn) (m)                    Mook en Middelaar
+42   van Eijck                           H.J.M. (Huub) (m)                    Velden
+43   Beterams                            L.A.W. (Leo) (m)                     Meerlo
+44   Gubbels-Korver                      H.C.M. (Helma) (v)                   Landgraaf
+45   Essers                              J.H.M. (John) (m)                    Nuth
+46   Smitsmans-Burhenne                  M.A.J. (Marianne) (v)                Roermond
+47   Muijtjens                           J.L.M. (Jan) (m)                     Munstergeleen
+48   Krabbendam                          G. (Gert-Jan) (m)                    Maastricht
+49   van Grootheest                      G.J. (Gerdo) (m)                     Maastricht
+50   Thissen                             C.P. (Tof) (m)                       Roermond
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33       pagina 6 / 10
+_________________________________________________________________________________
+
+7    Democraten 66 (D66)
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Vaessen                             L.A.P. (Leon) (m)                    Sittard-Geleen
+2    van Wageningen                      J. (Hans) (m)                        Maastricht
+3    van de Ven                          J. (Jan) (m)                         Venray
+4    van Dommelen                        W.A. (Wilma) (v)                     Horn
+5    Suurland                            S. (Stefan) (m)                      Maastricht
+6    Engels                              E.J.J.P. (Eveline) (v)               Kerkrade
+7    Demas                               C.J.H.C. (Claudia) (v)               Maastricht
+8    Compen                              V. (Veertje) (v)                     Molenhoek
+9    Soentjens                           J.H.A. (Hans) (m)                    Venlo
+10   Goertz                              G.L.R. (Gijs) (m)                    Roermond
+11   Berkers                             H.A.L. (Hein) (m)                    Landgraaf
+12   Muurmans                            M.R.A.H. (Marnix) (m)                Maastricht
+13   Kleijnen                            S.J.L.M. (Bas) (m)                   Kerkrade
+14   Jansen                              W.W.A. (Wilco) (m)                   Heerlen
+15   van Wijk                            A.H. (Bert) (m)                      Weert
+16   Westra                              J.W. (Jan-Willem) (m)                Sittard-Geleen
+17   Maas                                J.H.M. (Sef) (m)                     Venlo
+18   Bos                                 G.M.J. (Gerard) (m)                  Maastricht
+19   Wessels                             P.H.B. (Paul) (m)                    Gennep
+20   Drijkoningen                        E.M.J. (Ernest) (m)                  Heerlen
+21   Oudhuis                             G.J.A.P.M. (Guy) (m)                 Maastricht
+22   Aerts                               F.H.T.M. (Frans) (m)                 Venlo
+23   Barendse                            H.J.A. (Harald) (m)                  Maastricht
+24   Drummen                             F.J.J. (Frans) (m)                   Sittard-Geleen
+25   Hessing                             S.M. (Bas) (m)                       Weert
+26   Raemakers                           R. (Rens) (m)                        Neer
+27   Thommassen                          A.J. (Kim) (v)                       Tegelen
+28   Beerkens                            E.J.G.M. (Emiel) (m)                 Venray
+29   Vernhout                            R.J.A.G. (Rob) (m)                   Sittard-Geleen
+30   van Beek                            J.M. (Joost) (m)                     Heythuysen
+31   Geeratz                             M.F.M. (Misha) (m)                   Venlo
+32   Op den Camp                         R.L.G. (Rudy) (m)                    Voerendaal
+33   Kusters                             J.G. (Jeroen) (m)                    Tegelen
+34   Brands                              E.W.J.H. (Lisanne) (v)               Maastricht
+35   Boon                                F.E. (Franklin) (m)                  Noorbeek
+36   Stokbroeks                          M.M.C.F. (Marie-Michèle) (v)         Weert
+37   Kamphuis                            A.J.M. (Bert) (m)                    Sittard-Geleen
+38   Cremers                             A.M.J. (Armand) (m)                  Maastricht
+39   Pleyte                              F.J. (Ferdinand) (m)                 Roermond
+40   Bertens                             J.W. (Jan Willem) (m)                Maastricht
+_________________________________________________________________________________
+
+8    50PLUS
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33    pagina 7 / 10
+     naam kandidaat                      voorletters                          woonplaats
+1    van der Linden                      H.M.V. (Henk) (m)                    Sint Odiliënberg
+2    Meijer                              H. (Hein) (m)                        Heerlen
+3    Cornelissen                         G.M.J. (Truus) (v)                   Heythuysen
+4    Michalides                          P.J.M. (Peter) (m)                   Bunde
+5    Fischer-Otten                       A.M.J.N. (Anne-Marie) (v)            Kerkrade
+6    Wissingh                            H.A. (Ab) (m)                        Venlo
+7    Bruijns                             M.A.M. (Martin) (m)                  Weert
+8    van den Borne                       J.J.A.M. (Jos) (m)                   Griendtsveen
+9    Kamps                               H.L.J. (Hugo) (m)                    Sittard
+10   Kers                                G.R.J. (Geert) (m)                   Weert
+11   Bovée                               A.L.E.W. (Fons) (m)                  Swalmen
+12   Langenberg                          J. (Johan) (m)                       Heythuysen
+13   Kroonstuiver                        N.L.D. (Natascha) (v)                Venlo
+14   Martens                             C.R.J. (Charl) (m)                   Merkelbeek
+15   de Bood                             A. (Arie) (m)                        Hulsberg
+16   Stijnen                             M.L.J.T. (Miewies) (v)               Maastricht
+17   van Dijk                            R.A.P. (Rolf) (m)                    Heerlen
+_________________________________________________________________________________
+
+9    Partij voor de Dieren
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Wassenberg                          F.P. (Frank) (m)                     Geleen
+2    Plusquin                            P.S.M.L. (Pascale) (v)               Heerlen
+3    Been                                I. (Ida) (v)                         Weert
+4    van Tijen                           C. (Carlijn) (v)                     Maastricht
+5    Verrijdt                            B.M.H.L. (Bianca) (v)                Arcen
+6    Kamps                               P.H.G. (Rene) (m)                    Heerlen
+7    Heijl                               L. (Leila) (v)                       Tegelen
+8    Merx                                C. (Chandra) (v)                     Maastricht
+9    Ploeg                               D.M. (Rinus) (m)                     Someren
+10   Sprooten                            R.J.M. (Rosalie) (v)                 Maastricht
+_________________________________________________________________________________
+
+10 Volkspartij Limburg
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Zwijnenberg                         V.G.J. (Vincent) (m)                 Roermond
+2    Timmermans                          J.W.G.M (Jo) (m)                     Venlo
+3    Moonen                              Y.E.H.M (Yvonne) (v)                 Heerlen
+4    Peters                              A.C.P. (Dré) (m)                     Roermond
+5    Volders                             L.C.G (Luc) (m)                      Meerssen
+6    Soğukçeşme                          K (Kadri) (m)                        Roermond
+7    Wijmenga                            R.F.R (René) (m)                     Eygelshoven
+8    Verhees                             A.A.M.M (Allon) (m)                  Stevensweert
+9    Petermann                           C.D (Christian) (m)                  Heerlen
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33      pagina 8 / 10
+     naam kandidaat                      voorletters                          woonplaats
+10   Nbigui                              Y (Yihad) (m)                        Roermond
+11   Loganathan                          A (Aijiththan) (m)                   Roermond
+12   Schreurs                            N.J.F (Nico) (m)                     Venlo
+13   van Hal                             H (Huub) (m)                         Roermond
+14   Raven                               A.C.M (Ton) (m)                      Geleen
+15   Berdsfah                            M.S. (Mohamed) (m)                   Roermond
+16   van Rey                             J.F.B (Jos) (m)                      Roermond
+_________________________________________________________________________________
+
+11 LOKAAL-LIMBURG
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Franssen                            R.J.H. (Raimond) (m)                 Klimmen
+2    Renet                               J.J. (Jack) (m)                      Sittard-Geleen
+3    Kompier                             J.P.M.H. (Jean Paul) (m)             Vaals
+4    Beeren-Adriaans                     P.T.G.J. (Petra) (v)                 Roermond
+5    Engelen-Wijen                       M.A. (Marienel) (v)                  Weert
+6    Sevriens                            P.M.M. (Thieu) (m)                   Koningsbosch
+7    Hakke                               L. (Leon) (m)                        Maastricht
+8    Hoenen                              P.W.V.P. (Wiel) (m)                  Heerlen
+9    Roest                               A.G.M. (Ad) (m)                      Venlo
+10   Berger                              A.M. (Ad) (m)                        Maasgouw
+11   Lipsch                              S.M.F. (Suzanne) (v)                 Voerendaal
+12   de Vogel                            J.M. (John) (m)                      Kerkrade
+13   Hellenbrand                         A.G.M. (Adri) (m)                    Beek
+14   Meijers                             J.H. (Jan) (m)                       Simpelveld
+15   van der Linden                      J.H.H. (Jo) (m)                      Roermond
+16   Thijssen                            R.A.A. (Roger) (m)                   Geulle
+17   Reijnders                           P.L. (Piet) (m)                      Echt-Susteren
+18   Meijer                              T. (Theo) (m)                        Maastricht
+19   Bieshaar                            E.C. (Harda) (v)                     Melick
+20   Thomas                              A. (Armand) (m)                      Roermond
+21   Allard                              M.L.A.M. (Monique) (v)               Roerdalen
+22   Hoogeboom                           R.H. (Roel) (m)                      Beek
+23   de Jong                             L.F. (Leo) (m)                       Melick
+24   Dukers                              J.M.G. (Jos) (m)                     Born
+25   Leppers                             A.C.A. (Albert) (m)                  Roerdalen
+26   Palmen                              J.M.H. (Jo) (m)                      Brunssum
+_________________________________________________________________________________
+
+12 Partij voor Leefbaarheid en Democratie
+
+     naam kandidaat                      voorletters                          woonplaats
+1    Bosman                              C.G.L. (Cor) (m)                     Roermond
+2    Jacobs                              M.G.E. (Carina) (v)                  Roermond
+3    Tobben                              J.C.M. (Jos) (m)                     Swalmen
+4    Cusell                              J.F. (Jaap) (m)                      Roermond
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33    pagina 9 / 10
+     naam kandidaat                      voorletters                          woonplaats
+5    Krul                                D.P. (Dick) (m)                      Roermond
+6    Koelen                              L.S. (Leo) (m)                       Roermond
+7    Hompe                               R. (Rob) (m)                         Venlo
+_________________________________________________________________________________
+
+
+
+
+________________________________________________________________________
+Hashcode: 4A E7 3D 6F 8D 97 52 2B 2B D0 40 1C 31 9E 66 87 B8 76 CE DA | 10-02-2015 15:39:33   pagina 10 / 10

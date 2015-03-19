@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "Carla", 
+            "last_name": "van Viegen", 
+            "gender": "v", 
+            "place": "Pijnacker", 
+            "full_name": "A.H.K. van Viegen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Canton", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "B. Canton", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Nathalie", 
+            "last_name": "Leeuwis", 
+            "gender": "v", 
+            "place": "Dordrecht", 
+            "full_name": "N. Leeuwis", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anita", 
+            "last_name": "Seur", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.M.L. Seur", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Barker", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "R.N. Barker", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Tan", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "R.Z.Y. Tan", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Willem-Jan", 
+            "last_name": "Storm", 
+            "gender": "m", 
+            "place": "Naaldwijk", 
+            "full_name": "W. Storm", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Sylvia", 
+            "last_name": "Keij", 
+            "gender": "v", 
+            "place": "IJsselstein", 
+            "full_name": "P.C.S. Keij", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Corina", 
+            "last_name": "Kerkmans", 
+            "gender": "v", 
+            "place": "Gouda", 
+            "full_name": "C.J. Kerkmans", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Christine", 
+            "last_name": "Teunissen", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "C. Teunissen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "de Vos", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "D.M. de Vos", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "van der Lee", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.D. van der Lee", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Martine", 
+            "last_name": "Gerritsen", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "M. Gerritsen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Crombaghs", 
+            "gender": "m", 
+            "place": "Delfgauw", 
+            "full_name": "M.J.E. Crombaghs", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "van der Velden", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "R.T.J. van der Velden", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Harbert", 
+            "last_name": "van der Kaap", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "H. van der Kaap", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Hanke", 
+            "last_name": "Hoogerwerf", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "H.M.M. Hoogerwerf", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Robin", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "R. Smit", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Ouwehand", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Ouwehand", 
+            "position": 19
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_11 Partij voor de Dieren"
+}

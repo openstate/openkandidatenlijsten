@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Chris", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "C.A. Jansen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Irene", 
+            "last_name": "Joosse", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "I.B. Joosse", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Kok", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "C.J. Kok", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Boutkan", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "W. Boutkan", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.B. Janssen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Arnold", 
+            "last_name": "Karsies", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "A. Karsies", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sjaac", 
+            "last_name": "van Ginkel", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "I.C. van Ginkel", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Bianca", 
+            "last_name": "Boutkan", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "B. Boutkan", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Yuri", 
+            "last_name": "Wagenaar", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "Y. Wagenaar", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Annette", 
+            "last_name": "Raijer", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "A.J. Raijer", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ramona", 
+            "last_name": "Aukes", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "R.J. Aukes", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Toon", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "A.J.A. van Dijk", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 PVV (Partij voor de Vrijheid)"
+}

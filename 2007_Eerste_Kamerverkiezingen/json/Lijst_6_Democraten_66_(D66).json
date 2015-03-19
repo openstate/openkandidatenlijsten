@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Gerard", 
+            "last_name": "Schouw", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "A.G. Schouw", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Boele", 
+            "last_name": "Staal", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "B. Staal", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Johanna", 
+            "last_name": "Boogerd-Quaak", 
+            "gender": "v", 
+            "place": "Zaamslag", 
+            "full_name": "J.L.A. Boogerd-Quaak", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Engels", 
+            "gender": "m", 
+            "place": "Paterswolde", 
+            "full_name": "J.W.M. Engels", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joris", 
+            "last_name": "Backer", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "J.P. Backer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "van den Bos", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "B.R.A. van den Bos", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Anna", 
+            "last_name": "Galama", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.S.M. Galama", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Zafer", 
+            "last_name": "Yurdakul", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "Z. Yurdakul", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Robbers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.J. Robbers", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Democraten 66 (D66)"
+}

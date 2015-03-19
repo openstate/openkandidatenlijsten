@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jolanda", 
+            "last_name": "Verburg", 
+            "gender": "v", 
+            "place": "Beusichem", 
+            "full_name": "J.A.C. Verburg", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "van Rijn", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.P. van Rijn", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "Hendrickx", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "J. Hendrickx", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Khaled", 
+            "last_name": "Sakhel", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "K. Sakhel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Otto", 
+            "last_name": "ter Haar", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "O.H. ter Haar", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gerben", 
+            "last_name": "Uunk", 
+            "gender": "m", 
+            "place": "Ennis (IE)", 
+            "full_name": "G.J.F. Uunk", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Freriks", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "P.J.M. Freriks", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Janneke", 
+            "last_name": "Schadee", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.L. Schadee", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jozef", 
+            "last_name": "van Kessel", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "J.M. van Kessel", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Rijndert", 
+            "last_name": "Doting", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. Doting", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Gerero", 
+            "last_name": "van der Heijden", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "G. van der Heijden", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Schönberger", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.A. Schönberger", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 De Groenen"
+}

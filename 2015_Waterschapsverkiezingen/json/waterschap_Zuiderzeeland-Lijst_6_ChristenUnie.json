@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Siebe", 
+            "last_name": "de Graaf", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "S. de Graaf", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "M. de Jonge", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Lubbert", 
+            "last_name": "Schenk", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "L. Schenk", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Berneditha", 
+            "last_name": "Ryssel-Omusuo", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "B.S. Ryssel-Omusuo", 
+            "position": 4
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "van Raalten", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "D.W. van Raalten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan Eric", 
+            "last_name": "Geersing", 
+            "gender": "m", 
+            "place": "Emmeloord", 
+            "full_name": "J.E. Geersing", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Roelie", 
+            "last_name": "Bosch-Nijeboer", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "R. Bosch-Nijeboer", 
+            "position": 7
+        }
+    ], 
+    "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)", 
+    "title": "Lijst 6 ChristenUnie"
+}

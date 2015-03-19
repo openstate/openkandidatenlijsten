@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Luc", 
+            "last_name": "de Krosse", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "L.E.P.T. de Krosse", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Matthijs", 
+            "last_name": "Liethof", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "M.C.A. Liethof", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Liesker", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "M.J. Liesker", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rynn", 
+            "last_name": "Loef", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "C.H. Loef", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Anthony", 
+            "last_name": "Katgert", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "G.A. Katgert", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_12 Libertarische Partij (LP)"
+}

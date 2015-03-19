@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wiljo", 
+            "last_name": "van Bennekum", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "W.H.J. van Bennekum", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pita", 
+            "last_name": "van de Velde", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "P.I.E. van de Velde", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Helena", 
+            "last_name": "Tschistopolski", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.H.J. Tschistopolski", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lion", 
+            "last_name": "Kool", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L.S. Kool", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Miete", 
+            "last_name": "O'Connell", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.A. O'Connell", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 Socialistische Waterschapsvereniging"
+}

@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Mark", 
+            "last_name": "Strolenberg", 
+            "gender": "m", 
+            "place": "Hoogeveen", 
+            "full_name": "M.F. Strolenberg", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Karst", 
+            "last_name": "Spijkervet", 
+            "gender": "m", 
+            "place": "Wanneperveen", 
+            "full_name": "F.K.L. Spijkervet", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jannes", 
+            "last_name": "Pit", 
+            "gender": "m", 
+            "place": "Westerbork", 
+            "full_name": "J. Pit", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Zethoven", 
+            "gender": "m", 
+            "place": "Darp", 
+            "full_name": "R.J. Zethoven", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Chantal", 
+            "last_name": "Starke", 
+            "gender": "v", 
+            "place": "Dwingeloo", 
+            "full_name": "C.N.G. Starke", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Hagedoorn", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "A.C. Hagedoorn", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Vrieling", 
+            "gender": "m", 
+            "place": "Zwiggelte", 
+            "full_name": "J. Vrieling", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Otto", 
+            "last_name": "Krediet", 
+            "gender": "m", 
+            "place": "Beilen", 
+            "full_name": "O. Krediet", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Nijensleek", 
+            "full_name": "S.C.J. Visser", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "de Weerd", 
+            "gender": "m", 
+            "place": "Drijber", 
+            "full_name": "H. de Weerd", 
+            "position": 10
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Smits", 
+            "gender": "m", 
+            "place": "Zwartsluis", 
+            "full_name": "J.M.B.P. Smits", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Anneli", 
+            "last_name": "Bouckaert", 
+            "gender": "v", 
+            "place": "Hoogeveen", 
+            "full_name": "A.A.C. Bouckaert", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Moes", 
+            "gender": "m", 
+            "place": "Wapse", 
+            "full_name": "J.J. Moes", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

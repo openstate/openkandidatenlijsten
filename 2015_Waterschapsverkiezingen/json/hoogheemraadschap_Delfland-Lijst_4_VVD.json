@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marcel", 
+            "last_name": "Houtzager", 
+            "gender": "m", 
+            "place": "Voorburg", 
+            "full_name": "M.A. Houtzager", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Adrichem", 
+            "gender": "m", 
+            "place": "Pijnacker", 
+            "full_name": "P.J. van Adrichem", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marja", 
+            "last_name": "Hilders", 
+            "gender": "v", 
+            "place": "Leidschendam", 
+            "full_name": "M.J. Hilders", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Rijke", 
+            "gender": "m", 
+            "place": "Vlaardingen", 
+            "full_name": "K.P. Rijke", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Klein Entink", 
+            "gender": "m", 
+            "place": "Berkel en Rodenrijs", 
+            "full_name": "J. Klein Entink", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Thessa", 
+            "last_name": "Eekhout", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "T. Eekhout", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "van der Eijk", 
+            "gender": "m", 
+            "place": "Den Hoorn", 
+            "full_name": "J. van der Eijk", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Hoek van Holland", 
+            "full_name": "E.R. van Dijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "van Putten", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "W. van Putten", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Madelon", 
+            "last_name": "Dona", 
+            "gender": "v", 
+            "place": "Vlaardingen", 
+            "full_name": "M.P.H. Dona", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ellen Joy", 
+            "last_name": "Groosman-van den Brandhof", 
+            "gender": "v", 
+            "place": "Maassluis", 
+            "full_name": "E.J. Groosman-van den Brandhof", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Henriette", 
+            "last_name": "Welle Donker", 
+            "gender": "v", 
+            "place": "Delft", 
+            "full_name": "M.H. Welle Donker", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Pleun", 
+            "last_name": "van der Ende", 
+            "gender": "m", 
+            "place": "De Lier", 
+            "full_name": "P. van der Ende", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

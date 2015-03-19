@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Chris", 
+            "last_name": "Spooren", 
+            "gender": "m", 
+            "place": "Son en Breugel", 
+            "full_name": "A.J.M. Spooren", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Horst", 
+            "last_name": "Oosterveer", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "H. Oosterveer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Mieke", 
+            "last_name": "van Bree-Meeuwsen", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "M.L.F. van Bree-Meeuwsen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "van Bree", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "J.F.M. van Bree", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jolanda", 
+            "last_name": "van Hulst", 
+            "gender": "v", 
+            "place": "Veldhoven", 
+            "full_name": "J.A.M. van Hulst", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 50PLUS"
+}

@@ -1,0 +1,30 @@
+{
+    "candidates": [
+        {
+            "first_name": "Joep", 
+            "last_name": "Taks", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "J.P.W.A.A.M. Taks", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Overveld", 
+            "gender": "m", 
+            "place": "Oudenbosch", 
+            "full_name": "W.A.A.M. van Overveld", 
+            "position": 2
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Voets", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "J.J.M. Voets", 
+            "position": 3
+        }
+    ], 
+    "description": "Gecombineerd met Algemene Waterschapspartij", 
+    "title": "Lijst 8 50PLUS"
+}

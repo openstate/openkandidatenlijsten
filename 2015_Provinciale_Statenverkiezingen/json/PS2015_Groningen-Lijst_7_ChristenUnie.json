@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Stieneke", 
+            "last_name": "van der Graaf", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "S.J.F. van der Graaf", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Staghouwer", 
+            "gender": "m", 
+            "place": "Briltil", 
+            "full_name": "H. Staghouwer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Rinze", 
+            "last_name": "van der Born", 
+            "gender": "m", 
+            "place": "Haren Gn", 
+            "full_name": "R.H. van der Born", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Gerrit Jan", 
+            "last_name": "Steenbergen", 
+            "gender": "m", 
+            "place": "Delfzijl", 
+            "full_name": "G.J. Steenbergen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hilma", 
+            "last_name": "Oudman-Dam", 
+            "gender": "v", 
+            "place": "Stitswerd", 
+            "full_name": "H.M. Oudman-Dam", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Fredric", 
+            "last_name": "Geijtenbeek", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "F.B. Geijtenbeek", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Leonard", 
+            "last_name": "Noordhof", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.L. Noordhof", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Margriet", 
+            "last_name": "Donker-van der Vinne", 
+            "gender": "v", 
+            "place": "Garrelsweer", 
+            "full_name": "T.M. Donker-van der Vinne", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gert Jan", 
+            "last_name": "Bolt", 
+            "gender": "m", 
+            "place": "Scheemda", 
+            "full_name": "G.J. Bolt", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Rolf", 
+            "last_name": "Hoving", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "R.A. Hoving", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Schaap", 
+            "gender": "m", 
+            "place": "Stadskanaal", 
+            "full_name": "E. Schaap", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jannie", 
+            "last_name": "Vogel", 
+            "gender": "v", 
+            "place": "Leens", 
+            "full_name": "J.H. Vogel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Inge", 
+            "last_name": "Jongman-Mollema", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "I.M. Jongman-Mollema", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Harmannus", 
+            "last_name": "Blok", 
+            "gender": "m", 
+            "place": "Sauwerd", 
+            "full_name": "H. Blok", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Drenth", 
+            "gender": "m", 
+            "place": "Middelstum", 
+            "full_name": "G.R. Drenth", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Heslinga", 
+            "gender": "m", 
+            "place": "Veendam", 
+            "full_name": "T.E. Heslinga", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Schoemaker", 
+            "gender": "m", 
+            "place": "Stadskanaal", 
+            "full_name": "H. Schoemaker", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Rozema", 
+            "gender": "m", 
+            "place": "Uithuizen", 
+            "full_name": "L. Rozema", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jenny", 
+            "last_name": "van Beek-Broekhuizen", 
+            "gender": "v", 
+            "place": "Mussel", 
+            "full_name": "J. van Beek-Broekhuizen", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Iety", 
+            "last_name": "van der Sluis-Huisman", 
+            "gender": "v", 
+            "place": "Opende", 
+            "full_name": "G. van der Sluis-Huisman", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 ChristenUnie"
+}

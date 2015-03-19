@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Zeliha", 
+            "last_name": "Basoglu", 
+            "gender": "v", 
+            "place": "Koedijk", 
+            "full_name": "F.Z. Basoglu", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Rascha", 
+            "last_name": "Wisse", 
+            "gender": "v", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "R.V. Wisse", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Erika", 
+            "last_name": "Mauritz", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "H. Mauritz", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Janet", 
+            "last_name": "Westerhof", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "J. Westerhof", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marike", 
+            "last_name": "Dijkstra", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "M.C. Dijkstra", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bea", 
+            "last_name": "Möllers", 
+            "gender": "v", 
+            "place": "Egmond-Binnen", 
+            "full_name": "B.M. Möllers", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "Meij", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "A. Meij", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Bouwmeester", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "M.B. Bouwmeester", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Dita", 
+            "last_name": "Veenstra", 
+            "gender": "v", 
+            "place": "Noord-Scharwoude", 
+            "full_name": "D. Veenstra", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Westra", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "D. Westra", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Martjan", 
+            "last_name": "Loot", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "M.C.J. Loot", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jelle", 
+            "last_name": "Vloet", 
+            "gender": "m", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "J.A.J. Vloet", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Warmer", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "C.M.M. Warmer", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Micha", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "T.R.M. Kuiper", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Sträter", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P.J.M. Sträter", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Partij voor Mens en Spirit (MenS)"
+}

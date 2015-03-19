@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Erik", 
+            "last_name": "Smeenk", 
+            "gender": "m", 
+            "place": "Diepenveen", 
+            "full_name": "G.H. Smeenk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Holtmaat", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "R.G.J. Holtmaat", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jolande", 
+            "last_name": "Onderdijk-Schroten", 
+            "gender": "v", 
+            "place": "Dalfsen", 
+            "full_name": "J. Onderdijk-Schroten", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bertus", 
+            "last_name": "Kerkmeijer", 
+            "gender": "m", 
+            "place": "Wesepe", 
+            "full_name": "E.J. Kerkmeijer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Thea", 
+            "last_name": "Huisman", 
+            "gender": "v", 
+            "place": "Laag Zuthem", 
+            "full_name": "T.M.E. Huisman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Janssen", 
+            "gender": "m", 
+            "place": "Diepenveen", 
+            "full_name": "W.J.M. Janssen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Schokker", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "J.G. Schokker", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Thijs", 
+            "last_name": "Scholten", 
+            "gender": "m", 
+            "place": "Dalfsen", 
+            "full_name": "T. Scholten", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "van Werven", 
+            "gender": "m", 
+            "place": "Olst", 
+            "full_name": "G. van Werven", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "ten Have", 
+            "gender": "m", 
+            "place": "Schalkhaar", 
+            "full_name": "H.A.M. ten Have", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Rinus", 
+            "last_name": "Hoogeslag", 
+            "gender": "m", 
+            "place": "Heeten", 
+            "full_name": "M.J. Hoogeslag", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Kleine Koerkamp", 
+            "gender": "m", 
+            "place": "Lemelerveld", 
+            "full_name": "H.A.J. Kleine Koerkamp", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "Hulleman-Jansen", 
+            "gender": "v", 
+            "place": "Wesepe", 
+            "full_name": "G.M.C. Hulleman-Jansen", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 Sallandse Gemeentebelangen"
+}

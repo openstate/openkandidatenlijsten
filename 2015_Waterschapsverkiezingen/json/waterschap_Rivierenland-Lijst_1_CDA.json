@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Roeland", 
+            "last_name": "Geertzen", 
+            "gender": "m", 
+            "place": "Culemborg", 
+            "full_name": "R.C.J. Geertzen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Bassa", 
+            "gender": "m", 
+            "place": "Hei- en Boeicop", 
+            "full_name": "A. Bassa", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Lambert", 
+            "last_name": "de Wildt", 
+            "gender": "m", 
+            "place": "Overasselt", 
+            "full_name": "L.P.G. de Wildt", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hannie", 
+            "last_name": "Visser - Kieboom", 
+            "gender": "v", 
+            "place": "Werkendam", 
+            "full_name": "J. Visser - Kieboom", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van Rooijen", 
+            "gender": "m", 
+            "place": "Andelst", 
+            "full_name": "C.J.M. van Rooijen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ada", 
+            "last_name": "Boerma - Van Doorne", 
+            "gender": "v", 
+            "place": "Ammerzoden", 
+            "full_name": "A.H. Boerma - Van Doorne", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Gertsen", 
+            "gender": "m", 
+            "place": "Huissen", 
+            "full_name": "H.G. Gertsen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Geerten", 
+            "last_name": "van der Lugt", 
+            "gender": "m", 
+            "place": "Ochten", 
+            "full_name": "G.G. van der Lugt", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "van den Herik", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "A. van den Herik", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Mustafa", 
+            "last_name": "Bal", 
+            "gender": "m", 
+            "place": "Gorinchem", 
+            "full_name": "M. Bal", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Ekelschot", 
+            "gender": "m", 
+            "place": "Leuth", 
+            "full_name": "P.J.M. Ekelschot", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Martijn", 
+            "last_name": "Bax", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "M. Bax", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jonette", 
+            "last_name": "Korevaar - Den Besten", 
+            "gender": "v", 
+            "place": "Brandwijk", 
+            "full_name": "J. Korevaar - Den Besten", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Keuken", 
+            "gender": "m", 
+            "place": "Opheusden", 
+            "full_name": "A. Keuken", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Koot", 
+            "gender": "m", 
+            "place": "Groesbeek", 
+            "full_name": "J.W.W.M. Koot", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "de Leeuw", 
+            "gender": "m", 
+            "place": "Hoornaar", 
+            "full_name": "A. de Leeuw", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "van Oostrom", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "Th.J.M. van Oostrom", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Matser", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "R.J.M. Matser", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 CDA"
+}

@@ -1,0 +1,198 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hiltje", 
+            "last_name": "Keller", 
+            "gender": "v", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "H.J. Keller", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Femke Merel", 
+            "last_name": "Arissen", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "F.M. Arissen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "van der Steeg", 
+            "gender": "m", 
+            "place": "De Meern", 
+            "full_name": "W. van der Steeg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anjo", 
+            "last_name": "Travaille", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "A. Travaille", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Morren", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.L. Morren", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Saskia", 
+            "last_name": "Oskam", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "S.W. Oskam", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sylvia", 
+            "last_name": "den Bleker", 
+            "gender": "v", 
+            "place": "Woerden", 
+            "full_name": "S. den Bleker", 
+            "position": 7
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "van der Kruk", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "R. van der Kruk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "de Roos", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "H. de Roos", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Claudia", 
+            "last_name": "Verkleij", 
+            "gender": "v", 
+            "place": "Everdingen", 
+            "full_name": "C. Verkleij", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Korpershoek", 
+            "gender": "m", 
+            "place": "Montfoort", 
+            "full_name": "J. Korpershoek", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Joyce", 
+            "last_name": "Ekdom", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "J.I. Ekdom", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ida", 
+            "last_name": "Marsman", 
+            "gender": "v", 
+            "place": "Veenendaal", 
+            "full_name": "I.P.J.J. Marsman", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Heilbron", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.L.C. Heilbron", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Korteweg", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "E.I. Korteweg", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Sandra", 
+            "last_name": "Pollé", 
+            "gender": "v", 
+            "place": "Rhenen", 
+            "full_name": "S.F. Pollé", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Femke", 
+            "last_name": "van den Bos", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "F.K. van den Bos", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Barbara", 
+            "last_name": "van Genne", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "B. van Genne", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Mariska", 
+            "last_name": "de Winter", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "R.M.A. de Winter", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "M.J.E. de Groot", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Wanda", 
+            "last_name": "Bodewitz", 
+            "gender": "v", 
+            "place": "Vleuten", 
+            "full_name": "W.A. Bodewitz", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Eva", 
+            "last_name": "van Esch", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "E.M. van Esch", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Thieme", 
+            "gender": "v", 
+            "place": "Maarssen", 
+            "full_name": "M.L. Thieme", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Babette", 
+            "last_name": "van Veen", 
+            "gender": "v", 
+            "place": "Soest", 
+            "full_name": "B. van Veen", 
+            "position": 24
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 Partij voor de Dieren"
+}

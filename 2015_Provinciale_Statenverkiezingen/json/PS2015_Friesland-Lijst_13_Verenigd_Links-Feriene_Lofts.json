@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ad", 
+            "last_name": "van de Kolk", 
+            "gender": "m", 
+            "place": "Witmarsum", 
+            "full_name": "A. van de Kolk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Addy", 
+            "last_name": "Stoker", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "A. Stoker", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jane", 
+            "last_name": "Doekhi", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "J.M. Doekhi", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Sytse", 
+            "last_name": "Welbroek", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "S. Welbroek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Martijn", 
+            "last_name": "Joosten", 
+            "gender": "m", 
+            "place": "Franeker", 
+            "full_name": "M.O.A. Joosten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Renée", 
+            "last_name": "Reijenga", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "A. Reijenga", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Will", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "J. Will", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jellie", 
+            "last_name": "Djurrema", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "J. Djurrema", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "ten Zijthoff", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "P.M.L. ten Zijthoff", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Nanda", 
+            "last_name": "Knotters", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "M.F. Knotters", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ronnie", 
+            "last_name": "Tielenburg", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "R. Tielenburg", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jaqueline", 
+            "last_name": "Meijlink", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "J.M. Meijlink", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Sheler", 
+            "last_name": "Othman", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "S. Othman", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Jager", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "D.S. Jager", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Olffen", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "J. van Olffen", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 Verenigd Links-Feriene Lofts"
+}

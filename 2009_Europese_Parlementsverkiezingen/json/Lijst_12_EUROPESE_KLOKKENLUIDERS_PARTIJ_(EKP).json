@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Joeri", 
+            "last_name": "Wiersma", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "J. Wiersma", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Engel", 
+            "last_name": "Vrouwe", 
+            "gender": "m", 
+            "place": "Warga", 
+            "full_name": "E.H. Vrouwe", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Harm", 
+            "last_name": "Wiersma", 
+            "gender": "m", 
+            "place": "Goutum", 
+            "full_name": "H. Wiersma", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Schattenberg", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "H.G.C. Schattenberg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hanco", 
+            "last_name": "Elenbaas", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.C. Elenbaas", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Anne", 
+            "last_name": "Polak", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "A. Polak", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "de Wilde", 
+            "gender": "m", 
+            "place": "Kranenburg (DE)", 
+            "full_name": "G.G. de Wilde", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ineke", 
+            "last_name": "Schouten", 
+            "gender": "v", 
+            "place": "Bergen op Zoom", 
+            "full_name": "C.T.G.A. Schouten", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Lex", 
+            "last_name": "Sjerp", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "A.P. Sjerp", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Sikkes", 
+            "gender": "m", 
+            "place": "Heerenveen", 
+            "full_name": "W.A.J. Sikkes", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 EUROPESE KLOKKENLUIDERS PARTIJ (EKP)"
+}

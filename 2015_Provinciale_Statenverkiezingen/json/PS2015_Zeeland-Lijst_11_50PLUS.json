@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Willem", 
+            "last_name": "Willemse", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "W. Willemse", 
+            "position": 1
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "Lernout", 
+            "gender": "m", 
+            "place": "Sint Jansteen", 
+            "full_name": "G.L.C. Lernout", 
+            "position": 2
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Roozen", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "J.L.A.M. Roozen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Kalwij", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "F.J.M. Kalwij", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "van der Kolk", 
+            "gender": "m", 
+            "place": "Scharendijke", 
+            "full_name": "A. van der Kolk", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Eduard", 
+            "last_name": "de Smit", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "E.C. de Smit", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Teunissen", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "R.F. Teunissen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Kalwij-Snel", 
+            "gender": "v", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "C.J.P.M. Kalwij-Snel", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Fons", 
+            "last_name": "Israël", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "A.A.J. Israël", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "Bolier", 
+            "gender": "m", 
+            "place": "Veere", 
+            "full_name": "A.G. Bolier", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Sabben", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "J. van Sabben", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hanny", 
+            "last_name": "Montenarie", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "J.M. Montenarie", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 50PLUS"
+}

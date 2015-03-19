@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Annemarie", 
+            "last_name": "van de Vusse", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.C.E. van de Vusse", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marika", 
+            "last_name": "Kerstens", 
+            "gender": "v", 
+            "place": "De Kwakel", 
+            "full_name": "M. Kerstens", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Bergonje", 
+            "gender": "m", 
+            "place": "Kudelstaart", 
+            "full_name": "T. Bergonje", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jessie", 
+            "last_name": "Heemskerk", 
+            "gender": "v", 
+            "place": "Rijswijk", 
+            "full_name": "J. Heemskerk", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "van Vliet", 
+            "gender": "v", 
+            "place": "Uithoorn", 
+            "full_name": "J.C. van Vliet", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Smeets", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.A.G. Smeets", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Christien", 
+            "last_name": "Brouwer", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.E. Brouwer", 
+            "position": 7
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 8 Algemene Waterschapspartij"
+}

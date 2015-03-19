@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hans", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J.F. de Jong", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Hinnen", 
+            "gender": "m", 
+            "place": "Wijhe", 
+            "full_name": "L.G. Hinnen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marion", 
+            "last_name": "Wichard", 
+            "gender": "v", 
+            "place": "Kampen", 
+            "full_name": "M.F. Wichard", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "de Noord", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "P. de Noord", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Lisa", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "P.E. de Groot", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jelmer", 
+            "last_name": "Kloosterman", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J.B. Kloosterman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hélene", 
+            "last_name": "Grijseels", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "H.C.D. Grijseels", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ed", 
+            "last_name": "Piek", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "E. Piek", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Antje", 
+            "last_name": "Kingma", 
+            "gender": "v", 
+            "place": "Dalfsen", 
+            "full_name": "A. Kingma", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Wiebe", 
+            "last_name": "Dirksen", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "W. Dirksen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Janneco", 
+            "last_name": "Pothuis", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "J.H. Pothuis", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Bussink", 
+            "gender": "m", 
+            "place": "Lettele", 
+            "full_name": "M.A.J. Bussink", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Sieben", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "H. Sieben", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ivo", 
+            "last_name": "Leijten", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "I.J.C. Leijten", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "H. van Dijk", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Arne", 
+            "last_name": "Pronk", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "A.K. Pronk", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Massink", 
+            "gender": "m", 
+            "place": "Schalkhaar", 
+            "full_name": "P.R. Massink", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Groeneveld", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "L. Groeneveld", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "ter Schegget", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J. ter Schegget", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Knol", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "M. Knol", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 Water Natuurlijk"
+}

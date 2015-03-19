@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wilma", 
+            "last_name": "Brouwer", 
+            "gender": "v", 
+            "place": "Goes", 
+            "full_name": "W.C. Brouwer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Weemaes", 
+            "gender": "m", 
+            "place": "Hulst", 
+            "full_name": "P.P.V. Weemaes", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Rossen", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "M. Rossen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Lievense", 
+            "gender": "m", 
+            "place": "Westkapelle", 
+            "full_name": "T. Lievense", 
+            "position": 4
+        }, 
+        {
+            "first_name": "François", 
+            "last_name": "Lindenberg", 
+            "gender": "m", 
+            "place": "Krabbendijke", 
+            "full_name": "F.J. Lindenberg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bayram", 
+            "last_name": "Erbişim", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "B. Erbişim", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kris", 
+            "last_name": "Reijnierse", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "K.S. Reijnierse", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van der Wal", 
+            "gender": "m", 
+            "place": "Kats", 
+            "full_name": "G. van der Wal", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Weijdt", 
+            "gender": "m", 
+            "place": "Sint-Annaland", 
+            "full_name": "J. Weijdt", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Nellie", 
+            "last_name": "de Bont-Smulders", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "P.T.A. de Bont-Smulders", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Adrie", 
+            "last_name": "Oosterling", 
+            "gender": "m", 
+            "place": "Sluis", 
+            "full_name": "A.I. Oosterling", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Riel", 
+            "gender": "m", 
+            "place": "Wemeldinge", 
+            "full_name": "H.M. Riel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Hubert", 
+            "last_name": "Uitterhoeve", 
+            "gender": "m", 
+            "place": "Heinkenszand", 
+            "full_name": "H.J.G. Uitterhoeve", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Bostelaar", 
+            "gender": "m", 
+            "place": "Westkapelle", 
+            "full_name": "J. Bostelaar", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Aty", 
+            "last_name": "Harwijne-Vroomman", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "A.E. Harwijne-Vroomman", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Polderman", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "P.F. Polderman", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "van Zandbrink", 
+            "gender": "m", 
+            "place": "Aagtekerke", 
+            "full_name": "W.W. van Zandbrink", 
+            "position": 17
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Lilipaly", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "J.J. Lilipaly", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Ismail", 
+            "last_name": "Laghmiri", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "I. Laghmiri", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Ellen", 
+            "last_name": "van der Wal-Vermeulen", 
+            "gender": "v", 
+            "place": "Sint-Maartensdijk", 
+            "full_name": "E.M. van der Wal-Vermeulen", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Partij van de Arbeid (P.v.d.A.)"
+}

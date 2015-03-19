@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jac", 
+            "last_name": "Hendriks", 
+            "gender": "m", 
+            "place": "Boxtel", 
+            "full_name": "J.L.J. Hendriks", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mado", 
+            "last_name": "Ruijs", 
+            "gender": "v", 
+            "place": "Waalre", 
+            "full_name": "M.M. Ruijs", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Dewachter", 
+            "gender": "m", 
+            "place": "Oisterwijk", 
+            "full_name": "M.M.F. Dewachter", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dianne", 
+            "last_name": "Schellekens", 
+            "gender": "v", 
+            "place": "Vught", 
+            "full_name": "E.F.M. Schellekens", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van der Schroeff", 
+            "gender": "m", 
+            "place": "Gemonde", 
+            "full_name": "J.A. van der Schroeff", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Corinne", 
+            "last_name": "Aerdts", 
+            "gender": "v", 
+            "place": "Boxtel", 
+            "full_name": "C.J.W.M. Aerdts", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sef", 
+            "last_name": "Philips", 
+            "gender": "m", 
+            "place": "Liempde", 
+            "full_name": "J.G.H. Philips", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "van Hezik", 
+            "gender": "m", 
+            "place": "Oisterwijk", 
+            "full_name": "H.J.P.M. van Hezik", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Elly", 
+            "last_name": "Vermaat", 
+            "gender": "v", 
+            "place": "Vught", 
+            "full_name": "P.M. Vermaat", 
+            "position": 9
+        }, 
+        {
+            "first_name": "William", 
+            "last_name": "Aarts", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "W.G.F. Aarts", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Julis", 
+            "last_name": "de Quartel", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "J. de Quartel", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Theike", 
+            "last_name": "Roelofs", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "T. Roelofs", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Manon", 
+            "last_name": "van den Boogaard", 
+            "gender": "v", 
+            "place": "Sint-Oedenrode", 
+            "full_name": "M.J.G. van den Boogaard", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Okhuijsen", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "M.F.M. Okhuijsen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Tobias", 
+            "last_name": "Renner", 
+            "gender": "m", 
+            "place": "Den Dungen", 
+            "full_name": "T. Renner", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Zwerts", 
+            "gender": "m", 
+            "place": "Valkenswaard", 
+            "full_name": "A.A.A.M. Zwerts", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Rijnvos", 
+            "gender": "m", 
+            "place": "Mierlo", 
+            "full_name": "R.A.W. Rijnvos", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Gudule", 
+            "last_name": "Martens", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "G.J.M.H. Martens", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Lijten", 
+            "gender": "m", 
+            "place": "Veldhoven", 
+            "full_name": "G.F.C.M. Lijten", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "van Berlo", 
+            "gender": "m", 
+            "place": "Oost West en Middelbeers", 
+            "full_name": "C.A.J.M. van Berlo", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Mari", 
+            "last_name": "de Bijl", 
+            "gender": "m", 
+            "place": "Heeze", 
+            "full_name": "M.G.M. de Bijl", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Hetty", 
+            "last_name": "Tindemans-van Tent", 
+            "gender": "v", 
+            "place": "Valkenswaard", 
+            "full_name": "H.G. Tindemans-van Tent", 
+            "position": 22
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 Water Natuurlijk"
+}

@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Lieuwe", 
+            "last_name": "Tamminga", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "L. Tamminga", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lolkje", 
+            "last_name": "Efdé-Kleefstra", 
+            "gender": "v", 
+            "place": "Gytsjerk", 
+            "full_name": "L. Efdé-Kleefstra", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Ernst", 
+            "gender": "m", 
+            "place": "Munnekeburen", 
+            "full_name": "P.H. Ernst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Aaltje", 
+            "last_name": "Dijkstra-Wijbenga", 
+            "gender": "v", 
+            "place": "Westergeest", 
+            "full_name": "A. Dijkstra-Wijbenga", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Franke", 
+            "last_name": "Doting", 
+            "gender": "m", 
+            "place": "IJlst", 
+            "full_name": "F.P. Doting", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bertus", 
+            "last_name": "van der Zijl", 
+            "gender": "m", 
+            "place": "Vegelinsoord", 
+            "full_name": "L. van der Zijl", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "van Werven", 
+            "gender": "m", 
+            "place": "Opende", 
+            "full_name": "G.A. van Werven", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hielke", 
+            "last_name": "Merkus", 
+            "gender": "m", 
+            "place": "Ravenswoud", 
+            "full_name": "H. Merkus", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Lambertus", 
+            "last_name": "Hylkema", 
+            "gender": "m", 
+            "place": "Bolsward", 
+            "full_name": "L.J. Hylkema", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Anne Pieter", 
+            "last_name": "Wienia", 
+            "gender": "m", 
+            "place": "Oostrum", 
+            "full_name": "A.P. Wienia", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "Vogelesang", 
+            "gender": "m", 
+            "place": "Schettens", 
+            "full_name": "W.L. Vogelesang", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Leonard", 
+            "last_name": "Monderman", 
+            "gender": "m", 
+            "place": "Oosterwolde", 
+            "full_name": "L.G. Monderman", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Emile", 
+            "last_name": "Vogels", 
+            "gender": "m", 
+            "place": "Firdgum", 
+            "full_name": "E.L. Vogels", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Hielke", 
+            "last_name": "Bandstra", 
+            "gender": "m", 
+            "place": "Workum", 
+            "full_name": "H. Bandstra", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Pietrick", 
+            "last_name": "Veenstra", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "P. Veenstra", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Pekema", 
+            "gender": "m", 
+            "place": "Broek", 
+            "full_name": "G. Pekema", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ger", 
+            "last_name": "Jaarsma", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "G. Jaarsma", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Foeke", 
+            "last_name": "de Wolf", 
+            "gender": "m", 
+            "place": "Grou", 
+            "full_name": "F. de Wolf", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 VVD"
+}

@@ -1,0 +1,2733 @@
+title,description,position,full_name,first_name,last_name,gender,place
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,C.A. de Lange,Kees,de Lange,m,Monnickendam
+,,2,H. ten Hoeve,Hendrik,ten Hoeve,m,Stiens
+,,3,M. Bierman,Marten,Bierman,m,Amsterdam
+,,4,F. Babijn,François,Babijn,m,Oostburg
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,C.A. de Lange,Kees,de Lange,m,Monnickendam
+,,2,H. ten Hoeve,Hendrik,ten Hoeve,m,Stiens
+,,3,M. Bierman,Marten,Bierman,m,Amsterdam
+,,4,F. Babijn,François,Babijn,m,Oostburg
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,C.A. de Lange,Kees,de Lange,m,Monnickendam
+,,2,H. ten Hoeve,Hendrik,ten Hoeve,m,Stiens
+,,3,M. Bierman,Marten,Bierman,m,Amsterdam
+,,4,F. Babijn,François,Babijn,m,Oostburg
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,C.A. de Lange,Kees,de Lange,m,Monnickendam
+,,2,H. ten Hoeve,Hendrik,ten Hoeve,m,Stiens
+,,3,M. Bierman,Marten,Bierman,m,Amsterdam
+,,4,F. Babijn,François,Babijn,m,Oostburg
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,R. Kuiper,Roel,Kuiper,m,Barneveld
+,,2,P. Ester,Peter,Ester,m,Baarn
+,,3,S.J. Kennedy-Doornbos,Simone,Kennedy-Doornbos,v,Amersfoort
+,,4,H.H. Sietsma,Herman,Sietsma,m,Ermelo
+,,5,L.C. van Dijke,Leen,van Dijke,m,Middelburg
+,,6,B.A. de Graaf,Beatrice,de Graaf,v,Utrecht
+,,7,M. Haak-Griffioen,Marjan,Haak-Griffioen,v,Woerden
+,,8,L.C. Groen,Bert,Groen,m,Ruinen
+,,9,A. Hoogendoorn,Adriaan,Hoogendoorn,m,Waddinxveen
+,,10,M.C. van Meppelen Scheppink,Martijn,van Meppelen Scheppink,m,Barendrecht
+,,11,H.R. Schaafsma,Henk,Schaafsma,m,Kampen
+,,12,M. van Daalen,Thijs,van Daalen,m,Zeewolde
+,,13,R. Ferwerda,Rein,Ferwerda,m,Morra
+,,14,D.G. Rots,Gerdien,Rots,v,Zwolle
+,,15,J. Westert,Jan,Westert,m,Ommen
+,,16,J.P. de Vries,Jurn,de Vries,m,Amersfoort
+,,17,C.J. van Kranenburg,Kees,van Kranenburg,m,Driebergen-Rijsenburg
+,,18,H.J. van Rhee,Henk,van Rhee,m,Nieuwer ter Aa
+,,19,R.J. de Graaff,Robert,de Graaff,m,Amstelveen
+,,20,H. Lamberink,Harry,Lamberink,m,Hattem
+,,21,J.L. Evertse,Joop,Evertse,m,Hardinxveld-Giessendam
+,,22,G.J. Bolks,Gerrit Jan,Bolks,m,Ommen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,C.A. de Lange,Kees,de Lange,m,Monnickendam
+,,2,H. ten Hoeve,Hendrik,ten Hoeve,m,Stiens
+,,3,M. Bierman,Marten,Bierman,m,Amsterdam
+,,4,F. Babijn,François,Babijn,m,Oostburg
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,G. Holdijk,Gerrit,Holdijk,m,Uddel
+,,2,P. Schalk,Peter,Schalk,m,Veenendaal
+,,3,P.A. Zevenbergen,Peter,Zevenbergen,m,Alblasserdam
+,,4,D.J.H. van Dijk,Diederik,van Dijk,m,Benthuizen
+,,5,D. van Meeuwen,Dick,van Meeuwen,m,Sliedrecht
+,,6,G.R.J. van Heukelom,George,van Heukelom,m,Nieuwerkerk
+,,7,S. Stoop,Servaas,Stoop,m,Dirksland
+,,8,M. Bogerd,Rien,Bogerd,m,Urk
+,,9,D. Heemskerk,Dick,Heemskerk,m,Genemuiden
+,,10,J.J. Luteijn,Jan,Luteijn,m,Werkendam
+,,11,A.P. de Jong,Ton,de Jong,m,Noordeloos
+,,12,K.J.G. Kats,Gert-Jan,Kats,m,Nieuwerkerk aan den IJssel
+,,13,D. van Dijk,Dirk,van Dijk,m,Genemuiden
+,,14,J. Hoekman,Jaap,Hoekman,m,’s-Gravenpolder
+,,15,W. Fieret,Wim,Fieret,m,Woudenberg
+,,16,A. Weggeman,Arnold,Weggeman,m,Capelle aan den IJssel
+,,17,J.P. Tanis,Hans,Tanis,m,Sliedrecht
+,,18,A. de Kruijf,Aart,de Kruijf,m,Barneveld
+,,19,L.G.I. Barth,Leo,Barth,m,Ouderkerk aan den IJssel
+,,20,P.T. de Vries,Piter,de Vries,m,Veenwouden
+,,1,N.K. Koffeman,Niko,Koffeman,m,Vierhouten
+,,2,B.E.J.M. Verstappen,Birgit,Verstappen,v,Hilvarenbeek
+,,3,E.B. Eskens,Erno,Eskens,m,Amsterdam
+,,4,D.W. van Liere,Diederik,van Liere,m,Assen
+,,5,K.E. Soeters,Karen,Soeters,v,Amsterdam
+,,6,A.J. Dekker,Ton,Dekker,m,Heiloo
+,,7,P.B. Cliteur,Paul,Cliteur,m,Amsterdam
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage
+,,1,L.C. Brinkman,Elco,Brinkman,m,Leiden
+,,2,S.C. van Bijsterveld,Sophie,van Bijsterveld,v,Rijen
+,,3,G. de Vries-Leggedoor,Greetje,de Vries-Leggedoor,v,Nieuw-Buinen
+,,4,P.R.H.M. van der Linden,René,van der Linden,m,Nuth
+,,5,A.H. Flierman,Anne,Flierman,m,Markelo
+,,6,M.J.T. Martens,Maria,Martens,v,Nijmegen
+,,7,H. Franken,Hans,Franken,m,Zoeterwoude
+,,8,G.H. Terpstra,Gerrit,Terpstra,m,Utrecht
+,,9,W.B. Hoekstra,Wopke,Hoekstra,m,Amsterdam
+,,10,P.E.M.S. Lokin-Sassen,Pia,Lokin-Sassen,v,Groningen
+,,11,S. Buijs,Siem,Buijs,m,Goes
+,,12,P.H.J. Essers,Peter,Essers,m,Loon op Zand
+,,13,G. Benedictus,Geart,Benedictus,m,Joure
+,,14,H.L. Tiesinga,Henk,Tiesinga,m,Bant
+,,15,C.J. Dekker,Lianne,Dekker,v,’s-Gravenhage
+,,16,H.A. Doek,Huub,Doek,m,Arnhem
+,,17,G.J. Jansen,Geert,Jansen,m,Zwolle
+,,18,E.J. Janse de Jonge,Eric,Janse de Jonge,m,Engelen
+,,19,J.J.A.H. Klein Breteler,Hans,Klein Breteler,m,Wateringen
+,,20,K.M.L. Leunissen,Karel,Leunissen,m,Eijsden
+,,21,M.J. Passchier,Marian,Passchier,v,Katwijk ZH
+,,22,J.S.L.A.W.B. Roes,Sebastiaan,Roes,m,Nijmegen
+,,23,M. Luyer,Marianne,Luyer,v,Almere
+,,24,P. Boekhoud,Piet,Boekhoud,m,Barendrecht
+,,25,M.A.J. van der Tas,Marja,van der Tas,v,Apeldoorn
+,,26,J.M. Buiting,Marius,Buiting,m,Utrecht
+,,27,J.G.J. Kamp,Annie,Kamp,v,Breukelen UT
+,,28,A.M.T. Vreman-Muijrers,Anne-Marie,Vreman-Muijrers,v,Ede GLD
+,,29,W.M.M. van Fessem,Wim,van Fessem,m,Breda
+,,30,F.A.M. van den Heuvel,Frank,van den Heuvel,m,Middelburg
+,,1,L.M.L.H.A. Hermans,Loek,Hermans,m,Beetsterzwaag
+,,2,H.M. Dupuis,Heleen,Dupuis,v,Voorschoten
+,,3,E.M. Kneppers-Heijnert,Liesbeth,Kneppers-Heijnert,v,Sauwerd
+,,4,G.J. de Graaf,Fred,de Graaf,m,Loenen GLD
+,,5,F.H.G. de Grave,Frank,de Grave,m,Amsterdam
+,,6,A. Broekers-Knol,Ankie,Broekers-Knol,v,Overveen
+,,7,W.H. Huijbregts-Schiedon,Helmi,Huijbregts-Schiedon,v,Oosterhout NB
+,,8,J.F.B. van Rey,Jos,van Rey,m,Herten
+,,9,W.L.J. Bröcker,Willem,Bröcker,m,Wassenaar
+,,10,F.E. van Kappen,Frank,van Kappen,m,Doorn
+,,11,A.W. Duthler,Anne-Wil,Duthler,v,’s-Gravenhage
+,,12,S. Schaap,Sybe,Schaap,m,Emmeloord
+,,13,M.A.J. Knip,Menno,Knip,m,Almelo
+,,14,H.G.J.M. Beckers,Henk,Beckers,m,’s-Hertogenbosch
+,,15,J.M. Schouwenaar,Koos,Schouwenaar,m,Middelburg
+,,16,B.J. Swagerman,Ben,Swagerman,m,Bilthoven
+,,17,J.A. Bruijn,Jan Anthonie,Bruijn,m,Wassenaar
+,,18,H.J. Meijer,Henk Jan,Meijer,m,Zwolle
+,,19,H.M.W. ter Heegde,Han,ter Heegde,m,Heerhugowaard
+,,20,H.M. Meijdam,Henry,Meijdam,m,Hoorn NH
+,,21,S.B. Swierstra,Sipke,Swierstra,m,Assen
+,,22,F.A. Wijsenbeek,Florus,Wijsenbeek,m,’s-Gravenhage
+,,23,H. Dijksma,Harry,Dijksma,m,Almere
+,,24,J.R.A. Boertjens,Joop,Boertjens,m,Groningen
+,,25,J.J. Schrijen,Jan,Schrijen,m,Sittard
+,,26,F.W. Lantink,Frans Willem,Lantink,m,Haarlem
+,,27,R.P. Zevenbergen,Paul,Zevenbergen,m,Rotterdam
+,,28,D.H. Lodder,Duco,Lodder,m,Rockanje
+,,29,I.L. van Veldhuizen,Ida,van Veldhuizen,v,’s-Gravenhage
+,,30,E. van Dijk,Bert,van Dijk,m,Ulvenhout AC
+,,31,H. Kapelle,Hans,Kapelle,m,Lunteren
+,,32,G. Jaarsma,Ger,Jaarsma,m,Leeuwarden
+,,33,C.W. Bierens,Kees,Bierens,m,Meliskerke
+,,1,M.A.M. Barth,Marleen,Barth,v,Wassenaar
+,,2,K. Putters,Kim,Putters,m,Hardinxveld-Giessendam
+,,3,P.L. Meurs,Pauline,Meurs,v,Bilthoven
+,,4,K.G. de Vries,Klaas,de Vries,m,Pijnacker
+,,5,G. ter Horst,Guusje,ter Horst,v,Amsterdam
+,,6,H.C.P. Noten,Han,Noten,m,Dalfsen
+,,7,J. Beuving,Jannette,Beuving,v,’s-Gravenhage
+,,8,R.A. Koole,Ruud,Koole,m,Oegstgeest
+,,9,J.J. Sylvester,Joyce,Sylvester,v,Naarden
+,,10,N.J. Schrijver,Nico,Schrijver,m,Oegstgeest
+,,11,M.Y. Linthorst,Marijke,Linthorst,v,Abcoude
+,,12,A.T. Duivesteijn,Adri,Duivesteijn,m,’s-Gravenhage
+,,13,E.M. Sent,Esther-Mirjam,Sent,v,Nijmegen
+,,14,A. Postema,André,Postema,m,Maastricht
+,,15,J.G. Vlietstra,Janny,Vlietstra,v,Winschoten
+,,16,W.J. Witteveen,Willem,Witteveen,m,Breda
+,,17,A.L. Koning,Anne,Koning,v,Delft
+,,18,W.W. van Zandbrink,Wouter,van Zandbrink,m,Aagtekerke
+,,19,F.A.N.J. Goudappel,Flora,Goudappel,v,Rotterdam
+,,20,P.D. Smidt van Gelder,Pieter,Smidt van Gelder,m,’s-Gravenhage
+,,21,W.C. Brouwer,Wilma,Brouwer,v,Goes
+,,22,R.A.P. Schouwaert,Rudi,Schouwaert,m,Zeewolde
+,,23,P.G. Ketelaar,Ineke,Ketelaar,v,Amsterdam
+,,24,J.W.M. Hardon,Michiel,Hardon,m,’s-Gravenhage
+,,25,E.M. Branderhorst,Martien,Branderhorst,v,Rijswijk ZH
+,,26,A.B. Tekin Erdogan,Alper,Tekin Erdogan,m,Amsterdam
+,,27,J.M. Drees,Marijke,Drees,v,Groningen
+,,28,C.W.A.M. van Paridon,Kees,van Paridon,m,Voorburg
+,,1,M.J.M. Kox,Tiny,Kox,m,Tilburg
+,,2,T.M. Slagter-Roukema,Tineke,Slagter-Roukema,v,Zuidhorn
+,,3,E.M.A. Smaling,Eric,Smaling,m,Weesp
+,,4,A. Vliegenthart,Arjan,Vliegenthart,m,Amsterdam
+,,5,A.M.V. Gerkens,Arda,Gerkens,v,Haarlem
+,,6,G.A.T.M. Reuten,Geert,Reuten,m,Amsterdam
+,,7,R.F. Ruers,Bob,Ruers,m,Utrecht
+,,8,A. Elzinga,Tuur,Elzinga,m,Haarlem
+,,9,A.C. Quik-Schuijt,Nanneke,Quik-Schuijt,v,Zeist
+,,10,B.T.H.M. Palm,Ineke,Palm,v,Rotterdam
+,,11,E.T.M. Meijer,Erik,Meijer,m,Rotterdam
+,,12,H.J. Polderman,Hugo,Polderman,m,Roosendaal
+,,13,P.P.E. Lempens,Paul,Lempens,m,Weert
+,,14,M.P. Meijer,Meta,Meijer,v,Amsterdam
+,,15,L.J.M. Steenbakkers,Leo,Steenbakkers,m,Heesch
+,,16,P.W.G. Verschuren,Peter,Verschuren,m,Groningen
+,,17,R.J.L. Poppe,Remi,Poppe,m,Vlaardingen
+,,18,M. Erciyas,Mahmut,Erciyas,m,Oss
+,,19,A. Dekker-van het Hof,Alie,Dekker-van het Hof,v,Assen
+,,20,T.E. Siderius,Tjitske,Siderius,v,Zwolle
+,,21,B. de Roos-Consemulder,Trix,de Roos-Consemulder,v,Vlissingen
+,,22,P.J.J. Lucassen,Peter,Lucassen,m,Nijmegen
+,,23,W.F. Mulckhuijse,Frans,Mulckhuijse,m,Almere
+,,24,J.B. van der Horst,Jos,van der Horst,m,Drachten
+,,25,H.M. Don,Hans-Martin,Don,m,Eindhoven
+,,26,M.A. ten Heuw,Mariska,ten Heuw,v,Hengelo OV
+,,27,J.W. Bouman,Willem,Bouman,m,Doesburg
+,,28,H. Brader,Rikus,Brader,m,Finsterwolde
+,,29,G.H.M.M. ten Horn,Sineke,ten Horn,v,Groningen
+,,30,M.F.A. de Wit-Romans,Riet,de Wit-Romans,v,Heerlen
+,,1,C.P. Thissen,Tof,Thissen,m,Roermond
+,,2,M.H.A. Strik,Tineke,Strik,v,Oosterbeek
+,,3,M.B. Vos,Marijke,Vos,v,Amsterdam
+,,4,R.R. Ganzevoort,Ruard,Ganzevoort,m,Utrecht
+,,5,M.M. de Boer,Margreet,de Boer,v,Amsterdam
+,,6,Y. Koster-Dreese,Yolan,Koster-Dreese,v,Harmelen
+,,7,H.A. Binnema,Harmen,Binnema,m,Amsterdam
+,,8,C.J.M. van Eijk,Cees,van Eijk,m,Utrecht
+,,9,J.P. Laurier,Jan,Laurier,m,Leiden
+,,10,B.P. Paardekooper,Brechtje,Paardekooper,v,Utrecht
+,,11,C.A.J. Duijvestein,Kees,Duijvestein,m,’s-Gravenhage
+,,12,T. de Ruijter,Tys,de Ruijter,m,Amsterdam
+,,13,H.G. Warmelink,Han,Warmelink,m,Feerwerd
+,,14,M.M. Boddeke,Michaël,Boddeke,m,Apeldoorn
+,,15,M. Wiersma,Marten,Wiersma,m,’s-Heer Hendrikskinderen
+,,1,R.H.L.M. van Boxtel,Roger,van Boxtel,m,Gorinchem
+,,2,J.W.M. Engels,Hans,Engels,m,Paterswolde
+,,3,M.C. Scholten,Marijke,Scholten,v,Amsterdam
+,,4,J.P. Backer,Joris,Backer,m,’s-Gravenhage
+,,5,T.C. de Graaf,Thom,de Graaf,m,Nijmegen
+,,6,M. Wladimiroff,Mischa,Wladimiroff,m,’s-Gravenhage
+,,7,C.E. Peters,Klaartje,Peters,v,Maastricht
+,,8,H.B. Entzinger,Han,Entzinger,m,Rotterdam
+,,9,M.M. Kool,Marga,Kool,v,Linde DR
+,,10,E.C. Bakker,Ernst,Bakker,m,Hilversum
+,,11,W.M. Witteveen,Menno,Witteveen,m,’s-Gravenhage
+,,12,J.L.A. Boogerd-Quaak,Johanna,Boogerd-Quaak,v,Zaamslag
+,,13,B.R.A. van den Bos,Bob,van den Bos,m,’s-Gravenhage
+,,14,H.M. Linthorst,Huub,Linthorst,m,’s-Gravenhage
+,,15,A.S.M. Galama,Anna,Galama,v,Amsterdam
+,,16,C.P. van den Boomgaard,Petra,van den Boomgaard,v,’s-Gravenhage
+,,17,J.A. Booij,Arnaud,Booij,m,Haarlem
+,,18,S. van Oogen-Visser,Sietske,van Oogen-Visser,v,Almere
+,,19,M.A.A. di Bucchianico-Bakker,Marion,di Bucchianico-Bakker,v,Weesp
+,,20,Z. Yurdakul,Zafer,Yurdakul,m,Amsterdam
+,,21,W.T. Jouwstra,Tjerk,Jouwstra,m,Utrecht
+,,22,R. Jaasma,Remco,Jaasma,m,Schwyz (CH)
+,,1,C.A. de Lange,Kees,de Lange,m,Monnickendam
+,,2,H. ten Hoeve,Hendrik,ten Hoeve,m,Stiens
+,,3,M. Bierman,Marten,Bierman,m,Amsterdam
+,,4,F. Babijn,François,Babijn,m,Oostburg
+,,1,M. de Graaf,,de Graaf,m,’s-Gravenhage
+,,2,R.J. Klever,,Klever,v,Ermelo
+,,3,M.J.R.L. de Graaff,,de Graaff,m,Rotterdam
+,,4,G.A. van Strien,,van Strien,m,Arcen
+,,5,R. Sörensen,,Sörensen,m,Rotterdam
+,,6,T.P.A.M. Reynaers,,Reynaers,m,Roosendaal
+,,7,G.J.F. Popken,,Popken,v,Purmerend
+,,8,M.H.M. Faber,,Faber,v,Hoevelaken
+,,9,M.A.J.L. Frijters-Klijnen,,Frijters-Klijnen,v,Bergen op Zoom
+,,10,P. van Dijk,,van Dijk,m,Kattendijke
+,,11,M.J. van Beek,,van Beek,m,Leersum
+,,12,C.J. Kok,,Kok,m,Almere
+,,13,R. Deurloo,,Deurloo,m,Mijnsheerenland
+,,14,A. Kops,,Kops,m,Zoetermeer
+,,15,P. Romeijn,,Romeijn,m,Leiden
+,,16,H.J. Folkersma,,Folkersma,v,Leiden
+,,17,R. Muste,,Muste,m,Hulst
+,,18,N.A. Choenni,,Choenni,v,’s-Gravenhage
+,,19,M.S. Ludriks,,Ludriks,m,Uithoorn
+,,20,Y.R.K. Waterman,,Waterman,v,Wouwse Plantage
+,,1,R.H.T. Koornstra,Ruud,Koornstra,m,Eefde
+,,1,J.G. Nagel,Jan,Nagel,m,Hilversum
+,,2,M.H.H. Baay-Timmerman,Martine,Baay-Timmerman,v,Marbella (ES)
+,,3,M.H.M. van Hulten,Michel,van Hulten,m,Lelystad
+,,4,H.C.M. Krol,Henk,Krol,m,Eindhoven
+,,5,C. Steendam Visser,Cees,Steendam Visser,m,Amsterdam
+,,6,C. Slothouber,Cor,Slothouber,m,Groningen
+,,7,J.W.H. Peters,John,Peters,m,Amersfoort
+,,8,W.M.M. Hoek,Mieke,Hoek,v,Vreeland
+,,9,W.L. Meerts,Leo,Meerts,m,Nijmegen
+,,10,D.H. van der Haak-Levers,Dieuwke,van der Haak-Levers,v,Nieuwleusen
+,,11,K.L.R. Ho Ten Soeng,Roy,Ho Ten Soeng,m,Venhuizen
+,,12,W.J.M. Holthuizen,Willem,Holthuizen,m,Heemstede
+,,13,O.H. Vellinga,Otto,Vellinga,m,Bolsward
+,,14,A.H.J.F.S. Münninghoff,Alexander,Münninghoff,m,’s-Gravenhage

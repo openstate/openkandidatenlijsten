@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Holdijk", 
+            "gender": "m", 
+            "place": "Uddel", 
+            "full_name": "G. Holdijk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Schalk", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "P. Schalk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Zevenbergen", 
+            "gender": "m", 
+            "place": "Alblasserdam", 
+            "full_name": "P.A. Zevenbergen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Diederik", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Benthuizen", 
+            "full_name": "D.J.H. van Dijk", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Meeuwen", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "D. van Meeuwen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "van Heukelom", 
+            "gender": "m", 
+            "place": "Nieuwerkerk", 
+            "full_name": "G.R.J. van Heukelom", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Servaas", 
+            "last_name": "Stoop", 
+            "gender": "m", 
+            "place": "Dirksland", 
+            "full_name": "S. Stoop", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rien", 
+            "last_name": "Bogerd", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "M. Bogerd", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Heemskerk", 
+            "gender": "m", 
+            "place": "Genemuiden", 
+            "full_name": "D. Heemskerk", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Luteijn", 
+            "gender": "m", 
+            "place": "Werkendam", 
+            "full_name": "J.J. Luteijn", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Noordeloos", 
+            "full_name": "A.P. de Jong", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gert-Jan", 
+            "last_name": "Kats", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "K.J.G. Kats", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Genemuiden", 
+            "full_name": "D. van Dijk", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Hoekman", 
+            "gender": "m", 
+            "place": "’s-Gravenpolder", 
+            "full_name": "J. Hoekman", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Fieret", 
+            "gender": "m", 
+            "place": "Woudenberg", 
+            "full_name": "W. Fieret", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Arnold", 
+            "last_name": "Weggeman", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "A. Weggeman", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Tanis", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "J.P. Tanis", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Aart", 
+            "last_name": "de Kruijf", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "A. de Kruijf", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Barth", 
+            "gender": "m", 
+            "place": "Ouderkerk aan den IJssel", 
+            "full_name": "L.G.I. Barth", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Piter", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Veenwouden", 
+            "full_name": "P.T. de Vries", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Staatkundig Gereformeerde Partij (SGP)"
+}

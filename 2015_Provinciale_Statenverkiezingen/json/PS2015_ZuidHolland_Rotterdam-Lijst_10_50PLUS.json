@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "John", 
+            "last_name": "Struijlaard", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.W.A. Struijlaard", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Bakx", 
+            "gender": "m", 
+            "place": "Hillegom", 
+            "full_name": "W.M. Bakx", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Pont", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "P. Pont", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Laurens", 
+            "last_name": "de Keijzer", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "L.H.C. de Keijzer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Sjoerd", 
+            "last_name": "Fekkes", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "S.F. Fekkes", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sjef", 
+            "last_name": "Siemons", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.C. Siemons", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Haasnoot", 
+            "gender": "m", 
+            "place": "Katwijk", 
+            "full_name": "J.H. Haasnoot", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "De Mulder", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "R.V. De Mulder", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Hilte", 
+            "gender": "v", 
+            "place": "Zuidland", 
+            "full_name": "M.S. Hilte", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Dor", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "F. Dor", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Haksel", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "R.P.C. Haksel", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.E. de Vries", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Cornet", 
+            "gender": "m", 
+            "place": "Hillegom", 
+            "full_name": "C.J. Cornet", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Madzy", 
+            "last_name": "Bom", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "M.D.M. Bom", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "Nagel", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.R. Nagel", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Femke", 
+            "last_name": "Frietema de Vries", 
+            "gender": "v", 
+            "place": "Voorschoten", 
+            "full_name": "F.T. Frietema de Vries", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Alexander", 
+            "last_name": "Münninghoff", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.H.J.F.S. Münninghoff", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_10 50PLUS"
+}

@@ -1,0 +1,190 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frank", 
+            "last_name": "Wissink", 
+            "gender": "m", 
+            "place": "Stokkum", 
+            "full_name": "F.S.A. Wissink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Agnes", 
+            "last_name": "Gunnewijk - Veer", 
+            "gender": "v", 
+            "place": "Beltrum", 
+            "full_name": "A.A.M. Gunnewijk - Veer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Vennevertloo", 
+            "gender": "m", 
+            "place": "Rietmolen", 
+            "full_name": "J.H. Vennevertloo", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Thomassen", 
+            "gender": "m", 
+            "place": "Zevenaar", 
+            "full_name": "J.L.J. Thomassen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "den Hartog", 
+            "gender": "m", 
+            "place": "Lathum", 
+            "full_name": "J. den Hartog", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Krabben", 
+            "gender": "m", 
+            "place": "Vragender", 
+            "full_name": "H.A.C.M. Krabben", 
+            "position": 6
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Saelmans", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "D.J. Saelmans", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Reijrink", 
+            "gender": "m", 
+            "place": "Rietmolen", 
+            "full_name": "F.J. Reijrink", 
+            "position": 8
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Nijenhuis", 
+            "gender": "m", 
+            "place": "Warnsveld", 
+            "full_name": "A.R. Nijenhuis", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Tromop", 
+            "gender": "m", 
+            "place": "Holten", 
+            "full_name": "D.J. Tromop", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Pim", 
+            "last_name": "Leemreise", 
+            "gender": "m", 
+            "place": "Aalten", 
+            "full_name": "P.E.B. Leemreise", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Eelco", 
+            "last_name": "Nikkels", 
+            "gender": "m", 
+            "place": "Bathmen", 
+            "full_name": "E. Nikkels", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Winters", 
+            "gender": "m", 
+            "place": "Terborg", 
+            "full_name": "J.P.T. Winters", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Lamers", 
+            "gender": "m", 
+            "place": "Herwen", 
+            "full_name": "J.A.M. Lamers", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Baan", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "J. Baan", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Grevers", 
+            "gender": "m", 
+            "place": "Winterswijk", 
+            "full_name": "G.J. Grevers", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Robbertsen", 
+            "gender": "m", 
+            "place": "Doesburg", 
+            "full_name": "W.T. Robbertsen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Manfred", 
+            "last_name": "Keuper", 
+            "gender": "m", 
+            "place": "De Heurne", 
+            "full_name": "H.F. Keuper", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Huet", 
+            "gender": "m", 
+            "place": "Duiven", 
+            "full_name": "J.S.A. van Huet", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Berentschot", 
+            "gender": "m", 
+            "place": "Heelweg", 
+            "full_name": "H.J. Berentschot", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Huub", 
+            "last_name": "Veenes", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "H.F.M. Veenes", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Breunissen", 
+            "gender": "m", 
+            "place": "Westervoort", 
+            "full_name": "J.P. Breunissen", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Kottelenberg", 
+            "gender": "m", 
+            "place": "Lochem", 
+            "full_name": "A.J. Kottelenberg", 
+            "position": 23
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 CDA"
+}

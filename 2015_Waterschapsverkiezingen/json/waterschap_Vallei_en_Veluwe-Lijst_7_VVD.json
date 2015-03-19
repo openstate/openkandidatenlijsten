@@ -1,0 +1,134 @@
+{
+    "candidates": [
+        {
+            "first_name": "Victor", 
+            "last_name": "Doorn", 
+            "gender": "m", 
+            "place": "Lieren", 
+            "full_name": "V. Doorn", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Baron Mackay", 
+            "gender": "m", 
+            "place": "Harskamp", 
+            "full_name": "E. Baron Mackay", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Corrie-Christine", 
+            "last_name": "van der Woude", 
+            "gender": "v", 
+            "place": "Ede", 
+            "full_name": "C.C. van der Woude", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "T.N. Bos", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Sjoerd", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "S.E. Mulder", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "te Velde", 
+            "gender": "m", 
+            "place": "Maarn", 
+            "full_name": "R.S. te Velde", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Beerd", 
+            "last_name": "Volkers", 
+            "gender": "m", 
+            "place": "Heerde", 
+            "full_name": "B.D. Volkers", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Hanstede", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "J.G. Hanstede", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Nanja", 
+            "last_name": "van Dam", 
+            "gender": "v", 
+            "place": "Soest", 
+            "full_name": "N. van Dam", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Voortman", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "H.A. Voortman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jochem", 
+            "last_name": "Koers", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "J.L. Koers", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Beekman", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "A.A. Beekman", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Werner", 
+            "last_name": "de Coninck", 
+            "gender": "m", 
+            "place": "Nijkerk", 
+            "full_name": "W.C.J.A. de Coninck", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Klaas-Jan", 
+            "last_name": "Gorter", 
+            "gender": "m", 
+            "place": "Otterlo", 
+            "full_name": "K.J. Gorter", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Sjors", 
+            "last_name": "Versteegh", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "C.R.S. Versteegh", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jaco", 
+            "last_name": "Geurts", 
+            "gender": "m", 
+            "place": "Scherpenzeel", 
+            "full_name": "J. Geurts", 
+            "position": 16
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 VVD"
+}

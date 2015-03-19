@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Dorenda", 
+            "last_name": "Gerts", 
+            "gender": "v", 
+            "place": "Waddinxveen", 
+            "full_name": "T.M.B. Gerts", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jacques", 
+            "last_name": "la Croix", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J. la Croix", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Tjitske", 
+            "last_name": "Wierenga-Posthumus", 
+            "gender": "v", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "T. Wierenga-Posthumus", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "in 't Hout", 
+            "gender": "m", 
+            "place": "Moordrecht", 
+            "full_name": "J. in 't Hout", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Arjan", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Bergambacht", 
+            "full_name": "A. de Jong", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Verboom", 
+            "gender": "m", 
+            "place": "Bergambacht", 
+            "full_name": "P. Verboom", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "van der Kleij", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.C. van der Kleij", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Mone", 
+            "gender": "m", 
+            "place": "Schoonhoven", 
+            "full_name": "F.J.J. Mone", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "van Doeland", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "K.S.H. van Doeland", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Molenaar", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "M. Molenaar", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Lamers", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "P.A.W. Lamers", 
+            "position": 11
+        }
+    ], 
+    "description": "Gecombineerd met SGP-ChristenUnie", 
+    "title": "Lijst 4 CDA"
+}

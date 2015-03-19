@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Edgar", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "E. Mulder", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jeanet", 
+            "last_name": "Nijhof-Leeuw", 
+            "gender": "v", 
+            "place": "Hengelo (O)", 
+            "full_name": "J.M. Nijhof-Leeuw", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "van Aalst", 
+            "gender": "m", 
+            "place": "Hengelo (O)", 
+            "full_name": "R.R. van Aalst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Veltmeijer", 
+            "gender": "m", 
+            "place": "Vroomshoop", 
+            "full_name": "E.F. Veltmeijer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Rafael", 
+            "last_name": "de Wit", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "R.E. de Wit", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Leonie", 
+            "last_name": "Schonewille", 
+            "gender": "v", 
+            "place": "Vroomshoop", 
+            "full_name": "L. Schonewille", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Oude Wesselink", 
+            "gender": "m", 
+            "place": "Almelo", 
+            "full_name": "P.J.M. Oude Wesselink", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ferdinand", 
+            "last_name": "Geertman", 
+            "gender": "m", 
+            "place": "Hardenberg", 
+            "full_name": "F.T. Geertman", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Hidde", 
+            "last_name": "Heutink", 
+            "gender": "m", 
+            "place": "Oldenzaal", 
+            "full_name": "H.D. Heutink", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Kalkeren", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "D.H. van Kalkeren", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Sleen", 
+            "gender": "m", 
+            "place": "Hengelo (O)", 
+            "full_name": "J.H. van der Sleen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "G.J. Jansen", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 PVV (Partij voor de Vrijheid)"
+}

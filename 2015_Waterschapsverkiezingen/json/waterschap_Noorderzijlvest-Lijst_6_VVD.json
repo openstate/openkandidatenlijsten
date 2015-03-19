@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Eisse", 
+            "last_name": "Luitjens", 
+            "gender": "m", 
+            "place": "Loppersum", 
+            "full_name": "E.J. Luitjens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mattheus", 
+            "last_name": "Gorter", 
+            "gender": "m", 
+            "place": "Oldekerk", 
+            "full_name": "M. Gorter", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Kuizenga", 
+            "gender": "m", 
+            "place": "Ulrum", 
+            "full_name": "M. Kuizenga", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "van der Meer", 
+            "gender": "m", 
+            "place": "Alteveer", 
+            "full_name": "M.J.J. van der Meer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Latenstein van Voorst", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "T. Latenstein van Voorst", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Noord", 
+            "gender": "m", 
+            "place": "Zeijen", 
+            "full_name": "J. Noord", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ties", 
+            "last_name": "Herfst", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "C.Q. Herfst", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Laan", 
+            "gender": "m", 
+            "place": "Lettelbert", 
+            "full_name": "J.R. van der Laan", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Rini", 
+            "last_name": "Mol", 
+            "gender": "m", 
+            "place": "Roden", 
+            "full_name": "M. Mol", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Zeeuw", 
+            "gender": "m", 
+            "place": "Roden", 
+            "full_name": "M. Zeeuw", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Fokke", 
+            "last_name": "Dijkstra", 
+            "gender": "m", 
+            "place": "Tolbert", 
+            "full_name": "F. Dijkstra", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Tanja", 
+            "last_name": "Haseloop-Amsing", 
+            "gender": "v", 
+            "place": "Leek", 
+            "full_name": "T.H. Haseloop-Amsing", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 VVD"
+}

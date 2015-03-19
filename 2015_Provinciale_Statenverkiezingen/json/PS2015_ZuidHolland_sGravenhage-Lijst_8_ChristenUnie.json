@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Chris", 
+            "last_name": "Schaapman", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "C.H. Schaapman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wilco", 
+            "last_name": "Scheurwater", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "W.C. Scheurwater", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ixora", 
+            "last_name": "Balootje", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "I.S. Balootje", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jacco", 
+            "last_name": "Schonewille", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.P. Schonewille", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Mia", 
+            "last_name": "Wilsterman", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "C.M.V. Wilsterman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Arjan", 
+            "last_name": "Witte", 
+            "gender": "m", 
+            "place": "Zevenhuizen", 
+            "full_name": "A.R. Witte", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ytzen", 
+            "last_name": "Lont", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "Y.L. Lont", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Vente", 
+            "gender": "m", 
+            "place": "Berkenwoude", 
+            "full_name": "J. Vente", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Schotanus", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "G. Schotanus", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Oene", 
+            "last_name": "Sierksma", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "O. Sierksma", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Gerrit Wim", 
+            "last_name": "van Veelen", 
+            "gender": "m", 
+            "place": "Bodegraven", 
+            "full_name": "G.W. van Veelen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Janine", 
+            "last_name": "Clement-de Jonge", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "J. Clement-de Jonge", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Atie", 
+            "last_name": "Kuijt-van den Oever", 
+            "gender": "v", 
+            "place": "Katwijk", 
+            "full_name": "A. Kuijt-van den Oever", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "den Uil", 
+            "gender": "m", 
+            "place": "Bergschenhoek", 
+            "full_name": "J. den Uil", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Paul-Jonker", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Paul-Jonker", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Sommelsdijk", 
+            "full_name": "G. de Jong", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Job", 
+            "last_name": "Wieles", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "J.R.I. Wieles", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Schneider", 
+            "gender": "m", 
+            "place": "Hendrik-Ido-Ambacht", 
+            "full_name": "W. Schneider", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Nederstigt", 
+            "gender": "m", 
+            "place": "Voorhout", 
+            "full_name": "F.A.J. Nederstigt", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Kars", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "A.A. Kars", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Bikker", 
+            "gender": "m", 
+            "place": "Groot-Ammers", 
+            "full_name": "G.P. Bikker", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "van Harten", 
+            "gender": "m", 
+            "place": "Vlaardingen", 
+            "full_name": "R. van Harten", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "van Wolfswinkel", 
+            "gender": "m", 
+            "place": "Poortugaal", 
+            "full_name": "J. van Wolfswinkel", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Verspuij", 
+            "gender": "m", 
+            "place": "Giessenburg", 
+            "full_name": "J.D. Verspuij", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Charlotte", 
+            "last_name": "Scholtens-de Vries", 
+            "gender": "v", 
+            "place": "Gorinchem", 
+            "full_name": "C.F. Scholtens-de Vries", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Ágnes", 
+            "last_name": "Glastra", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "Á. Glastra", 
+            "position": 26
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_8 ChristenUnie"
+}

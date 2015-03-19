@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Herman", 
+            "last_name": "Odink", 
+            "gender": "m", 
+            "place": "Nieuwleusen", 
+            "full_name": "K.H. Odink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "Bouwmeester", 
+            "gender": "m", 
+            "place": "Rouveen", 
+            "full_name": "A. Bouwmeester", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Keegstra", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J. Keegstra", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Valkman", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "R. Valkman", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Witteveen", 
+            "gender": "m", 
+            "place": "IJsselmuiden", 
+            "full_name": "J. Witteveen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "van Olst", 
+            "gender": "m", 
+            "place": "Genemuiden", 
+            "full_name": "K. van Olst", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Veldman", 
+            "gender": "m", 
+            "place": "Hasselt", 
+            "full_name": "J.J. Veldman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Elizabeth", 
+            "last_name": "Pelleboer - Van Dijk", 
+            "gender": "v", 
+            "place": "Mastenbroek", 
+            "full_name": "E. Pelleboer - Van Dijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Ooms", 
+            "gender": "m", 
+            "place": "Hasselt", 
+            "full_name": "C.J.M. Ooms", 
+            "position": 9
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Klumpje", 
+            "gender": "m", 
+            "place": "IJsselmuiden", 
+            "full_name": "A.A. Klumpje", 
+            "position": 10
+        }
+    ], 
+    "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)", 
+    "title": "Lijst 3 ChristenUnie"
+}

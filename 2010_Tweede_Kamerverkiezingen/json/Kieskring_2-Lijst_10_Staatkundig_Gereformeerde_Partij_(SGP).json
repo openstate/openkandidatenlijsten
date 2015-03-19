@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Kees", 
+            "last_name": "van der Staaij", 
+            "gender": "m", 
+            "place": "Benthuizen", 
+            "full_name": "C.G. van der Staaij", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Elbert", 
+            "last_name": "Dijkgraaf", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "E. Dijkgraaf", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "Bisschop", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "R. Bisschop", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Servaas", 
+            "last_name": "Stoop", 
+            "gender": "m", 
+            "place": "Dirksland", 
+            "full_name": "S. Stoop", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Tanis", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "J.P. Tanis", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Diederik", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Benthuizen", 
+            "full_name": "D.J.H. van Dijk", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Schipaanboord", 
+            "gender": "m", 
+            "place": "Leiderdorp", 
+            "full_name": "G.P. Schipaanboord", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Arnold", 
+            "last_name": "Weggeman", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "A. Weggeman", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Duijn", 
+            "gender": "m", 
+            "place": "Katwijk ZH", 
+            "full_name": "W.J. van Duijn", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Zevenbergen", 
+            "gender": "m", 
+            "place": "Alblasserdam", 
+            "full_name": "P.A. Zevenbergen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Christian", 
+            "last_name": "van Bemmel", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "A.J.C. van Bemmel", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Leendert", 
+            "last_name": "de Knegt", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "L. de Knegt", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Genemuiden", 
+            "full_name": "D. van Dijk", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Rien", 
+            "last_name": "Bogerd", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "M. Bogerd", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Meeuwen", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "D. van Meeuwen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Teun", 
+            "last_name": "van Oostenbrugge", 
+            "gender": "m", 
+            "place": "Bruinisse", 
+            "full_name": "T. van Oostenbrugge", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ewart", 
+            "last_name": "Bosma", 
+            "gender": "m", 
+            "place": "Rijssen", 
+            "full_name": "E.G. Bosma", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Noeverman", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J. Noeverman", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Driesum", 
+            "full_name": "T. Bakker", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Donk", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "R.A.C. Donk", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Luteijn", 
+            "gender": "m", 
+            "place": "Werkendam", 
+            "full_name": "J.J. Luteijn", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "de Haas", 
+            "gender": "m", 
+            "place": "Ede Gld", 
+            "full_name": "M. de Haas", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Barth", 
+            "gender": "m", 
+            "place": "Ouderkerk aan den IJssel", 
+            "full_name": "L.G.I. Barth", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Schalk", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "P. Schalk", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "van Heteren", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "A. van Heteren", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Kievit", 
+            "gender": "m", 
+            "place": "Barneveld", 
+            "full_name": "H. Kievit", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Dorst", 
+            "gender": "m", 
+            "place": "Kapelle", 
+            "full_name": "A.I.G. Dorst", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Massink", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "H.F. Massink", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "W. de Vries", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Jan Willem", 
+            "last_name": "Benschop", 
+            "gender": "m", 
+            "place": "Lopik", 
+            "full_name": "J.W. Benschop", 
+            "position": 30
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Kieskring 2-Lijst 10 Staatkundig Gereformeerde Partij (SGP)"
+}

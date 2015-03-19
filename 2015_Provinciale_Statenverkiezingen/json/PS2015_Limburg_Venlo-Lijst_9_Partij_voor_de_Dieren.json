@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frank", 
+            "last_name": "Wassenberg", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "F.P. Wassenberg", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pascale", 
+            "last_name": "Plusquin", 
+            "gender": "v", 
+            "place": "Heerlen", 
+            "full_name": "P.S.M.L. Plusquin", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ida", 
+            "last_name": "Been", 
+            "gender": "v", 
+            "place": "Weert", 
+            "full_name": "I. Been", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Carlijn", 
+            "last_name": "van Tijen", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "C. van Tijen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bianca", 
+            "last_name": "Verrijdt", 
+            "gender": "v", 
+            "place": "Arcen", 
+            "full_name": "B.M.H.L. Verrijdt", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Rene", 
+            "last_name": "Kamps", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "P.H.G. Kamps", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Leila", 
+            "last_name": "Heijl", 
+            "gender": "v", 
+            "place": "Tegelen", 
+            "full_name": "L. Heijl", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Chandra", 
+            "last_name": "Merx", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "C. Merx", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Rinus", 
+            "last_name": "Ploeg", 
+            "gender": "m", 
+            "place": "Someren", 
+            "full_name": "D.M. Ploeg", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Rosalie", 
+            "last_name": "Sprooten", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "R.J.M. Sprooten", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_9 Partij voor de Dieren"
+}

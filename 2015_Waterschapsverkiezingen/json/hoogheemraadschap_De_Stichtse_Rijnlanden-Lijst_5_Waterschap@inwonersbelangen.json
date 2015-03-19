@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Eimert", 
+            "last_name": "Verkaik", 
+            "gender": "m", 
+            "place": "Montfoort", 
+            "full_name": "E. Verkaik", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Terpstra", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "P.M. Terpstra", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jacques", 
+            "last_name": "Sistermans", 
+            "gender": "m", 
+            "place": "Harmelen", 
+            "full_name": "J.J.T. Sistermans", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "Verhaar", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "V.A.M. Verhaar", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Angélique", 
+            "last_name": "Huntink-Bos", 
+            "gender": "v", 
+            "place": "Montfoort", 
+            "full_name": "J.H. Huntink-Bos", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Zandbergen", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "G. Zandbergen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "van Ginkel", 
+            "gender": "m", 
+            "place": "IJsselstein", 
+            "full_name": "A.F. van Ginkel", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wietze", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Cothen", 
+            "full_name": "W.G. Smit", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sybe", 
+            "last_name": "Streekstra", 
+            "gender": "m", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "S. Streekstra", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hendrie", 
+            "last_name": "van Assem", 
+            "gender": "m", 
+            "place": "Woerden", 
+            "full_name": "H.A. van Assem", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Elise", 
+            "last_name": "Verkaik", 
+            "gender": "v", 
+            "place": "Montfoort", 
+            "full_name": "E.E.M. Verkaik", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van der Does", 
+            "gender": "m", 
+            "place": "Woerden", 
+            "full_name": "J.C. van der Does", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jan-Hubert", 
+            "last_name": "van Rensen", 
+            "gender": "m", 
+            "place": "Harmelen", 
+            "full_name": "J.L.M. van Rensen", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 Waterschap@inwonersbelangen"
+}

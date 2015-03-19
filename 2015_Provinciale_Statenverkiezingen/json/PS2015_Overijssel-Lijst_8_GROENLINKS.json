@@ -1,0 +1,230 @@
+{
+    "candidates": [
+        {
+            "first_name": "Janet", 
+            "last_name": "Duursma", 
+            "gender": "v", 
+            "place": "Delden", 
+            "full_name": "J. Duursma", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "R.J.O. Jansen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "Vrielink", 
+            "gender": "v", 
+            "place": "Rijssen", 
+            "full_name": "T.M.S. Vrielink", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Douwe", 
+            "last_name": "de Winder", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "D.B. de Winder", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Broeze", 
+            "gender": "m", 
+            "place": "Vriezenveen", 
+            "full_name": "G.J. Broeze", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Slingerland", 
+            "gender": "m", 
+            "place": "Hardenberg", 
+            "full_name": "C.F. Slingerland", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Tiny", 
+            "last_name": "Hannink", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "C.J.M. Hannink", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Arco", 
+            "last_name": "Verhoeven", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "A.C.L.P.J. Verhoeven", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Janneke", 
+            "last_name": "oude Alink", 
+            "gender": "v", 
+            "place": "Hengelo (O)", 
+            "full_name": "A.E. oude Alink", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Wierda", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "K.E. Wierda", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Zeven", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "B.F. Zeven", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bineke", 
+            "last_name": "Mansholt", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "W. Mansholt", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Corry", 
+            "last_name": "Lameris", 
+            "gender": "v", 
+            "place": "Hengelo (O)", 
+            "full_name": "C.G. Lameris", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ralph", 
+            "last_name": "Mulders", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "R.J.P. Mulders", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "Trommel", 
+            "gender": "m", 
+            "place": "Almelo", 
+            "full_name": "M.R. Trommel", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan Willem", 
+            "last_name": "Meijberg", 
+            "gender": "m", 
+            "place": "Nijverdal", 
+            "full_name": "J.W. Meijberg", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van der Haar", 
+            "gender": "m", 
+            "place": "Staphorst", 
+            "full_name": "J. van der Haar", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Hoek", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "M.H.A. Hoek", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "ten Bloemendal", 
+            "gender": "v", 
+            "place": "Borne", 
+            "full_name": "H.C. ten Bloemendal", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Wilfred", 
+            "last_name": "Vruggink", 
+            "gender": "m", 
+            "place": "Olst", 
+            "full_name": "W. Vruggink", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Latupeirissa", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "F.A. Latupeirissa", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "Obdeijn", 
+            "gender": "v", 
+            "place": "Schalkhaar", 
+            "full_name": "K.J.J. Obdeijn", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Hengelo (O)", 
+            "full_name": "W.H. Kuiper", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Feenstra", 
+            "gender": "m", 
+            "place": "Borne", 
+            "full_name": "K.P. Feenstra", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Elly", 
+            "last_name": "van der Helm", 
+            "gender": "v", 
+            "place": "Haaksbergen", 
+            "full_name": "C.W.M. van der Helm", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Patrick", 
+            "last_name": "Pelman", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "P. Pelman", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Nijhof", 
+            "gender": "m", 
+            "place": "Hengelo (O)", 
+            "full_name": "H.J. Nijhof", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Daphne", 
+            "last_name": "Dertien", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "D.A.A. Dertien", 
+            "position": 28
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 GROENLINKS"
+}

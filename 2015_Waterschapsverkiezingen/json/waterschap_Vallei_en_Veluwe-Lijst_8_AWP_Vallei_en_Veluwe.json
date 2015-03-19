@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ron", 
+            "last_name": "van Megen", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "J.G.W. van Megen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Edith", 
+            "last_name": "van der Meulen", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "E.H. van der Meulen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Simone", 
+            "last_name": "Melis", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "S.M.W.H. Melis", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Hermans", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "R.H.J.J. Hermans", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Arja", 
+            "last_name": "Span", 
+            "gender": "v", 
+            "place": "Ede", 
+            "full_name": "A.S.W. Span", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Nooijen", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "W.F.J.M. Nooijen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Menno", 
+            "last_name": "van Erkelens", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "M. van Erkelens", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jacqueline", 
+            "last_name": "Pol-de Visser", 
+            "gender": "v", 
+            "place": "Ugchelen", 
+            "full_name": "J.C. Pol-de Visser", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Bresser", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "A.H.M. Bresser", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Snaterse", 
+            "gender": "m", 
+            "place": "Ermelo", 
+            "full_name": "C. Snaterse", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "P. de Jong", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Duco", 
+            "last_name": "Groenendijk", 
+            "gender": "m", 
+            "place": "Woudenberg", 
+            "full_name": "D. Groenendijk", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Setten", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "H. van Setten", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "van den Breemer", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "J.G.M. van den Breemer", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "te Winkel", 
+            "gender": "m", 
+            "place": "Hattem", 
+            "full_name": "M.J. te Winkel", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Hagelstein", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "G.H. Hagelstein", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Wijnand", 
+            "last_name": "Zech", 
+            "gender": "m", 
+            "place": "Putten", 
+            "full_name": "W. Zech", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Manders", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "P.G.A. Manders", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Quirine", 
+            "last_name": "Lensvelt-Ruijs", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "Q.E. Lensvelt-Ruijs", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "Wiekema", 
+            "gender": "m", 
+            "place": "Wapenveld", 
+            "full_name": "B.J. Wiekema", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Margot", 
+            "last_name": "Otten", 
+            "gender": "v", 
+            "place": "Beekbergen", 
+            "full_name": "G.B.M. Otten", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "Nieuwenstein-de Vegt", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "J.M. Nieuwenstein-de Vegt", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Groenendijk", 
+            "gender": "m", 
+            "place": "Woudenberg", 
+            "full_name": "H.J. Groenendijk", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Ko", 
+            "last_name": "ter Hofstede", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "J. ter Hofstede", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Matthias", 
+            "last_name": "Horstmanshof", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "M. Horstmanshof", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "van 't Hof", 
+            "gender": "m", 
+            "place": "Oosterwolde", 
+            "full_name": "G. van 't Hof", 
+            "position": 26
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 AWP Vallei en Veluwe"
+}

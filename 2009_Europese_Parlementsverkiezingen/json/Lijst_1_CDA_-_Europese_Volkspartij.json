@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wim", 
+            "last_name": "van de Camp", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "W.G.J.M. van de Camp", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Corien", 
+            "last_name": "Wortmann-Kool", 
+            "gender": "v", 
+            "place": "Zeist", 
+            "full_name": "C.M. Wortmann-Kool", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maria", 
+            "last_name": "Martens", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "M.J.T. Martens", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "de Lange", 
+            "gender": "v", 
+            "place": "Waddinxveen", 
+            "full_name": "E.M.R. de Lange", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Lambert", 
+            "last_name": "van Nistelrooij", 
+            "gender": "m", 
+            "place": "Diessen", 
+            "full_name": "L.J.J. van Nistelrooij", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Cornelis", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Middelharnis", 
+            "full_name": "C.L. Visser", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Winand", 
+            "last_name": "Quaedvlieg", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "W.L.E. Quaedvlieg", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Holtackers", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "M.P.M. Holtackers", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Agnes", 
+            "last_name": "Mulder", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "A.H. Mulder", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Cammaert", 
+            "gender": "m", 
+            "place": "Velsen-Zuid", 
+            "full_name": "P.A.G. Cammaert", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Mito", 
+            "last_name": "Croes", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.G. Croes", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Dijkman", 
+            "gender": "m", 
+            "place": "Kerkrade", 
+            "full_name": "M.C.T.H. Dijkman", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Rena", 
+            "last_name": "Netjes", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.H. Netjes", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Mariëlla", 
+            "last_name": "Smids", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "M.G. Smids", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Pier", 
+            "last_name": "Antuma", 
+            "gender": "m", 
+            "place": "Steenwijkerwold", 
+            "full_name": "P.P. Antuma", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Rijswijk ZH", 
+            "full_name": "W. Kuiper", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ans", 
+            "last_name": "van Zeeland", 
+            "gender": "v", 
+            "place": "Haps", 
+            "full_name": "A.P.A.M. van Zeeland", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Hester", 
+            "last_name": "Jansen", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "H.A.C. Jansen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Arine", 
+            "last_name": "Sijl", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "J.A. Sijl", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Greet", 
+            "last_name": "Seinen", 
+            "gender": "v", 
+            "place": "Emmen", 
+            "full_name": "G. Seinen", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Joma", 
+            "last_name": "Kaal", 
+            "gender": "v", 
+            "place": "Westerbork", 
+            "full_name": "M.J. Kaal", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "van Hall-Disch", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "M.C.W. van Hall-Disch", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Depondt-Olivers", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "M.L.H. Depondt-Olivers", 
+            "position": 23
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Kolodziejak", 
+            "gender": "m", 
+            "place": "Brussel (BE)", 
+            "full_name": "A.M.M. Kolodziejak", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "Oomen-Ruijten", 
+            "gender": "v", 
+            "place": "Maasbracht", 
+            "full_name": "M.G.H.C. Oomen-Ruijten", 
+            "position": 25
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie-SGP", 
+    "title": "Lijst 1 CDA - Europese Volkspartij"
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Berend Jan", 
+            "last_name": "Bussink", 
+            "gender": "m", 
+            "place": "Markelo", 
+            "full_name": "B.J. Bussink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bennie", 
+            "last_name": "van Til", 
+            "gender": "m", 
+            "place": "Hummelo", 
+            "full_name": "B.H. van Til", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Floortje", 
+            "last_name": "Wissing", 
+            "gender": "v", 
+            "place": "Terborg", 
+            "full_name": "F. Wissing", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Koekkoek", 
+            "gender": "m", 
+            "place": "De Steeg", 
+            "full_name": "R. Koekkoek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "Hasselo", 
+            "gender": "m", 
+            "place": "Eibergen", 
+            "full_name": "B.B. Hasselo", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Annemieke", 
+            "last_name": "Meiborg", 
+            "gender": "v", 
+            "place": "Didam", 
+            "full_name": "A.M.A. Meiborg", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Alfred", 
+            "last_name": "Wopereis", 
+            "gender": "m", 
+            "place": "Mariënvelde", 
+            "full_name": "A.A.W. Wopereis", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "Schriks", 
+            "gender": "v", 
+            "place": "Zutphen", 
+            "full_name": "M.E. Schriks", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Marchien", 
+            "last_name": "Oosterhuis", 
+            "gender": "v", 
+            "place": "Hengelo (Gld)", 
+            "full_name": "M.L. Oosterhuis", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Margreet", 
+            "last_name": "van Gastel", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "M.J. van Gastel", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

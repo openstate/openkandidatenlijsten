@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "René", 
+            "last_name": "Staijen", 
+            "gender": "m", 
+            "place": "Woltersum", 
+            "full_name": "R.F. Staijen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "JaapJan", 
+            "last_name": "Doornbosch", 
+            "gender": "m", 
+            "place": "Ten Boer", 
+            "full_name": "J.J.E. Doornbosch", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wolter", 
+            "last_name": "Strampel", 
+            "gender": "m", 
+            "place": "Haren Gn", 
+            "full_name": "W. Strampel", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Walstra", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.G. Walstra", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Huizinga", 
+            "gender": "v", 
+            "place": "Ten Post", 
+            "full_name": "T.A. Huizinga", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Freddy", 
+            "last_name": "Bosman", 
+            "gender": "m", 
+            "place": "Overschild", 
+            "full_name": "F.J.S. Bosman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Vonk", 
+            "gender": "m", 
+            "place": "Zuidhorn", 
+            "full_name": "R. Vonk", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 Algemene Waterschapspartij (AWP)"
+}

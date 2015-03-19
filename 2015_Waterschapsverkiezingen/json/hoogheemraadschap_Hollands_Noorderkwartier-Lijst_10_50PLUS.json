@@ -1,0 +1,30 @@
+{
+    "candidates": [
+        {
+            "first_name": "Roy", 
+            "last_name": "Ho Ten Soeng", 
+            "gender": "m", 
+            "place": "Venhuizen", 
+            "full_name": "K.L.R. Ho Ten Soeng", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Meuwese", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "G.J.M. Meuwese", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Avis", 
+            "gender": "m", 
+            "place": "Blokker", 
+            "full_name": "J.H. Avis", 
+            "position": 3
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 50PLUS"
+}

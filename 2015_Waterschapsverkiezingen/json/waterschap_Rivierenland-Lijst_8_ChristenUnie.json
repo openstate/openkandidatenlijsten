@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Teus", 
+            "last_name": "Stam", 
+            "gender": "m", 
+            "place": "Alblasserdam", 
+            "full_name": "T. Stam", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Drost", 
+            "gender": "m", 
+            "place": "Dodewaard", 
+            "full_name": "H.P. Drost", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wilco", 
+            "last_name": "Scheurwater", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "W.C. Scheurwater", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marijn", 
+            "last_name": "Gunnink", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "M. Gunnink", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Oene", 
+            "last_name": "Sierksma", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "O. Sierksma", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Machiel", 
+            "last_name": "Verdoorn", 
+            "gender": "m", 
+            "place": "Werkendam", 
+            "full_name": "M. Verdoorn", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hanny", 
+            "last_name": "van Brakel-Huijgen", 
+            "gender": "v", 
+            "place": "Randwijk", 
+            "full_name": "J.J. van Brakel-Huijgen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Dikjan", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Waal", 
+            "full_name": "D.K. Bos", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Boogaarts", 
+            "gender": "m", 
+            "place": "Dussen", 
+            "full_name": "P.C. Boogaarts", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Leen", 
+            "last_name": "Trouwborst", 
+            "gender": "m", 
+            "place": "Hoornaar", 
+            "full_name": "L. Trouwborst", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Beuzekom", 
+            "gender": "m", 
+            "place": "Schoonrewoerd", 
+            "full_name": "J. van Beuzekom", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Izak", 
+            "last_name": "Koedoot", 
+            "gender": "m", 
+            "place": "Andel", 
+            "full_name": "I.C. Koedoot", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Aantjes", 
+            "gender": "m", 
+            "place": "Brandwijk", 
+            "full_name": "H.N. Aantjes", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Gert-Jan", 
+            "last_name": "Donker", 
+            "gender": "m", 
+            "place": "Vuren", 
+            "full_name": "G.J. Donker", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Wijnand", 
+            "last_name": "van der Hoeven", 
+            "gender": "m", 
+            "place": "Wijk en Aalburg", 
+            "full_name": "W.H. van der Hoeven", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Thomas", 
+            "last_name": "Bassa", 
+            "gender": "m", 
+            "place": "Meerkerk", 
+            "full_name": "T. Bassa", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Mostert", 
+            "gender": "m", 
+            "place": "Culemborg", 
+            "full_name": "G. Mostert", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Anne", 
+            "last_name": "Duizer", 
+            "gender": "m", 
+            "place": "Giessen", 
+            "full_name": "A. Duizer", 
+            "position": 18
+        }
+    ], 
+    "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)", 
+    "title": "Lijst 8 ChristenUnie"
+}

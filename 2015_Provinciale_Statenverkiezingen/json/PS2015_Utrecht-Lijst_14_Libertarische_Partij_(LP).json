@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rik", 
+            "last_name": "Kleinsmit", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "H.T.J. Kleinsmit", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Jongepier", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "J. Jongepier", 
+            "position": 2
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Hendriks", 
+            "gender": "m", 
+            "place": "Doorn", 
+            "full_name": "J.C.T. Hendriks", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Herma", 
+            "last_name": "Beune", 
+            "gender": "v", 
+            "place": "Maarssen", 
+            "full_name": "H.J. Beune", 
+            "position": 4
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Hartman", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "R.H. Hartman", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 14 Libertarische Partij (LP)"
+}

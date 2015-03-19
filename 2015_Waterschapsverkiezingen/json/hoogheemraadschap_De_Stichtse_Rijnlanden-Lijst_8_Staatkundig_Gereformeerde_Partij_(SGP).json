@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Floor", 
+            "last_name": "van Os", 
+            "gender": "", 
+            "place": "Benschop", 
+            "full_name": "F. van Os", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Mandersloot", 
+            "gender": "", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "C. Mandersloot", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Schep", 
+            "gender": "", 
+            "place": "Benschop", 
+            "full_name": "A.B. Schep", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van der Wind", 
+            "gender": "", 
+            "place": "Werkhoven", 
+            "full_name": "J.J. van der Wind", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gijs", 
+            "last_name": "van Leeuwen", 
+            "gender": "", 
+            "place": "Houten", 
+            "full_name": "G. van Leeuwen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Cock", 
+            "last_name": "Verweij", 
+            "gender": "", 
+            "place": "Polsbroek", 
+            "full_name": "K.C. Verweij", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Daan-Pieter", 
+            "last_name": "van den Dikkenberg", 
+            "gender": "", 
+            "place": "Rhenen", 
+            "full_name": "P.A. van den Dikkenberg", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Boonzaaijer", 
+            "gender": "", 
+            "place": "Doorn", 
+            "full_name": "G. Boonzaaijer", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Woudenberg", 
+            "gender": "", 
+            "place": "Maartensdijk", 
+            "full_name": "J. van Woudenberg", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Rijneveld", 
+            "gender": "", 
+            "place": "Linschoten", 
+            "full_name": "C. Rijneveld", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Doornenbal", 
+            "gender": "", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "J. Doornenbal", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Cornelis", 
+            "last_name": "van Vulpen", 
+            "gender": "", 
+            "place": "Montfoort", 
+            "full_name": "C. van Vulpen", 
+            "position": 12
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Lijst 8 Staatkundig Gereformeerde Partij (SGP)"
+}

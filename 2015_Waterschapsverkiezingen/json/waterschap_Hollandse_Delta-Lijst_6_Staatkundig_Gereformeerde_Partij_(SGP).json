@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wim", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Hendrik-Ido-Ambacht", 
+            "full_name": "W. de Jong", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sjaak", 
+            "last_name": "van Helden", 
+            "gender": "m", 
+            "place": "'s-Gravendeel", 
+            "full_name": "J. van Helden", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Albert-Jan", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Ridderkerk", 
+            "full_name": "A.P.J. van den Berg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Grinwis", 
+            "gender": "m", 
+            "place": "Ouddorp", 
+            "full_name": "P.C. Grinwis", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Teunis", 
+            "last_name": "Stoop", 
+            "gender": "m", 
+            "place": "Hendrik-Ido-Ambacht", 
+            "full_name": "T.A. Stoop", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Herweijer", 
+            "gender": "m", 
+            "place": "Klaaswaal", 
+            "full_name": "A.J. Herweijer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Aren-Jan", 
+            "last_name": "Kardux", 
+            "gender": "m", 
+            "place": "Dirksland", 
+            "full_name": "A.J. Kardux", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van der Duijn Schouten", 
+            "gender": "m", 
+            "place": "Ridderkerk", 
+            "full_name": "C.A. van der Duijn Schouten", 
+            "position": 8
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Breedveld", 
+            "gender": "m", 
+            "place": "Barendrecht", 
+            "full_name": "J.S. Breedveld", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Kranendonk", 
+            "gender": "m", 
+            "place": "Ridderkerk", 
+            "full_name": "P. Kranendonk", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "Boonzaaijer", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "W. Boonzaaijer", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Hoogesteger", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "A. Hoogesteger", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Slootweg", 
+            "gender": "m", 
+            "place": "Middelharnis", 
+            "full_name": "G. Slootweg", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Staat", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "B. Staat", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Anthony", 
+            "last_name": "van der Wulp", 
+            "gender": "m", 
+            "place": "'s-Gravendeel", 
+            "full_name": "A.T. van der Wulp", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "Born", 
+            "gender": "m", 
+            "place": "Sommelsdijk", 
+            "full_name": "A.G.M. Born", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Matze", 
+            "gender": "m", 
+            "place": "Nieuw-Beijerland", 
+            "full_name": "J.K. Matze", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "Houweling", 
+            "gender": "m", 
+            "place": "Oude-Tonge", 
+            "full_name": "A. Houweling", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Nieuw-Beijerland", 
+            "full_name": "A. van der Linden", 
+            "position": 19
+        }
+    ], 
+    "description": "Gecombineerd met CDA en ChristenUnie", 
+    "title": "Lijst 6 Staatkundig Gereformeerde Partij (SGP)"
+}

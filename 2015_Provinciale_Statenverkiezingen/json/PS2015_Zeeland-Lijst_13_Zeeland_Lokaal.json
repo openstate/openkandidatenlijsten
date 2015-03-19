@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Mark", 
+            "last_name": "Faasse", 
+            "gender": "m", 
+            "place": "Kamperland", 
+            "full_name": "M.J. Faasse", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Bruinisse", 
+            "full_name": "C.J. van Liere", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gijs", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "G. van den Berg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "van Eck", 
+            "gender": "m", 
+            "place": "Sint Jansteen", 
+            "full_name": "J.F.L.M. van Eck", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "van de Vijver", 
+            "gender": "m", 
+            "place": "Sluis", 
+            "full_name": "M.H.B.M. van de Vijver", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Pim", 
+            "last_name": "Kraan", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "W.B. Kraan", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "Roelse", 
+            "gender": "m", 
+            "place": "Westkapelle", 
+            "full_name": "L.A. Roelse", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rian", 
+            "last_name": "de Feijter- de Feijter", 
+            "gender": "v", 
+            "place": "Axel", 
+            "full_name": "M.P.E. de Feijter- de Feijter", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Schouwenaar", 
+            "gender": "m", 
+            "place": "Wemeldinge", 
+            "full_name": "A.J. Schouwenaar", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Verdurmen", 
+            "gender": "m", 
+            "place": "Zaamslag", 
+            "full_name": "J.J.M. Verdurmen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Kraan", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "P.C. Kraan", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Bal", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "C.J.P. Bal", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Poissonnier-Dekker", 
+            "gender": "v", 
+            "place": "Waterlandkerkje", 
+            "full_name": "M.J. Poissonnier-Dekker", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Hirdes", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "P.W. Hirdes", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van Hulle", 
+            "gender": "m", 
+            "place": "Sas van Gent", 
+            "full_name": "F.O. van Hulle", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "Basting", 
+            "gender": "m", 
+            "place": "Retranchement", 
+            "full_name": "A.C. Basting", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Snoodijk", 
+            "gender": "m", 
+            "place": "Axel", 
+            "full_name": "P.A.A. Snoodijk", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Marijke", 
+            "last_name": "Hemelsoet - de Jaeger", 
+            "gender": "v", 
+            "place": "Westdorpe", 
+            "full_name": "M.I.R. Hemelsoet - de Jaeger", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Steketee", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "W.P. Steketee", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Co", 
+            "last_name": "van Schaik", 
+            "gender": "m", 
+            "place": "Axel", 
+            "full_name": "J.M. van Schaik", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Mini", 
+            "last_name": "Roelvink", 
+            "gender": "v", 
+            "place": "Sint-Maartensdijk", 
+            "full_name": "W.A.M. Roelvink", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Pim", 
+            "last_name": "Broekhuysen", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "W.H. Broekhuysen", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Margot", 
+            "last_name": "van Damme-Dubelaar", 
+            "gender": "v", 
+            "place": "'s-Heerenhoek", 
+            "full_name": "M.G. van Damme-Dubelaar", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van Driessche", 
+            "gender": "m", 
+            "place": "Lamswaarde", 
+            "full_name": "F.A.D. van Driessche", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Ed", 
+            "last_name": "Rentmeester", 
+            "gender": "m", 
+            "place": "'s-Heerenhoek", 
+            "full_name": "E.C.L. Rentmeester", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Rene", 
+            "last_name": "van den Kieboom", 
+            "gender": "m", 
+            "place": "Kloosterzande", 
+            "full_name": "M.C. van den Kieboom", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Brunke", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "R.L. Brunke", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Gino", 
+            "last_name": "Depauw", 
+            "gender": "m", 
+            "place": "Walsoorden", 
+            "full_name": "G.F.A. Depauw", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Toon", 
+            "last_name": "Maas", 
+            "gender": "m", 
+            "place": "Lamswaarde", 
+            "full_name": "A.J. Maas", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Jean-Paul", 
+            "last_name": "Hageman", 
+            "gender": "m", 
+            "place": "Vogelwaarde", 
+            "full_name": "J.P.E.M. Hageman", 
+            "position": 30
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 Zeeland Lokaal"
+}

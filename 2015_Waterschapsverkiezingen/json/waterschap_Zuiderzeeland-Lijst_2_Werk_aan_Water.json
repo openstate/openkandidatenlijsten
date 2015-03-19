@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Theo", 
+            "last_name": "Hogendoorn", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "T. Hogendoorn", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Philipsen", 
+            "gender": "m", 
+            "place": "Rutten", 
+            "full_name": "A.P. Philipsen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marie-Carien", 
+            "last_name": "Slootman-Claassen", 
+            "gender": "v", 
+            "place": "Espel", 
+            "full_name": "M.C.T. Slootman-Claassen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Louw", 
+            "last_name": "Overbeeke", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "L.J. Overbeeke", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Kempenaar", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "A. Kempenaar", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Blijdorp", 
+            "gender": "m", 
+            "place": "Luttelgeest", 
+            "full_name": "D. Blijdorp", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Naaktgeboren", 
+            "gender": "m", 
+            "place": "Tollebeek", 
+            "full_name": "J.P. Naaktgeboren", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Veenink", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "J.A. Veenink", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 Werk aan Water"
+}

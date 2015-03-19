@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Hendrik", 
+            "last_name": "ten Hoeve", 
+            "gender": "m", 
+            "place": "Stiens", 
+            "full_name": "H. ten Hoeve", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Emma", 
+            "last_name": "Kraak", 
+            "gender": "v", 
+            "place": "Kortgene", 
+            "full_name": "E.W.J.B.I. Kraak", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Hoiting", 
+            "gender": "m", 
+            "place": "Zuidwolde (Gr)", 
+            "full_name": "H.T. Hoiting", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Sörensen", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "R. Sörensen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Kruijmer", 
+            "gender": "m", 
+            "place": "Huizen", 
+            "full_name": "C. Kruijmer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Fons", 
+            "last_name": "Zinken", 
+            "gender": "m", 
+            "place": "Echt-Susteren", 
+            "full_name": "A.J.G. Zinken", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Onafhankelijke Senaatsfractie"
+}

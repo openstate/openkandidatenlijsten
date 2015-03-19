@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "", 
+            "last_name": "van den Eijnde", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "M.A.A. van den Eijnde", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van den Eijnde", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "D.H.A. van den Eijnde", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Üstün", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "A. Üstün", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van den Heuvel", 
+            "gender": "v", 
+            "place": "Helmond", 
+            "full_name": "H.W.G.M. van den Heuvel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Verberne", 
+            "gender": "v", 
+            "place": "Helmond", 
+            "full_name": "L.G.M. Verberne", 
+            "position": 5
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Verberne", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "P.P.M. Verberne", 
+            "position": 6
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Pieloor", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "D.F.M. Pieloor", 
+            "position": 7
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Cops", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "P.A.H. Cops", 
+            "position": 8
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Derksen", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "G.A. Derksen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van der Heijden", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "M.T.P. van der Heijden", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_11 StemNL"
+}

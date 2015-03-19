@@ -1,0 +1,158 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marianne", 
+            "last_name": "van der Tol", 
+            "gender": "v", 
+            "place": "Emmen", 
+            "full_name": "M.C.J. van der Tol", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Riek", 
+            "last_name": "Siertsema", 
+            "gender": "v", 
+            "place": "Bovensmilde", 
+            "full_name": "H.R. Siertsema", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jordy", 
+            "last_name": "Tuin", 
+            "gender": "m", 
+            "place": "de Wijk", 
+            "full_name": "J. Tuin", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jurr", 
+            "last_name": "van Dalen", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "J.A. van Dalen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Josephine", 
+            "last_name": "Slagmolen-Smits", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "A.J. Slagmolen-Smits", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Niels", 
+            "last_name": "Strolenberg", 
+            "gender": "m", 
+            "place": "Hoogeveen", 
+            "full_name": "N. Strolenberg", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Pragt", 
+            "gender": "m", 
+            "place": "Odoorn", 
+            "full_name": "H.J. Pragt", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "H.K. de Jong", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wilfried", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "W.J.N.M. de Jong", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Last", 
+            "gender": "m", 
+            "place": "Annerveenschekanaal", 
+            "full_name": "J.W. Last", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Hannah", 
+            "last_name": "Ietswaart", 
+            "gender": "v", 
+            "place": "Dwingeloo", 
+            "full_name": "H. Ietswaart", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Harma", 
+            "last_name": "van der Roest", 
+            "gender": "v", 
+            "place": "Beilen", 
+            "full_name": "H.G. van der Roest", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Frederik", 
+            "last_name": "van Lookeren Campagne", 
+            "gender": "m", 
+            "place": "Norg", 
+            "full_name": "F.W. van Lookeren Campagne", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "Veldhorst", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "V. Veldhorst", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Trip", 
+            "gender": "m", 
+            "place": "Kerkenveld", 
+            "full_name": "J.B. Trip", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Karel", 
+            "last_name": "Stoop", 
+            "gender": "m", 
+            "place": "Roden", 
+            "full_name": "K.W.J. Stoop", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Arnoud", 
+            "last_name": "de Vos", 
+            "gender": "m", 
+            "place": "Sleen", 
+            "full_name": "A.P. de Vos", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Rene", 
+            "last_name": "Bijderwieden", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "R.J. Bijderwieden", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Haar", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "A. Haar", 
+            "position": 19
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Democraten 66 (D66)"
+}

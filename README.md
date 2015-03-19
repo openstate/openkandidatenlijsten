@@ -1,20 +1,38 @@
-This is a small set of script to extract candidcacy lists from the political parties and convert them into a json format.
-The PDF files were taken from http://www.kiesraad.nl/nieuws/kandidatenlijsten-bekend
+This script extracts candidcacy lists from the political parties as published by de Kiesraad or de Staatscourant in PDF and converts them to JSON and CSV.
+The PDF files were taken from:
+
+- Europese Parlementsverkiezingen
+  - 2009: https://zoek.officielebekendmakingen.nl/stcrt-2009-7040.html
+  - 2014: https://www.kiesraad.nl/nieuws/uitspraak-beroepszaken-kandidaatstelling-europees-parlement
+- Tweede Kamerverkiezingen
+  - 2010: https://zoek.officielebekendmakingen.nl/stcrt-2010-7565.html
+  - 2012
+    - https://www.kiesraad.nl/nieuws/kandidatenlijsten-bekend
+    - https://zoek.officielebekendmakingen.nl/stcrt-2012-16691.html
+- Eerste Kamerverkiezingen
+  - 2007: https://zoek.officielebekendmakingen.nl/stcrt-2011-7988.html
+  - 2011: https://zoek.officielebekendmakingen.nl/stcrt-2011-7988.html
+- Provinciale Statenverkiezingen
+  - 2015: https://www.kiesraad.nl/nieuws/kandidatenlijsten-provinciale-statenverkiezingen-definitief-vastgesteld
+- Waterschapsverkiezingen
+  - 2015: https://www.kiesraad.nl/nieuws/kandidatenlijsten-waterschapsverkiezingen-definitief-vastgesteld
+
+Elections which have not yet been processed (listing PDF file if available):
+
+- all others before 1998 :)
+- 1998 Tweede Kamerverkiezingen: https://zoek.officielebekendmakingen.nl/stcrt-1998-69-p0-SC13361.html
+- 1999 Eerste Kamerverkiezingen: https://zoek.officielebekendmakingen.nl/stcrt-1999-90-p10-SC18872.html
+- 1999 Europese Parlementsverkiezingen: https://zoek.officielebekendmakingen.nl/stcrt-1999-91-p7-SC18884.html
+- 2002 Tweede Kamerverkiezingen: https://zoek.officielebekendmakingen.nl/stcrt-2002-75-p22-SC34204.html
+- 2003 Tweede Kamerverkiezingen: 
+- 2003 Eerste Kamerverkiezingen: 
+- 2004 Europese Parlementsverkiezingen: https://zoek.officielebekendmakingen.nl/stcrt-2004-92-p32-SC65111.html
+- 2006 Tweede Kamerverkiezingen:
+  - https://zoek.officielebekendmakingen.nl/stcrt-2006-207-p18-SC77436.html
+  - https://zoek.officielebekendmakingen.nl/stcrt-2006-209-p10-v1-SC77469.html (rectification)
+
 
 Requirements
 ============
 
 1. `pdftotext` (install xpdf)
-
-Installation
-============
-
-1. Clone the git repository
-
-Usage
-=====
-
-1. `cd $OPENKANDIDATELIJST_HOME/bin`
-2. `mkdir ../text && mkdir ../json`
-2. `./convert.sh`
-3. `cd ../json #contains json files`

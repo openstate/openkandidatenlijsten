@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tof", 
+            "last_name": "Thissen", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "C.P. Thissen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Strik", 
+            "gender": "v", 
+            "place": "Oosterbeek", 
+            "full_name": "M.H.A. Strik", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marijke", 
+            "last_name": "Vos", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.B. Vos", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ruard", 
+            "last_name": "Ganzevoort", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "R.R. Ganzevoort", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Margreet", 
+            "last_name": "de Boer", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.M. de Boer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Yolan", 
+            "last_name": "Koster-Dreese", 
+            "gender": "v", 
+            "place": "Harmelen", 
+            "full_name": "Y. Koster-Dreese", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Harmen", 
+            "last_name": "Binnema", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.A. Binnema", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "van Eijk", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "C.J.M. van Eijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Laurier", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "J.P. Laurier", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Brechtje", 
+            "last_name": "Paardekooper", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "B.P. Paardekooper", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Duijvestein", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "C.A.J. Duijvestein", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Tys", 
+            "last_name": "de Ruijter", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T. de Ruijter", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "Warmelink", 
+            "gender": "m", 
+            "place": "Feerwerd", 
+            "full_name": "H.G. Warmelink", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Michaël", 
+            "last_name": "Boddeke", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "M.M. Boddeke", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Wiersma", 
+            "gender": "m", 
+            "place": "’s-Heer Hendrikskinderen", 
+            "full_name": "M. Wiersma", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 GROENLINKS"
+}

@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ursula", 
+            "last_name": "Wijnen-Kivit", 
+            "gender": "v", 
+            "place": "Geleen", 
+            "full_name": "F.M.M.U. Wijnen-Kivit", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Twan", 
+            "last_name": "Schevers", 
+            "gender": "m", 
+            "place": "Doenrade", 
+            "full_name": "M.M.J. Schevers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Hanbeukers", 
+            "gender": "m", 
+            "place": "Sittard", 
+            "full_name": "J.H. Hanbeukers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Schwillens", 
+            "gender": "m", 
+            "place": "Spaubeek", 
+            "full_name": "M.M.R. Schwillens", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Bours", 
+            "gender": "m", 
+            "place": "Stein", 
+            "full_name": "E.H.G.M. Bours", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Schlössels", 
+            "gender": "m", 
+            "place": "Einighausen", 
+            "full_name": "J.E.E.A. Schlössels", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Math", 
+            "last_name": "Horrichs", 
+            "gender": "m", 
+            "place": "Stein", 
+            "full_name": "M.H.A. Horrichs", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Maurits", 
+            "last_name": "van der Werff", 
+            "gender": "m", 
+            "place": "Oirsbeek", 
+            "full_name": "M.G. van der Werff", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ralph", 
+            "last_name": "Diederen", 
+            "gender": "m", 
+            "place": "Beek", 
+            "full_name": "R. Diederen", 
+            "position": 9
+        }
+    ], 
+    "description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Heuvelland en Waterbelang Maastricht en", 
+    "title": "Lijst 2 Waterbelang Westelijke Mijnstreek"
+}

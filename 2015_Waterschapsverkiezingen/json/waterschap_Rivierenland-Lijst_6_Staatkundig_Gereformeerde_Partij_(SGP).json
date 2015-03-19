@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Goos", 
+            "last_name": "den Hartog", 
+            "gender": "", 
+            "place": "Ochten", 
+            "full_name": "G.V. den Hartog", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Aanen", 
+            "gender": "", 
+            "place": "Meerkerk", 
+            "full_name": "P. Aanen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Vos", 
+            "gender": "", 
+            "place": "Nederhemert", 
+            "full_name": "G.C. Vos", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dert", 
+            "last_name": "Vlaander", 
+            "gender": "", 
+            "place": "Wijk en Aalburg", 
+            "full_name": "A.G. Vlaander", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "de Groot", 
+            "gender": "", 
+            "place": "Molenaarsgraaf", 
+            "full_name": "B. de Groot", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Baggerman", 
+            "gender": "", 
+            "place": "Werkendam", 
+            "full_name": "C. Baggerman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van de Bijl", 
+            "gender": "", 
+            "place": "Lienden", 
+            "full_name": "C. van de Bijl", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Meeuwen", 
+            "gender": "", 
+            "place": "Sliedrecht", 
+            "full_name": "D. van Meeuwen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Keuken", 
+            "gender": "", 
+            "place": "Ochten", 
+            "full_name": "W.F. Keuken", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van den Bergh", 
+            "gender": "", 
+            "place": "Vuren", 
+            "full_name": "J. van den Bergh", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Kievit", 
+            "gender": "", 
+            "place": "Tricht", 
+            "full_name": "G.A. Kievit", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Zevenbergen", 
+            "gender": "", 
+            "place": "Alblasserdam", 
+            "full_name": "P.A. Zevenbergen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Liza", 
+            "last_name": "Biesheuvel", 
+            "gender": "", 
+            "place": "Gameren", 
+            "full_name": "E. Biesheuvel", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Besseling", 
+            "gender": "", 
+            "place": "Hardinxveld-Giessendam", 
+            "full_name": "C. Besseling", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Matteo", 
+            "last_name": "de Visser", 
+            "gender": "", 
+            "place": "Leerdam", 
+            "full_name": "M. de Visser", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Treur", 
+            "gender": "", 
+            "place": "Herwijnen", 
+            "full_name": "A. Treur", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Oomen", 
+            "gender": "", 
+            "place": "Nederhemert", 
+            "full_name": "C. Oomen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "de Groot", 
+            "gender": "", 
+            "place": "Spijk", 
+            "full_name": "K. de Groot", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Lourens", 
+            "last_name": "van Bruchem", 
+            "gender": "", 
+            "place": "Meteren", 
+            "full_name": "L. van Bruchem", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Teus", 
+            "last_name": "Kool", 
+            "gender": "", 
+            "place": "Waardenburg", 
+            "full_name": "T. Kool", 
+            "position": 20
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Lijst 6 Staatkundig Gereformeerde Partij (SGP)"
+}

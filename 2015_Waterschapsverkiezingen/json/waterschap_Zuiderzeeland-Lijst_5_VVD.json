@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tom", 
+            "last_name": "Vereijken", 
+            "gender": "m", 
+            "place": "Rutten", 
+            "full_name": "T.L.F.M. Vereijken", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wubbo", 
+            "last_name": "de Raad", 
+            "gender": "m", 
+            "place": "Kraggenburg", 
+            "full_name": "W.G. de Raad", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Geert Jan", 
+            "last_name": "Pastoor", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "G.J. Pastoor", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anne", 
+            "last_name": "Kolmer", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "A. Kolmer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marianneke", 
+            "last_name": "Creemers-Hazebroek", 
+            "gender": "v", 
+            "place": "Zeewolde", 
+            "full_name": "M.I. Creemers-Hazebroek", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Blokpoel", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "M.W. Blokpoel", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Koster", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J. Koster", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hanna", 
+            "last_name": "van Zijverden-Burger", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "H.S. van Zijverden-Burger", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Zuurendonk", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "B.P. Zuurendonk", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Bhola", 
+            "last_name": "Balgobind", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "B. Balgobind", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 VVD"
+}

@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Niko", 
+            "last_name": "Koffeman", 
+            "gender": "m", 
+            "place": "Vierhouten", 
+            "full_name": "N.K. Koffeman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Birgit", 
+            "last_name": "Verstappen", 
+            "gender": "v", 
+            "place": "Hilvarenbeek", 
+            "full_name": "B.E.J.M. Verstappen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Erno", 
+            "last_name": "Eskens", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.B. Eskens", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Diederik", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "D.W. van Liere", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Karen", 
+            "last_name": "Soeters", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "K.E. Soeters", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "Heiloo", 
+            "full_name": "A.J. Dekker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Cliteur", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P.B. Cliteur", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 Partij voor de Dieren"
+}

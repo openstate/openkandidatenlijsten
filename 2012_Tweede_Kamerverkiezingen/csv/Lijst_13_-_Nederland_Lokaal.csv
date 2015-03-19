@@ -1,0 +1,741 @@
+title,description,position,full_name,first_name,last_name,gender,place
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,3,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,4,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,5,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,6,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,7,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,8,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,9,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,10,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,11,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,12,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,13,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,14,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,15,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,16,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,17,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,18,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,19,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,20,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,21,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,22,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,23,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,24,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,25,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,26,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,31,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,32,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,33,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,34,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,3,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,4,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,5,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,6,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,7,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,8,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,9,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,10,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,11,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,12,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,13,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,14,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,15,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,16,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,17,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,18,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,19,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,20,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,21,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,22,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,23,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,24,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,25,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,26,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,31,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,32,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,33,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,34,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,3,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,4,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,5,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,6,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,7,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,8,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,9,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,10,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,11,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,12,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,13,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,14,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,15,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,16,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,17,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,18,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,19,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,20,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,21,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,22,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,23,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,24,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,25,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,26,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,31,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,32,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,33,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,34,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,3,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,4,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,5,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,6,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,7,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,8,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,9,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,10,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,11,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,12,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,13,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,14,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,15,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,16,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,17,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,18,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,19,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,20,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,21,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,22,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,23,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,24,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,25,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,26,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,31,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,32,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,33,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,34,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,3,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,4,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,5,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,6,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,7,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,8,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,9,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,10,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,11,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,12,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,13,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,14,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,15,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,16,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,17,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,18,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,19,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,20,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,21,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,22,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,23,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,24,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,25,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,26,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,31,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,32,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,33,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,34,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,3,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,4,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,5,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,6,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,7,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,8,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,9,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,10,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,11,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,12,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,13,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,14,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,15,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,16,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,17,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,18,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,19,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,20,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,21,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,22,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,23,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,24,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,25,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,26,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,31,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,32,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,33,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,34,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,3,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,4,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,5,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,6,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,7,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,8,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,9,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,10,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,11,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,12,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,13,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,14,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,15,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,16,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,17,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,18,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,19,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,20,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,21,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,22,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,23,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,24,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,25,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,26,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,27,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,28,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,29,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,30,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,31,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,32,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,33,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,34,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,35,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,36,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,3,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,4,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,5,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,6,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,7,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,8,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,9,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,10,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,11,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,12,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,13,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,14,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,15,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,16,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,17,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,18,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,19,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,20,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,21,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,22,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,23,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,24,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,25,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,26,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,27,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,28,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,31,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,32,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,33,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,34,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,3,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,4,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,5,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,6,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,7,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,8,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,9,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,10,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,11,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,12,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,13,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,14,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,15,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,16,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,17,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,18,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,19,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,20,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,21,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,22,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,23,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,24,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,25,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,26,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,27,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,28,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,29,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,30,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,31,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,32,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,33,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,34,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,35,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,36,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,3,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,4,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,5,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,6,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,7,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,8,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,9,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,10,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,11,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,12,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,13,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,14,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,15,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,16,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,17,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,18,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,19,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,20,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,21,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,22,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,23,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,24,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,25,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,26,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,27,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,28,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,29,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,30,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,31,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,32,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,33,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,34,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,35,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,36,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,3,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,4,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,5,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,6,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,7,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,8,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,9,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,10,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,11,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,12,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,13,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,14,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,15,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,16,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,17,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,18,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,19,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,20,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,21,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,22,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,23,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,24,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,25,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,26,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,27,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,28,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,29,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,30,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,31,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,32,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,33,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,34,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,35,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,36,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,3,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,4,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,5,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,6,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,7,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,8,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,9,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,10,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,11,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,12,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,13,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,14,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,15,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,16,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,17,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,18,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,19,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,20,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,21,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,22,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,23,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,24,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,25,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,26,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,27,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,28,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,29,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,30,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,31,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,32,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,33,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,34,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,35,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,36,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,3,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,4,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,5,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,6,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,7,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,8,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,9,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,10,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,11,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,12,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,13,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,14,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,15,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,16,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,17,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,18,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,19,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,20,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,21,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,22,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,23,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,24,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,25,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,26,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,27,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,28,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,29,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,30,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,31,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,32,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,33,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,34,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,3,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,4,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,5,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,6,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,7,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,8,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,9,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,10,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,11,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,12,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,13,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,14,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,15,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,16,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,17,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,18,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,19,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,20,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,21,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,22,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,23,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,24,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,25,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,26,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,27,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,28,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,29,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,30,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,31,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,32,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,33,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,34,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,35,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,36,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,3,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,4,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,5,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,6,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,7,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,8,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,9,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,10,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,11,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,12,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,13,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,14,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,15,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,16,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,17,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,18,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,19,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,20,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,21,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,22,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,23,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,24,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,25,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,26,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,27,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,28,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,29,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,30,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,31,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,32,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,33,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,34,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,35,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,36,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,3,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,4,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,5,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,6,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,7,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,8,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,9,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,10,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,11,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,12,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,13,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,14,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,15,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,16,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,17,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,18,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,19,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,20,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,21,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,22,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,23,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,24,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,25,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,26,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,27,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,28,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,29,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,30,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,31,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,32,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,33,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,34,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,35,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,36,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,3,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,4,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,5,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,6,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,7,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,8,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,9,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,10,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,11,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,12,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,13,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,14,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,15,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,16,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,17,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,18,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,19,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,20,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,21,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,22,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,23,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,24,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,25,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,26,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,27,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,28,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,29,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,30,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,31,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,32,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,33,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,34,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,35,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,36,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,3,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,4,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,5,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,6,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,7,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,8,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,9,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,10,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,11,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,12,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,13,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,14,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,15,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,16,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,17,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,18,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,19,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,20,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,21,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,22,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,23,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,24,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,25,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,26,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,27,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,28,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,29,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,30,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,31,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,32,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,33,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,34,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,35,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,36,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,3,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,4,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,5,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,6,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,7,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,8,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,9,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,10,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,11,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,12,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,13,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,14,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,15,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,16,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,17,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,18,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,19,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,20,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,21,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,22,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,23,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,24,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,25,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,26,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,27,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,28,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,29,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,30,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,31,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,32,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,33,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,34,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,35,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,36,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon
+Lijst 13 - Nederland Lokaal,,1,A.J. Schijvenaars,Ton,Schijvenaars,m,Roosendaal
+Lijst 13 - Nederland Lokaal,,2,C.H.A. van Pelt,Kees,van Pelt,m,Hoogvliet Rotterdam
+Lijst 13 - Nederland Lokaal,,3,S.H.H. Schreuder,Sonja,Schreuder,v,Blijham
+Lijst 13 - Nederland Lokaal,,4,E.R. Arnold,Ed,Arnold,m,Rotterdam
+Lijst 13 - Nederland Lokaal,,5,M.J. Sloot,Mariska,Sloot,v,Haren (Gn)
+Lijst 13 - Nederland Lokaal,,6,H.C.A. Verouden-Berens,Henriëtte,Verouden-Berens,v,Helmond
+Lijst 13 - Nederland Lokaal,,7,L.H. Kaufmann,Hedy,Kaufmann,v,Vlaardingen
+Lijst 13 - Nederland Lokaal,,8,E.W.J.B.I. Kraak,Emma,Kraak,v,Kortgene
+Lijst 13 - Nederland Lokaal,,9,D.L. Willink,Dirk,Willink,m,Winterswijk Woold
+Lijst 13 - Nederland Lokaal,,10,A.J.P. van Vlaanderen,Peter,van Vlaanderen,m,Haaksbergen
+Lijst 13 - Nederland Lokaal,,11,H.W. Mekelenkamp,Hein,Mekelenkamp,m,Nieuwleusen
+Lijst 13 - Nederland Lokaal,,12,E.K. Ramdani,Khalid,Ramdani,m,Roermond
+Lijst 13 - Nederland Lokaal,,13,T.J.G. Tuithof,Dirk,Tuithof,m,Bontebok
+Lijst 13 - Nederland Lokaal,,14,Y. van der Velde,Ytsen,van der Velde,m,Opende
+Lijst 13 - Nederland Lokaal,,15,R.A. Kraaijenbrink,René,Kraaijenbrink,m,Zuidlaarderveen
+Lijst 13 - Nederland Lokaal,,16,A. Holtland,Albert,Holtland,m,IJsselmuiden
+Lijst 13 - Nederland Lokaal,,17,E.M. Abbou,Mostafa,Abbou,m,Eindhoven
+Lijst 13 - Nederland Lokaal,,18,J.G. Ooms,Jan,Ooms,m,Steenbergen
+Lijst 13 - Nederland Lokaal,,19,E.M.H.H. Arkenbosch,Maan,Arkenbosch,m,Ittervoort
+Lijst 13 - Nederland Lokaal,,20,S. de Boer,Sierd,de Boer,m,Appelscha
+Lijst 13 - Nederland Lokaal,,21,T.H. Schoenmakers,Theo,Schoenmakers,m,Schiedam
+Lijst 13 - Nederland Lokaal,,22,C.H. Kloos,Casper,Kloos,m,Vries
+Lijst 13 - Nederland Lokaal,,23,E.C. van Stuijvenberg,Erik,van Stuijvenberg,m,Nieuwland
+Lijst 13 - Nederland Lokaal,,24,F. de Groot,Fred,de Groot,m,Opeinde
+Lijst 13 - Nederland Lokaal,,25,M.P.J. Rieter,Michael,Rieter,m,Helmond
+Lijst 13 - Nederland Lokaal,,26,T. Meijdam,Teus,Meijdam,m,Leerdam
+Lijst 13 - Nederland Lokaal,,27,L.H. van der Kallen,Louis,van der Kallen,m,Bergen op Zoom
+Lijst 13 - Nederland Lokaal,,28,H.A. van Assem,Hendrie,van Assem,m,Woerden
+Lijst 13 - Nederland Lokaal,,29,A.J. Schouwenaar,Jos,Schouwenaar,m,Wemeldinge
+Lijst 13 - Nederland Lokaal,,30,J.P.E.M. Hageman,Jean-Paul,Hageman,m,Vogelwaarde
+Lijst 13 - Nederland Lokaal,,31,M.P. Karczewski,Marek,Karczewski,m,'s-Gravenhage
+Lijst 13 - Nederland Lokaal,,32,T.A.P.H. Valkering,Tijmen,Valkering,m,Heiloo
+Lijst 13 - Nederland Lokaal,,33,J.M. de Koning,Jan,de Koning,m,Gouda
+Lijst 13 - Nederland Lokaal,,34,J.R. Kolenbrander,John,Kolenbrander,m,Heemskerk
+Lijst 13 - Nederland Lokaal,,35,G.H.H. Kox,Gerard,Kox,m,'t Harde
+Lijst 13 - Nederland Lokaal,,36,R.A. de Haan,Ron,de Haan,m,Castricum
+Lijst 13 - Nederland Lokaal,,37,B.G. Euser,Bert,Euser,m,Rhoon

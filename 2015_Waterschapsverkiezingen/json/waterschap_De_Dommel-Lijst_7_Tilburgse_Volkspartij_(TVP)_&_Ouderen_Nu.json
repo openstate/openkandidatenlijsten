@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Loes", 
+            "last_name": "Dielissen", 
+            "gender": "v", 
+            "place": "Berkel-Enschot", 
+            "full_name": "L.T.M. Dielissen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Camiel", 
+            "last_name": "Seij", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "C.A.R. Seij", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van Aarle", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "F.J.C.M. van Aarle", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Heijman", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "J.H.W.F. Heijman", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Frans-Josef", 
+            "last_name": "Oeijen", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "F.J. Oeijen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "W.J. de Groot", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "van Keulen", 
+            "gender": "m", 
+            "place": "Berkel-Enschot", 
+            "full_name": "W.J.M.G. van Keulen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "de Kousemaeker", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "P.A.E.A.M. de Kousemaeker", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Geers", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "F.T.A. Geers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Thea", 
+            "last_name": "Verhoeven", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "T.W.M. Verhoeven", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "Poppelaars", 
+            "gender": "v", 
+            "place": "Berkel-Enschot", 
+            "full_name": "K.J.N.M. Poppelaars", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Dielissen", 
+            "gender": "m", 
+            "place": "Hilvarenbeek", 
+            "full_name": "C.A.M. Dielissen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Mariette", 
+            "last_name": "van Aubel-Laugeman", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "E.M. van Aubel-Laugeman", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Rien", 
+            "last_name": "Brooijmans", 
+            "gender": "m", 
+            "place": "Udenhout", 
+            "full_name": "M.J.W.M. Brooijmans", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Tilburgse Volkspartij (TVP) & Ouderen Nu"
+}

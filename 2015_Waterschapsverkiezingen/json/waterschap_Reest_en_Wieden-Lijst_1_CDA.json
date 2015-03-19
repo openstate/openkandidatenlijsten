@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Lammers", 
+            "gender": "", 
+            "place": "Zuidwolde", 
+            "full_name": "J.H. Lammers", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Clazinus", 
+            "last_name": "Netjes", 
+            "gender": "", 
+            "place": "Steenwijk", 
+            "full_name": "C.J. Netjes", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Bruins", 
+            "gender": "", 
+            "place": "Dwingeloo", 
+            "full_name": "D.J. Bruins", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Joma", 
+            "last_name": "Kaal", 
+            "gender": "", 
+            "place": "Westerbork", 
+            "full_name": "M.J. Kaal", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Slager", 
+            "gender": "", 
+            "place": "Balkbrug", 
+            "full_name": "J.J.C. Slager", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Bakker", 
+            "gender": "", 
+            "place": "Westerbork", 
+            "full_name": "R.S.J.M. Bakker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hilko", 
+            "last_name": "Bakker", 
+            "gender": "", 
+            "place": "Eursinge", 
+            "full_name": "H. Bakker", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Pier", 
+            "last_name": "Antuma", 
+            "gender": "", 
+            "place": "Steenwijkerwold", 
+            "full_name": "P.P. Antuma", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Berend", 
+            "last_name": "Wiarda", 
+            "gender": "", 
+            "place": "Meppel", 
+            "full_name": "B. Wiarda", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Brand", 
+            "gender": "", 
+            "place": "Rouveen", 
+            "full_name": "K. Brand", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "van Andel", 
+            "gender": "", 
+            "place": "Steenwijk", 
+            "full_name": "A. van Andel", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van der Woude", 
+            "gender": "", 
+            "place": "Nijeveen", 
+            "full_name": "H.J. van der Woude", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "de Wit", 
+            "gender": "", 
+            "place": "Nijensleek", 
+            "full_name": "J.H. de Wit", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Rein", 
+            "last_name": "van Dijk", 
+            "gender": "", 
+            "place": "Vledder", 
+            "full_name": "R.J. van Dijk", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 CDA"
+}

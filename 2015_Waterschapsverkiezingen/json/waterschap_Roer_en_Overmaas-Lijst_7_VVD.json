@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Maicle", 
+            "last_name": "Huver", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "M.B.D. Huver", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Limpens", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "P.L.J.M. Limpens", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "van Oppen", 
+            "gender": "m", 
+            "place": "Brunssum", 
+            "full_name": "J.H.T.J. van Oppen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Sjef", 
+            "last_name": "Spiering", 
+            "gender": "m", 
+            "place": "Susteren", 
+            "full_name": "P.J. Spiering", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Guiseppe", 
+            "last_name": "Noteborn", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "G.M. Noteborn", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jacques Michel", 
+            "last_name": "Bloi", 
+            "gender": "m", 
+            "place": "Landgraaf", 
+            "full_name": "J.M. Bloi", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Niels", 
+            "last_name": "Meijers", 
+            "gender": "m", 
+            "place": "Doenrade", 
+            "full_name": "N.C.P. Meijers", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Math", 
+            "last_name": "Goossen", 
+            "gender": "m", 
+            "place": "Melick", 
+            "full_name": "M.J.L. Goossen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Claus", 
+            "gender": "m", 
+            "place": "Linne", 
+            "full_name": "F.J.L.M. Claus", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Broersma", 
+            "gender": "m", 
+            "place": "Elsloo", 
+            "full_name": "A.G. Broersma", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Helwig", 
+            "gender": "m", 
+            "place": "Stein", 
+            "full_name": "R.H.M. Helwig", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Björn", 
+            "last_name": "Lambie", 
+            "gender": "m", 
+            "place": "Landgraaf", 
+            "full_name": "B.W.H. Lambie", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Nijskens", 
+            "gender": "m", 
+            "place": "Melick", 
+            "full_name": "H.L.M. Nijskens", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ghislen", 
+            "last_name": "Nysten", 
+            "gender": "m", 
+            "place": "Beek", 
+            "full_name": "G.A.E. Nysten", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Suers", 
+            "gender": "m", 
+            "place": "Nuth", 
+            "full_name": "B. Suers", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 VVD"
+}

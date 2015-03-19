@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Mark", 
+            "last_name": "Tuit", 
+            "gender": "m", 
+            "place": "Hollandscheveld", 
+            "full_name": "A.M. Tuit", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Konter", 
+            "gender": "m", 
+            "place": "Vollenhove", 
+            "full_name": "W.T.A. Konter", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Teun", 
+            "last_name": "Boxum", 
+            "gender": "m", 
+            "place": "Blokzijl", 
+            "full_name": "T. Boxum", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "Kerstjens", 
+            "gender": "v", 
+            "place": "Meppel", 
+            "full_name": "W.P.M. Kerstjens", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Slagter", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "J. Slagter", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Jonker", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "J. Jonker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van de Rijt", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "H.A.J.H. van de Rijt", 
+            "position": 7
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)"
+}

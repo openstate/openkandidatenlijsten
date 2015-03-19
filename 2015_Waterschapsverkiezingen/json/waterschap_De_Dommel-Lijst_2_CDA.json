@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Els", 
+            "last_name": "Stravens", 
+            "gender": "v", 
+            "place": "Steensel", 
+            "full_name": "E.H.T. Stravens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "van den Tillaart", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "M.W.M. van den Tillaart", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Christo", 
+            "last_name": "Weijs", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "C.H.B. Weijs", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "van Lith", 
+            "gender": "m", 
+            "place": "Eersel", 
+            "full_name": "M.T.J.M. van Lith", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marjan", 
+            "last_name": "Kleine", 
+            "gender": "v", 
+            "place": "Budel", 
+            "full_name": "M.A. Kleine", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marlies", 
+            "last_name": "van der Zanden- van Rooij", 
+            "gender": "v", 
+            "place": "Sint-Oedenrode", 
+            "full_name": "M.H.E. van der Zanden- van Rooij", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "van Beek", 
+            "gender": "m", 
+            "place": "Riethoven", 
+            "full_name": "T.H.W.C. van Beek", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van de Gevel", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "F.A.T.M. van de Gevel", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Hanny", 
+            "last_name": "van den Berg", 
+            "gender": "v", 
+            "place": "Veldhoven", 
+            "full_name": "H.A.F.A. van den Berg", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Roosmalen", 
+            "gender": "m", 
+            "place": "Sint-Michielsgestel", 
+            "full_name": "H.T.M. van Roosmalen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Stoevelaar", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "N.H. Stoevelaar", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Gerlings", 
+            "gender": "m", 
+            "place": "Budel", 
+            "full_name": "H.P. Gerlings", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Meijvis", 
+            "gender": "m", 
+            "place": "Nuenen", 
+            "full_name": "C.P.J. Meijvis", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "van Rooij", 
+            "gender": "m", 
+            "place": "Sint-Oedenrode", 
+            "full_name": "F.C.P. van Rooij", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Wegdam", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "A.G.M. Wegdam", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 2 CDA"
+}

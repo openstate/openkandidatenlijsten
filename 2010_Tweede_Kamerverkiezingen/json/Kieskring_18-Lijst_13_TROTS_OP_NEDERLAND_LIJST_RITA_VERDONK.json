@@ -1,0 +1,254 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rita", 
+            "last_name": "Verdonk", 
+            "gender": "v", 
+            "place": "Pijnacker", 
+            "full_name": "M.C.F. Verdonk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Arthur", 
+            "last_name": "van der Putte", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "A.J.M. van der Putte", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Carel", 
+            "last_name": "Hoffman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.J. Hoffman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Koppens", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "C.W. Koppens", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Uittenbogaard", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "D.J. Uittenbogaard", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Martens", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "R.E. Martens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Olof-Jan", 
+            "last_name": "Smits", 
+            "gender": "m", 
+            "place": "Antwerpen (BE)", 
+            "full_name": "O.P.S.T.M. Smits", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Liedekerken", 
+            "gender": "m", 
+            "place": "Hulsberg", 
+            "full_name": "J.G.M. Liedekerken", 
+            "position": 8
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Hanekamp", 
+            "gender": "m", 
+            "place": "Purmerend", 
+            "full_name": "A. Hanekamp", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hanno", 
+            "last_name": "Hoekstra", 
+            "gender": "m", 
+            "place": "Gemonde", 
+            "full_name": "H. Hoekstra", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jacques", 
+            "last_name": "Arntz", 
+            "gender": "m", 
+            "place": "Bunde", 
+            "full_name": "J.A.M. Arntz", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Luc", 
+            "last_name": "van Hoek", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L.M.G. van Hoek", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "den Dulk-Winder", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "S.C.G.M. den Dulk-Winder", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Hagen", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "M.L. Hagen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Uithoorn", 
+            "full_name": "A.A.A. Jansen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Nuth", 
+            "full_name": "G. Bakker", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Reginald", 
+            "last_name": "Melchers", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "R.G.G.M. Melchers", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Kruijer", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "F. Kruijer", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Bergwerff", 
+            "gender": "m", 
+            "place": "Schiedam", 
+            "full_name": "J. Bergwerff", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Hein", 
+            "last_name": "Stulemeijer", 
+            "gender": "m", 
+            "place": "Weesp", 
+            "full_name": "H.J.F.X.P. Stulemeijer", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Nicole", 
+            "last_name": "Bakker", 
+            "gender": "v", 
+            "place": "Hellevoetsluis", 
+            "full_name": "N.D. Bakker", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Dolf", 
+            "last_name": "Mauritz", 
+            "gender": "m", 
+            "place": "Leiderdorp", 
+            "full_name": "A.L. Mauritz", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Loet", 
+            "last_name": "Donkers", 
+            "gender": "m", 
+            "place": "Voorburg", 
+            "full_name": "L.C.M. Donkers", 
+            "position": 23
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Lancee", 
+            "gender": "m", 
+            "place": "Rijswijk ZH", 
+            "full_name": "S.R.L. Lancee", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Anna", 
+            "last_name": "Maslow", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "A. Maslow", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Huzemeier", 
+            "gender": "m", 
+            "place": "Amstelhoek", 
+            "full_name": "A.P.P. Huzemeier", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Nathalie", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "N.H.E.A. de Groot", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Lucas", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "M.S. Lucas", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Henri", 
+            "last_name": "Baldwin", 
+            "gender": "m", 
+            "place": "Lemmer", 
+            "full_name": "H.D. Baldwin", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Valkestijn", 
+            "gender": "m", 
+            "place": "Hingene (BE)", 
+            "full_name": "L.A.W. Valkestijn", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Annemieke", 
+            "last_name": "Schuller", 
+            "gender": "v", 
+            "place": "’s-Gravenhage", 
+            "full_name": "A.M.T. Schuller", 
+            "position": 31
+        }
+    ], 
+    "description": "", 
+    "title": "Kieskring 18-Lijst 13 TROTS OP NEDERLAND LIJST RITA VERDONK"
+}

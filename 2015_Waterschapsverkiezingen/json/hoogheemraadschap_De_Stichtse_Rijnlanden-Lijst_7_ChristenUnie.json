@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jaap", 
+            "last_name": "Verweij", 
+            "gender": "m", 
+            "place": "Woerden", 
+            "full_name": "J.P. Verweij", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ewout", 
+            "last_name": "ten Heuw", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "E.W. ten Heuw", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Matthijs", 
+            "last_name": "de Leede", 
+            "gender": "m", 
+            "place": "Polsbroek", 
+            "full_name": "H.M. de Leede", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rinus", 
+            "last_name": "Vader", 
+            "gender": "m", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "M.C. Vader", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Caspar", 
+            "last_name": "Voorberg", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "C.Z. Voorberg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Daniel", 
+            "last_name": "Voortman", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "D.G.J. Voortman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Carolien", 
+            "last_name": "Pape-van Genderen", 
+            "gender": "v", 
+            "place": "IJsselstein", 
+            "full_name": "C.A. Pape-van Genderen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Rus", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "M. Rus", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Lont", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "B.C. Lont", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dianne", 
+            "last_name": "van Wijnen", 
+            "gender": "v", 
+            "place": "Doorn", 
+            "full_name": "D.A. van Wijnen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Meijers", 
+            "gender": "m", 
+            "place": "Kamerik", 
+            "full_name": "C. Meijers", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Loes", 
+            "last_name": "Zuidervaart", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "L.M. Zuidervaart", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Kool", 
+            "gender": "m", 
+            "place": "Linschoten", 
+            "full_name": "A. Kool", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Joanne", 
+            "last_name": "van der Meer-Verweij", 
+            "gender": "v", 
+            "place": "Odijk", 
+            "full_name": "J.E. van der Meer-Verweij", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Daniel", 
+            "last_name": "van Utrecht", 
+            "gender": "m", 
+            "place": "Maartensdijk", 
+            "full_name": "D. van Utrecht", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Oskam", 
+            "gender": "m", 
+            "place": "Driebruggen", 
+            "full_name": "C.A. Oskam", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ike", 
+            "last_name": "Roetman", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "I.C. Roetman", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Marja", 
+            "last_name": "Benders-Molenaar", 
+            "gender": "v", 
+            "place": "Oudewater", 
+            "full_name": "M. Benders-Molenaar", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Drost", 
+            "gender": "m", 
+            "place": "Rhenen", 
+            "full_name": "N. Drost", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Taute", 
+            "gender": "m", 
+            "place": "Wijk bij Duurstede", 
+            "full_name": "G. Taute", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "Snoek", 
+            "gender": "m", 
+            "place": "Vlist", 
+            "full_name": "H.C. Snoek", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Wijmenga", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J. Wijmenga", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Montfoort", 
+            "full_name": "J.H. Meijer", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Anne-Marij", 
+            "last_name": "Dijkstra-Bulk", 
+            "gender": "v", 
+            "place": "Zegveld", 
+            "full_name": "J.A.D. Dijkstra-Bulk", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Kesteren", 
+            "gender": "m", 
+            "place": "Benschop", 
+            "full_name": "P.G. van Kesteren", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Kockengen", 
+            "full_name": "P.W. Bos", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "van der Grift", 
+            "gender": "m", 
+            "place": "Bilthoven", 
+            "full_name": "C.M. van der Grift", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van Kranenburg", 
+            "gender": "m", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "C.J. van Kranenburg", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Arne", 
+            "last_name": "Schaddelee", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "A.J. Schaddelee", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Rinze", 
+            "last_name": "Broekema", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "R. Broekema", 
+            "position": 30
+        }
+    ], 
+    "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)", 
+    "title": "Lijst 7 ChristenUnie"
+}

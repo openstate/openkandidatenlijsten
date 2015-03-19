@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Léonie", 
+            "last_name": "Sazias", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "L. Sazias", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ron", 
+            "last_name": "de Haan", 
+            "gender": "m", 
+            "place": "Castricum", 
+            "full_name": "R.A. de Haan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Geels", 
+            "gender": "m", 
+            "place": "Heemstede", 
+            "full_name": "E. Geels", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Judie", 
+            "last_name": "Kloosterman", 
+            "gender": "v", 
+            "place": "Uitgeest", 
+            "full_name": "J.M. Kloosterman", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "Diepstraten", 
+            "gender": "m", 
+            "place": "IJmuiden", 
+            "full_name": "B.W. Diepstraten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "Hovius", 
+            "gender": "m", 
+            "place": "Hippolytushoef", 
+            "full_name": "M.F.J. Hovius", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "van Putten", 
+            "gender": "m", 
+            "place": "Den Helder", 
+            "full_name": "A.R. van Putten", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Derk", 
+            "last_name": "Munnik", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "D.H.A. Munnik", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Corrie", 
+            "last_name": "van Leijen-Spaansen", 
+            "gender": "v", 
+            "place": "De Goorn", 
+            "full_name": "C.C. van Leijen-Spaansen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Mosch", 
+            "gender": "m", 
+            "place": "Wervershoof", 
+            "full_name": "P.W. Mosch", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "Walters", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "K.J. Walters", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Karel", 
+            "last_name": "Fiseler", 
+            "gender": "m", 
+            "place": "Beverwijk", 
+            "full_name": "K. Fiseler", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marlon", 
+            "last_name": "van Dalen", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "M.M.C. van Dalen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Gameren", 
+            "gender": "m", 
+            "place": "Wieringerwaard", 
+            "full_name": "H.E. van Gameren", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Couwenhoven", 
+            "gender": "m", 
+            "place": "Nieuwe Niedorp", 
+            "full_name": "P.A. Couwenhoven", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Siem", 
+            "last_name": "Zeilemaker", 
+            "gender": "m", 
+            "place": "Medemblik", 
+            "full_name": "S.P. Zeilemaker", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Blok", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "H.P. Blok", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Michel", 
+            "last_name": "Demmers", 
+            "gender": "m", 
+            "place": "Zandvoort", 
+            "full_name": "M.B.J. Demmers", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Aart", 
+            "last_name": "Ruppert", 
+            "gender": "m", 
+            "place": "Hoorn", 
+            "full_name": "A.S. Ruppert", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Micha", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Egmond aan den Hoef", 
+            "full_name": "T.R.M. Kuiper", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_14 Hart voor Holland"
+}

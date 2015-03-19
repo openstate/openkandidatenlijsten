@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Michel", 
+            "last_name": "van Hulten", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "M.H.M. van Hulten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "van der Zee", 
+            "gender": "m", 
+            "place": "Anzère (CH)", 
+            "full_name": "H.J.A. van der Zee", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Lavinia", 
+            "last_name": "Warnars", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "L.M.E. Warnars", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Armando", 
+            "last_name": "Lampe", 
+            "gender": "m", 
+            "place": "Bringamosa (AW)", 
+            "full_name": "A.R. Lampe", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Antonia", 
+            "last_name": "Raileanu", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "A.C. Raileanu", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Leppers", 
+            "gender": "m", 
+            "place": "Melick", 
+            "full_name": "A.C.A. Leppers", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van de Mosselaar", 
+            "gender": "m", 
+            "place": "Bonaire", 
+            "full_name": "P.A.G.M. van de Mosselaar", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Gerbrands", 
+            "gender": "m", 
+            "place": "Valkenswaard", 
+            "full_name": "P.J. Gerbrands", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sent", 
+            "last_name": "Wierda", 
+            "gender": "m", 
+            "place": "Lent", 
+            "full_name": "S.G. Wierda", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Bierman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Bierman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Gustaaf", 
+            "last_name": "van Beers", 
+            "gender": "m", 
+            "place": "Var (FR)", 
+            "full_name": "G. van Beers", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 17 ikkiesvooreerlijk.eu"
+}

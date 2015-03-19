@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Albert", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "A.E. Jansen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Esselien", 
+            "last_name": "de Leeuw", 
+            "gender": "v", 
+            "place": "De Meern", 
+            "full_name": "E. de Leeuw", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Nap", 
+            "gender": "m", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "H. Nap", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lizanne", 
+            "last_name": "Takke", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "L.I. Takke", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Carel", 
+            "last_name": "Dieperink", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "C. Dieperink", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Andries", 
+            "last_name": "Heidema", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "A. Heidema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ineke", 
+            "last_name": "Vrij-Standhardt", 
+            "gender": "v", 
+            "place": "Leersum", 
+            "full_name": "W.G. Vrij-Standhardt", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Andre", 
+            "last_name": "van Zutphen", 
+            "gender": "m", 
+            "place": "Kockengen", 
+            "full_name": "A.J. van Zutphen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Thomas", 
+            "last_name": "Trouwborst", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "T. Trouwborst", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Verbaan", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "D. Verbaan", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van der Zaag", 
+            "gender": "m", 
+            "place": "Woerden", 
+            "full_name": "W. van der Zaag", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Aly", 
+            "last_name": "Hiemstra", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "A. Hiemstra", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Kaj", 
+            "last_name": "Hendriks", 
+            "gender": "m", 
+            "place": "De Bilt", 
+            "full_name": "K. Hendriks", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Algemene Waterschapspartij"
+}

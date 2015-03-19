@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Waterlander", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "J. Waterlander", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pietsje", 
+            "last_name": "Spijkstra", 
+            "gender": "v", 
+            "place": "Ternaard", 
+            "full_name": "P.T. Spijkstra", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Theun", 
+            "last_name": "Wiersma", 
+            "gender": "m", 
+            "place": "Sneek", 
+            "full_name": "T. Wiersma", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Doeke", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Stavoren", 
+            "full_name": "D.P. de Vries", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Wijnstra", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "C. Wijnstra", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Harlingen", 
+            "full_name": "G. de Jong", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Heero", 
+            "last_name": "Postema", 
+            "gender": "m", 
+            "place": "Opeinde", 
+            "full_name": "H. Postema", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Teeuwen", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "P.F. Teeuwen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mathilde", 
+            "last_name": "Prinsen", 
+            "gender": "v", 
+            "place": "Harlingen", 
+            "full_name": "M. Prinsen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Aafke", 
+            "last_name": "Klopman", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "A.W. Klopman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Lian", 
+            "last_name": "Keune", 
+            "gender": "v", 
+            "place": "Lemmer", 
+            "full_name": "C.M. Keune", 
+            "position": 11
+        }, 
+        {
+            "first_name": "William", 
+            "last_name": "Hogenbirk", 
+            "gender": "m", 
+            "place": "Lemmer", 
+            "full_name": "W.S. Hogenbirk", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 50PLUS"
+}

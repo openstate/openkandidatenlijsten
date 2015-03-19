@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Goos", 
+            "last_name": "Roeland", 
+            "gender": "m", 
+            "place": "Sint-Annaland", 
+            "full_name": "G.D. Roeland", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "van der Maas", 
+            "gender": "m", 
+            "place": "Aagtekerke", 
+            "full_name": "A.J. van der Maas", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Dorst", 
+            "gender": "m", 
+            "place": "Yerseke", 
+            "full_name": "A.I.G. Dorst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Joan", 
+            "last_name": "van Burg", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "J.J. van Burg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Harold", 
+            "last_name": "van de Velde", 
+            "gender": "m", 
+            "place": "Kattendijke", 
+            "full_name": "J. van de Velde", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van den Berge", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "C.L.M. van den Berge", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Job", 
+            "last_name": "de Visser", 
+            "gender": "m", 
+            "place": "Aagtekerke", 
+            "full_name": "J.L. de Visser", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Kok", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "W.H. Kok", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Adrie", 
+            "last_name": "van der Maas", 
+            "gender": "m", 
+            "place": "Wissenkerke", 
+            "full_name": "A.G. van der Maas", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Johnny", 
+            "last_name": "Lukasse", 
+            "gender": "m", 
+            "place": "Goes", 
+            "full_name": "J. Lukasse", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Christiaan", 
+            "last_name": "Cornet", 
+            "gender": "m", 
+            "place": "Scherpenisse", 
+            "full_name": "C.C. Cornet", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Nuijt", 
+            "gender": "m", 
+            "place": "Nieuwerkerk", 
+            "full_name": "J. Nuijt", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ko", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Kruiningen", 
+            "full_name": "J. Jansen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "Overbeeke", 
+            "gender": "m", 
+            "place": "Hoek", 
+            "full_name": "A.W. Overbeeke", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Poortvliet", 
+            "gender": "m", 
+            "place": "Veere", 
+            "full_name": "P.C.H. Poortvliet", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Florus", 
+            "last_name": "van der Paauw", 
+            "gender": "m", 
+            "place": "Nieuwerkerk", 
+            "full_name": "F.G.R. van der Paauw", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jan-Kees", 
+            "last_name": "Koopman", 
+            "gender": "m", 
+            "place": "Sint-Maartensdijk", 
+            "full_name": "J.C. Koopman", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Koster", 
+            "gender": "m", 
+            "place": "Kapelle", 
+            "full_name": "H.M. Koster", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Maljaars", 
+            "gender": "m", 
+            "place": "Westkapelle", 
+            "full_name": "A. Maljaars", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "van de Woestijne", 
+            "gender": "m", 
+            "place": "Kamperland", 
+            "full_name": "C. van de Woestijne", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Aad", 
+            "last_name": "Prins", 
+            "gender": "m", 
+            "place": "Tholen", 
+            "full_name": "A. Prins", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Stouten", 
+            "gender": "m", 
+            "place": "Zaamslag", 
+            "full_name": "M.W. Stouten", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Arco", 
+            "last_name": "Schot", 
+            "gender": "m", 
+            "place": "Zierikzee", 
+            "full_name": "J.C. Schot", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "Aarnoudse", 
+            "gender": "m", 
+            "place": "Oud-Vossemeer", 
+            "full_name": "J.M. Aarnoudse", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Abco", 
+            "last_name": "Fierloos", 
+            "gender": "m", 
+            "place": "Kruiningen", 
+            "full_name": "J.A. Fierloos", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Huub", 
+            "last_name": "van Klinken", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "H. van Klinken", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Hamelink", 
+            "gender": "m", 
+            "place": "Zaamslag", 
+            "full_name": "P.J. Hamelink", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Abraham", 
+            "last_name": "Wisse", 
+            "gender": "m", 
+            "place": "Oostkapelle", 
+            "full_name": "A. Wisse", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "C. Dekker", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Geluk", 
+            "gender": "m", 
+            "place": "Sint Philipsland", 
+            "full_name": "H. Geluk", 
+            "position": 30
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Lijst 5 Staatkundig Gereformeerde Partij (SGP)"
+}

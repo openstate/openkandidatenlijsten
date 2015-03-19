@@ -1,0 +1,134 @@
+{
+    "candidates": [
+        {
+            "first_name": "Be", 
+            "last_name": "Zwiers", 
+            "gender": "m", 
+            "place": "Oostwold", 
+            "full_name": "B. Zwiers", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Leendert", 
+            "last_name": "van der Laan", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "L.E.J. van der Laan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Hoiting", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "H.T. Hoiting", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Harmien", 
+            "last_name": "van der Werff-Poort", 
+            "gender": "v", 
+            "place": "Oosterwijtwerd", 
+            "full_name": "H.J. van der Werff-Poort", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jurrien", 
+            "last_name": "van der Werff", 
+            "gender": "m", 
+            "place": "Münster (DE)", 
+            "full_name": "J.J. van der Werff", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Staats", 
+            "gender": "m", 
+            "place": "Westerbroek", 
+            "full_name": "G.P. Staats", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "de Vrieze", 
+            "gender": "m", 
+            "place": "Scheemda", 
+            "full_name": "H. de Vrieze", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Heddy", 
+            "last_name": "Smit", 
+            "gender": "v", 
+            "place": "Winschoten", 
+            "full_name": "H.J. Smit", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Kalse", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "M.M.W. Kalse", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jurrie", 
+            "last_name": "Nieboer", 
+            "gender": "m", 
+            "place": "Winschoten", 
+            "full_name": "J. Nieboer", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Eveline", 
+            "last_name": "Oudhoff", 
+            "gender": "v", 
+            "place": "Westerlee", 
+            "full_name": "E.H.M. Oudhoff", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Lieuwe", 
+            "last_name": "Terpstra", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "L.K. Terpstra", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Dries", 
+            "last_name": "Zwart", 
+            "gender": "m", 
+            "place": "Appingedam", 
+            "full_name": "A. Zwart", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Oosterhaven", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J. Oosterhaven", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Teun Jan", 
+            "last_name": "Zanen", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "T.J. Zanen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Uitham", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J. Uitham", 
+            "position": 16
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Partij voor het Noorden"
+}

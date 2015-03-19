@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ramona", 
+            "last_name": "Kwestro", 
+            "gender": "v", 
+            "place": "Zoetermeer", 
+            "full_name": "R. Kwestro", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Laura", 
+            "last_name": "Greijn", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "L. Greijn", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Erika", 
+            "last_name": "Mauritz", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "H. Mauritz", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marike", 
+            "last_name": "Dijkstra", 
+            "gender": "v", 
+            "place": "Alkmaar", 
+            "full_name": "M.C. Dijkstra", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "de Witt", 
+            "gender": "v", 
+            "place": "Noordwijk", 
+            "full_name": "J.G. de Witt", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bea", 
+            "last_name": "Möllers", 
+            "gender": "v", 
+            "place": "Egmond-Binnen", 
+            "full_name": "B.M. Möllers", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 Partij voor Mens en Spirit (MenS)"
+}

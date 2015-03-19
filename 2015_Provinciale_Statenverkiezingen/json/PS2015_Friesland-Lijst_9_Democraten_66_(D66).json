@@ -1,0 +1,230 @@
+{
+    "candidates": [
+        {
+            "first_name": "Margreet", 
+            "last_name": "Mulder", 
+            "gender": "v", 
+            "place": "Heerenveen", 
+            "full_name": "M.F. Mulder", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "de Roo", 
+            "gender": "m", 
+            "place": "Franeker", 
+            "full_name": "M. de Roo", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "Vellinga-Beemsterboer", 
+            "gender": "v", 
+            "place": "Sneek", 
+            "full_name": "M.C.A. Vellinga-Beemsterboer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Maaike", 
+            "last_name": "Kuik", 
+            "gender": "v", 
+            "place": "Bakkeveen", 
+            "full_name": "M. Kuik", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bouwe", 
+            "last_name": "Schroor", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "B.T. Schroor", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ursi", 
+            "last_name": "Frehner", 
+            "gender": "v", 
+            "place": "Bantega", 
+            "full_name": "U.R. Frehner", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Anne", 
+            "last_name": "Nugteren –Schell", 
+            "gender": "v", 
+            "place": "Grou", 
+            "full_name": "A.W. Nugteren –Schell", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Sietze", 
+            "last_name": "Schukking", 
+            "gender": "m", 
+            "place": "Jirnsum", 
+            "full_name": "S.S. Schukking", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Hettinga", 
+            "gender": "m", 
+            "place": "Sneek", 
+            "full_name": "K.J.F. Hettinga", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Mient", 
+            "last_name": "Hamstra", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "M. Hamstra", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ellert", 
+            "last_name": "Nieveen", 
+            "gender": "m", 
+            "place": "Harlingen", 
+            "full_name": "E.J. Nieveen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Frensel", 
+            "gender": "m", 
+            "place": "Akkrum", 
+            "full_name": "M. Frensel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Dirk-Jan", 
+            "last_name": "Kimsma", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "D.J. Kimsma", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "Zegers", 
+            "gender": "m", 
+            "place": "Grou", 
+            "full_name": "F.E. Zegers", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "van den Ende", 
+            "gender": "m", 
+            "place": "Grou", 
+            "full_name": "E.R. van den Ende", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Eveline", 
+            "last_name": "Simon", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "E.C. Simon", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Andrew", 
+            "last_name": "Livsey", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "A. Livsey", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "Postma", 
+            "gender": "m", 
+            "place": "Beetsterzwaag", 
+            "full_name": "R. Postma", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Smittenberg", 
+            "gender": "m", 
+            "place": "Jirnsum", 
+            "full_name": "J.H. Smittenberg", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Janny", 
+            "last_name": "Lokerse", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "A.M. Lokerse", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Nienke", 
+            "last_name": "van Uitert", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "N.E. van Uitert", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Marius", 
+            "last_name": "van Beest", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "M.J. van Beest", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Douwe", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "D.A. Bos", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Bloemhof", 
+            "gender": "m", 
+            "place": "Heerenveen", 
+            "full_name": "D. Bloemhof", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Tiemen", 
+            "last_name": "Stuiver", 
+            "gender": "m", 
+            "place": "Heerenveen", 
+            "full_name": "T.W. Stuiver", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Hennie", 
+            "last_name": "de Boer", 
+            "gender": "v", 
+            "place": "Grou", 
+            "full_name": "H. de Boer", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Trudy", 
+            "last_name": "Larooij", 
+            "gender": "v", 
+            "place": "Ee", 
+            "full_name": "G.A. Larooij", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Otte", 
+            "last_name": "van der Goot", 
+            "gender": "m", 
+            "place": "Nijemirdum", 
+            "full_name": "O. van der Goot", 
+            "position": 28
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Democraten 66 (D66)"
+}

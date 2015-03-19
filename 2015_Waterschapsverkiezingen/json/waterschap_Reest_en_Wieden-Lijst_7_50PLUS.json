@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frans", 
+            "last_name": "Bergwerf", 
+            "gender": "m", 
+            "place": "Beilen", 
+            "full_name": "F. Bergwerf", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Veeze", 
+            "gender": "m", 
+            "place": "Dwingeloo", 
+            "full_name": "C.E. Veeze", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Voerman", 
+            "gender": "m", 
+            "place": "Havelte", 
+            "full_name": "A.J. Voerman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Adrie", 
+            "last_name": "Gaasbeek", 
+            "gender": "m", 
+            "place": "Diever", 
+            "full_name": "A.J. Gaasbeek", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 50PLUS"
+}

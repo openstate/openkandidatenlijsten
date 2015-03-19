@@ -1,0 +1,278 @@
+{
+    "candidates": [
+        {
+            "first_name": "Margreet", 
+            "last_name": "Overmeen-Bakhuis", 
+            "gender": "v", 
+            "place": "Wierden", 
+            "full_name": "G.J. Overmeen-Bakhuis", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wybren", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Diepenveen", 
+            "full_name": "W. Bakker", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "van Hofwegen", 
+            "gender": "m", 
+            "place": "Nieuwleusen", 
+            "full_name": "G. van Hofwegen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ruben", 
+            "last_name": "Kijk in de Vegte", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "R.A.O. Kijk in de Vegte", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Claar", 
+            "last_name": "Grooten", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "C.S.M. Grooten", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "Bethlehem", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "M.W. Bethlehem", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Wertheim", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "R.S. Wertheim", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Dijsselhof", 
+            "gender": "v", 
+            "place": "Balkbrug", 
+            "full_name": "J.M. Dijsselhof", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Muntinga", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "J.K. Muntinga", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Mooijweer", 
+            "gender": "m", 
+            "place": "Blokzijl", 
+            "full_name": "J. Mooijweer", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Mathijs", 
+            "last_name": "Perton", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "M. Perton", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Bleijenburg", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "E.M. Bleijenburg", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Daggert", 
+            "gender": "m", 
+            "place": "Hellendoorn", 
+            "full_name": "H.E. Daggert", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Roald", 
+            "last_name": "Vogels", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "R.M. Vogels", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Ootmarsum", 
+            "full_name": "W.H.C. Bos", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Annelies", 
+            "last_name": "van den Berg", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "A.E.H. van den Berg", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Eliza", 
+            "last_name": "Nauta", 
+            "gender": "v", 
+            "place": "Kampen", 
+            "full_name": "E.C. Nauta", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "Gerrits", 
+            "gender": "m", 
+            "place": "Ootmarsum", 
+            "full_name": "B. Gerrits", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Wouter Jan", 
+            "last_name": "Bolkestein", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "W.J. Bolkestein", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Daniel", 
+            "last_name": "Veenhuijsen", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "D. Veenhuijsen", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Olivier", 
+            "last_name": "van Bekkum", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "O.J.H. van Bekkum", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Niels", 
+            "last_name": "van Felius", 
+            "gender": "m", 
+            "place": "Steenwijk", 
+            "full_name": "N. van Felius", 
+            "position": 22
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Hof", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "D. Hof", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Alex Jan", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Blokzijl", 
+            "full_name": "A.J. de Jong", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Lukas", 
+            "last_name": "Schoonhoven", 
+            "gender": "m", 
+            "place": "Hengelo (O)", 
+            "full_name": "L. Schoonhoven", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Rineke", 
+            "last_name": "Gieske-Mastenbroek", 
+            "gender": "v", 
+            "place": "Almelo", 
+            "full_name": "J.C. Gieske-Mastenbroek", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Machteld", 
+            "last_name": "Vrieze-Slotema", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "M.E. Vrieze-Slotema", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Praxedis", 
+            "last_name": "Bouwman", 
+            "gender": "v", 
+            "place": "Dalfsen", 
+            "full_name": "A.T.P. Bouwman", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Yuri", 
+            "last_name": "Ankone", 
+            "gender": "m", 
+            "place": "Oldenzaal", 
+            "full_name": "Y.V. Ankone", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Stella", 
+            "last_name": "Hanssen", 
+            "gender": "v", 
+            "place": "Rheezerveen", 
+            "full_name": "S.M.A. Hanssen", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Stefan", 
+            "last_name": "van de Graaf", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "S. van de Graaf", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Noëll", 
+            "last_name": "Taravati", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "N. Taravati", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Klappe", 
+            "gender": "m", 
+            "place": "IJsselmuiden", 
+            "full_name": "J. Klappe", 
+            "position": 33
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Nijmeijer", 
+            "gender": "m", 
+            "place": "Hasselt", 
+            "full_name": "G. Nijmeijer", 
+            "position": 34
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Democraten 66 (D66)"
+}

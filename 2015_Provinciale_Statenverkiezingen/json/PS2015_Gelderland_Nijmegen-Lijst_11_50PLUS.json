@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marcel", 
+            "last_name": "Bruins", 
+            "gender": "m", 
+            "place": "Doorwerth", 
+            "full_name": "M.H. Bruins", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Surink", 
+            "gender": "m", 
+            "place": "Vaassen", 
+            "full_name": "F.P.W.J. Surink", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Walter", 
+            "last_name": "Verhoeven", 
+            "gender": "m", 
+            "place": "Elst", 
+            "full_name": "W.J.H. Verhoeven", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Opschoor", 
+            "gender": "m", 
+            "place": "Nederhemert", 
+            "full_name": "J. Opschoor", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Arnold", 
+            "last_name": "Peters", 
+            "gender": "m", 
+            "place": "Driel", 
+            "full_name": "A.P.G.A. Peters", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Weijers", 
+            "gender": "m", 
+            "place": "Wijchen", 
+            "full_name": "T.A. Weijers", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Sprik", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "G.C. Sprik", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Bakkers", 
+            "gender": "m", 
+            "place": "Millingen aan de Rijn", 
+            "full_name": "R.G.J. Bakkers", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Puck", 
+            "last_name": "Wagenaar", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "A.W. Wagenaar", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_11 50PLUS"
+}

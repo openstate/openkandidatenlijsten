@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jaap", 
+            "last_name": "Lodders", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "J. Lodders", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Gijsberts", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "A. Gijsberts", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Janet", 
+            "last_name": "Klijnstra-Rippen", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "J.J. Klijnstra-Rippen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Reus", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "J. de Reus", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Smeels-Zechner", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M. Smeels-Zechner", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Huib", 
+            "last_name": "van Vliet", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "H.W.E. van Vliet", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Eduard", 
+            "last_name": "Plate", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "E.F. Plate", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Remco", 
+            "last_name": "Bosma", 
+            "gender": "m", 
+            "place": "Emmeloord", 
+            "full_name": "R.P.G. Bosma", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Elise", 
+            "last_name": "Broen", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.E.H. Broen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Vulink", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "T.J.G. Vulink", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Philip", 
+            "last_name": "ten Napel", 
+            "gender": "m", 
+            "place": "Urk", 
+            "full_name": "P. ten Napel", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "Boogaard", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "M.C. Boogaard", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Anke", 
+            "last_name": "d'Hooghe-Molenkamp", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "J.M.H. d'Hooghe-Molenkamp", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Netty", 
+            "last_name": "van Stenus-van Basten", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "A. van Stenus-van Basten", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Gach", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "P.S.A. Gach", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Meintje", 
+            "last_name": "Jonker-Waterlander", 
+            "gender": "v", 
+            "place": "Emmeloord", 
+            "full_name": "M. Jonker-Waterlander", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Barry", 
+            "last_name": "Hoogezand", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "B. Hoogezand", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Vermeer", 
+            "gender": "m", 
+            "place": "Swifterbant", 
+            "full_name": "A.H. Vermeer", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 VVD"
+}

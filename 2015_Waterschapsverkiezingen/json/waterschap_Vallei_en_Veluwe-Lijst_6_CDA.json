@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Martin", 
+            "last_name": "Fransen", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "M. Fransen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Kremers", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "R. Kremers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Vedder", 
+            "gender": "m", 
+            "place": "Bunschoten", 
+            "full_name": "H.L. Vedder", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Francisca", 
+            "last_name": "van den Broeke", 
+            "gender": "v", 
+            "place": "Bennekom", 
+            "full_name": "F. van den Broeke", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Tolboom", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "C.G.J. Tolboom", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Doorn", 
+            "gender": "m", 
+            "place": "Terschuur", 
+            "full_name": "D.R. Doorn", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Alfred", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Welsum", 
+            "full_name": "A.G.J. Jansen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "van 't Klooster", 
+            "gender": "m", 
+            "place": "Nijkerk", 
+            "full_name": "C.J.M. van 't Klooster", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "Egtberts", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "N.J.G. Egtberts", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "van de Zedde", 
+            "gender": "m", 
+            "place": "Twello", 
+            "full_name": "E. van de Zedde", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Veldhuizen", 
+            "gender": "m", 
+            "place": "Putten", 
+            "full_name": "B. Veldhuizen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "te Bokkel", 
+            "gender": "m", 
+            "place": "Eerbeek", 
+            "full_name": "G.S.W. te Bokkel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Hokken", 
+            "gender": "m", 
+            "place": "Wilp", 
+            "full_name": "G.C. Hokken", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ieteke", 
+            "last_name": "Wegman", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "I.L. Wegman", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 CDA"
+}

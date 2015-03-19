@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jelle", 
+            "last_name": "Hiemstra", 
+            "gender": "m", 
+            "place": "Sneek", 
+            "full_name": "J.E. Hiemstra", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lilian", 
+            "last_name": "Broumels", 
+            "gender": "v", 
+            "place": "Itens", 
+            "full_name": "L.J. Broumels", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Geert Pieter", 
+            "last_name": "Vermeulen", 
+            "gender": "m", 
+            "place": "Sneek", 
+            "full_name": "G.P. Vermeulen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Guus", 
+            "last_name": "Westra", 
+            "gender": "m", 
+            "place": "Marsum", 
+            "full_name": "A.H.J. Westra", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bea", 
+            "last_name": "Huisman", 
+            "gender": "v", 
+            "place": "Sneek", 
+            "full_name": "B.T. Huisman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Burema", 
+            "gender": "m", 
+            "place": "Stiens", 
+            "full_name": "P. Burema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Stellingwerf", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "M. Stellingwerf", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "Feenstra", 
+            "gender": "v", 
+            "place": "Sneek", 
+            "full_name": "A. Feenstra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Stiens", 
+            "full_name": "C.J.G.J. de Jong", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 Friese Koers"
+}

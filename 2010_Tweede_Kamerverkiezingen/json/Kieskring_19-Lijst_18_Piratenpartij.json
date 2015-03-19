@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Samir", 
+            "last_name": "Allioui", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "S. Allioui", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Eva", 
+            "last_name": "Jobse", 
+            "gender": "v", 
+            "place": "Zeist", 
+            "full_name": "E.A. Jobse", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Poutsma", 
+            "gender": "m", 
+            "place": "Oosterbeek", 
+            "full_name": "R.T. Poutsma", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Poot", 
+            "gender": "m", 
+            "place": "Hoeven", 
+            "full_name": "D. Poot", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "Lammertink", 
+            "gender": "m", 
+            "place": "Goor", 
+            "full_name": "A.H. Lammertink", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Wesley", 
+            "last_name": "Schwengle", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "W.G. Schwengle", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Koopmans", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "B.D. Koopmans", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rodger", 
+            "last_name": "van Doorn", 
+            "gender": "m", 
+            "place": "Zandvoort", 
+            "full_name": "R.A.A. van Doorn", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jorrit", 
+            "last_name": "Tulp", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.H. Tulp", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Danny", 
+            "last_name": "Palic", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "D. Palic", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Stefan", 
+            "last_name": "de Konink", 
+            "gender": "m", 
+            "place": "Leidschendam", 
+            "full_name": "S.A.M.M. de Konink", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Arjen", 
+            "last_name": "Halma", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "A.R. Halma", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "Grasmaijer", 
+            "gender": "m", 
+            "place": "Hagestein", 
+            "full_name": "B. Grasmaijer", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Robbie", 
+            "last_name": "Hontelé", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "R.E.C.A. Hontelé", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Kieskring 19-Lijst 18 Piratenpartij"
+}

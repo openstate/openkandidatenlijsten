@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frans", 
+            "last_name": "Claassen", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "F.M.M. Claassen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Overveld", 
+            "gender": "m", 
+            "place": "Oudenbosch", 
+            "full_name": "W.A.A.M. van Overveld", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Horst", 
+            "last_name": "Oosterveer", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "H. Oosterveer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Mieke", 
+            "last_name": "van Bree-Meeuwsen", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "M.L.F. van Bree-Meeuwsen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan Frans", 
+            "last_name": "Brouwers", 
+            "gender": "m", 
+            "place": "Son en Breugel", 
+            "full_name": "J.F.X.M. Brouwers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Joep", 
+            "last_name": "Taks", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "J.P.W.A.A.M. Taks", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jolanda", 
+            "last_name": "van Hulst", 
+            "gender": "v", 
+            "place": "Veldhoven", 
+            "full_name": "J.A.M. van Hulst", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "van Orsouw", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "J.H.T. van Orsouw", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Adriana", 
+            "last_name": "Hernández Martínez", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "A. Hernández Martínez", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "van Bree", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "J.F.M. van Bree", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Roeten", 
+            "gender": "m", 
+            "place": "Valkenswaard", 
+            "full_name": "A.G.B.M. Roeten", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Tiny", 
+            "last_name": "van Tongeren", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "M.J.W. van Tongeren", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Hulshuizen", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "J.F.H. Hulshuizen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Voets", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "J.J.M. Voets", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van de Kar", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "J.T. van de Kar", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Edmond", 
+            "last_name": "van Ooijen", 
+            "gender": "m", 
+            "place": "Liessel", 
+            "full_name": "E. van Ooijen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Matthijssen", 
+            "gender": "m", 
+            "place": "Neerkant", 
+            "full_name": "P. Matthijssen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jacqueline", 
+            "last_name": "Verhoeven - van den Heuvel", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "J.C. Verhoeven - van den Heuvel", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Niek", 
+            "last_name": "Rennenberg", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "D.J.M. Rennenberg", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Miel", 
+            "last_name": "van Thiel", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "E.F.M.J. van Thiel", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "van Mullekom", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "T.J. van Mullekom", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Dré", 
+            "last_name": "Rennenberg", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "A.J.A. Rennenberg", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Presley", 
+            "last_name": "Bergen", 
+            "gender": "m", 
+            "place": "Bladel", 
+            "full_name": "P.H. Bergen", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Mondriaan", 
+            "gender": "m", 
+            "place": "Boxtel", 
+            "full_name": "H. Mondriaan", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Spooren", 
+            "gender": "m", 
+            "place": "Son en Breugel", 
+            "full_name": "A.J.M. Spooren", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Krol", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "H.C.M. Krol", 
+            "position": 26
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_8 50PLUS"
+}

@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jacob", 
+            "last_name": "van Olst", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "J. van Olst", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Nieuwenhuis", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "J. Nieuwenhuis", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Janneke", 
+            "last_name": "Ottens", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "J.J. Ottens", 
+            "position": 3
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "van de Geijn", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "R. van de Geijn", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jo", 
+            "last_name": "Caris", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.P.T. Caris", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Judo", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Emmeloord", 
+            "full_name": "J.W. Bakker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sylvia", 
+            "last_name": "Roos-d'Arnaud", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "S.E. Roos-d'Arnaud", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Gelder", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "J. van Gelder", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Wolter", 
+            "last_name": "van der Kooij", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "W. van der Kooij", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Janneke", 
+            "last_name": "van Eerde", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "J. van Eerde", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Frans Jan", 
+            "last_name": "Schuurman", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "F.J. Schuurman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Eduard", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "E.M. de Vries", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Hol", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.A.M. Hol", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Fokkens", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "B. Fokkens", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Linzel", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "H.J. Linzel", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Stortelder", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "P.B.M. Stortelder", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Okkerse", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "C.W.J. Okkerse", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 Water, Wonen en Natuur"
+}

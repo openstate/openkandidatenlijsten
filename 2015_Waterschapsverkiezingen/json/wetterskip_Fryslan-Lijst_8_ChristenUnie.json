@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rein", 
+            "last_name": "Ferwerda", 
+            "gender": "m", 
+            "place": "Morra", 
+            "full_name": "R. Ferwerda", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Egbert", 
+            "last_name": "Berenst", 
+            "gender": "m", 
+            "place": "Drachten", 
+            "full_name": "E. Berenst", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Kor", 
+            "last_name": "Stelma", 
+            "gender": "m", 
+            "place": "Franeker", 
+            "full_name": "K.B. Stelma", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Kuiken", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "D.M.J. Kuiken", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "Rienstra", 
+            "gender": "m", 
+            "place": "Gauw", 
+            "full_name": "A. Rienstra", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Haaije", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Oosterzee", 
+            "full_name": "H. de Jong", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Schouwstra", 
+            "gender": "m", 
+            "place": "Sneek", 
+            "full_name": "G.C.A. Schouwstra", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "Huizinga-Heringa", 
+            "gender": "v", 
+            "place": "Heerenveen", 
+            "full_name": "J.C. Huizinga-Heringa", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 ChristenUnie"
+}

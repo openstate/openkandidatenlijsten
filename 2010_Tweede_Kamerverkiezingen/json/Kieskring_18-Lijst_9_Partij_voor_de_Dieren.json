@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marianne", 
+            "last_name": "Thieme", 
+            "gender": "v", 
+            "place": "Maarssen", 
+            "full_name": "M.L. Thieme", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Ouwehand", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Ouwehand", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "Hazekamp", 
+            "gender": "v", 
+            "place": "Alteveer Gn", 
+            "full_name": "A.A.H. Hazekamp", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Wassenberg", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "F.P. Wassenberg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "van Liere", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "A.E. van Liere", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "Folkerts", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "L. Folkerts", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Estefania", 
+            "last_name": "Pampin Zuidmeer", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Pampin Zuidmeer", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jasmijn", 
+            "last_name": "de Boo", 
+            "gender": "v", 
+            "place": "Londen (UK)", 
+            "full_name": "M.J. de Boo", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "van der Veer", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "L.R. van der Veer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Johnas", 
+            "last_name": "van Lammeren", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.F.W. van Lammeren", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "’s-Gravenhage", 
+            "full_name": "M.J.E. de Groot", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "van der Steeg", 
+            "gender": "m", 
+            "place": "De Meern", 
+            "full_name": "W. van der Steeg", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Barbara", 
+            "last_name": "van Genne", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B. van Genne", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Voss", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "S.H.D. Voss", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Oomen", 
+            "gender": "m", 
+            "place": "Grave", 
+            "full_name": "A.J.M.M. Oomen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Annemarie", 
+            "last_name": "van Gelder", 
+            "gender": "v", 
+            "place": "Makkinga", 
+            "full_name": "A.M.E. van Gelder", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Jan Peter", 
+            "last_name": "Cruiming", 
+            "gender": "m", 
+            "place": "Zuidhorn", 
+            "full_name": "J.P. Cruiming", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Kieskring 18-Lijst 9 Partij voor de Dieren"
+}

@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jeannette", 
+            "last_name": "Quadvlieg-van Dam", 
+            "gender": "v", 
+            "place": "Onderbanken", 
+            "full_name": "J. Quadvlieg-van Dam", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jacqueline", 
+            "last_name": "Aelen", 
+            "gender": "v", 
+            "place": "Roerdalen", 
+            "full_name": "J.C.L. Aelen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ruben", 
+            "last_name": "van Beusekom", 
+            "gender": "m", 
+            "place": "Kerkrade", 
+            "full_name": "R.H.T. van Beusekom", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "den Broeder", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "M.A. den Broeder", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Pierre", 
+            "last_name": "Wagemans", 
+            "gender": "m", 
+            "place": "Echt-Susteren", 
+            "full_name": "P.M.H. Wagemans", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Wilken", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "T.J.M. Wilken", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "van Binnebeke", 
+            "gender": "v", 
+            "place": "Maastricht", 
+            "full_name": "E.J.H.G. van Binnebeke", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rudy", 
+            "last_name": "Tuik", 
+            "gender": "m", 
+            "place": "Sittard-Geleen", 
+            "full_name": "R. Tuik", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Griffijn", 
+            "gender": "m", 
+            "place": "Nuth", 
+            "full_name": "W.E.M.R. Griffijn", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jo", 
+            "last_name": "Maes", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "J.A.M.B. Maes", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "Gorissen", 
+            "gender": "m", 
+            "place": "Kerkrade", 
+            "full_name": "S.H.G. Gorissen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Pierre", 
+            "last_name": "Thomas", 
+            "gender": "m", 
+            "place": "Simpelveld", 
+            "full_name": "P.L.L. Thomas", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ger", 
+            "last_name": "Meesters", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "G.H.M. Meesters", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Hudales", 
+            "gender": "m", 
+            "place": "Sittard-Geleen", 
+            "full_name": "T.R.G.F. Hudales", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Richter", 
+            "gender": "m", 
+            "place": "Maasgouw", 
+            "full_name": "M.M.G.M. Richter", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Merkx", 
+            "gender": "m", 
+            "place": "Roerdalen", 
+            "full_name": "M.W.J. Merkx", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Loek", 
+            "last_name": "Peters", 
+            "gender": "m", 
+            "place": "Voerendaal", 
+            "full_name": "L.P.H. Peters", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Math", 
+            "last_name": "de Ponti", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "M. de Ponti", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Pierre", 
+            "last_name": "Grooten", 
+            "gender": "m", 
+            "place": "Voerendaal", 
+            "full_name": "P.H.A. Grooten", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "van Scheijndel", 
+            "gender": "m", 
+            "place": "Herkenbosch", 
+            "full_name": "R.F.M. van Scheijndel", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Jan Willem", 
+            "last_name": "Westra", 
+            "gender": "m", 
+            "place": "Sittard-Geleen", 
+            "full_name": "J.W. Westra", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Boersma", 
+            "gender": "m", 
+            "place": "Maastricht", 
+            "full_name": "A. Boersma", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hermans", 
+            "gender": "m", 
+            "place": "Schinnen", 
+            "full_name": "J.P.J. Hermans", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "Schaffrath", 
+            "gender": "m", 
+            "place": "Schinnen", 
+            "full_name": "H.A.H. Schaffrath", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Hanssen", 
+            "gender": "m", 
+            "place": "Sittard-Geleen", 
+            "full_name": "T.J.G.M. Hanssen", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Heijligers", 
+            "gender": "m", 
+            "place": "Horst aan de Maas", 
+            "full_name": "H.W.G. Heijligers", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Heijnen", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "J.H. Heijnen", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Toine", 
+            "last_name": "Wuts", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "A.M.J.G. Wuts", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Lenders", 
+            "gender": "m", 
+            "place": "Roerdalen", 
+            "full_name": "A.J.W. Lenders", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Walter", 
+            "last_name": "Uitterhoeve", 
+            "gender": "m", 
+            "place": "Voerendaal", 
+            "full_name": "W.L. Uitterhoeve", 
+            "position": 30
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 Water Natuurlijk"
+}

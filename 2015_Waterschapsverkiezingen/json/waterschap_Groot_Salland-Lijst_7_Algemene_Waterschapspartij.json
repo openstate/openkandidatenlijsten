@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Femmy", 
+            "last_name": "le Clercq-Westhuis", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "F. le Clercq-Westhuis", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Langendijk", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "P.W. Langendijk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Renckens", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "P.G.J. Renckens", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Popta", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J.J. van Popta", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Chantal", 
+            "last_name": "Hulleman", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "C. Hulleman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Thea", 
+            "last_name": "ten Have", 
+            "gender": "v", 
+            "place": "Haarle", 
+            "full_name": "T.H.M. ten Have", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Algemene Waterschapspartij"
+}

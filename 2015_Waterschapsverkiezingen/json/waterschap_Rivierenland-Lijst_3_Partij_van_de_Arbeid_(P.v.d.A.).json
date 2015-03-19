@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Gerard", 
+            "last_name": "Nieuwenhuis", 
+            "gender": "m", 
+            "place": "Kesteren", 
+            "full_name": "G.J.A. Nieuwenhuis", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marlies", 
+            "last_name": "van Hulsentop-van der Linden", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "M.E.A. van Hulsentop-van der Linden", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van 't Pad", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "H. van 't Pad", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Diependaal", 
+            "gender": "m", 
+            "place": "Zaltbommel", 
+            "full_name": "H.J. Diependaal", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Arts", 
+            "gender": "m", 
+            "place": "Wijchen", 
+            "full_name": "N.J.A. Arts", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Hawar", 
+            "last_name": "Mouhiddine", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "H. Mouhiddine", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Tony", 
+            "last_name": "Schouten", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "A. Schouten", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Kaja", 
+            "last_name": "Sariwating", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "K.J.C. Sariwating", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Maaike", 
+            "last_name": "Baggerman", 
+            "gender": "v", 
+            "place": "Beusichem", 
+            "full_name": "M.W. Baggerman", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Stolk", 
+            "gender": "m", 
+            "place": "Boven-Leeuwen", 
+            "full_name": "W.P. Stolk", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "Straathof", 
+            "gender": "v", 
+            "place": "Winssen", 
+            "full_name": "M.J.P. Straathof", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Methorst", 
+            "gender": "m", 
+            "place": "Nieuwendijk", 
+            "full_name": "J. Methorst", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Wanrooij", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "P.W. Wanrooij", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "van Roosmalen", 
+            "gender": "v", 
+            "place": "Huissen", 
+            "full_name": "J.N.M. van Roosmalen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Martijn", 
+            "last_name": "Michielsen", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "M.N.T.S. Michielsen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Brand", 
+            "gender": "m", 
+            "place": "Vianen", 
+            "full_name": "M. Brand", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Griedo", 
+            "last_name": "Bel", 
+            "gender": "m", 
+            "place": "Heukelum", 
+            "full_name": "G. Bel", 
+            "position": 17
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "Harteman", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "G. Harteman", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Cathrijn", 
+            "last_name": "Haubrich-Gooskens", 
+            "gender": "v", 
+            "place": "Deil", 
+            "full_name": "C.T.E.M. Haubrich-Gooskens", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jean", 
+            "last_name": "Eigeman", 
+            "gender": "m", 
+            "place": "Culemborg", 
+            "full_name": "J.H. Eigeman", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "IJssels", 
+            "gender": "m", 
+            "place": "Gorinchem", 
+            "full_name": "P. IJssels", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Turgay", 
+            "last_name": "Tankir", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "T. Tankir", 
+            "position": 22
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)"
+}

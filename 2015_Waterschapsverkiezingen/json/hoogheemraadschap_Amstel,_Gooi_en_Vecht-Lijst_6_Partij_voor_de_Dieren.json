@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Lammert", 
+            "last_name": "van Raan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L. van Raan", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van der Kraan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. van der Kraan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Anke", 
+            "last_name": "Bakker", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.L. Bakker", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Friso", 
+            "last_name": "van Lierop", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.W.D. van Lierop", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Vermaas", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.D. Vermaas", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Brink", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Brink", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Barbara", 
+            "last_name": "Schriek", 
+            "gender": "v", 
+            "place": "Ankeveen", 
+            "full_name": "B. Schriek", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Fieke", 
+            "last_name": "But", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "S.J. But", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mario", 
+            "last_name": "Blom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.L. Blom", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Tamar", 
+            "last_name": "Oetelmans", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.A. Oetelmans", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Partij voor de Dieren"
+}

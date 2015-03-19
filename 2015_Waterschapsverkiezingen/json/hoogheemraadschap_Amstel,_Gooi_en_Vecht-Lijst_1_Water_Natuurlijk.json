@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wiegert", 
+            "last_name": "Dulfer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.W. Dulfer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marion", 
+            "last_name": "Di Bucchianico-Bakker", 
+            "gender": "v", 
+            "place": "Weesp", 
+            "full_name": "M.A.A. Di Bucchianico-Bakker", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "Mager", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "S.E. Mager", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hoek", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Hoek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marjolein", 
+            "last_name": "Quené", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "M. Quené", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Penders", 
+            "gender": "m", 
+            "place": "Naarden", 
+            "full_name": "H.J.P. Penders", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "Tettero", 
+            "gender": "v", 
+            "place": "Tienhoven", 
+            "full_name": "E.H.M. Tettero", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Thirza", 
+            "last_name": "Bronner", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.M. Bronner", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mimy", 
+            "last_name": "Sluiter", 
+            "gender": "v", 
+            "place": "Bussum", 
+            "full_name": "M.M. Sluiter", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Anna", 
+            "last_name": "Schutte", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.E. Schutte", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Yvette", 
+            "last_name": "Osinga", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. Osinga", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Marjolein", 
+            "last_name": "van der Marel", 
+            "gender": "v", 
+            "place": "Huizen", 
+            "full_name": "M. van der Marel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Ruis", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.J. Ruis", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ricardo", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Nigtevecht", 
+            "full_name": "R.M. van Dijk", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jacqueline", 
+            "last_name": "Mineur", 
+            "gender": "v", 
+            "place": "Hilversum", 
+            "full_name": "J.J.H. Mineur", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Bruno", 
+            "last_name": "van Moerkerken", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B. van Moerkerken", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Rick", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Vinkeveen", 
+            "full_name": "R.F. van Dijk", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Elwyn", 
+            "last_name": "van Zanten", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.Y. van Zanten", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Rietman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Rietman", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "Hüttig", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L. Hüttig", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Florrie", 
+            "last_name": "de Pater", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. de Pater", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Rick", 
+            "last_name": "ten Have", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.P. ten Have", 
+            "position": 22
+        }
+    ], 
+    "description": "Gecombineerd met Algemene Waterschapspartij", 
+    "title": "Lijst 1 Water Natuurlijk"
+}

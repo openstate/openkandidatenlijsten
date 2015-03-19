@@ -1,0 +1,198 @@
+{
+    "candidates": [
+        {
+            "first_name": "Antoinet", 
+            "last_name": "van Helvoirt-Looman", 
+            "gender": "v", 
+            "place": "Didam", 
+            "full_name": "A.E.H. van Helvoirt-Looman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Krajenbrink", 
+            "gender": "m", 
+            "place": "De Heurne", 
+            "full_name": "G.J.W. Krajenbrink", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "Otermann", 
+            "gender": "v", 
+            "place": "Rozendaal", 
+            "full_name": "K. Otermann", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Pleune", 
+            "gender": "m", 
+            "place": "Zutphen", 
+            "full_name": "R. Pleune", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ellenus", 
+            "last_name": "Venema", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "E. Venema", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Mobach", 
+            "gender": "m", 
+            "place": "Gorssel", 
+            "full_name": "M.P. Mobach", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Anton", 
+            "last_name": "Stortelder", 
+            "gender": "m", 
+            "place": "Zieuwent", 
+            "full_name": "A.H.F. Stortelder", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Scholten", 
+            "gender": "m", 
+            "place": "Ulft", 
+            "full_name": "G.T. Scholten", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Neijland", 
+            "gender": "m", 
+            "place": "Lochem", 
+            "full_name": "R.G. Neijland", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Boersma", 
+            "gender": "m", 
+            "place": "Doesburg", 
+            "full_name": "H.T. Boersma", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Renske", 
+            "last_name": "Waardenburg", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "R.E. Waardenburg", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van der Molen", 
+            "gender": "m", 
+            "place": "Lobith", 
+            "full_name": "J. van der Molen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Ooms", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "R. Ooms", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Porte", 
+            "gender": "v", 
+            "place": "Warnsveld", 
+            "full_name": "A.M.K. Porte", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Kuipers", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "D.C. Kuipers", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Maasland", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "F. Maasland", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Veraart", 
+            "gender": "m", 
+            "place": "Westervoort", 
+            "full_name": "H.C. Veraart", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Augustijn", 
+            "gender": "m", 
+            "place": "Dieren", 
+            "full_name": "J.P. Augustijn", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "Stokman", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "A.A.A. Stokman", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Arne", 
+            "last_name": "Greven", 
+            "gender": "m", 
+            "place": "Gorssel", 
+            "full_name": "A. Greven", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Vredeveld", 
+            "gender": "m", 
+            "place": "Ruurlo", 
+            "full_name": "C. Vredeveld", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Werner", 
+            "last_name": "de Wilde", 
+            "gender": "m", 
+            "place": "Warnsveld", 
+            "full_name": "W.J. de Wilde", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Eduard", 
+            "last_name": "Schilling", 
+            "gender": "m", 
+            "place": "Westervoort", 
+            "full_name": "J.H.E. Schilling", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Thijs", 
+            "last_name": "de la Court", 
+            "gender": "m", 
+            "place": "Laren", 
+            "full_name": "M. de la Court", 
+            "position": 24
+        }
+    ], 
+    "description": "Gecombineerd met Vrienden van de Berkel", 
+    "title": "Lijst 2 Water Natuurlijk"
+}

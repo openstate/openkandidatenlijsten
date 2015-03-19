@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Herman", 
+            "last_name": "Zwaaf", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "H. Zwaaf", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ed", 
+            "last_name": "Rehorst", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "E. Rehorst", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Joep", 
+            "last_name": "Mooren", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.H.M. Mooren", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marja", 
+            "last_name": "Bisschop", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "J.M. Bisschop", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Peeters", 
+            "gender": "m", 
+            "place": "Oldambt", 
+            "full_name": "J. Peeters", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jiry", 
+            "last_name": "de Waal", 
+            "gender": "m", 
+            "place": "Ens", 
+            "full_name": "J. de Waal", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ger", 
+            "last_name": "Peters", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "G.H. Peters", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "'t Hart", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "E.H.W. 't Hart", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "van der Woude", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "H. van der Woude", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "van der Woude-Jongen", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "E.J.M.A. van der Woude-Jongen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Oosterom", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "G.E. Oosterom", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Edwin", 
+            "last_name": "Hoogland", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "E.S. Hoogland", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Ank", 
+            "last_name": "van Rijnsoever", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "A.F.M. van Rijnsoever", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "van der Torre", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "A.W. van der Torre", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marchien", 
+            "last_name": "Koster", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.H. Koster", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 Algemene Waterschapspartij"
+}

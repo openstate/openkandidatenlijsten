@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wim", 
+            "last_name": "Moinat", 
+            "gender": "m", 
+            "place": "Zwartemeer", 
+            "full_name": "W.L.H. Moinat", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ko", 
+            "last_name": "Vester", 
+            "gender": "m", 
+            "place": "Schipborg", 
+            "full_name": "J. Vester", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Louise", 
+            "last_name": "Smits", 
+            "gender": "v", 
+            "place": "Meppel", 
+            "full_name": "L.A. Smits", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Greetje", 
+            "last_name": "Dikkers", 
+            "gender": "v", 
+            "place": "Tynaarlo", 
+            "full_name": "G.J. Dikkers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "van de Pol", 
+            "gender": "m", 
+            "place": "Bovensmilde", 
+            "full_name": "F. van de Pol", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Philip", 
+            "last_name": "Oosterlaak", 
+            "gender": "m", 
+            "place": "Nieuweroord", 
+            "full_name": "P.H. Oosterlaak", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jantien", 
+            "last_name": "Fokkens", 
+            "gender": "v", 
+            "place": "Schipborg", 
+            "full_name": "J.H. Fokkens", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Radema", 
+            "gender": "m", 
+            "place": "Eexterveenschekanaal", 
+            "full_name": "F.H. Radema", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Martijn", 
+            "last_name": "van Middelaar", 
+            "gender": "m", 
+            "place": "Hooghalen", 
+            "full_name": "J.L.M. van Middelaar", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Claudia", 
+            "last_name": "Ester-Schokker", 
+            "gender": "v", 
+            "place": "Emmen", 
+            "full_name": "C.P.M. Ester-Schokker", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Lucie", 
+            "last_name": "Robben-Hoge", 
+            "gender": "v", 
+            "place": "Coevorden", 
+            "full_name": "L.M.J. Robben-Hoge", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "van der Tuuk", 
+            "gender": "m", 
+            "place": "Coevorden", 
+            "full_name": "G. van der Tuuk", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "van Heck", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "B.A.J.T. van Heck", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Henny", 
+            "last_name": "Winter", 
+            "gender": "v", 
+            "place": "Hoogeveen", 
+            "full_name": "H. Winter", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Grietus", 
+            "last_name": "Buist", 
+            "gender": "m", 
+            "place": "Nieuw-Amsterdam", 
+            "full_name": "G. Buist", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Alan", 
+            "last_name": "Staples", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "A.D. Staples", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Zwartemeer", 
+            "full_name": "M. Kuiper", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "M.R. de Vries", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Luehof", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "H. Luehof", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Ineke", 
+            "last_name": "Bekkering", 
+            "gender": "v", 
+            "place": "Hoogeveen", 
+            "full_name": "I.H. Bekkering", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Ilonka", 
+            "last_name": "Slesazeck", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "I.M. Slesazeck", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Nieuw-Dordrecht", 
+            "full_name": "H. de Jonge", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "Midden-Deinzer", 
+            "gender": "v", 
+            "place": "De Kiel", 
+            "full_name": "A. Midden-Deinzer", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Teske", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "J. Teske", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Broekema", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "J. Broekema", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 SP (Socialistische Partij)"
+}

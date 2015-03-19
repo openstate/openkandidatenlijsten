@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Buda", 
+            "last_name": "Vasiljević", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "B. Vasiljević", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Bervoets", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "L.F. Bervoets", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Adriaan", 
+            "last_name": "Houkes", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "A. Houkes", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Dijken", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J. van Dijken", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Gersteling", 
+            "gender": "m", 
+            "place": "Eelderwolde", 
+            "full_name": "W. Gersteling", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Martha", 
+            "last_name": "Reijnders", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "M.P.G. Reijnders", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Partij voor Mens en Spirit (MenS)"
+}

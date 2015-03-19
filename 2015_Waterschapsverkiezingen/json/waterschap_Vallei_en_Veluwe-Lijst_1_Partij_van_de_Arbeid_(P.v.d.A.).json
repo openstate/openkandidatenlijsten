@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Aart", 
+            "last_name": "van Malenstein", 
+            "gender": "m", 
+            "place": "Maarn", 
+            "full_name": "A.G. van Malenstein", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Eppo", 
+            "last_name": "Gutteling", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "J.W.E. Gutteling", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Paquaij", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "J.A.J.M. Paquaij", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "H.M.W. van den Berg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "van Dijk", 
+            "gender": "v", 
+            "place": "Ede", 
+            "full_name": "E.M. van Dijk", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Veenstra", 
+            "gender": "m", 
+            "place": "Hoogland", 
+            "full_name": "A. Veenstra", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jurgen", 
+            "last_name": "Klunder", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "J. Klunder", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Lucas", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "W.D.J. Lucas", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Langelaar", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "J.T. Langelaar", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "de Graaf", 
+            "gender": "m", 
+            "place": "Twello", 
+            "full_name": "H. de Graaf", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Carina", 
+            "last_name": "Nieuwenweg", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "A.C. Nieuwenweg", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Berend", 
+            "last_name": "Klok", 
+            "gender": "m", 
+            "place": "Eerbeek", 
+            "full_name": "B. Klok", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Westerhof", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "D. Westerhof", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Elmar", 
+            "last_name": "Theune", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "E.P. Theune", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Wilco", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Harderwijk", 
+            "full_name": "W.E.C. Bos", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Margo", 
+            "last_name": "van Enck-Hulleman", 
+            "gender": "v", 
+            "place": "Brummen", 
+            "full_name": "M. van Enck-Hulleman", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Martine", 
+            "last_name": "Brinkhuis-Jak", 
+            "gender": "v", 
+            "place": "Harderwijk", 
+            "full_name": "M. Brinkhuis-Jak", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Fokko", 
+            "last_name": "Spoelstra", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "F.A. Spoelstra", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Ingrid", 
+            "last_name": "Hijman", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "I.M. Hijman", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Lineke", 
+            "last_name": "van Bruggen", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "S. van Bruggen", 
+            "position": 20
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 1 Partij van de Arbeid (P.v.d.A.)"
+}

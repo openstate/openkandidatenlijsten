@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Cor", 
+            "last_name": "Bosman", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "C.G.L. Bosman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Carina", 
+            "last_name": "Jacobs", 
+            "gender": "v", 
+            "place": "Roermond", 
+            "full_name": "M.G.E. Jacobs", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Tobben", 
+            "gender": "m", 
+            "place": "Swalmen", 
+            "full_name": "J.C.M. Tobben", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Cusell", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "J.F. Cusell", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Krul", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "D.P. Krul", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Koelen", 
+            "gender": "m", 
+            "place": "Roermond", 
+            "full_name": "L.S. Koelen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Hompe", 
+            "gender": "m", 
+            "place": "Venlo", 
+            "full_name": "R. Hompe", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_12 Partij voor Leefbaarheid en Democratie"
+}

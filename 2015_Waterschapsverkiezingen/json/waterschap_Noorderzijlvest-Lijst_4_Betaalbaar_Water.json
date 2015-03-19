@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Hoiting", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "H.T. Hoiting", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Mombergen", 
+            "gender": "m", 
+            "place": "Vries", 
+            "full_name": "P.A. van Mombergen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Waals", 
+            "gender": "m", 
+            "place": "Roden", 
+            "full_name": "H.W.E.M. Waals", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Sennema", 
+            "gender": "m", 
+            "place": "Winsum", 
+            "full_name": "D.P. Sennema", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Casper", 
+            "last_name": "Kloos", 
+            "gender": "m", 
+            "place": "Vries", 
+            "full_name": "C.H. Kloos", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "van Buuren", 
+            "gender": "m", 
+            "place": "Roden", 
+            "full_name": "R. van Buuren", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Harmien", 
+            "last_name": "van der Werff-Poort", 
+            "gender": "v", 
+            "place": "Oosterwijtwerd", 
+            "full_name": "H.J. van der Werff-Poort", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Lieuwe", 
+            "last_name": "Terpstra", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "L.K. Terpstra", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Mombergen", 
+            "gender": "m", 
+            "place": "Vries", 
+            "full_name": "P. van Mombergen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Geert Jan", 
+            "last_name": "Reinders", 
+            "gender": "m", 
+            "place": "Loppersum", 
+            "full_name": "G.J. Reinders", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jur", 
+            "last_name": "Kruizinga", 
+            "gender": "m", 
+            "place": "Aduard", 
+            "full_name": "J. Kruizinga", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "van Dam", 
+            "gender": "m", 
+            "place": "'t Zandt", 
+            "full_name": "H.W. van Dam", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 Betaalbaar Water"
+}

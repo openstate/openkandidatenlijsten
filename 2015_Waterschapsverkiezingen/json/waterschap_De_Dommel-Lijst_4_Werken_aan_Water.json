@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "van Gerven", 
+            "gender": "m", 
+            "place": "Riethoven", 
+            "full_name": "J.W.M van Gerven", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Geert", 
+            "last_name": "Antonis", 
+            "gender": "m", 
+            "place": "Riethoven", 
+            "full_name": "G.P.F Antonis", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Kruif", 
+            "gender": "m", 
+            "place": "Hooge Mierde", 
+            "full_name": "J.H de Kruif", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Geldens", 
+            "gender": "m", 
+            "place": "Valkenswaard", 
+            "full_name": "T.P.T.H Geldens", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Jaspers", 
+            "gender": "m", 
+            "place": "Someren", 
+            "full_name": "W.C.P.H Jaspers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Vogels", 
+            "gender": "m", 
+            "place": "Vught", 
+            "full_name": "C.W Vogels", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wilma", 
+            "last_name": "Kwinten-Winters", 
+            "gender": "v", 
+            "place": "Luyksgestel", 
+            "full_name": "W.J.A Kwinten-Winters", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hub", 
+            "last_name": "Smolders", 
+            "gender": "m", 
+            "place": "Sint-Oedenrode", 
+            "full_name": "H.M.L Smolders", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Schapendonk", 
+            "gender": "m", 
+            "place": "Udenhout", 
+            "full_name": "J.G.A.M Schapendonk", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Lommen", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "L.N.J.M Lommen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "van de Ven", 
+            "gender": "m", 
+            "place": "Oirschot", 
+            "full_name": "A.T.M van de Ven", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Verhoeven", 
+            "gender": "m", 
+            "place": "Luyksgestel", 
+            "full_name": "M.J Verhoeven", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van der Heijden", 
+            "gender": "m", 
+            "place": "Valkenswaard", 
+            "full_name": "F.G.J van der Heijden", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Pleun", 
+            "last_name": "Hulsen", 
+            "gender": "m", 
+            "place": "Sint-Oedenrode", 
+            "full_name": "P.P.J.W Hulsen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Dennis", 
+            "last_name": "van Gerwen", 
+            "gender": "m", 
+            "place": "Valkenswaard", 
+            "full_name": "D.P.A.J van Gerwen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Quinn", 
+            "last_name": "Lommen", 
+            "gender": "m", 
+            "place": "Waalre", 
+            "full_name": "Q.N.L Lommen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Eric", 
+            "last_name": "Bax", 
+            "gender": "m", 
+            "place": "Geldrop", 
+            "full_name": "H.H.M Bax", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 Werken aan Water"
+}

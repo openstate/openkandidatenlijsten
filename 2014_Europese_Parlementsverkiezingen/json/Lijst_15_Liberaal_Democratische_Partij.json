@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sammy", 
+            "last_name": "van Tuyll van Serooskerken", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "S.E. van Tuyll van Serooskerken", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "van Endhoven", 
+            "gender": "m", 
+            "place": "Well", 
+            "full_name": "P. van Endhoven", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wilma", 
+            "last_name": "van Dartel", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "W.H.H. van Dartel", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Eleonore", 
+            "last_name": "Witteveen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E. Witteveen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Eenennaam", 
+            "gender": "m", 
+            "place": "Heiloo", 
+            "full_name": "P.J. van Eenennaam", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "de Boevere", 
+            "gender": "v", 
+            "place": "Breskens", 
+            "full_name": "P.A. de Boevere", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "van Teeffelen", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "B.K. van Teeffelen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wolf", 
+            "last_name": "van Ittersum", 
+            "gender": "m", 
+            "place": "Tuk", 
+            "full_name": "W. van Ittersum", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan Jaap", 
+            "last_name": "ten Hoor", 
+            "gender": "m", 
+            "place": "Leidschendam", 
+            "full_name": "J.J. ten Hoor", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Berends", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.H. Berends", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Cohen Tervaert", 
+            "gender": "m", 
+            "place": "Bosch en Duin", 
+            "full_name": "D.G. Cohen Tervaert", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Ankersmit", 
+            "gender": "m", 
+            "place": "Glimmen", 
+            "full_name": "F.R. Ankersmit", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 15 Liberaal Democratische Partij"
+}

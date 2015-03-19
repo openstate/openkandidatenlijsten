@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Arja", 
+            "last_name": "Doornbos", 
+            "gender": "v", 
+            "place": "Meppel", 
+            "full_name": "A.J. Doornbos", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Oorschot", 
+            "gender": "m", 
+            "place": "Hoogeveen", 
+            "full_name": "J. van Oorschot", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Georgine", 
+            "last_name": "Somer", 
+            "gender": "v", 
+            "place": "Giethoorn", 
+            "full_name": "G.M. Somer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "P. de Vries", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Douwe", 
+            "last_name": "Oosterveen", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "D. Oosterveen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Stoefzand", 
+            "gender": "m", 
+            "place": "Hoogeveen", 
+            "full_name": "J. Stoefzand", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Geke", 
+            "last_name": "Kiers", 
+            "gender": "v", 
+            "place": "Uffelte", 
+            "full_name": "G. Kiers", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van Dongen", 
+            "gender": "m", 
+            "place": "Diever", 
+            "full_name": "F.A. van Dongen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Rosalien", 
+            "last_name": "Zandwijk", 
+            "gender": "v", 
+            "place": "Nijeveen", 
+            "full_name": "R. Zandwijk", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Algemene Waterschapspartij"
+}

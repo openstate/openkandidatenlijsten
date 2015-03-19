@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ton", 
+            "last_name": "van Kesteren", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "A.J.M. van Kesteren", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jesse", 
+            "last_name": "van der Horst", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.C. van der Horst", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Dennis", 
+            "last_name": "Ram", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "D. Ram", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Kaatee", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "R.M. Kaatee", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Reinder", 
+            "last_name": "Blaauw", 
+            "gender": "m", 
+            "place": "Oude Pekela", 
+            "full_name": "R.B. Blaauw", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van de Kerkhof", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.H. van de Kerkhof", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Isabel", 
+            "last_name": "Koopman", 
+            "gender": "v", 
+            "place": "Oudeschip", 
+            "full_name": "G.M.M. Koopman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "de Boer", 
+            "gender": "m", 
+            "place": "Leek", 
+            "full_name": "M. de Boer", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Onnes", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "B.O. Onnes", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Haren Gn", 
+            "full_name": "H. Mulder", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 PVV (Partij voor de Vrijheid)"
+}

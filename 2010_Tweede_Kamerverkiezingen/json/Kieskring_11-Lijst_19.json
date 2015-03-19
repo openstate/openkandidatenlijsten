@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Yvette", 
+            "last_name": "Laclé", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "Y.I. Laclé", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van der Veen", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J. van der Veen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Heller", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "L. Heller", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van de Beek", 
+            "gender": "m", 
+            "place": "’t Harde", 
+            "full_name": "M.G. van de Beek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Schuijn", 
+            "gender": "m", 
+            "place": "Oldebroek", 
+            "full_name": "J. Schuijn", 
+            "position": 5
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "de Bloois", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "K. de Bloois", 
+            "position": 6
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van der Meer", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "L.J. van der Meer", 
+            "position": 7
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "de Boer-Woord", 
+            "gender": "v", 
+            "place": "Urk", 
+            "full_name": "C.J.I. de Boer-Woord", 
+            "position": 8
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "de Feijter", 
+            "gender": "m", 
+            "place": "Tholen", 
+            "full_name": "J. de Feijter", 
+            "position": 9
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Cicilia", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "S.O. Cicilia", 
+            "position": 10
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Laclé", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "F.A. Laclé", 
+            "position": 11
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Eersel", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.I. Eersel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Vishnudatt", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "G.E.S. Vishnudatt", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Kieskring 11-Lijst 19"
+}

@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Matthijs", 
+            "last_name": "Pontier", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.A. Pontier", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Janmaarten", 
+            "last_name": "Batstra", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "J. Batstra", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Charif", 
+            "last_name": "Mews", 
+            "gender": "m", 
+            "place": "Assendelft", 
+            "full_name": "C. Mews", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Gerben", 
+            "last_name": "Brands", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "G.H. Brands", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Steven", 
+            "last_name": "Russchenberg", 
+            "gender": "m", 
+            "place": "Oegstgeest", 
+            "full_name": "S. Russchenberg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gijs", 
+            "last_name": "Peskens", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "G.L.J. Peskens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wiel", 
+            "last_name": "Maessen", 
+            "gender": "m", 
+            "place": "Alem", 
+            "full_name": "W.M.M. Maessen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rogier", 
+            "last_name": "Huurman", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "R.J. Huurman", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Dylan", 
+            "last_name": "Hallegraeff", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "D.S. Hallegraeff", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Poot", 
+            "gender": "m", 
+            "place": "Hoeven", 
+            "full_name": "D. Poot", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 Piratenpartij"
+}

@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Natasja", 
+            "last_name": "Oerlemans", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "N.J. Oerlemans", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Wassenberg", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "F.P. Wassenberg", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "Hazekamp", 
+            "gender": "v", 
+            "place": "Alteveer", 
+            "full_name": "A.A.H. Hazekamp", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Birgit", 
+            "last_name": "Verstappen", 
+            "gender": "v", 
+            "place": "Hilvarenbeek", 
+            "full_name": "B.E.J.M. Verstappen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Carla", 
+            "last_name": "van Viegen", 
+            "gender": "v", 
+            "place": "Pijnacker", 
+            "full_name": "A.H.K. van Viegen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Wanda", 
+            "last_name": "Bodewitz", 
+            "gender": "v", 
+            "place": "Vleuten", 
+            "full_name": "W.A. Bodewitz", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "van der Veer", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "L.R. van der Veer", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "van Oeveren", 
+            "gender": "m", 
+            "place": "Hoofddorp", 
+            "full_name": "R.E. van Oeveren", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Melissa", 
+            "last_name": "Bax", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.C. Bax", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "de Vos", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "D.M. de Vos", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Voss", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "S.H.D. Voss", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Sprangers", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "A.H.G. Sprangers", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Niko", 
+            "last_name": "Koffeman", 
+            "gender": "m", 
+            "place": "Vierhouten", 
+            "full_name": "N.K. Koffeman", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Ouwehand", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Ouwehand", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Thieme", 
+            "gender": "v", 
+            "place": "Maarssen", 
+            "full_name": "M.L. Thieme", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 Partij voor de Dieren"
+}

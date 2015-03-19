@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "", 
+            "last_name": "Samlal", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "P.S. Samlal", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Angnoe", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "S. Angnoe", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Samlal", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "N.P.S. Samlal", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Samlal", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "X.P.S. Samlal", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Krishnasing", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "R. Krishnasing", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_21_-_Politieke_Partij_NXD-Kieskring 9 Amsterdam"
+}

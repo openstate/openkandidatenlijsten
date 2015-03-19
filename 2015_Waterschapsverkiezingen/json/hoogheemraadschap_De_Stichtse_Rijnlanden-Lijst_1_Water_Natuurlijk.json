@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Guus", 
+            "last_name": "Beugelink", 
+            "gender": "m", 
+            "place": "Wijk bij Duurstede", 
+            "full_name": "G.P. Beugelink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "Leenders", 
+            "gender": "v", 
+            "place": "Zeist", 
+            "full_name": "F.J. Leenders", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "G.J.P. Jansen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Carlo", 
+            "last_name": "Rutjes", 
+            "gender": "m", 
+            "place": "Vleuten", 
+            "full_name": "H.A. Rutjes", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Harmke", 
+            "last_name": "van Dam", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "H.A. van Dam", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Els", 
+            "last_name": "Otterman", 
+            "gender": "v", 
+            "place": "Bunnik", 
+            "full_name": "J.A. Otterman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Diederik", 
+            "last_name": "van der Molen", 
+            "gender": "m", 
+            "place": "Bilthoven", 
+            "full_name": "D.T. van der Molen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van der Heijden", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J. van der Heijden", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Nel", 
+            "last_name": "Sangers", 
+            "gender": "v", 
+            "place": "Austerlitz", 
+            "full_name": "P.M. Sangers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Kloppenborg", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.F.M. Kloppenborg", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Boot", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "J.L.J. Boot", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van Vliet", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "G.J.M. van Vliet", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Os", 
+            "gender": "m", 
+            "place": "De Bilt", 
+            "full_name": "P.H. van Os", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Boerkamp", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.G. Boerkamp", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Rutger", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Doorn", 
+            "full_name": "R.G. de Jong", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Carli", 
+            "last_name": "Aulich", 
+            "gender": "v", 
+            "place": "Amerongen", 
+            "full_name": "K.M. Aulich", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "van Berckel", 
+            "gender": "v", 
+            "place": "Nieuwegein", 
+            "full_name": "A.R.M. van Berckel", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Boesten", 
+            "gender": "m", 
+            "place": "IJsselstein", 
+            "full_name": "W.H. Boesten", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Brunsveld", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "M.A.J. Brunsveld", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Henric", 
+            "last_name": "de Jong Schouwenburg", 
+            "gender": "m", 
+            "place": "Groenekan", 
+            "full_name": "J.L.H. de Jong Schouwenburg", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Ernest", 
+            "last_name": "Schuler", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "E. Schuler", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Lydia", 
+            "last_name": "Tutein Nolthenius", 
+            "gender": "v", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "L.A. Tutein Nolthenius", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Riena", 
+            "last_name": "Tienkamp", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "S. Tienkamp", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "den Boer", 
+            "gender": "m", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "T.E. den Boer", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Verkerk", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "M.P. Verkerk", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "Duindam", 
+            "gender": "m", 
+            "place": "Woerden", 
+            "full_name": "J.I.M. Duindam", 
+            "position": 26
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 Water Natuurlijk"
+}

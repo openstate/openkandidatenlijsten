@@ -1,0 +1,134 @@
+{
+    "candidates": [
+        {
+            "first_name": "Yesim", 
+            "last_name": "Candan", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "Y. Candan", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Joziene", 
+            "last_name": "Jessurun", 
+            "gender": "v", 
+            "place": "Bloemendaal", 
+            "full_name": "J.M. Jessurun", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Layana", 
+            "last_name": "Mokoginta", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.R.M. Mokoginta", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Alwine", 
+            "last_name": "van Heemstra", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.C.M. van Heemstra", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Nafize", 
+            "last_name": "S¸ener", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N. S¸ener", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Miriam", 
+            "last_name": "Ruigrok", 
+            "gender": "v", 
+            "place": "Schagen", 
+            "full_name": "M.M.F. Ruigrok", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "Visscher-Endeveld", 
+            "gender": "v", 
+            "place": "Etten", 
+            "full_name": "E. Visscher-Endeveld", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Meino", 
+            "last_name": "Zandwijk", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "C.M. Zandwijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Huib", 
+            "last_name": "Poortman", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "H.H. Poortman", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Menno", 
+            "last_name": "Lanting", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "M. Lanting", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "van Kampen", 
+            "gender": "m", 
+            "place": "Bergen NH", 
+            "full_name": "B.Q. van Kampen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Dennis", 
+            "last_name": "Karpes", 
+            "gender": "m", 
+            "place": "Vijfhuizen", 
+            "full_name": "D. Karpes", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Starren", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.G. Starren", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Mathieu", 
+            "last_name": "Weggeman", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "M.C.D.P. Weggeman", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Nilgün", 
+            "last_name": "Yerli", 
+            "gender": "v", 
+            "place": "Zandvoort", 
+            "full_name": "N. Yerli", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Awraham", 
+            "last_name": "Soetendorp", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "S.A. Soetendorp", 
+            "position": 16
+        }
+    ], 
+    "description": "", 
+    "title": "Kieskring 1-Lijst 16 Partij één"
+}

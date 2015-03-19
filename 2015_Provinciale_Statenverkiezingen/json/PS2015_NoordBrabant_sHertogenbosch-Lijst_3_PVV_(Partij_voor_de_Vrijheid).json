@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Alexander", 
+            "last_name": "van Hattem", 
+            "gender": "m", 
+            "place": "Steensel", 
+            "full_name": "A.W.J.A. van Hattem", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Tilburg", 
+            "full_name": "H.F. van den Berg", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Patricia", 
+            "last_name": "van der Kammen", 
+            "gender": "v", 
+            "place": "Tilburg", 
+            "full_name": "P. van der Kammen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Roks", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "L.A.G. Roks", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Joyce", 
+            "last_name": "Kardol", 
+            "gender": "v", 
+            "place": "Uden", 
+            "full_name": "J.C. Kardol", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Maikel", 
+            "last_name": "Boon", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "M.C.H. Boon", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Waalwijk", 
+            "full_name": "W.J. Bakker", 
+            "position": 7
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Hof", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "A.G. Hof", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "Booij", 
+            "gender": "m", 
+            "place": "Nieuw-Vossemeer", 
+            "full_name": "S. Booij", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Tjerk", 
+            "last_name": "Langman", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "T. Langman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Alida", 
+            "last_name": "Weij", 
+            "gender": "v", 
+            "place": "Gemert", 
+            "full_name": "A.M.C. Weij", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jake Owen", 
+            "last_name": "Raats", 
+            "gender": "m", 
+            "place": "Etten-Leur", 
+            "full_name": "J.O. Raats", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Patty", 
+            "last_name": "van den Oudenalder - Tolk", 
+            "gender": "v", 
+            "place": "Schijndel", 
+            "full_name": "P. van den Oudenalder - Tolk", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Trebus", 
+            "gender": "m", 
+            "place": "Roosendaal", 
+            "full_name": "J.P.W.M. Trebus", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Verbaarschot", 
+            "gender": "m", 
+            "place": "Roosendaal", 
+            "full_name": "W.C. Verbaarschot", 
+            "position": 15
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "van Duijn", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "R. van Duijn", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Frijters", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "C.A.J.M. Frijters", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Anita", 
+            "last_name": "Hendriks", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "M. Hendriks", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Emiel", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Gilze", 
+            "full_name": "E. van Dijk", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Nathalie", 
+            "last_name": "Choenni", 
+            "gender": "v", 
+            "place": "Oosterhout", 
+            "full_name": "N.A. Choenni", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Mariette", 
+            "last_name": "Frijters-Klijnen", 
+            "gender": "v", 
+            "place": "Bergen op Zoom", 
+            "full_name": "M.A.J.L. Frijters-Klijnen", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Dol", 
+            "gender": "m", 
+            "place": "Uden", 
+            "full_name": "R. Dol", 
+            "position": 22
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_3 PVV (Partij voor de Vrijheid)"
+}

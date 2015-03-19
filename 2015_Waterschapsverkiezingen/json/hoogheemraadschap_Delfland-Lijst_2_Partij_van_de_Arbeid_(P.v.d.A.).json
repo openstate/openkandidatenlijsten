@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Leon", 
+            "last_name": "Hombergen", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "L.P.I.M. Hombergen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Elsbeth", 
+            "last_name": "van Hijlckama Vlieg", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.E. van Hijlckama Vlieg", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Alphons", 
+            "last_name": "Ranner", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.P. Ranner", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Boot", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "P.A. Boot", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gisela", 
+            "last_name": "Döll", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "G. Döll", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Naushad", 
+            "last_name": "Boedhoe", 
+            "gender": "m", 
+            "place": "Berkel en Rodenrijs", 
+            "full_name": "N.A. Boedhoe", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "Alferink", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.V.B.M. Alferink", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Nelly", 
+            "last_name": "de Ridder", 
+            "gender": "v", 
+            "place": "Delft", 
+            "full_name": "P.E.M. de Ridder", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Galiek", 
+            "last_name": "Habieb", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "M.G. Habieb", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "van Nimwegen-van Wieringen", 
+            "gender": "v", 
+            "place": "Maasland", 
+            "full_name": "C.J.M. van Nimwegen-van Wieringen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Aad", 
+            "last_name": "Wiegman", 
+            "gender": "m", 
+            "place": "Schiedam", 
+            "full_name": "A.G. Wiegman", 
+            "position": 11
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)"
+}

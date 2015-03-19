@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Erik", 
+            "last_name": "Roosenboom", 
+            "gender": "m", 
+            "place": "Haarlo", 
+            "full_name": "E.M.M. Roosenboom", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bennie", 
+            "last_name": "Morsink", 
+            "gender": "m", 
+            "place": "Neede", 
+            "full_name": "B.H.J.M. Morsink", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "van der Holst", 
+            "gender": "m", 
+            "place": "Eibergen", 
+            "full_name": "A.G.M. van der Holst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "Pragt", 
+            "gender": "v", 
+            "place": "Borculo", 
+            "full_name": "E.C. Pragt", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "Beusink", 
+            "gender": "m", 
+            "place": "Eibergen", 
+            "full_name": "B.B.J. Beusink", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 Ondernemend Waterschap"
+}

@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frank", 
+            "last_name": "Neumann", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F. Neumann", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Emiel", 
+            "last_name": "Lamers", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "E.L. Lamers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Merel", 
+            "last_name": "Tilstra", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "M. Tilstra", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Bucx", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "T.H.M. Bucx", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "Holewijn", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B. Holewijn", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Europa Voordelig! & Duurzaam"
+}

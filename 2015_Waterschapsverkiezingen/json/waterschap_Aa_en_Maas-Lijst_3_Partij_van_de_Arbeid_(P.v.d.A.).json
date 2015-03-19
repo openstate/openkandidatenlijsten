@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rob", 
+            "last_name": "Bots", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "R.T.M. Bots", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "van de Ven-Meulendijks", 
+            "gender": "v", 
+            "place": "Asten", 
+            "full_name": "M.J.M. van de Ven-Meulendijks", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "de Mare", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "J.B. de Mare", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Kees Willem", 
+            "last_name": "van Gorkum", 
+            "gender": "m", 
+            "place": "Gassel", 
+            "full_name": "C.W. van Gorkum", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Patrick", 
+            "last_name": "van der Wens", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "A.J.M. van der Wens", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Freek", 
+            "last_name": "Morel", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "F. Morel", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Dortmans", 
+            "gender": "m", 
+            "place": "Someren", 
+            "full_name": "L.L. Dortmans", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Deurne", 
+            "full_name": "G.P.M. de Jong", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Asli", 
+            "last_name": "Bolat", 
+            "gender": "v", 
+            "place": "Uden", 
+            "full_name": "A. Bolat", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Maaike", 
+            "last_name": "Mollen-Veld", 
+            "gender": "v", 
+            "place": "Oss", 
+            "full_name": "W.P.J. Mollen-Veld", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Silvia", 
+            "last_name": "Derks", 
+            "gender": "v", 
+            "place": "Cuijk", 
+            "full_name": "S.M. Derks", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Peeter", 
+            "last_name": "Mastenbroek", 
+            "gender": "m", 
+            "place": "Gemert", 
+            "full_name": "P.W.A.J. Mastenbroek", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Michel", 
+            "last_name": "Kok", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "M.H.W. Kok", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Pieters", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "M.I. Pieters", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Robertino", 
+            "last_name": "Wibier", 
+            "gender": "m", 
+            "place": "Deurne", 
+            "full_name": "R.P.J. Wibier", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "Kamps", 
+            "gender": "m", 
+            "place": "Grave", 
+            "full_name": "L.A. Kamps", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van Maris", 
+            "gender": "m", 
+            "place": "Someren", 
+            "full_name": "J.M. van Maris", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan Pieter", 
+            "last_name": "Vermeulen", 
+            "gender": "m", 
+            "place": "Berlicum", 
+            "full_name": "J.P.M. Vermeulen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Inke", 
+            "last_name": "Katoen- de Graaf", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "C.G.E.M. Katoen- de Graaf", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Margo", 
+            "last_name": "Mulder", 
+            "gender": "v", 
+            "place": "Vlijmen", 
+            "full_name": "M. Mulder", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van der Pas", 
+            "gender": "m", 
+            "place": "Heesch", 
+            "full_name": "J.A. van der Pas", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Annegien", 
+            "last_name": "Wijnands", 
+            "gender": "v", 
+            "place": "Helmond", 
+            "full_name": "A.M. Wijnands", 
+            "position": 22
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)"
+}

@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ton", 
+            "last_name": "Veraart", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "A.G.M. Veraart", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Patricia", 
+            "last_name": "van Veen-de Rechter", 
+            "gender": "v", 
+            "place": "Biervliet", 
+            "full_name": "P.L.E. van Veen-de Rechter", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Rutger", 
+            "last_name": "Schonis", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "R.A.J. Schonis", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Carl", 
+            "last_name": "Schoor", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "C.W.J. Schoor", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Victor", 
+            "last_name": "Geelen", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "V.M. Geelen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "van Overbeeke", 
+            "gender": "m", 
+            "place": "Heinkenszand", 
+            "full_name": "C.J. van Overbeeke", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Nathalie", 
+            "last_name": "Pleunis", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "N.E.L. Pleunis", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Willem Dirk", 
+            "last_name": "Pols", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "W.D. Pols", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Torcque", 
+            "gender": "m", 
+            "place": "Wilhelminadorp", 
+            "full_name": "H. Torcque", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "van Niftrik", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "P.C.H. van Niftrik", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Levien", 
+            "last_name": "de Putter", 
+            "gender": "m", 
+            "place": "Baarland", 
+            "full_name": "L.M. de Putter", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ria", 
+            "last_name": "Geluk", 
+            "gender": "v", 
+            "place": "Nieuwerkerk", 
+            "full_name": "C.J. Geluk", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Josephine", 
+            "last_name": "Elliott-Hilverdink", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "J.A. Elliott-Hilverdink", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "van Eck", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "P.J. van Eck", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "Marchand-van der Waal", 
+            "gender": "v", 
+            "place": "Heinkenszand", 
+            "full_name": "A.L.A. Marchand-van der Waal", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "de Kraker", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "P.J. de Kraker", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Atyna", 
+            "last_name": "Janse", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "A. Janse", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Sylvia", 
+            "last_name": "Serry", 
+            "gender": "v", 
+            "place": "Kerkwerve", 
+            "full_name": "S. Serry", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Annet", 
+            "last_name": "van de Ree", 
+            "gender": "v", 
+            "place": "Heinkenszand", 
+            "full_name": "A. van de Ree", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jelle", 
+            "last_name": "Turkstra", 
+            "gender": "m", 
+            "place": "Zoutelande", 
+            "full_name": "W.J. Turkstra", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Brandenbarg", 
+            "gender": "m", 
+            "place": "Serooskerke", 
+            "full_name": "J.A. Brandenbarg", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Karel", 
+            "last_name": "Kodde", 
+            "gender": "m", 
+            "place": "Grijpskerke", 
+            "full_name": "K. Kodde", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Schaap", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "J. Schaap", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Niek", 
+            "last_name": "Peters", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "N.G.D. Peters", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "van de Vijver", 
+            "gender": "m", 
+            "place": "Koewacht", 
+            "full_name": "R.A. van de Vijver", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 Democraten 66 (D66)"
+}

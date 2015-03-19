@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Geertje", 
+            "last_name": "Karstens", 
+            "gender": "v", 
+            "place": "Niekerk", 
+            "full_name": "G. Karstens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Barsema", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "R.J. Barsema", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Uithuizen", 
+            "full_name": "C.J. Bakker", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Tolbert", 
+            "full_name": "A.W.G.J. de Vries", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 50PLUS"
+}

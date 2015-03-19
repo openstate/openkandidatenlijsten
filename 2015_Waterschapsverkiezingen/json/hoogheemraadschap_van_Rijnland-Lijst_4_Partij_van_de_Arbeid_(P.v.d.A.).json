@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Haan", 
+            "gender": "m", 
+            "place": "Zoeterwoude", 
+            "full_name": "J.C.H. Haan", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Thea", 
+            "last_name": "Fierens", 
+            "gender": "v", 
+            "place": "Noordwijk", 
+            "full_name": "T.O. Fierens", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "A. de Jong", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Spendel", 
+            "gender": "m", 
+            "place": "Voorschoten", 
+            "full_name": "J.M. Spendel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Els", 
+            "last_name": "Veenhoven", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "E.P. Veenhoven", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Arjen", 
+            "last_name": "Frentz", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "A. Frentz", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "Priemus", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "H. Priemus", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "Henrotte", 
+            "gender": "m", 
+            "place": "Rijnsaterwoude", 
+            "full_name": "E.H. Henrotte", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Nils", 
+            "last_name": "van Teijlingen", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "N.A. van Teijlingen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Schaafsma", 
+            "gender": "m", 
+            "place": "Zwammerdam", 
+            "full_name": "T.A. Schaafsma", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Bouwens", 
+            "gender": "m", 
+            "place": "Bodegraven", 
+            "full_name": "J.J. Bouwens", 
+            "position": 11
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 4 Partij van de Arbeid (P.v.d.A.)"
+}

@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marie-Louise", 
+            "last_name": "Loomans", 
+            "gender": "v", 
+            "place": "Soest", 
+            "full_name": "M.L.P. Loomans", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Maurice", 
+            "last_name": "Bongers", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "M.J.P. Bongers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Klaren", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "P.J.A.M. Klaren", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "Canjels", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "L.P.M.J. Canjels", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 Vrijzinnige Partij"
+}

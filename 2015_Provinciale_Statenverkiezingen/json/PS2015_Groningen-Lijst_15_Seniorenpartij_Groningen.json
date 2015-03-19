@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Ottens", 
+            "gender": "m", 
+            "place": "Delfzijl", 
+            "full_name": "J. Ottens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "ten Hoove", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.H. ten Hoove", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Janny", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "Muntendam", 
+            "full_name": "J. de Groot", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Mulder", 
+            "gender": "m", 
+            "place": "Westerlee", 
+            "full_name": "J. Mulder", 
+            "position": 4
+        }, 
+        {
+            "first_name": "George", 
+            "last_name": "van Amson", 
+            "gender": "m", 
+            "place": "Delfzijl", 
+            "full_name": "G.A. van Amson", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jans", 
+            "last_name": "Hilgen", 
+            "gender": "m", 
+            "place": "Stadskanaal", 
+            "full_name": "J. Hilgen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Beks", 
+            "gender": "m", 
+            "place": "Delfzijl", 
+            "full_name": "H. Beks", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Tammenga", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "W.J. Tammenga", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Heike", 
+            "last_name": "Wiltens", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "H. Wiltens", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Andries", 
+            "last_name": "Puister", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "A.J. Puister", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wijka", 
+            "last_name": "Huisman", 
+            "gender": "v", 
+            "place": "Delfzijl", 
+            "full_name": "W.M. Huisman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Vionella", 
+            "last_name": "Arnaud", 
+            "gender": "v", 
+            "place": "Delfzijl", 
+            "full_name": "V.J. Arnaud", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Abdul", 
+            "last_name": "Yilmaz", 
+            "gender": "m", 
+            "place": "Appingedam", 
+            "full_name": "A.S. Yilmaz", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Geerd", 
+            "last_name": "Dodde", 
+            "gender": "m", 
+            "place": "Veendam", 
+            "full_name": "G. Dodde", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 15 Seniorenpartij Groningen"
+}

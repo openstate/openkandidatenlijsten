@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Trix", 
+            "last_name": "Kruger", 
+            "gender": "v", 
+            "place": "Dieren", 
+            "full_name": "T.A. Kruger", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marielle", 
+            "last_name": "Cornielje", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "M.J.M. Cornielje", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Regina", 
+            "last_name": "Breeschoten-van den Broek", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "G. Breeschoten-van den Broek", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "Endeveld-Visscher", 
+            "gender": "v", 
+            "place": "Etten", 
+            "full_name": "E. Endeveld-Visscher", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Said", 
+            "last_name": "Kaddouri", 
+            "gender": "m", 
+            "place": "Ochten", 
+            "full_name": "S. Kaddouri", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sung", 
+            "last_name": "Bruijnen", 
+            "gender": "m", 
+            "place": "Uden", 
+            "full_name": "S.T.P.L. Bruijnen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Baas", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "J.T.M. Baas", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Fabienne", 
+            "last_name": "Hamende", 
+            "gender": "v", 
+            "place": "Rosmalen", 
+            "full_name": "F.L.G. Hamende", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ramona", 
+            "last_name": "Kwestro", 
+            "gender": "v", 
+            "place": "Zoetermeer", 
+            "full_name": "R. Kwestro", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "Jongert", 
+            "gender": "v", 
+            "place": "Culemborg", 
+            "full_name": "S.R. Jongert", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Maya", 
+            "last_name": "Thierens", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "M.E. Thierens", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_16 Partij voor Mens en Spirit (MenS)"
+}

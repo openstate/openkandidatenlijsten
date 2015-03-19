@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Fred", 
+            "last_name": "Kerkhof", 
+            "gender": "m", 
+            "place": "Tuk", 
+            "full_name": "F. Kerkhof", 
+            "position": 1
+        }, 
+        {
+            "first_name": "James", 
+            "last_name": "de Bats", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "J.R. de Bats", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Deuzeman", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "F.H. Deuzeman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Leendert", 
+            "last_name": "Lodder", 
+            "gender": "m", 
+            "place": "Vroomshoop", 
+            "full_name": "L.H.B. Lodder", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Westerhof", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "G. Westerhof", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jeannette", 
+            "last_name": "de Caluwe-Freriks", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "A.P.J.F. de Caluwe-Freriks", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Otto", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Steenwijk", 
+            "full_name": "O. de Vries", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 50PLUS"
+}

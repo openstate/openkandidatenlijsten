@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ellen", 
+            "last_name": "Slachter", 
+            "gender": "v", 
+            "place": "Zuidland", 
+            "full_name": "E.J. Slachter", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Anne", 
+            "last_name": "Mollema", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "A. Mollema", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Reyer", 
+            "last_name": "Lucas", 
+            "gender": "m", 
+            "place": "Heerjansdam", 
+            "full_name": "R. Lucas", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bartjan", 
+            "last_name": "Zilverberg", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "L. Zilverberg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van den Brand", 
+            "gender": "m", 
+            "place": "Oostvoorne", 
+            "full_name": "T.J. van den Brand", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Peter Jan", 
+            "last_name": "de Werk", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "P.J. de Werk", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Christa", 
+            "last_name": "Groshart", 
+            "gender": "v", 
+            "place": "Ridderkerk", 
+            "full_name": "C.P. Groshart", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gertjan", 
+            "last_name": "Kleinpaste", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "G.J. Kleinpaste", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "Wesdijk", 
+            "gender": "m", 
+            "place": "Barendrecht", 
+            "full_name": "A.H. Wesdijk", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Offereins", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "H.R. Offereins", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "Portheine", 
+            "gender": "v", 
+            "place": "Rhoon", 
+            "full_name": "E. Portheine", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Naaijen", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "A.J.J. Naaijen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Martijn", 
+            "last_name": "Verweijen", 
+            "gender": "m", 
+            "place": "Nieuw-Beijerland", 
+            "full_name": "M.A. Verweijen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Gerben", 
+            "last_name": "Boot", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "G. Boot", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Lorenzo", 
+            "last_name": "van der Bijl", 
+            "gender": "m", 
+            "place": "Ouddorp", 
+            "full_name": "L. van der Bijl", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Anke", 
+            "last_name": "van Essen - van Mazijk", 
+            "gender": "v", 
+            "place": "Spijkenisse", 
+            "full_name": "A.W. van Essen - van Mazijk", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ger", 
+            "last_name": "Groenenboom-van Tol", 
+            "gender": "v", 
+            "place": "Spijkenisse", 
+            "full_name": "G. Groenenboom-van Tol", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Verroen", 
+            "gender": "m", 
+            "place": "Dordrecht", 
+            "full_name": "G.A.M. Verroen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan Alewijn", 
+            "last_name": "Dijkhuizen", 
+            "gender": "m", 
+            "place": "Rockanje", 
+            "full_name": "J.A. Dijkhuizen", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "Kievit", 
+            "gender": "m", 
+            "place": "'s-Gravendeel", 
+            "full_name": "J. Kievit", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 Water Natuurlijk"
+}

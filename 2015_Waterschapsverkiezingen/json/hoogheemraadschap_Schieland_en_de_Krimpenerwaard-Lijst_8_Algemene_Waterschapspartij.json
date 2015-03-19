@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ger", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "G. de Jonge", 
+            "position": 1
+        }, 
+        {
+            "first_name": "José", 
+            "last_name": "van Schaik", 
+            "gender": "v", 
+            "place": "Zoetermeer", 
+            "full_name": "J.M.A. van Schaik", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Crouwers", 
+            "gender": "m", 
+            "place": "Haastrecht", 
+            "full_name": "L.F.M. Crouwers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rosemarie", 
+            "last_name": "van Ham", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "R.C.B. van Ham", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Boks", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "G.M. Boks", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van der Hauw", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "P.A. van der Hauw", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hendrik", 
+            "last_name": "Oudman", 
+            "gender": "m", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "H.H. Oudman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Geke", 
+            "last_name": "Smit-Raggers", 
+            "gender": "v", 
+            "place": "Krimpen aan de Lek", 
+            "full_name": "G. Smit-Raggers", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Janette", 
+            "last_name": "Hofman-Verwoert", 
+            "gender": "v", 
+            "place": "Lekkerkerk", 
+            "full_name": "J. Hofman-Verwoert", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Tim", 
+            "last_name": "van de Staaij", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "T.M. van de Staaij", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Sluis", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "D.P. van Sluis", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 8 Algemene Waterschapspartij"
+}

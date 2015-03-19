@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rob", 
+            "last_name": "de Koe", 
+            "gender": "m", 
+            "place": "Rijssen", 
+            "full_name": "R.A. de Koe", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Gertie", 
+            "last_name": "Botter", 
+            "gender": "v", 
+            "place": "Sibculo", 
+            "full_name": "G. Botter", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Bongers", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "L.G.M. Bongers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jeffrey", 
+            "last_name": "Rouwenhorst", 
+            "gender": "m", 
+            "place": "Haaksbergen", 
+            "full_name": "J.H.J. Rouwenhorst", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Holtland", 
+            "gender": "m", 
+            "place": "IJsselmuiden", 
+            "full_name": "A. Holtland", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Filipsen", 
+            "gender": "m", 
+            "place": "Overdinkel", 
+            "full_name": "J.H.H. Filipsen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hein", 
+            "last_name": "Mekelenkamp", 
+            "gender": "m", 
+            "place": "Nieuwleusen", 
+            "full_name": "H.W. Mekelenkamp", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Malissa", 
+            "last_name": "Spans-Witte", 
+            "gender": "v", 
+            "place": "Sint Jansklooster", 
+            "full_name": "S.M. Spans-Witte", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "IJhorst", 
+            "full_name": "R.A. Dekker", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "G.S. de Jonge", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "Baarslag-de Mönnink", 
+            "gender": "v", 
+            "place": "Hardenberg", 
+            "full_name": "P.M. Baarslag-de Mönnink", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hammink", 
+            "gender": "m", 
+            "place": "Almelo", 
+            "full_name": "J.J.H. Hammink", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Greetje", 
+            "last_name": "Kroonenburg-Kolk", 
+            "gender": "v", 
+            "place": "IJhorst", 
+            "full_name": "M.G. Kroonenburg-Kolk", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Eric-Hans", 
+            "last_name": "Zwahlen", 
+            "gender": "m", 
+            "place": "Steenwijk", 
+            "full_name": "E.H. Zwahlen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Rita", 
+            "last_name": "Karel-Plat", 
+            "gender": "v", 
+            "place": "Kampen", 
+            "full_name": "H.A.T. Karel-Plat", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "ter Haar", 
+            "gender": "v", 
+            "place": "Losser", 
+            "full_name": "E.C. ter Haar", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Gertrud", 
+            "last_name": "Bakker-Vogel", 
+            "gender": "v", 
+            "place": "Enschede", 
+            "full_name": "G.M. Bakker-Vogel", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 LOKAAL OVERIJSSEL"
+}

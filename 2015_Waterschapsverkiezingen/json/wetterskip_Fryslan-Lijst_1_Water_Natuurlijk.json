@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Marian", 
+            "last_name": "Jager-Wöltgens", 
+            "gender": "v", 
+            "place": "Oosterwolde", 
+            "full_name": "M.A.J. Jager-Wöltgens", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Tieneke", 
+            "last_name": "Clevering", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "T. Clevering", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "Wouda", 
+            "gender": "m", 
+            "place": "Sneek", 
+            "full_name": "A. Wouda", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Marjan", 
+            "last_name": "Vroom", 
+            "gender": "v", 
+            "place": "Hurdegaryp", 
+            "full_name": "M.G. Vroom", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Irona", 
+            "last_name": "Groeneveld", 
+            "gender": "v", 
+            "place": "Burgum", 
+            "full_name": "I. Groeneveld", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sjaak", 
+            "last_name": "Kloppenburg", 
+            "gender": "m", 
+            "place": "Joure", 
+            "full_name": "J.W.M. Kloppenburg", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Sybrig", 
+            "last_name": "Kromkamp", 
+            "gender": "v", 
+            "place": "Franeker", 
+            "full_name": "S. Kromkamp", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Age", 
+            "last_name": "Hartsuiker", 
+            "gender": "m", 
+            "place": "Jubbega", 
+            "full_name": "A.B.J. Hartsuiker", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "van der Meulen", 
+            "gender": "m", 
+            "place": "Drachten", 
+            "full_name": "K. van der Meulen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Els", 
+            "last_name": "van Loon", 
+            "gender": "v", 
+            "place": "Beetsterzwaag", 
+            "full_name": "E.J.M. van Loon", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Adriaan", 
+            "last_name": "van der Horst", 
+            "gender": "m", 
+            "place": "Woudsend", 
+            "full_name": "A.P. van der Horst", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Hilmar", 
+            "last_name": "Schurink", 
+            "gender": "m", 
+            "place": "Lies", 
+            "full_name": "H.F. Schurink", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jasper", 
+            "last_name": "Jongman", 
+            "gender": "m", 
+            "place": "Feanwâlden", 
+            "full_name": "J.C. Jongman", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Tonnie", 
+            "last_name": "Overdiep", 
+            "gender": "m", 
+            "place": "Nes", 
+            "full_name": "A.B.A. Overdiep", 
+            "position": 14
+        }
+    ], 
+    "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", 
+    "title": "Lijst 1 Water Natuurlijk"
+}

@@ -1,0 +1,198 @@
+{
+    "candidates": [
+        {
+            "first_name": "William", 
+            "last_name": "de Kleijn", 
+            "gender": "m", 
+            "place": "Herpen", 
+            "full_name": "W.P.J. de Kleijn", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "van Miltenburg", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "J.A.M. van Miltenburg", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Carolien", 
+            "last_name": "Angevaren", 
+            "gender": "v", 
+            "place": "Cuijk", 
+            "full_name": "C.M. Angevaren", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Madeleine", 
+            "last_name": "Hoek", 
+            "gender": "v", 
+            "place": "Schaijk", 
+            "full_name": "M.M.A. Hoek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "van Acquoij", 
+            "gender": "m", 
+            "place": "Sint Anthonis", 
+            "full_name": "J.A.M.M. van Acquoij", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "van der Dussen", 
+            "gender": "m", 
+            "place": "Heesch", 
+            "full_name": "J.W. van der Dussen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "Bruins", 
+            "gender": "m", 
+            "place": "Vlijmen", 
+            "full_name": "M.L. Bruins", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "de Bruijn-Trentelman", 
+            "gender": "v", 
+            "place": "Vortum-Mullem", 
+            "full_name": "A.M. de Bruijn-Trentelman", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ytje", 
+            "last_name": "van de Hulsbeek-Visser", 
+            "gender": "v", 
+            "place": "Berlicum", 
+            "full_name": "Y. van de Hulsbeek-Visser", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Rick", 
+            "last_name": "Faas", 
+            "gender": "m", 
+            "place": "Gemert", 
+            "full_name": "H. Faas", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Tim", 
+            "last_name": "Rooijakkers", 
+            "gender": "m", 
+            "place": "Deurne", 
+            "full_name": "T.H.M.G. Rooijakkers", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Wezenberg", 
+            "gender": "m", 
+            "place": "Boekel", 
+            "full_name": "A.J.M. Wezenberg", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Bazuin", 
+            "gender": "m", 
+            "place": "Asten", 
+            "full_name": "J. Bazuin", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Boy", 
+            "last_name": "Unger", 
+            "gender": "m", 
+            "place": "Aarle-Rixtel", 
+            "full_name": "J.C. Unger", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hens", 
+            "gender": "m", 
+            "place": "Uden", 
+            "full_name": "J.W.B. Hens", 
+            "position": 15
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Heckathorn", 
+            "gender": "m", 
+            "place": "Landhorst", 
+            "full_name": "J.H. Heckathorn", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Gertie", 
+            "last_name": "van Els-Litjens", 
+            "gender": "v", 
+            "place": "Handel", 
+            "full_name": "G.A.M. van Els-Litjens", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Claassen", 
+            "gender": "m", 
+            "place": "Lierop", 
+            "full_name": "G.J.S. Claassen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Vasco", 
+            "last_name": "van den Eertwegh", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "V.B. van den Eertwegh", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Ellen", 
+            "last_name": "Versteijnen", 
+            "gender": "v", 
+            "place": "Veghel", 
+            "full_name": "E.C.M. Versteijnen", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "van de Mosselaar", 
+            "gender": "m", 
+            "place": "Mierlo", 
+            "full_name": "G.G.J.M. van de Mosselaar", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "van Egmond", 
+            "gender": "m", 
+            "place": "Asten", 
+            "full_name": "A.W. van Egmond", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Peterse", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "H.T.M. Peterse", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Ellen", 
+            "last_name": "Niessen", 
+            "gender": "v", 
+            "place": "Helmond", 
+            "full_name": "E. Niessen", 
+            "position": 24
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 VVD"
+}

@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Schouwenaars", 
+            "gender": "m", 
+            "place": "Zevenbergen", 
+            "full_name": "H.C.A.M. Schouwenaars", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Wendy", 
+            "last_name": "de Koning-Bogers", 
+            "gender": "v", 
+            "place": "Ossendrecht", 
+            "full_name": "W.W.J.F. de Koning-Bogers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "van den Berge", 
+            "gender": "m", 
+            "place": "Dinteloord", 
+            "full_name": "W.J. van den Berge", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "de Leijer", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "P.A.L.J. de Leijer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Lau", 
+            "last_name": "Lavooij", 
+            "gender": "m", 
+            "place": "Gilze", 
+            "full_name": "L.C. Lavooij", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Haarhuis", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "H.J.M. Haarhuis", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Braat", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "C.J.A. Braat", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Margo", 
+            "last_name": "Geisler-van Loon", 
+            "gender": "v", 
+            "place": "Bavel", 
+            "full_name": "M.W.P. Geisler-van Loon", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Hessels", 
+            "gender": "m", 
+            "place": "Oosterhout", 
+            "full_name": "A.C.G. Hessels", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van Brummen", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "J. van Brummen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "Bouman", 
+            "gender": "m", 
+            "place": "Hoogerheide", 
+            "full_name": "B.W. Bouman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Arthur", 
+            "last_name": "van Iersel", 
+            "gender": "m", 
+            "place": "Roosendaal", 
+            "full_name": "A.A.J. van Iersel", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "Verbeem", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "J.A.S.H. Verbeem", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "van der Wegen", 
+            "gender": "m", 
+            "place": "Halsteren", 
+            "full_name": "A.J. van der Wegen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Flip", 
+            "last_name": "Aertssen", 
+            "gender": "m", 
+            "place": "Bergen op Zoom", 
+            "full_name": "P.A. Aertssen", 
+            "position": 15
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 6 Partij van de Arbeid (P.v.d.A.)"
+}

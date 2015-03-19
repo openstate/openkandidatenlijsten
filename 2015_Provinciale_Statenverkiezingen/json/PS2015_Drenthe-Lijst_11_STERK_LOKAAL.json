@@ -1,0 +1,270 @@
+{
+    "candidates": [
+        {
+            "first_name": "Aimée", 
+            "last_name": "Niebuir-van der Ham", 
+            "gender": "v", 
+            "place": "Klijndijk", 
+            "full_name": "A.E. Niebuir-van der Ham", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Kroeze", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "H.J. Kroeze", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Douwe", 
+            "last_name": "Oosterveen", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "D. Oosterveen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Barkhuis", 
+            "gender": "m", 
+            "place": "Huis ter Heide", 
+            "full_name": "W. Barkhuis", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Boonzaaijer", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "C.M.V. Boonzaaijer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sandro", 
+            "last_name": "Slijepčević", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "S. Slijepčević", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Miranda", 
+            "last_name": "Pathuis", 
+            "gender": "v", 
+            "place": "Nieuw-Buinen", 
+            "full_name": "M.A. Pathuis", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Be", 
+            "last_name": "Okken", 
+            "gender": "m", 
+            "place": "Elim", 
+            "full_name": "B. Okken", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "Brands", 
+            "gender": "m", 
+            "place": "Rolde", 
+            "full_name": "R. Brands", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "Sliekers", 
+            "gender": "m", 
+            "place": "Schoonebeek", 
+            "full_name": "M. Sliekers", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Bolk", 
+            "gender": "m", 
+            "place": "2e Exloërmond", 
+            "full_name": "H. Bolk", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Noes", 
+            "last_name": "Solisa", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "A.V. Solisa", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Arjan", 
+            "last_name": "van Vliet", 
+            "gender": "m", 
+            "place": "Drijber", 
+            "full_name": "L.J. van Vliet", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Karien", 
+            "last_name": "Velzing", 
+            "gender": "v", 
+            "place": "Klazienaveen", 
+            "full_name": "A.K. Velzing", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Prent", 
+            "gender": "m", 
+            "place": "Nijeveen", 
+            "full_name": "J. Prent", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Sleen", 
+            "gender": "m", 
+            "place": "Nieuwlande", 
+            "full_name": "J. van der Sleen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Bertus", 
+            "last_name": "Reinders", 
+            "gender": "m", 
+            "place": "Grolloo", 
+            "full_name": "L. Reinders", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Brink", 
+            "gender": "m", 
+            "place": "Peize", 
+            "full_name": "J. Brink", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Betty", 
+            "last_name": "Vrielink-Linthorst", 
+            "gender": "v", 
+            "place": "Alteveer", 
+            "full_name": "B. Vrielink-Linthorst", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Eddy", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "D.E. de Vries", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Gerrie", 
+            "last_name": "Hempen-Prent", 
+            "gender": "v", 
+            "place": "Echten", 
+            "full_name": "G. Hempen-Prent", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Harm", 
+            "last_name": "Greven", 
+            "gender": "m", 
+            "place": "2e Exloërmond", 
+            "full_name": "H. Greven", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Bos", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "H.A. Bos", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Sander", 
+            "last_name": "Schiphouwer", 
+            "gender": "m", 
+            "place": "Emmer-Compascuum", 
+            "full_name": "S.A.G. Schiphouwer", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Erwin", 
+            "last_name": "Slomp", 
+            "gender": "m", 
+            "place": "Hollandscheveld", 
+            "full_name": "G.W. Slomp", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "Prins", 
+            "gender": "m", 
+            "place": "Fluitenberg", 
+            "full_name": "M.H. Prins", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "Woltman", 
+            "gender": "m", 
+            "place": "Emmer-Compascuum", 
+            "full_name": "R. Woltman", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Gina", 
+            "last_name": "Jansen", 
+            "gender": "v", 
+            "place": "Odoorn", 
+            "full_name": "G. Jansen", 
+            "position": 28
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Dik", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "A.A. Dik", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Dik", 
+            "last_name": "Schuldink", 
+            "gender": "m", 
+            "place": "Hoogeveen", 
+            "full_name": "D.J. Schuldink", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Harmieke", 
+            "last_name": "Paters", 
+            "gender": "v", 
+            "place": "Hoogeveen", 
+            "full_name": "H.G.L Paters", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Lia", 
+            "last_name": "de Ruiter-Dekker", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "A.J. de Ruiter-Dekker", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Evelien", 
+            "last_name": "van Hillo-Wolting", 
+            "gender": "v", 
+            "place": "Dalen", 
+            "full_name": "E. van Hillo-Wolting", 
+            "position": 33
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 STERK LOKAAL"
+}

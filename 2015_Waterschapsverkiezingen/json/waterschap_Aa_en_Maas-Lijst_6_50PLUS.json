@@ -1,0 +1,30 @@
+{
+    "candidates": [
+        {
+            "first_name": "Adriana", 
+            "last_name": "Hernández Martínez", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "A. Hernández Martínez", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Matthijssen", 
+            "gender": "m", 
+            "place": "Neerkant", 
+            "full_name": "P. Matthijssen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "van Orsouw", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "J.H.T. van Orsouw", 
+            "position": 3
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 50PLUS"
+}

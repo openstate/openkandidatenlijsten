@@ -1,0 +1,174 @@
+{
+    "candidates": [
+        {
+            "first_name": "André", 
+            "last_name": "van der Wende", 
+            "gender": "m", 
+            "place": "Berkenwoude", 
+            "full_name": "A. van der Wende", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Prinsen", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "H. Prinsen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Vente", 
+            "gender": "m", 
+            "place": "Moerkapelle", 
+            "full_name": "A.J. Vente", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Weijers", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "J.W. Weijers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jouke", 
+            "last_name": "van Winden", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "J. van Winden", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Alexander", 
+            "last_name": "Bruin", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "A.S.J. Bruin", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Vente", 
+            "gender": "m", 
+            "place": "Berkenwoude", 
+            "full_name": "J. Vente", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Schippers", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "J.A. Schippers", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "den Uil", 
+            "gender": "m", 
+            "place": "Bergschenhoek", 
+            "full_name": "J. den Uil", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Wassink", 
+            "gender": "m", 
+            "place": "Bergambacht", 
+            "full_name": "H.W. Wassink", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Rens", 
+            "last_name": "den Hollander", 
+            "gender": "m", 
+            "place": "Zevenhuizen", 
+            "full_name": "L. den Hollander", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Anker", 
+            "gender": "m", 
+            "place": "Waddinxveen", 
+            "full_name": "G. Anker", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Teun", 
+            "last_name": "Mul", 
+            "gender": "m", 
+            "place": "Schoonhoven", 
+            "full_name": "T.W. Mul", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Bert-Jan", 
+            "last_name": "Ruissen", 
+            "gender": "m", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "H.J.A. Ruissen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Elisabeth", 
+            "last_name": "van Zijl-Vuijk", 
+            "gender": "v", 
+            "place": "Gouderak", 
+            "full_name": "N.E. van Zijl-Vuijk", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Ginkel", 
+            "gender": "m", 
+            "place": "Waddinxveen", 
+            "full_name": "J.C. van Ginkel", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Gertjan", 
+            "last_name": "Freeke", 
+            "gender": "m", 
+            "place": "Moerkapelle", 
+            "full_name": "G.J. Freeke", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Henri", 
+            "last_name": "Pool", 
+            "gender": "m", 
+            "place": "Moerkapelle", 
+            "full_name": "H. Pool", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Moordrecht", 
+            "full_name": "M. van der Linden", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "van der Roest", 
+            "gender": "m", 
+            "place": "Waddinxveen", 
+            "full_name": "B. van der Roest", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "van der Velden", 
+            "gender": "m", 
+            "place": "Krimpen aan den IJssel", 
+            "full_name": "C. van der Velden", 
+            "position": 21
+        }
+    ], 
+    "description": "Gecombineerd met CDA", 
+    "title": "Lijst 5 SGP-ChristenUnie"
+}

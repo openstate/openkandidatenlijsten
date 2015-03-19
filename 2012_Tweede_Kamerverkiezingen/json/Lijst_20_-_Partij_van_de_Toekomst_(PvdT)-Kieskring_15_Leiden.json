@@ -1,0 +1,190 @@
+{
+    "candidates": [
+        {
+            "first_name": "Johan", 
+            "last_name": "Vlemmix", 
+            "gender": "m", 
+            "place": "Huissen", 
+            "full_name": "J.C.W.M. Vlemmix", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Schampers", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "H.A. Schampers", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jolanda", 
+            "last_name": "Verburg", 
+            "gender": "v", 
+            "place": "Beusichem", 
+            "full_name": "J.A.C. Verburg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Henrick", 
+            "last_name": "Fabius", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "C.H. Fabius", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Monique", 
+            "last_name": "Sparla", 
+            "gender": "v", 
+            "place": "De Kwakel", 
+            "full_name": "M.M. Sparla", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Hellenbrand", 
+            "gender": "m", 
+            "place": "Heerlen", 
+            "full_name": "C.J.A. Hellenbrand", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Helen", 
+            "last_name": "Roeten", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.J. Roeten", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Khalid Ahmed", 
+            "last_name": "Chaudry", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "K.A. Chaudry", 
+            "position": 8
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Berg", 
+            "gender": "m", 
+            "place": "Bussum", 
+            "full_name": "D.J. Berg", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "Altena", 
+            "gender": "m", 
+            "place": "Westervoort", 
+            "full_name": "J.H.G. Altena", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Dyana", 
+            "last_name": "Hoedemaker", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "D.M.H. Hoedemaker", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "T. Jansen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Bron", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Bron", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ron", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.R.M.P. Smit", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Evert-Herman", 
+            "last_name": "Veenhuizen", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "E.H.O. Veenhuizen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Ans", 
+            "last_name": "Schmitz-Broeren", 
+            "gender": "v", 
+            "place": "Best", 
+            "full_name": "J.G.M. Schmitz-Broeren", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Wendy", 
+            "last_name": "Smits", 
+            "gender": "v", 
+            "place": "Eindhoven", 
+            "full_name": "W.G.M. Smits", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Carlo", 
+            "last_name": "van Kuijck", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "C.H.M. van Kuijck", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Ermelo", 
+            "full_name": "D. de Groot", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Manon", 
+            "last_name": "Goslinga", 
+            "gender": "v", 
+            "place": "Bourtange", 
+            "full_name": "S.M. Goslinga", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "van Leeuwen", 
+            "gender": "m", 
+            "place": "Broek op Langedijk", 
+            "full_name": "M.J. van Leeuwen", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "Petersen", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "G. Petersen", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Mischa", 
+            "last_name": "Martherus", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B. Martherus", 
+            "position": 23
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_20_-_Partij_van_de_Toekomst_(PvdT)-Kieskring 15 Leiden"
+}

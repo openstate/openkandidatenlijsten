@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rob", 
+            "last_name": "van Muilekom", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "R.G.H. van Muilekom", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pauline", 
+            "last_name": "van Viegen", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "P.J. van Viegen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ali", 
+            "last_name": "Essousi", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "A. Essousi", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "de Kruijf", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "C. de Kruijf", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Julie", 
+            "last_name": "d' Hondt", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "J.P. d' Hondt", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Osman", 
+            "last_name": "Suna", 
+            "gender": "m", 
+            "place": "Soest", 
+            "full_name": "H.O. Suna", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Willy", 
+            "last_name": "Wagenmans", 
+            "gender": "m", 
+            "place": "Houten", 
+            "full_name": "W.W.M. Wagenmans", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Annet", 
+            "last_name": "Krijgsman", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "N.A. Krijgsman", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Bilthoven", 
+            "full_name": "P.V. van der Linden", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "Lejeune", 
+            "gender": "v", 
+            "place": "Montfoort", 
+            "full_name": "H.M. Lejeune", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wils", 
+            "last_name": "van der Steen", 
+            "gender": "m", 
+            "place": "Woudenberg", 
+            "full_name": "W.P.R. van der Steen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Veenstra", 
+            "gender": "m", 
+            "place": "Hoogland", 
+            "full_name": "A. Veenstra", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Mitchel", 
+            "last_name": "Nebbeling", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "M. Nebbeling", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Inez", 
+            "last_name": "Schippers", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "I. Schippers", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ursula", 
+            "last_name": "Blom", 
+            "gender": "v", 
+            "place": "Driebergen-Rijsenburg", 
+            "full_name": "U.P. Blom", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "de la Combé", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "L. de la Combé", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Smulders", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "R.A.P. Smulders", 
+            "position": 17
+        }
+    ], 
+    "description": "Gecombineerd met GROENLINKS", 
+    "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)"
+}

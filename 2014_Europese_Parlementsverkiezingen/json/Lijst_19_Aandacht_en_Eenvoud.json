@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Abraham", 
+            "last_name": "de Kruijf", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "A. de Kruijf", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "van Doormaal", 
+            "gender": "m", 
+            "place": "Elst", 
+            "full_name": "J.W.T. van Doormaal", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Sera", 
+            "last_name": "Spanier", 
+            "gender": "v", 
+            "place": "Zoetermeer", 
+            "full_name": "S.J. Spanier", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Mohammed", 
+            "last_name": "Boudadi", 
+            "gender": "m", 
+            "place": "Zoetermeer", 
+            "full_name": "M. Boudadi", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Sheila", 
+            "last_name": "Hard", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "S.D. Hard", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "van den Bergh", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "N. van den Bergh", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Annelies", 
+            "last_name": "Brons-Stuip", 
+            "gender": "v", 
+            "place": "Lunteren", 
+            "full_name": "A.E. Brons-Stuip", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Schuttevaar", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "P.P. Schuttevaar", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 19 Aandacht en Eenvoud"
+}

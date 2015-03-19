@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Gerwi", 
+            "last_name": "Temmink", 
+            "gender": "m", 
+            "place": "Nieuwerkerk", 
+            "full_name": "G.W.A. Temmink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "van Hage", 
+            "gender": "m", 
+            "place": "Biervliet", 
+            "full_name": "J.W. van Hage", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Dorith", 
+            "last_name": "van Ewijk", 
+            "gender": "v", 
+            "place": "Goes", 
+            "full_name": "D. van Ewijk", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Maaike", 
+            "last_name": "Walraven-Janssen", 
+            "gender": "v", 
+            "place": "Zoutelande", 
+            "full_name": "M.J.A.W. Walraven-Janssen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Els", 
+            "last_name": "Verhage", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "E. Verhage", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Nel", 
+            "last_name": "Bouterse-de Vos", 
+            "gender": "v", 
+            "place": "Goes", 
+            "full_name": "N. Bouterse-de Vos", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Adrie", 
+            "last_name": "van 't Westeinde", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "A.L. van 't Westeinde", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Struijk", 
+            "gender": "m", 
+            "place": "Zierikzee", 
+            "full_name": "H.J. Struijk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Claudine", 
+            "last_name": "Kouijzer", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "C.E.J.E. Kouijzer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Schiettekatte", 
+            "gender": "m", 
+            "place": "Zierikzee", 
+            "full_name": "M.G. Schiettekatte", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Els", 
+            "last_name": "Reims", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "L.E. Reims", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Portier", 
+            "gender": "m", 
+            "place": "Oost-Souburg", 
+            "full_name": "J. Portier", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marjan", 
+            "last_name": "Glas", 
+            "gender": "v", 
+            "place": "Renesse", 
+            "full_name": "J.M. Glas", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Soplantila", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "A. Soplantila", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Janine", 
+            "last_name": "Cooijmans", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "A.P.M. Cooijmans", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Mac", 
+            "last_name": "Wirodihardjo Raden", 
+            "gender": "m", 
+            "place": "Burgh-Haamstede", 
+            "full_name": "A. Wirodihardjo Raden", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Leny", 
+            "last_name": "van den Heuvel", 
+            "gender": "v", 
+            "place": "Middelburg", 
+            "full_name": "G.M.M. van den Heuvel", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Luc", 
+            "last_name": "Vandezande", 
+            "gender": "m", 
+            "place": "Middelburg", 
+            "full_name": "L.J.A.V. Vandezande", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Willy", 
+            "last_name": "de Houck", 
+            "gender": "m", 
+            "place": "Waterlandkerkje", 
+            "full_name": "W.A. de Houck", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Trees", 
+            "last_name": "van der Borgt", 
+            "gender": "v", 
+            "place": "Vlissingen", 
+            "full_name": "T.M. van der Borgt", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Joska", 
+            "last_name": "van Waesberghe", 
+            "gender": "m", 
+            "place": "Axel", 
+            "full_name": "J.L.G.M. van Waesberghe", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ernst", 
+            "last_name": "Jonker", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "E.A. Jonker", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "van Belzen", 
+            "gender": "m", 
+            "place": "Vlissingen", 
+            "full_name": "K. van Belzen", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Erwin", 
+            "last_name": "de Bruijn", 
+            "gender": "m", 
+            "place": "Terneuzen", 
+            "full_name": "E.P.R. de Bruijn", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Wiersma", 
+            "gender": "m", 
+            "place": "'s-Heer Hendrikskinderen", 
+            "full_name": "M. Wiersma", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Leen", 
+            "last_name": "Harpe", 
+            "gender": "m", 
+            "place": "Kloetinge", 
+            "full_name": "L. Harpe", 
+            "position": 26
+        }
+    ], 
+    "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", 
+    "title": "Lijst 10 GROENLINKS"
+}

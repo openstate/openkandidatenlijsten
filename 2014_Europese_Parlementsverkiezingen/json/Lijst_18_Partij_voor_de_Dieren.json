@@ -1,0 +1,222 @@
+{
+    "candidates": [
+        {
+            "first_name": "Anja", 
+            "last_name": "Hazekamp", 
+            "gender": "v", 
+            "place": "Alteveer", 
+            "full_name": "A.A.H. Hazekamp", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Corinne", 
+            "last_name": "Cornelisse", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "A.C. Cornelisse", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Wassenberg", 
+            "gender": "m", 
+            "place": "Geleen", 
+            "full_name": "F.P. Wassenberg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lammert", 
+            "last_name": "van Raan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L. van Raan", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Pablo", 
+            "last_name": "Moleman", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "P. Moleman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "van der Veer", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "L.R. van der Veer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Daniëlle", 
+            "last_name": "de Man", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "D.A. de Man", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "van der Wel", 
+            "gender": "m", 
+            "place": "Rijsbergen", 
+            "full_name": "M.C. van der Wel", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Gerjan", 
+            "last_name": "Kelder", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "G.J. Kelder", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Christine", 
+            "last_name": "Teunissen", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "C. Teunissen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Niko", 
+            "last_name": "Koffeman", 
+            "gender": "m", 
+            "place": "Vierhouten", 
+            "full_name": "N.K. Koffeman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Esther", 
+            "last_name": "Ouwehand", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E. Ouwehand", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Thieme", 
+            "gender": "v", 
+            "place": "Maarssen", 
+            "full_name": "M.L. Thieme", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Jan Peter", 
+            "last_name": "Cruiming", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "J.P. Cruiming", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Eddy", 
+            "last_name": "Terstall", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.H. Terstall", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Nicolaï", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Nicolaï", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Annemarie", 
+            "last_name": "Postma", 
+            "gender": "v", 
+            "place": "Oudehorne", 
+            "full_name": "A. Postma", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ewald", 
+            "last_name": "Engelen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.R. Engelen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Guido", 
+            "last_name": "Weijers", 
+            "gender": "m", 
+            "place": "Breda", 
+            "full_name": "G.P.P. Weijers", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Babette", 
+            "last_name": "van Veen", 
+            "gender": "v", 
+            "place": "Soest", 
+            "full_name": "B. van Veen", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Siebelink", 
+            "gender": "m", 
+            "place": "Ede", 
+            "full_name": "J.G. Siebelink", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Biesheuvel", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "J.M.A. Biesheuvel", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "van der Heijden", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.F.T. van der Heijden", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Mensje", 
+            "last_name": "van der Steen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.F. van der Steen", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Cliteur", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P.B. Cliteur", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Ingrid", 
+            "last_name": "Newkirk", 
+            "gender": "v", 
+            "place": "Norfolk (US)", 
+            "full_name": "I.E. Newkirk", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Redmond", 
+            "last_name": "O'Hanlon", 
+            "gender": "m", 
+            "place": "Witney (UK)", 
+            "full_name": "R.D. O'Hanlon", 
+            "position": 27
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 18 Partij voor de Dieren"
+}

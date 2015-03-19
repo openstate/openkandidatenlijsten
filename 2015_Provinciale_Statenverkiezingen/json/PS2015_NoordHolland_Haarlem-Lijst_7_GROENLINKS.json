@@ -1,0 +1,198 @@
+{
+    "candidates": [
+        {
+            "first_name": "Alwin", 
+            "last_name": "Hietbrink", 
+            "gender": "m", 
+            "place": "Egmond aan Zee", 
+            "full_name": "A. Hietbrink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Vera", 
+            "last_name": "Dalm", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "V.M. Dalm", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Servaz", 
+            "last_name": "van Berkum", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S. van Berkum", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rosan", 
+            "last_name": "Kocken", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "R.P.M. Kocken", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Kramer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.J. Kramer", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Vincent", 
+            "last_name": "Koerse", 
+            "gender": "m", 
+            "place": "Monnickendam", 
+            "full_name": "V. Koerse", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Zita", 
+            "last_name": "Pels", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "Z. Pels", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Sjon", 
+            "last_name": "Wagenaar", 
+            "gender": "m", 
+            "place": "Hoogkarspel", 
+            "full_name": "J.C.N. Wagenaar", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jesper", 
+            "last_name": "Gringhuis", 
+            "gender": "m", 
+            "place": "Diemen", 
+            "full_name": "J. Gringhuis", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Riza", 
+            "last_name": "Diktaş", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "R. Diktaş", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Olsthoorn", 
+            "gender": "m", 
+            "place": "Bloemendaal", 
+            "full_name": "J.C.M. Olsthoorn", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Karin", 
+            "last_name": "Jongsma", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "K.R. Jongsma", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jola", 
+            "last_name": "Huijberts", 
+            "gender": "v", 
+            "place": "Barsingerhorn", 
+            "full_name": "J. Huijberts", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Lilian", 
+            "last_name": "Peters", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E.A. Peters", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Anita", 
+            "last_name": "de Jong", 
+            "gender": "v", 
+            "place": "Haarlem", 
+            "full_name": "A.L.M.G. de Jong", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Larisa", 
+            "last_name": "Landré", 
+            "gender": "v", 
+            "place": "Huizen", 
+            "full_name": "L.C. Landré", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Strooker", 
+            "gender": "m", 
+            "place": "IJmuiden", 
+            "full_name": "N. Strooker", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Dik", 
+            "last_name": "Bol", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "D.A. Bol", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Pas", 
+            "gender": "m", 
+            "place": "Huizen", 
+            "full_name": "G.E.H. Pas", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "van den Brand", 
+            "gender": "m", 
+            "place": "Spierdijk", 
+            "full_name": "A. van den Brand", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "van Poelgeest", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. van Poelgeest", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Leoni", 
+            "last_name": "Sipkes", 
+            "gender": "v", 
+            "place": "Ursem", 
+            "full_name": "L. Sipkes", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "van Tongeren", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L. van Tongeren", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Lene", 
+            "last_name": "Grooten", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L. Grooten", 
+            "position": 24
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_7 GROENLINKS"
+}

@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Charif", 
+            "last_name": "Mews", 
+            "gender": "m", 
+            "place": "Zaanstad", 
+            "full_name": "C. Mews", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jenneke", 
+            "last_name": "Koorn", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. Koorn", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Matthijs", 
+            "last_name": "Pontier", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.A. Pontier", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Joran", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Uithoorn", 
+            "full_name": "J.T. de Jong", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Marije", 
+            "last_name": "Swank", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.H. Swank", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Natasha", 
+            "last_name": "Anikin", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N.C. Anikin", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Isabelle", 
+            "last_name": "Vardar", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.F.C. Vardar", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "West", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "H.R.J. West", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mira", 
+            "last_name": "de Vries - van Handel", 
+            "gender": "v", 
+            "place": "Amstelveen", 
+            "full_name": "M.I. de Vries - van Handel", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Betty", 
+            "last_name": "van der Lugt", 
+            "gender": "v", 
+            "place": "Uithoorn", 
+            "full_name": "R.J.M. van der Lugt", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Schönberger", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.A. Schönberger", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Loulou", 
+            "last_name": "van Ravensteijn", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.S. van Ravensteijn", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jelle", 
+            "last_name": "de Graaf", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. de Graaf", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_15 Piratenpartij"
+}

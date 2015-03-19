@@ -1,0 +1,46 @@
+{
+    "candidates": [
+        {
+            "first_name": "Arnold", 
+            "last_name": "Reinten", 
+            "gender": "m", 
+            "place": "Moskou (RU)", 
+            "full_name": "A.G. Reinten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Rijnders", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "J.T.G. Rijnders", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Soekhoe", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "B. Soekhoe", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Claudia-Johanna", 
+            "last_name": "Pieron", 
+            "gender": "v", 
+            "place": "Purmerend", 
+            "full_name": "C. Pieron", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Molina", 
+            "gender": "m", 
+            "place": "Kralendijk", 
+            "full_name": "S.M. Molina", 
+            "position": 5
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_18_-_Anti_Europa_Partij-Kieskring 20 Bonaire"
+}

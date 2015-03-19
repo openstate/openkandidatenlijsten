@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ekrem", 
+            "last_name": "Karadeniz", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E. Karadeniz", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Firdevs", 
+            "last_name": "Korkmaz-Yazici", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "F. Korkmaz-Yazici", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Mustafa", 
+            "last_name": "Türkmen", 
+            "gender": "m", 
+            "place": "Lijnden", 
+            "full_name": "M. Türkmen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Fatma", 
+            "last_name": "Dokcan", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. Dokcan", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ahmet", 
+            "last_name": "Karacabay", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A. Karacabay", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sura Nur", 
+            "last_name": "Öcal", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "S.N. Öcal", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Salih", 
+            "last_name": "Arslan", 
+            "gender": "m", 
+            "place": "Beverwijk", 
+            "full_name": "S. Arslan", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Yeter", 
+            "last_name": "Şahbaz", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "Y. Şahbaz", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ali", 
+            "last_name": "Dağ", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A Dağ", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Aysegul", 
+            "last_name": "Kiliç", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. Kiliç", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Nurcan", 
+            "last_name": "Aytaç", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N Aytaç", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_13 Multicultureel Plus Partij (M+)"
+}

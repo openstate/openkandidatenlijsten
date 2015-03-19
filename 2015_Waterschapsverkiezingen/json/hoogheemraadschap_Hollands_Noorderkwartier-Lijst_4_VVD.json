@@ -1,0 +1,134 @@
+{
+    "candidates": [
+        {
+            "first_name": "Siem", 
+            "last_name": "van Balen Blanken", 
+            "gender": "m", 
+            "place": "Anna Paulowna", 
+            "full_name": "S.A. van Balen Blanken", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Streefkerk", 
+            "gender": "m", 
+            "place": "Heiloo", 
+            "full_name": "C. Streefkerk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Dorèthy", 
+            "last_name": "van den Heuvel-van Raaij", 
+            "gender": "v", 
+            "place": "Hobrede", 
+            "full_name": "T.M.C. van den Heuvel-van Raaij", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Marees", 
+            "gender": "m", 
+            "place": "Oudesluis", 
+            "full_name": "P.J. Marees", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Stins", 
+            "gender": "m", 
+            "place": "Benningbroek", 
+            "full_name": "C.G. Stins", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Rood", 
+            "gender": "m", 
+            "place": "Limmen", 
+            "full_name": "C.P.M. Rood", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wout", 
+            "last_name": "Zeekant", 
+            "gender": "m", 
+            "place": "Zuidoostbeemster", 
+            "full_name": "W. Zeekant", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Voorhamm", 
+            "gender": "m", 
+            "place": "Alkmaar", 
+            "full_name": "T. Voorhamm", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "Stroomer", 
+            "gender": "m", 
+            "place": "Oterleek", 
+            "full_name": "J.J. Stroomer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Weda", 
+            "gender": "m", 
+            "place": "Castricum", 
+            "full_name": "F.J.S. Weda", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "van Raalte", 
+            "gender": "m", 
+            "place": "Purmerend", 
+            "full_name": "W.B. van Raalte", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Tjeerd", 
+            "last_name": "Hoekstra", 
+            "gender": "m", 
+            "place": "Monnickendam", 
+            "full_name": "T. Hoekstra", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Medemblik", 
+            "full_name": "J. de Vries", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Ram", 
+            "gender": "m", 
+            "place": "Assendelft", 
+            "full_name": "G.J. Ram", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Köhne", 
+            "gender": "m", 
+            "place": "Zuidoostbeemster", 
+            "full_name": "J.H. Köhne", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Siem", 
+            "last_name": "Groot", 
+            "gender": "m", 
+            "place": "Oudkarspel", 
+            "full_name": "S. Groot", 
+            "position": 16
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 VVD"
+}

@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ferry", 
+            "last_name": "Booij", 
+            "gender": "m", 
+            "place": "Mussel", 
+            "full_name": "F.F. Booij", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Geertje", 
+            "last_name": "Karstens", 
+            "gender": "v", 
+            "place": "Niekerk", 
+            "full_name": "G. Karstens", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Tolbert", 
+            "full_name": "A.W.G.J. de Vries", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Uithuizen", 
+            "full_name": "C.J. Bakker", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Siebrand", 
+            "last_name": "Broekema", 
+            "gender": "m", 
+            "place": "Kantens", 
+            "full_name": "S.W.H.T. Broekema", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ruud", 
+            "last_name": "Barsema", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "R.J. Barsema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Kor", 
+            "last_name": "de Vries", 
+            "gender": "m", 
+            "place": "Hoogezand", 
+            "full_name": "K.H. de Vries", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "Karmelk-Brom", 
+            "gender": "v", 
+            "place": "Stadskanaal", 
+            "full_name": "G.T. Karmelk-Brom", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "Colnot", 
+            "gender": "m", 
+            "place": "Blijham", 
+            "full_name": "F.E. Colnot", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 50PLUS"
+}

@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tjisse", 
+            "last_name": "Stelpstra", 
+            "gender": "m", 
+            "place": "Beilen", 
+            "full_name": "T. Stelpstra", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bernadette", 
+            "last_name": "van den Berg-Slagter", 
+            "gender": "v", 
+            "place": "Assen", 
+            "full_name": "B. van den Berg-Slagter", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Langius", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "A.L. Langius", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Harm Henk", 
+            "last_name": "Veldsema", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "H.H. Veldsema", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "van Heusden", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "W. van Heusden", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "Pruisscher", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "R.R. Pruisscher", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jan Arie", 
+            "last_name": "van Berkum", 
+            "gender": "m", 
+            "place": "Wachtum", 
+            "full_name": "J.A. van Berkum", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Andries", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Westerbork", 
+            "full_name": "A. van den Berg", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Margriet", 
+            "last_name": "Stijkel-Kuijpers", 
+            "gender": "v", 
+            "place": "2e Exloërmond", 
+            "full_name": "M. Stijkel-Kuijpers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Betty", 
+            "last_name": "Poutsma-Jansen", 
+            "gender": "v", 
+            "place": "Hoogeveen", 
+            "full_name": "A. Poutsma-Jansen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Roelof", 
+            "last_name": "Veerman", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "R. Veerman", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "Kroes", 
+            "gender": "m", 
+            "place": "Nieuw-Roden", 
+            "full_name": "A. Kroes", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Catrien", 
+            "last_name": "Venema-van der Heide", 
+            "gender": "v", 
+            "place": "Beilen", 
+            "full_name": "C.J. Venema-van der Heide", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Gringhuis", 
+            "gender": "m", 
+            "place": "Zuidlaren", 
+            "full_name": "L. Gringhuis", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Gerlo", 
+            "last_name": "Bekendam", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "G.R. Bekendam", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Haveman", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "J. Haveman", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Sjaak", 
+            "last_name": "van Essen", 
+            "gender": "m", 
+            "place": "Eleveld", 
+            "full_name": "J. van Essen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Karel", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Roden", 
+            "full_name": "K.A. Groen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Heideveld", 
+            "gender": "m", 
+            "place": "Beilen", 
+            "full_name": "H. Heideveld", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jakob", 
+            "last_name": "Wiechers", 
+            "gender": "m", 
+            "place": "Zuidwolde", 
+            "full_name": "J.H. Wiechers", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Henny", 
+            "last_name": "van den Born", 
+            "gender": "m", 
+            "place": "Paterswolde", 
+            "full_name": "H. van den Born", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "de Graaf", 
+            "gender": "m", 
+            "place": "Zuidlaren", 
+            "full_name": "J.E. de Graaf", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Stam", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "G. Stam", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Medema", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "H. Medema", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Huttinga", 
+            "gender": "m", 
+            "place": "Emmen", 
+            "full_name": "H. Huttinga", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 ChristenUnie"
+}

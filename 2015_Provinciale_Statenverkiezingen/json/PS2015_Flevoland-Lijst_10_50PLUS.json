@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wout", 
+            "last_name": "Jansen", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "W. Jansen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Josephine", 
+            "last_name": "Bolle", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "J.A.M. Bolle", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gerben", 
+            "last_name": "Laagland", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "G. Laagland", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lydia", 
+            "last_name": "van Geloven", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "A.J. van Geloven", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Boshuijzen", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "E.G. Boshuijzen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jörg", 
+            "last_name": "Jablonski", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J. Jablonski", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "van der Struijk-Oost", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "G. van der Struijk-Oost", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "van Gils", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "M.H.C. van Gils", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Anja", 
+            "last_name": "Pronk", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "A.C. Pronk", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Carolina", 
+            "last_name": "Oltmans", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "C.H. Oltmans", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "de Roder", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "T. de Roder", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Herrebrugh", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "W. Herrebrugh", 
+            "position": 12
+        }
+    ], 
+    "description": "Gecombineerd met Partij voor de Dieren", 
+    "title": "Lijst 10 50PLUS"
+}

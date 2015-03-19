@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Albert", 
+            "last_name": "Zwarteveen", 
+            "gender": "m", 
+            "place": "Maurik", 
+            "full_name": "A.W. Zwarteveen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lester", 
+            "last_name": "van der Pluijm", 
+            "gender": "m", 
+            "place": "Wadenoijen", 
+            "full_name": "L.C. van der Pluijm", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Clazien", 
+            "last_name": "Bongaarts", 
+            "gender": "v", 
+            "place": "Ingen", 
+            "full_name": "C.F. Bongaarts", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Willemsen", 
+            "gender": "m", 
+            "place": "Maurik", 
+            "full_name": "A. Willemsen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Laurens", 
+            "last_name": "Kok", 
+            "gender": "m", 
+            "place": "Groesbeek", 
+            "full_name": "L.C. Kok", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Wout", 
+            "last_name": "Snijders", 
+            "gender": "m", 
+            "place": "Papendrecht", 
+            "full_name": "W.J.M. Snijders", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "Bosscher", 
+            "gender": "m", 
+            "place": "Bad Bentheim (DE)", 
+            "full_name": "A. Bosscher", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Eck en Wiel", 
+            "full_name": "J. de Jonge", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 Partij voor de Dieren"
+}

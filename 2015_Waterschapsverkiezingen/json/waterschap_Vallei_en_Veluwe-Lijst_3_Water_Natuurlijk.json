@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Frans", 
+            "last_name": "ter Maten", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "F. ter Maten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Astrid", 
+            "last_name": "Meier", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "A.T.F. Meier", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Dirk", 
+            "last_name": "Wever", 
+            "gender": "m", 
+            "place": "Nijkerk", 
+            "full_name": "D. Wever", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Goedhart", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "W. Goedhart", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Wezel", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "H.A.T.M. van Wezel", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Kwakernaak", 
+            "gender": "m", 
+            "place": "Heveadorp", 
+            "full_name": "C. Kwakernaak", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Elly", 
+            "last_name": "van Geest", 
+            "gender": "v", 
+            "place": "Putten", 
+            "full_name": "E. van Geest", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Yvonne", 
+            "last_name": "de Graaf", 
+            "gender": "v", 
+            "place": "Apeldoorn", 
+            "full_name": "Y.H.P. de Graaf", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Pijper", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "H. Pijper", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jules", 
+            "last_name": "van der Weerd", 
+            "gender": "m", 
+            "place": "Hattemerbroek", 
+            "full_name": "J.J. van der Weerd", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Greet", 
+            "last_name": "Eijkelenboom", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "M.J. Eijkelenboom", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Monique", 
+            "last_name": "van Gerwen", 
+            "gender": "v", 
+            "place": "Oosterbeek", 
+            "full_name": "M.H.F.M. van Gerwen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Smits", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "P.H. Smits", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Elsa", 
+            "last_name": "Loosjes", 
+            "gender": "v", 
+            "place": "Bennekom", 
+            "full_name": "E.J. Loosjes", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Knoet", 
+            "gender": "m", 
+            "place": "Harderwijk", 
+            "full_name": "A.C.A. Knoet", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marie-José", 
+            "last_name": "Verheugen", 
+            "gender": "v", 
+            "place": "Leusden", 
+            "full_name": "M.J.J.H. Verheugen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Irma", 
+            "last_name": "Beusink", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "I.J.B.M. Beusink", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Ruijter", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "J.C. Ruijter", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Hester", 
+            "last_name": "Smeenk", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "H. Smeenk", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Schmitz", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "M. Schmitz", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Reinder", 
+            "last_name": "Torenbeek", 
+            "gender": "m", 
+            "place": "Hoenderloo", 
+            "full_name": "R. Torenbeek", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Rienk", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Wageningen", 
+            "full_name": "R. Kuiper", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Egbert Jaap", 
+            "last_name": "Mooiweer", 
+            "gender": "m", 
+            "place": "Doorwerth", 
+            "full_name": "E.J. Mooiweer", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Oort", 
+            "gender": "m", 
+            "place": "Oosterbeek", 
+            "full_name": "J.D. van Oort", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Verstrael", 
+            "gender": "m", 
+            "place": "Bennekom", 
+            "full_name": "T.J. Verstrael", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Marjan", 
+            "last_name": "Brouwer", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "M.S. Brouwer", 
+            "position": 26
+        }
+    ], 
+    "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", 
+    "title": "Lijst 3 Water Natuurlijk"
+}

@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Bezemer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Bezemer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pieter", 
+            "last_name": "Heijkamp", 
+            "gender": "m", 
+            "place": "Enkhuizen", 
+            "full_name": "P.G. Heijkamp", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Maas", 
+            "gender": "m", 
+            "place": "Hoorn", 
+            "full_name": "C.L. Maas", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Koog aan de Zaan", 
+            "full_name": "W. Visser", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Raymund", 
+            "last_name": "Tromp", 
+            "gender": "m", 
+            "place": "Schagen", 
+            "full_name": "R.W.I.M. Tromp", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Harmen", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Zaandam", 
+            "full_name": "H. Meijer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Johan Paul", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Kreileroord", 
+            "full_name": "J.P. de Groot", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Bras", 
+            "gender": "m", 
+            "place": "Den Helder", 
+            "full_name": "P.F. Bras", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Zaane", 
+            "gender": "m", 
+            "place": "Koog aan de Zaan", 
+            "full_name": "J.H. van Zaane", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 11 ChristenUnie-SGP"
+}

@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Thijs", 
+            "last_name": "Berman", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "M. Berman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Emine", 
+            "last_name": "Bozkurt", 
+            "gender": "v", 
+            "place": "Zaandam", 
+            "full_name": "E. Bozkurt", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Cremers", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.M.B. Cremers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "Merkies", 
+            "gender": "v", 
+            "place": "Brussel (BE)", 
+            "full_name": "J.A. Merkies", 
+            "position": 4
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Cuperus", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "R.H. Cuperus", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marijke", 
+            "last_name": "Clerx", 
+            "gender": "v", 
+            "place": "Urmond", 
+            "full_name": "M.J.P.A. Clerx", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Louis", 
+            "last_name": "Meuleman", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "A.A.M. Meuleman", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Elsbeth", 
+            "last_name": "van Hijlckama Vlieg", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "E.E. van Hijlckama Vlieg", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Lo", 
+            "last_name": "Breemer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L.K. Breemer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jannewietske", 
+            "last_name": "de Vries", 
+            "gender": "v", 
+            "place": "Raerd", 
+            "full_name": "J.A. de Vries", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Bosch", 
+            "gender": "m", 
+            "place": "Kerkrade", 
+            "full_name": "J.G.G. Bosch", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Marijke", 
+            "last_name": "Drees", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "J.M. Drees", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Siecker", 
+            "gender": "m", 
+            "place": "Schermerhorn", 
+            "full_name": "M.C.J. Siecker", 
+            "position": 13
+        }
+    ], 
+    "description": "Gecombineerd met GROENLINKS", 
+    "title": "Lijst 2 P.v.d.A./Europese Sociaaldemocraten"
+}

@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ad", 
+            "last_name": "Nijhuis", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "G.B. Nijhuis", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lizza", 
+            "last_name": "van der Klei-Westerhof", 
+            "gender": "v", 
+            "place": "Kampen", 
+            "full_name": "L.F. van der Klei-Westerhof", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Gerkes", 
+            "gender": "m", 
+            "place": "Olst", 
+            "full_name": "J. Gerkes", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "van Ittersum", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "B. van Ittersum", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ralph", 
+            "last_name": "Kronieger", 
+            "gender": "m", 
+            "place": "Olst", 
+            "full_name": "R.W. Kronieger", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Harco", 
+            "last_name": "Jellema", 
+            "gender": "m", 
+            "place": "Diepenveen", 
+            "full_name": "H.W.F. Jellema", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Willy", 
+            "last_name": "Westenenk", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "W.A.J. Westenenk", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Pascal", 
+            "last_name": "Spijker", 
+            "gender": "m", 
+            "place": "Heeten", 
+            "full_name": "P.G.J.M. Spijker", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Walter", 
+            "last_name": "Liebregts", 
+            "gender": "m", 
+            "place": "Wijhe", 
+            "full_name": "W.J.T.M. Liebregts", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Lony", 
+            "last_name": "Conradi-Moraal", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "A.A.M. Conradi-Moraal", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Pont", 
+            "gender": "m", 
+            "place": "Raalte", 
+            "full_name": "P.J.T. Pont", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Aly", 
+            "last_name": "van der Vegte-Poot", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "A. van der Vegte-Poot", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Carmen", 
+            "last_name": "Hunger", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "C.N. Hunger", 
+            "position": 13
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "de Heer", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "R.E. de Heer", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 VVD"
+}

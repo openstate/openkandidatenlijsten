@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Douwe", 
+            "last_name": "Hollenga", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "D.A. Hollenga", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Joke", 
+            "last_name": "Wouda-Majoor", 
+            "gender": "v", 
+            "place": "Middelstum", 
+            "full_name": "J.R.C. Wouda-Majoor", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jacob", 
+            "last_name": "Ketelaar", 
+            "gender": "m", 
+            "place": "Een", 
+            "full_name": "J.R. Ketelaar", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "R.J.E. Meijer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hinke", 
+            "last_name": "de Groot", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "H. de Groot", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Harm", 
+            "last_name": "Schipper", 
+            "gender": "m", 
+            "place": "Bedum", 
+            "full_name": "H.J. Schipper", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Campenhout", 
+            "gender": "m", 
+            "place": "Appingedam", 
+            "full_name": "P.J.A. van Campenhout", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Alie", 
+            "last_name": "Spijk-van de Pol", 
+            "gender": "v", 
+            "place": "Roodeschool", 
+            "full_name": "A. Spijk-van de Pol", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ard", 
+            "last_name": "Warnink", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "E.D. Warnink", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Gerben", 
+            "last_name": "ter Veen", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "G.W. ter Veen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Anneke", 
+            "last_name": "Klooster", 
+            "gender": "v", 
+            "place": "Groningen", 
+            "full_name": "J.A. Klooster", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Marja", 
+            "last_name": "Leffers-Koning", 
+            "gender": "v", 
+            "place": "Leens", 
+            "full_name": "M.K. Leffers-Koning", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Tjitte", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Norg", 
+            "full_name": "T. de Jong", 
+            "position": 13
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Lijst 3 CDA"
+}

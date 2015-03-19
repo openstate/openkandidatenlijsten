@@ -1,0 +1,214 @@
+{
+    "candidates": [
+        {
+            "first_name": "Martine", 
+            "last_name": "Leewis", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "M.E.F. Leewis", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Waldo", 
+            "last_name": "von Faber", 
+            "gender": "m", 
+            "place": "Oegstgeest", 
+            "full_name": "G.H. von Faber", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ed", 
+            "last_name": "de Meijer", 
+            "gender": "m", 
+            "place": "Voorschoten", 
+            "full_name": "E.C. de Meijer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Sita", 
+            "last_name": "Dewkalie", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "S.U. Dewkalie", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Kikkert", 
+            "gender": "m", 
+            "place": "Aalsmeer", 
+            "full_name": "W. Kikkert", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Enrico", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "H. van Dijk", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Hermsen", 
+            "gender": "m", 
+            "place": "Zandvoort", 
+            "full_name": "M.C. Hermsen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Ad", 
+            "last_name": "Faasse", 
+            "gender": "m", 
+            "place": "Alphen aan den Rijn", 
+            "full_name": "A.M. Faasse", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mieke", 
+            "last_name": "Weterings", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "M.A.J. Weterings", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Olsthoorn", 
+            "gender": "m", 
+            "place": "Bloemendaal", 
+            "full_name": "J.C.M. Olsthoorn", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Wouter", 
+            "last_name": "Enderink", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "W. Enderink", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Han", 
+            "last_name": "Hendrickx", 
+            "gender": "m", 
+            "place": "Alphen aan den Rijn", 
+            "full_name": "J.J.E.M. Hendrickx", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Marion", 
+            "last_name": "van Leeuwen", 
+            "gender": "v", 
+            "place": "Gouda", 
+            "full_name": "M.J.W. van Leeuwen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "K.P. Groen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Pim", 
+            "last_name": "van Riet", 
+            "gender": "m", 
+            "place": "Aalsmeer", 
+            "full_name": "P. van Riet", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Corné", 
+            "last_name": "Nijburg", 
+            "gender": "m", 
+            "place": "Hoofddorp", 
+            "full_name": "C. Nijburg", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "Pleij", 
+            "gender": "m", 
+            "place": "Alphen aan den Rijn", 
+            "full_name": "R.J.M. Pleij", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ckees", 
+            "last_name": "van Oijen", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "C.H.J. van Oijen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "van Warmerdam", 
+            "gender": "m", 
+            "place": "Spaarndam gem. Haarlem", 
+            "full_name": "W.N.M. van Warmerdam", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Otto", 
+            "last_name": "Cox", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "D.O. Cox", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Edith", 
+            "last_name": "van Middelkoop", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "E.E. van Middelkoop", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Vingerling", 
+            "gender": "m", 
+            "place": "Katwijk", 
+            "full_name": "J.J. Vingerling", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Rik", 
+            "last_name": "Rolleman", 
+            "gender": "m", 
+            "place": "Aalsmeer", 
+            "full_name": "H.G. Rolleman", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Wanda", 
+            "last_name": "Zevenboom", 
+            "gender": "v", 
+            "place": "Leiden", 
+            "full_name": "W. Zevenboom", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "de Ruiter", 
+            "gender": "m", 
+            "place": "Nieuw-Vennep", 
+            "full_name": "P.C. de Ruiter", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Schouffoer", 
+            "gender": "m", 
+            "place": "Leiden", 
+            "full_name": "J.G.M. Schouffoer", 
+            "position": 26
+        }
+    ], 
+    "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", 
+    "title": "Lijst 3 Water Natuurlijk"
+}

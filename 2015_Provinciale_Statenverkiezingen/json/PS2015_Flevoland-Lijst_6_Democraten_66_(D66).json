@@ -1,0 +1,254 @@
+{
+    "candidates": [
+        {
+            "first_name": "Michiel", 
+            "last_name": "Rijsberman", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "M.A. Rijsberman", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Shasta", 
+            "last_name": "Rotscheid", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "S. Rotscheid", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Vermeulen", 
+            "gender": "m", 
+            "place": "Emmeloord", 
+            "full_name": "P.M.S. Vermeulen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Margriet", 
+            "last_name": "Papma-Renema", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "M.E.G. Papma-Renema", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Tiko", 
+            "last_name": "Smetsers", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "T.A. Smetsers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Kok", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "S.J. Kok", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Michael", 
+            "last_name": "van der Ploeg", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "M. van der Ploeg", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Josefien", 
+            "last_name": "Rooks", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "J.B. Rooks", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ron", 
+            "last_name": "Zwart", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "R.H. Zwart", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Niels", 
+            "last_name": "Falch", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "C.N. Falch", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "A.H. Visser", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ernest", 
+            "last_name": "van der Linden", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.E.M. van der Linden", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Roos", 
+            "last_name": "Winter- Rijkelijkhuizen", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "R.M. Winter- Rijkelijkhuizen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Hester", 
+            "last_name": "Kuper-van der Vecht", 
+            "gender": "v", 
+            "place": "Ens", 
+            "full_name": "H. Kuper-van der Vecht", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Fred", 
+            "last_name": "Pot", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "A. Pot", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Eelman", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "J. Eelman", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Olga", 
+            "last_name": "Nijmeijer-Beijer", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "O.M. Nijmeijer-Beijer", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van Dongen", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "G. van Dongen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Kortleve", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "C.E. Kortleve", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Johanna", 
+            "last_name": "Holtmaat-Drijftholt", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "J. Holtmaat-Drijftholt", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "Brogge", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "R.W. Brogge", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Schot", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "P.A. Schot", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Gemana", 
+            "last_name": "Kruisland", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "G. Kruisland", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Luc", 
+            "last_name": "van der Wal", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "L.D. van der Wal", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "de Muynck", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "J. de Muynck", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Rachel", 
+            "last_name": "de Haan", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "J.P.R. de Haan", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Fons", 
+            "last_name": "van der Ham", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "A.S. van der Ham", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Patrick", 
+            "last_name": "van de Heisteeg", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "P.W. van de Heisteeg", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Lesscher", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "T.A.J. Lesscher", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Martine", 
+            "last_name": "van Bemmel", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "M.E. van Bemmel", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Rene", 
+            "last_name": "Peeters", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "R.H.M. Peeters", 
+            "position": 31
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Democraten 66 (D66)"
+}

@@ -1,0 +1,118 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jan", 
+            "last_name": "Nagel", 
+            "gender": "m", 
+            "place": "Hilversum", 
+            "full_name": "J.G. Nagel", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Martine", 
+            "last_name": "Baay-Timmerman", 
+            "gender": "v", 
+            "place": "Marbella (ES)", 
+            "full_name": "M.H.H. Baay-Timmerman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Michel", 
+            "last_name": "van Hulten", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "M.H.M. van Hulten", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Krol", 
+            "gender": "m", 
+            "place": "Eindhoven", 
+            "full_name": "H.C.M. Krol", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Steendam Visser", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C. Steendam Visser", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Slothouber", 
+            "gender": "m", 
+            "place": "Groningen", 
+            "full_name": "C. Slothouber", 
+            "position": 6
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Peters", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "J.W.H. Peters", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mieke", 
+            "last_name": "Hoek", 
+            "gender": "v", 
+            "place": "Vreeland", 
+            "full_name": "W.M.M. Hoek", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Meerts", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "W.L. Meerts", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dieuwke", 
+            "last_name": "van der Haak-Levers", 
+            "gender": "v", 
+            "place": "Nieuwleusen", 
+            "full_name": "D.H. van der Haak-Levers", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "Ho Ten Soeng", 
+            "gender": "m", 
+            "place": "Venhuizen", 
+            "full_name": "K.L.R. Ho Ten Soeng", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Holthuizen", 
+            "gender": "m", 
+            "place": "Heemstede", 
+            "full_name": "W.J.M. Holthuizen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Otto", 
+            "last_name": "Vellinga", 
+            "gender": "m", 
+            "place": "Bolsward", 
+            "full_name": "O.H. Vellinga", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Alexander", 
+            "last_name": "Münninghoff", 
+            "gender": "m", 
+            "place": "’s-Gravenhage", 
+            "full_name": "A.H.J.F.S. Münninghoff", 
+            "position": 14
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 13 50PLUS"
+}

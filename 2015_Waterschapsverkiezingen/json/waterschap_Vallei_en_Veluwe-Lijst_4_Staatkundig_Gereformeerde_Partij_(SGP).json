@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "van der Wind", 
+            "gender": "", 
+            "place": "Maarsbergen", 
+            "full_name": "H.J. van der Wind", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "van Vreeswijk", 
+            "gender": "", 
+            "place": "Scherpenzeel", 
+            "full_name": "B.J. van Vreeswijk", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Lambert", 
+            "last_name": "Polinder", 
+            "gender": "", 
+            "place": "Doornspijk", 
+            "full_name": "L. Polinder", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Arnold", 
+            "last_name": "Versteeg", 
+            "gender": "", 
+            "place": "Wekerom", 
+            "full_name": "A. Versteeg", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "van de Pol", 
+            "gender": "", 
+            "place": "Apeldoorn", 
+            "full_name": "R.T. van de Pol", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "van der Velden", 
+            "gender": "", 
+            "place": "Ermelo", 
+            "full_name": "L.A. van der Velden", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gijs", 
+            "last_name": "van Ommeren", 
+            "gender": "", 
+            "place": "Lunteren", 
+            "full_name": "G. van Ommeren", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Boer", 
+            "gender": "", 
+            "place": "Nijkerk", 
+            "full_name": "A.M. Boer", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Nitrauw", 
+            "gender": "", 
+            "place": "Wapenveld", 
+            "full_name": "J. Nitrauw", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van den Brink", 
+            "gender": "", 
+            "place": "Kootwijkerbroek", 
+            "full_name": "H.C. van den Brink", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "van Lagen", 
+            "gender": "", 
+            "place": "Putten", 
+            "full_name": "G. van Lagen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "van Dijk", 
+            "gender": "", 
+            "place": "De Klomp", 
+            "full_name": "H. van Dijk", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Duijn", 
+            "gender": "", 
+            "place": "Oldebroek", 
+            "full_name": "P. van Duijn", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Christiaan", 
+            "last_name": "van Beusekom", 
+            "gender": "", 
+            "place": "Woudenberg", 
+            "full_name": "C.A. van Beusekom", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Ploeg", 
+            "gender": "", 
+            "place": "Barneveld", 
+            "full_name": "G. Ploeg", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Arie", 
+            "last_name": "Verheul", 
+            "gender": "", 
+            "place": "Harskamp", 
+            "full_name": "A. Verheul", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Lok", 
+            "gender": "", 
+            "place": "Doornspijk", 
+            "full_name": "A. Lok", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Leeuwen", 
+            "gender": "", 
+            "place": "Rhenen", 
+            "full_name": "P.A. van Leeuwen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Stoffer", 
+            "gender": "", 
+            "place": "Elspeet", 
+            "full_name": "C. Stoffer", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Breunis", 
+            "last_name": "van de Weerd", 
+            "gender": "", 
+            "place": "Ede", 
+            "full_name": "B. van de Weerd", 
+            "position": 20
+        }
+    ], 
+    "description": "Gecombineerd met ChristenUnie", 
+    "title": "Lijst 4 Staatkundig Gereformeerde Partij (SGP)"
+}

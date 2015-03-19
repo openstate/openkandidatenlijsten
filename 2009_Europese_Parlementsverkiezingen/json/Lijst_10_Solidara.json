@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Düzgün", 
+            "last_name": "Yildirim", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "D. Yildirim", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Niermala", 
+            "last_name": "Jankie", 
+            "gender": "v", 
+            "place": "Hoofddorp", 
+            "full_name": "N.S. Jankie", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Sarwar", 
+            "last_name": "Eric", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "S. Eric", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "Hoogendoorn", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "B. Hoogendoorn", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Els", 
+            "last_name": "Graczyk", 
+            "gender": "v", 
+            "place": "Deventer", 
+            "full_name": "E.H.S.M. Graczyk", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Kenneth", 
+            "last_name": "Naipal", 
+            "gender": "m", 
+            "place": "Swifterbant", 
+            "full_name": "K.G.H. Naipal", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Margriet", 
+            "last_name": "Twisterling", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "M. Twisterling", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Boelens", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J. Boelens", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Daniël", 
+            "last_name": "Prens", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D.J. Prens", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Mustafa", 
+            "last_name": "Yildirim", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "M. Yildirim", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Soedesh", 
+            "last_name": "Jankie", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S.N.L. Jankie", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ramon", 
+            "last_name": "Barends", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "R. Barends", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Klomp", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "J.T.G. Klomp", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Sevim", 
+            "last_name": "Gerkakan", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "S. Gerkakan", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Denis", 
+            "last_name": "Wood", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "D.R. Wood", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Hüseyin", 
+            "last_name": "Akyol", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "H. Akyol", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Edgar", 
+            "last_name": "Wortmann", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "E.J.S.A. Wortmann", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Cemile", 
+            "last_name": "Kelekci", 
+            "gender": "v", 
+            "place": "'s-Gravenhage", 
+            "full_name": "C. Kelekci", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Slippens", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "M.A. Slippens", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Hüseyin", 
+            "last_name": "Kaya", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "H.J. Kaya", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Richard", 
+            "last_name": "Sleegers", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "R.H.J.J. Sleegers", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ture", 
+            "last_name": "Eijsbouts", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "B.J.P. Eijsbouts", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Faisal", 
+            "last_name": "Navmaly", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "F. Navmaly", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Bosma", 
+            "gender": "m", 
+            "place": "Olst", 
+            "full_name": "R. Bosma", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Twisterling", 
+            "gender": "m", 
+            "place": "Ommen", 
+            "full_name": "D.N.H. Twisterling", 
+            "position": 25
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 Solidara"
+}

@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Lia", 
+            "last_name": "van Dijk", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "I.N.A. van Dijk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "de Backer", 
+            "gender": "m", 
+            "place": "Steenwijk", 
+            "full_name": "T.J.R. de Backer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Marion", 
+            "last_name": "Degeling-Noorderhaven", 
+            "gender": "v", 
+            "place": "Ossenzijl", 
+            "full_name": "M.C. Degeling-Noorderhaven", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Luuk", 
+            "last_name": "Folkerts", 
+            "gender": "m", 
+            "place": "Wijhe", 
+            "full_name": "L. Folkerts", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Thomas", 
+            "last_name": "Fabrij", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "T. Fabrij", 
+            "position": 5
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Spijker", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "R.M. Spijker", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Renée", 
+            "last_name": "Storm van Leeuwen", 
+            "gender": "v", 
+            "place": "Marle", 
+            "full_name": "R.C. Storm van Leeuwen", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Benny", 
+            "last_name": "Pieters", 
+            "gender": "m", 
+            "place": "Marle", 
+            "full_name": "L.J. Pieters", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "van Slooten", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "P.F. van Slooten", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Arend", 
+            "last_name": "Bosscher", 
+            "gender": "m", 
+            "place": "Bad Bentheim (DE)", 
+            "full_name": "A. Bosscher", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Bouma", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "J.O.C. Bouma", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 Partij voor de Dieren"
+}

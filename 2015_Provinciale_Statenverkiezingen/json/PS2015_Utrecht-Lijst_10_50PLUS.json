@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Mieke", 
+            "last_name": "Hoek", 
+            "gender": "v", 
+            "place": "Vreeland", 
+            "full_name": "W.M.M. Hoek", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Marianne", 
+            "last_name": "Spaargaren-Nieuwerf", 
+            "gender": "v", 
+            "place": "Doorn", 
+            "full_name": "M. Spaargaren-Nieuwerf", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Koning", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "P.J.B. Koning", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "Bouwman", 
+            "gender": "m", 
+            "place": "Achterveld", 
+            "full_name": "W.W.M. Bouwman", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Koert", 
+            "gender": "m", 
+            "place": "Doorn", 
+            "full_name": "J.G. van Koert", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Naama", 
+            "last_name": "de Ru", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "N. de Ru", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Richter", 
+            "gender": "m", 
+            "place": "Vinkeveen", 
+            "full_name": "A.P.J. Richter", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Portengen", 
+            "gender": "m", 
+            "place": "Loenen aan de Vecht", 
+            "full_name": "F.C. Portengen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jack", 
+            "last_name": "Gadellaa", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "J.M. Gadellaa", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Troost", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "H.J. Troost", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Maurice", 
+            "last_name": "Koopman", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "M. Koopman", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 10 50PLUS"
+}

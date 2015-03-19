@@ -1,0 +1,30 @@
+{
+    "candidates": [
+        {
+            "first_name": "Roberto", 
+            "last_name": "Schols", 
+            "gender": "m", 
+            "place": "Aalsmeer", 
+            "full_name": "R.F. Schols", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Cornet", 
+            "gender": "m", 
+            "place": "Hillegom", 
+            "full_name": "C.J. Cornet", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Hylke", 
+            "last_name": "ten Cate", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "H.J. ten Cate", 
+            "position": 3
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 9 50PLUS"
+}

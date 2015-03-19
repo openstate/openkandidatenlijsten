@@ -1,0 +1,30 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sjoerd", 
+            "last_name": "Fekkes", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "S.F. Fekkes", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Laurens", 
+            "last_name": "de Keijzer", 
+            "gender": "m", 
+            "place": "Rijswijk", 
+            "full_name": "L.H.C. de Keijzer", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Pont", 
+            "gender": "m", 
+            "place": "Delft", 
+            "full_name": "P. Pont", 
+            "position": 3
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 50PLUS"
+}

@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Luuk", 
+            "last_name": "van der Veer", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "L.R. van der Veer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "L.C.M. de Groot", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Maaike", 
+            "last_name": "Moulijn", 
+            "gender": "v", 
+            "place": "Beekbergen", 
+            "full_name": "M. Moulijn", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Kuijer", 
+            "gender": "m", 
+            "place": "Beuningen Gld", 
+            "full_name": "B. Kuijer", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Zwarteveen", 
+            "gender": "m", 
+            "place": "Maurik", 
+            "full_name": "A.W. Zwarteveen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Irene", 
+            "last_name": "Bessels", 
+            "gender": "v", 
+            "place": "Elst", 
+            "full_name": "I. Bessels", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jeanco", 
+            "last_name": "Lapierre Armande", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "J.C. Lapierre Armande", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mieke", 
+            "last_name": "Hegge", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "M.H. Hegge", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Rianne", 
+            "last_name": "Wolters", 
+            "gender": "v", 
+            "place": "Nijmegen", 
+            "full_name": "R.I.M Wolters", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Robin", 
+            "last_name": "Lukassen", 
+            "gender": "m", 
+            "place": "Nijmegen", 
+            "full_name": "R.J.P. Lukassen", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Laurens", 
+            "last_name": "Kok", 
+            "gender": "m", 
+            "place": "Groesbeek", 
+            "full_name": "L.C. Kok", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Lester", 
+            "last_name": "van der Pluijm", 
+            "gender": "m", 
+            "place": "Wadenoijen", 
+            "full_name": "L.C. van der Pluijm", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Barbara", 
+            "last_name": "Tscharnidling", 
+            "gender": "v", 
+            "place": "Arnhem", 
+            "full_name": "B. Tscharnidling", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Bontenbal", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "M. Bontenbal", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Ilse", 
+            "last_name": "Smit", 
+            "gender": "v", 
+            "place": "Ede", 
+            "full_name": "I.R. Smit", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Eck en Wiel", 
+            "full_name": "J. de Jonge", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ab", 
+            "last_name": "Willemsen", 
+            "gender": "m", 
+            "place": "Maurik", 
+            "full_name": "A. Willemsen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Floriske", 
+            "last_name": "van Leeuwen", 
+            "gender": "v", 
+            "place": "Wyler (DE)", 
+            "full_name": "F. van Leeuwen", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Elze", 
+            "last_name": "Boshart", 
+            "gender": "v", 
+            "place": "Zutphen", 
+            "full_name": "E. Boshart", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Voss", 
+            "gender": "m", 
+            "place": "Apeldoorn", 
+            "full_name": "S.H.D. Voss", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst_10 Partij voor de Dieren"
+}

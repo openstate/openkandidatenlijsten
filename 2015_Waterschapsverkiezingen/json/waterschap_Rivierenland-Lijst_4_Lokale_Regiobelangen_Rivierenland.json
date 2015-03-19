@@ -1,0 +1,230 @@
+{
+    "candidates": [
+        {
+            "first_name": "Gijs", 
+            "last_name": "van Eeuwijk", 
+            "gender": "m", 
+            "place": "Velddriel", 
+            "full_name": "G.M.D. van Eeuwijk", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "van Zanten", 
+            "gender": "m", 
+            "place": "Gorinchem", 
+            "full_name": "D. van Zanten", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Obbema", 
+            "gender": "m", 
+            "place": "Elst", 
+            "full_name": "J.J. Obbema", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Koos", 
+            "last_name": "van der Eijk", 
+            "gender": "m", 
+            "place": "Deil", 
+            "full_name": "J.H. van der Eijk", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Hoffman", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "R. Hoffman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Aantjes", 
+            "gender": "m", 
+            "place": "Vuren", 
+            "full_name": "J.J. Aantjes", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Martien", 
+            "last_name": "Pardoel", 
+            "gender": "m", 
+            "place": "Druten", 
+            "full_name": "M. Pardoel", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Suzanne", 
+            "last_name": "Allard", 
+            "gender": "v", 
+            "place": "Everdingen", 
+            "full_name": "S.W.M. Allard", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Rudine", 
+            "last_name": "Berends-Jansen", 
+            "gender": "v", 
+            "place": "Opheusden", 
+            "full_name": "G.R.F. Berends-Jansen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Cornelis", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Meerkerk", 
+            "full_name": "C. van den Berg", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Boelhouwer", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "J. Boelhouwer", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Boterkooper", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "A. Boterkooper", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Cleijne", 
+            "gender": "m", 
+            "place": "Elst", 
+            "full_name": "W.J. Cleijne", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Hannie", 
+            "last_name": "Hania-van Emmerik", 
+            "gender": "v", 
+            "place": "Gorinchem", 
+            "full_name": "J.A.G. Hania-van Emmerik", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Klazina", 
+            "last_name": "de Heus-van Wijk", 
+            "gender": "v", 
+            "place": "Deil", 
+            "full_name": "K. de Heus-van Wijk", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "Hol", 
+            "gender": "m", 
+            "place": "Beesd", 
+            "full_name": "L.C. Hol", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Lizanne", 
+            "last_name": "Mollema", 
+            "gender": "v", 
+            "place": "Meteren", 
+            "full_name": "F.H. Mollema", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Teus", 
+            "last_name": "Meijdam", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "T. Meijdam", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Vries", 
+            "gender": "m", 
+            "place": "Kerkdriel", 
+            "full_name": "W.J.C. Vries", 
+            "position": 19
+        }, 
+        {
+            "first_name": "André", 
+            "last_name": "Springveld", 
+            "gender": "m", 
+            "place": "Puiflijk", 
+            "full_name": "A. Springveld", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Gijsbert", 
+            "last_name": "van Aalst", 
+            "gender": "m", 
+            "place": "Geldermalsen", 
+            "full_name": "G. van Aalst", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Schiltmans", 
+            "gender": "m", 
+            "place": "Tiel", 
+            "full_name": "A.M. Schiltmans", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Ribbers", 
+            "gender": "m", 
+            "place": "Dussen", 
+            "full_name": "P.C.M. Ribbers", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Peer", 
+            "last_name": "Witzel", 
+            "gender": "m", 
+            "place": "Alphen", 
+            "full_name": "P.A.C. Witzel", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Gijs", 
+            "last_name": "van Wijk", 
+            "gender": "m", 
+            "place": "Leerdam", 
+            "full_name": "G. van Wijk", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Heidi", 
+            "last_name": "Verschoor", 
+            "gender": "v", 
+            "place": "Gorinchem", 
+            "full_name": "H. Verschoor", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Sliedrecht", 
+            "full_name": "J.A. Visser", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Gert", 
+            "last_name": "Timmerman", 
+            "gender": "m", 
+            "place": "Buurmalsen", 
+            "full_name": "G. Timmerman", 
+            "position": 28
+        }
+    ], 
+    "description": "Gecombineerd met Huiseigenaren", 
+    "title": "Lijst 4 Lokale Regiobelangen Rivierenland"
+}

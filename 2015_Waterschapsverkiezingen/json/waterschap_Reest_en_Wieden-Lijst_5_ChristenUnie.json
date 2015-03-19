@@ -1,0 +1,62 @@
+{
+    "candidates": [
+        {
+            "first_name": "Remmie", 
+            "last_name": "Winters", 
+            "gender": "m", 
+            "place": "Eesveen", 
+            "full_name": "R.K. Winters", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Betty", 
+            "last_name": "Poutsma-Jansen", 
+            "gender": "v", 
+            "place": "Hoogeveen", 
+            "full_name": "A. Poutsma-Jansen", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Roel", 
+            "last_name": "Huls", 
+            "gender": "m", 
+            "place": "Zwartsluis", 
+            "full_name": "R. Huls", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Langius", 
+            "gender": "m", 
+            "place": "Assen", 
+            "full_name": "A.L. Langius", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hugo", 
+            "last_name": "Waalewijn", 
+            "gender": "m", 
+            "place": "Beilen", 
+            "full_name": "H. Waalewijn", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Wout", 
+            "last_name": "Kompagnie", 
+            "gender": "m", 
+            "place": "Meppel", 
+            "full_name": "W. Kompagnie", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Boxum", 
+            "gender": "m", 
+            "place": "Sint Jansklooster", 
+            "full_name": "H.J. Boxum", 
+            "position": 7
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 ChristenUnie"
+}

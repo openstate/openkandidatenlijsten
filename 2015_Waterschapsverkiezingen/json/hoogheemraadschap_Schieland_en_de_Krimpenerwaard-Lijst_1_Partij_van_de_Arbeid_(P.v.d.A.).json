@@ -1,0 +1,94 @@
+{
+    "candidates": [
+        {
+            "first_name": "Boudewijn", 
+            "last_name": "Bruil", 
+            "gender": "m", 
+            "place": "Capelle aan den IJssel", 
+            "full_name": "B. Bruil", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Anneke", 
+            "last_name": "Heinecke", 
+            "gender": "v", 
+            "place": "Bleiswijk", 
+            "full_name": "J.H. Heinecke", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "van Heemst", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "W.R. van Heemst", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Koen", 
+            "last_name": "Westhoff", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "K.G. Westhoff", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Boudewijn", 
+            "last_name": "Vester", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "B.A.S. Vester", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Arjen", 
+            "last_name": "Hazelebach", 
+            "gender": "m", 
+            "place": "Nieuwerkerk aan den IJssel", 
+            "full_name": "A. Hazelebach", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Paulusma", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "P.C. Paulusma", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Shena", 
+            "last_name": "Ammersing", 
+            "gender": "v", 
+            "place": "Bergschenhoek", 
+            "full_name": "U.S.K. Ammersing", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Mast", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "C.G. Mast", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dik", 
+            "last_name": "Vuik", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "D.A. Vuik", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Rian", 
+            "last_name": "van Merode", 
+            "gender": "v", 
+            "place": "Rotterdam", 
+            "full_name": "A.C.C.M. van Merode", 
+            "position": 11
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 Partij van de Arbeid (P.v.d.A.)"
+}

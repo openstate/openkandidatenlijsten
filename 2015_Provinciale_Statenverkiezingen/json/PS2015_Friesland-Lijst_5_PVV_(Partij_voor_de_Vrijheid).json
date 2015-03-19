@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Max", 
+            "last_name": "Aardema", 
+            "gender": "m", 
+            "place": "Drachten", 
+            "full_name": "M. Aardema", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Riezebos", 
+            "gender": "m", 
+            "place": "Hindeloopen", 
+            "full_name": "C.H. Riezebos", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Harrie", 
+            "last_name": "Graansma", 
+            "gender": "m", 
+            "place": "Boelenslaan", 
+            "full_name": "H.J. Graansma", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Pier", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Grijpskerk", 
+            "full_name": "P.P. Visser", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Erna", 
+            "last_name": "Cohen", 
+            "gender": "v", 
+            "place": "Paesens", 
+            "full_name": "E.C. Cohen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "van den Brand", 
+            "gender": "m", 
+            "place": "Paesens", 
+            "full_name": "M.B. van den Brand", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jitske", 
+            "last_name": "Eizema", 
+            "gender": "v", 
+            "place": "Leeuwarden", 
+            "full_name": "J.R. Eizema", 
+            "position": 7
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "van den Brand", 
+            "gender": "m", 
+            "place": "Ternaard", 
+            "full_name": "D.M. van den Brand", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Nick", 
+            "last_name": "Sikkenk", 
+            "gender": "m", 
+            "place": "Jubbega", 
+            "full_name": "N. Sikkenk", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Wietske", 
+            "last_name": "van der Ploeg", 
+            "gender": "v", 
+            "place": "Hilaard", 
+            "full_name": "W. van der Ploeg", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 5 PVV (Partij voor de Vrijheid)"
+}

@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Kreunen", 
+            "gender": "m", 
+            "place": "Lochem", 
+            "full_name": "H. Kreunen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Halteren", 
+            "gender": "m", 
+            "place": "'s-Heerenberg", 
+            "full_name": "J.H.M. van Halteren", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Vossers", 
+            "gender": "m", 
+            "place": "Silvolde", 
+            "full_name": "G. Vossers", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lies", 
+            "last_name": "Visscher-Endeveld", 
+            "gender": "v", 
+            "place": "Etten", 
+            "full_name": "E. Visscher-Endeveld", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "van Rooijen", 
+            "gender": "m", 
+            "place": "Bronkhorst", 
+            "full_name": "H.W.M. van Rooijen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "van Balveren", 
+            "gender": "m", 
+            "place": "Ulft", 
+            "full_name": "G.A. van Balveren", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Josephine", 
+            "last_name": "Steffens", 
+            "gender": "v", 
+            "place": "Zelhem", 
+            "full_name": "J.I.M. Steffens", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Oonk", 
+            "gender": "m", 
+            "place": "Neede", 
+            "full_name": "G.D.J. Oonk", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "Blaauw", 
+            "gender": "m", 
+            "place": "Zelhem", 
+            "full_name": "E.W. Blaauw", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Keukenkamp", 
+            "gender": "m", 
+            "place": "Doetinchem", 
+            "full_name": "B.J. Keukenkamp", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Ellen", 
+            "last_name": "Bakker", 
+            "gender": "v", 
+            "place": "Lichtenvoorde", 
+            "full_name": "E.B.A.M. Bakker", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Leon", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "Etten", 
+            "full_name": "L.M. Dekker", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jelmer", 
+            "last_name": "Klaassen", 
+            "gender": "m", 
+            "place": "Bathmen", 
+            "full_name": "J. Klaassen", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Kassiel", 
+            "last_name": "Gerrits", 
+            "gender": "m", 
+            "place": "Arnhem", 
+            "full_name": "C.G.M.R.M. Gerrits", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "van den Anker", 
+            "gender": "m", 
+            "place": "Zeddam", 
+            "full_name": "T. van den Anker", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Trix", 
+            "last_name": "Kruger", 
+            "gender": "v", 
+            "place": "Dieren", 
+            "full_name": "T.A. Kruger", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Schopman", 
+            "gender": "m", 
+            "place": "Pannerden", 
+            "full_name": "T.J. Schopman", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Lammers", 
+            "gender": "m", 
+            "place": "Aalten", 
+            "full_name": "J.C. Lammers", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "van Mierlo", 
+            "gender": "m", 
+            "place": "Bathmen", 
+            "full_name": "R.C.M. van Mierlo", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Zeeger", 
+            "last_name": "van de Koppel", 
+            "gender": "m", 
+            "place": "Bathmen", 
+            "full_name": "Z.L.H. van de Koppel", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 Algemene Waterschapspartij"
+}

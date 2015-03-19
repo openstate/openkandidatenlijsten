@@ -1,0 +1,406 @@
+{
+    "candidates": [
+        {
+            "first_name": "Johannes", 
+            "last_name": "Kramer", 
+            "gender": "m", 
+            "place": "Sibrandabuorren", 
+            "full_name": "J.G. Kramer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Corlienke", 
+            "last_name": "de Jong", 
+            "gender": "v", 
+            "place": "Jutryp", 
+            "full_name": "C. de Jong", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Sybren", 
+            "last_name": "Posthumus", 
+            "gender": "m", 
+            "place": "Reduzum", 
+            "full_name": "S.S. Posthumus", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wopke", 
+            "last_name": "Veenstra", 
+            "gender": "m", 
+            "place": "Boelensloane", 
+            "full_name": "W.B. Veenstra", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Fokkinga", 
+            "gender": "m", 
+            "place": "Nes", 
+            "full_name": "K. Fokkinga", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Rein", 
+            "last_name": "van der Wal", 
+            "gender": "m", 
+            "place": "Surhústerfean", 
+            "full_name": "R. van der Wal", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Saapke", 
+            "last_name": "Voolstra", 
+            "gender": "v", 
+            "place": "Drachten", 
+            "full_name": "S.A. Voolstra", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "Seldenrust", 
+            "gender": "m", 
+            "place": "Ljouwert", 
+            "full_name": "A. Seldenrust", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ate", 
+            "last_name": "Eijer", 
+            "gender": "m", 
+            "place": "Jobbegea", 
+            "full_name": "A. Eijer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Auke", 
+            "last_name": "Bijlsma", 
+            "gender": "m", 
+            "place": "Terherne", 
+            "full_name": "A. Bijlsma", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jeltsje", 
+            "last_name": "Piersma", 
+            "gender": "v", 
+            "place": "Nijemardum", 
+            "full_name": "J. Piersma", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Dijkstra", 
+            "gender": "m", 
+            "place": "Hitsum", 
+            "full_name": "J. Dijkstra", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Sippe", 
+            "last_name": "Bron", 
+            "gender": "m", 
+            "place": "Wolvegea", 
+            "full_name": "S. Bron", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Leendert", 
+            "last_name": "Ferwerda", 
+            "gender": "m", 
+            "place": "Sint-Anne", 
+            "full_name": "L. Ferwerda", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Rikus", 
+            "last_name": "Sinnema", 
+            "gender": "m", 
+            "place": "Berltsum", 
+            "full_name": "H.F. Sinnema", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Jochum", 
+            "last_name": "Meester", 
+            "gender": "m", 
+            "place": "Sint-Jânsgea", 
+            "full_name": "J. Meester", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Tjibbe", 
+            "last_name": "Brinkman", 
+            "gender": "m", 
+            "place": "Twizel", 
+            "full_name": "T.O. Brinkman", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Aeltsje", 
+            "last_name": "de Groot-Zantema", 
+            "gender": "v", 
+            "place": "Stiens", 
+            "full_name": "A. de Groot-Zantema", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Janke", 
+            "last_name": "de Vries", 
+            "gender": "v", 
+            "place": "Dunegea", 
+            "full_name": "J.T. de Vries", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Sytze", 
+            "last_name": "Kobus", 
+            "gender": "m", 
+            "place": "Garyp", 
+            "full_name": "S.K. Kobus", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Koonstra", 
+            "gender": "m", 
+            "place": "Sweagerbosk", 
+            "full_name": "A. Koonstra", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Corrie", 
+            "last_name": "Ludema-van der Valk", 
+            "gender": "v", 
+            "place": "Sibrandahûs", 
+            "full_name": "K.S. Ludema-van der Valk", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Durk", 
+            "last_name": "Durksz", 
+            "gender": "m", 
+            "place": "Vegelinsoard", 
+            "full_name": "D.L. Durksz", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Pytsje", 
+            "last_name": "de Graaf-van der Meer", 
+            "gender": "v", 
+            "place": "Ternaard", 
+            "full_name": "P.H. de Graaf-van der Meer", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "Bonnema", 
+            "gender": "m", 
+            "place": "Frjentsjer", 
+            "full_name": "A. Bonnema", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Jonkman", 
+            "gender": "m", 
+            "place": "Dearsum", 
+            "full_name": "C. Jonkman", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Jantsje", 
+            "last_name": "Heeringa", 
+            "gender": "v", 
+            "place": "Ljouwert", 
+            "full_name": "J. Heeringa", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Jelle", 
+            "last_name": "Gerbrandy", 
+            "gender": "m", 
+            "place": "Drylts", 
+            "full_name": "J.S. Gerbrandy", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "Nieboer", 
+            "gender": "m", 
+            "place": "Tsjerkwert", 
+            "full_name": "C.J. Nieboer", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Lyda", 
+            "last_name": "Veldstra", 
+            "gender": "v", 
+            "place": "Grou", 
+            "full_name": "L. Veldstra", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Evert", 
+            "last_name": "Wilstra", 
+            "gender": "m", 
+            "place": "Bakkefean", 
+            "full_name": "E. Wilstra", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Oppie", 
+            "last_name": "Riedstra", 
+            "gender": "v", 
+            "place": "De Lemmer", 
+            "full_name": "A. Riedstra", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Liskje", 
+            "last_name": "Flapper", 
+            "gender": "v", 
+            "place": "Burchwert", 
+            "full_name": "L. Flapper", 
+            "position": 33
+        }, 
+        {
+            "first_name": "Jehannes", 
+            "last_name": "Elzinga", 
+            "gender": "m", 
+            "place": "Frjentsjer", 
+            "full_name": "J. Elzinga", 
+            "position": 34
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Hijma", 
+            "gender": "m", 
+            "place": "Marrum", 
+            "full_name": "J.J. Hijma", 
+            "position": 35
+        }, 
+        {
+            "first_name": "Nynke", 
+            "last_name": "Beetstra", 
+            "gender": "v", 
+            "place": "Grou", 
+            "full_name": "N.P. Beetstra", 
+            "position": 36
+        }, 
+        {
+            "first_name": "Pier", 
+            "last_name": "Tilma", 
+            "gender": "m", 
+            "place": "Ljouwert", 
+            "full_name": "P. Tilma", 
+            "position": 37
+        }, 
+        {
+            "first_name": "Sigrid", 
+            "last_name": "Keimpema", 
+            "gender": "v", 
+            "place": "Feanwâlden", 
+            "full_name": "S. Keimpema", 
+            "position": 38
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Nauta", 
+            "gender": "m", 
+            "place": "Hitsum", 
+            "full_name": "H.J. Nauta", 
+            "position": 39
+        }, 
+        {
+            "first_name": "Anje", 
+            "last_name": "Wester", 
+            "gender": "v", 
+            "place": "Earnewâld", 
+            "full_name": "A.H. Wester", 
+            "position": 40
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Cuperus", 
+            "gender": "m", 
+            "place": "Dokkum", 
+            "full_name": "J. Cuperus", 
+            "position": 41
+        }, 
+        {
+            "first_name": "Johannes", 
+            "last_name": "van der Pal", 
+            "gender": "m", 
+            "place": "De Lemmer", 
+            "full_name": "J. van der Pal", 
+            "position": 42
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "de Vries", 
+            "gender": "v", 
+            "place": "De Jouwer", 
+            "full_name": "G.H. de Vries", 
+            "position": 43
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Koster", 
+            "gender": "m", 
+            "place": "Himmelum", 
+            "full_name": "J. Koster", 
+            "position": 44
+        }, 
+        {
+            "first_name": "Welmoed", 
+            "last_name": "van der Werf", 
+            "gender": "v", 
+            "place": "Kûbaard", 
+            "full_name": "W. van der Werf", 
+            "position": 45
+        }, 
+        {
+            "first_name": "Lisette", 
+            "last_name": "Akkerman", 
+            "gender": "v", 
+            "place": "Ferwert", 
+            "full_name": "L. Akkerman", 
+            "position": 46
+        }, 
+        {
+            "first_name": "Thom", 
+            "last_name": "Feddema", 
+            "gender": "m", 
+            "place": "Raard", 
+            "full_name": "T. Feddema", 
+            "position": 47
+        }, 
+        {
+            "first_name": "Hindrik", 
+            "last_name": "van der Meer", 
+            "gender": "m", 
+            "place": "Jorwert", 
+            "full_name": "H. van der Meer", 
+            "position": 48
+        }, 
+        {
+            "first_name": "Wout", 
+            "last_name": "Zijlstra", 
+            "gender": "m", 
+            "place": "Folsgeare", 
+            "full_name": "W. Zijlstra", 
+            "position": 49
+        }, 
+        {
+            "first_name": "Annigje", 
+            "last_name": "Toering", 
+            "gender": "v", 
+            "place": "Mantgum", 
+            "full_name": "A. Toering", 
+            "position": 50
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 FNP"
+}

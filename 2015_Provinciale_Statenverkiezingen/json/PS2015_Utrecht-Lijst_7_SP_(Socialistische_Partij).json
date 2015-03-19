@@ -1,0 +1,270 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ad", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Amersfoort", 
+            "full_name": "A.M. Meijer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Andrea", 
+            "last_name": "Poppe", 
+            "gender": "v", 
+            "place": "IJsselstein", 
+            "full_name": "A.M. Poppe", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Gerard", 
+            "last_name": "Bosman", 
+            "gender": "m", 
+            "place": "Loenen aan de Vecht", 
+            "full_name": "G.J. Bosman", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Truke", 
+            "last_name": "Noordenbos", 
+            "gender": "v", 
+            "place": "Stichtse Vecht", 
+            "full_name": "M.G. Noordenbos", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hassan", 
+            "last_name": "Toutouh", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "H. Toutouh", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Menno", 
+            "last_name": "Boer", 
+            "gender": "m", 
+            "place": "De Bilt", 
+            "full_name": "M.H.O. Boer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Hogema", 
+            "gender": "v", 
+            "place": "IJsselstein", 
+            "full_name": "L. Hogema", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Breur", 
+            "gender": "m", 
+            "place": "Veenendaal", 
+            "full_name": "J.P. Breur", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sandra", 
+            "last_name": "Mets-Baart", 
+            "gender": "v", 
+            "place": "Baarn", 
+            "full_name": "S.M. Mets-Baart", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Jager", 
+            "gender": "m", 
+            "place": "Maarssen", 
+            "full_name": "B.P.M. Jager", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Younis", 
+            "last_name": "Lutfula", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "Y.S. Lutfula", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Pieter Wout", 
+            "last_name": "Duquesnoy", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "P.W. Duquesnoy", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "van Well", 
+            "gender": "m", 
+            "place": "IJsselstein", 
+            "full_name": "J.N.M. van Well", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Cindy", 
+            "last_name": "van Rooijen", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "C. van Rooijen", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "Baerveldt", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "C. Baerveldt", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Annemieke", 
+            "last_name": "Pluijgers", 
+            "gender": "v", 
+            "place": "Zeist", 
+            "full_name": "A.C.T.M. Pluijgers", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "Meeuwsen", 
+            "gender": "m", 
+            "place": "Bilthoven", 
+            "full_name": "F. Meeuwsen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ron", 
+            "last_name": "Keet", 
+            "gender": "m", 
+            "place": "Maartensdijk", 
+            "full_name": "R.R.M. Keet", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "van Rhenen", 
+            "gender": "m", 
+            "place": "Hollandsche Rading", 
+            "full_name": "W. van Rhenen", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Bets", 
+            "last_name": "Beltman", 
+            "gender": "v", 
+            "place": "Amersfoort", 
+            "full_name": "B. Beltman", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Nicole", 
+            "last_name": "van Gemert", 
+            "gender": "v", 
+            "place": "Utrecht", 
+            "full_name": "N.M. van Gemert", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Koen", 
+            "last_name": "Verhofstad", 
+            "gender": "m", 
+            "place": "Vinkeveen", 
+            "full_name": "K. Verhofstad", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Tim", 
+            "last_name": "Schipper", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "T.W. Schipper", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Jasper", 
+            "last_name": "van Geijtenbeek", 
+            "gender": "m", 
+            "place": "Amerongen", 
+            "full_name": "J.R. van Geijtenbeek", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van der Tol", 
+            "gender": "m", 
+            "place": "Wijk bij Duurstede", 
+            "full_name": "F.A.M. van der Tol", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Ans", 
+            "last_name": "Bontrop-van der Quast", 
+            "gender": "v", 
+            "place": "Nieuwegein", 
+            "full_name": "J.M. Bontrop-van der Quast", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Welter", 
+            "gender": "m", 
+            "place": "Leusden", 
+            "full_name": "J. Welter", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Sandrina", 
+            "last_name": "Leeman", 
+            "gender": "v", 
+            "place": "Nieuwegein", 
+            "full_name": "S.M.A. Leeman", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Brouwer", 
+            "gender": "m", 
+            "place": "Wijk bij Duurstede", 
+            "full_name": "J. Brouwer", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Hasan", 
+            "last_name": "Inekci", 
+            "gender": "m", 
+            "place": "Nieuwegein", 
+            "full_name": "H.H. Inekci", 
+            "position": 30
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Burger", 
+            "gender": "m", 
+            "place": "Wijk bij Duurstede", 
+            "full_name": "J.A.G. Burger", 
+            "position": 31
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Voogdt", 
+            "gender": "m", 
+            "place": "Zeist", 
+            "full_name": "J.A. Voogdt", 
+            "position": 32
+        }, 
+        {
+            "first_name": "Anne-Marie", 
+            "last_name": "Mineur", 
+            "gender": "v", 
+            "place": "De Bilt", 
+            "full_name": "A.C. Mineur", 
+            "position": 33
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 7 SP (Socialistische Partij)"
+}

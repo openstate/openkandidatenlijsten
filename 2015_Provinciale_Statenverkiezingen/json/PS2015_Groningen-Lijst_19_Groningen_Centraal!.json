@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "first_name": "Nette", 
+            "last_name": "Kruzenga", 
+            "gender": "v", 
+            "place": "Sappemeer", 
+            "full_name": "F.A. Kruzenga", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Pi", 
+            "last_name": "van Weert", 
+            "gender": "m", 
+            "place": "'t Zandt", 
+            "full_name": "W. van Weert", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Scheffer", 
+            "gender": "m", 
+            "place": "Doornspijk", 
+            "full_name": "H.J. Scheffer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Steven", 
+            "last_name": "Vlam", 
+            "gender": "m", 
+            "place": "Eefde", 
+            "full_name": "S.C. Vlam", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Martha", 
+            "last_name": "Lanting-Ritsema", 
+            "gender": "v", 
+            "place": "Uithuizermeeden", 
+            "full_name": "M. Lanting-Ritsema", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "Pieterman", 
+            "gender": "m", 
+            "place": "Spijk Gn", 
+            "full_name": "K. Pieterman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Vink", 
+            "gender": "m", 
+            "place": "Winsum", 
+            "full_name": "J.J. Vink", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Clive", 
+            "last_name": "Faulmann", 
+            "gender": "m", 
+            "place": "Sappemeer", 
+            "full_name": "C. Faulmann", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Boris", 
+            "last_name": "Louwes", 
+            "gender": "m", 
+            "place": "Spijk Gn", 
+            "full_name": "B. Louwes", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jannie", 
+            "last_name": "Reinders-van Goinga", 
+            "gender": "v", 
+            "place": "Farmsum", 
+            "full_name": "J. Reinders-van Goinga", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Trudy", 
+            "last_name": "Aleven", 
+            "gender": "v", 
+            "place": "Leermens", 
+            "full_name": "G.A.M. Aleven", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Vaillant", 
+            "gender": "m", 
+            "place": "Leermens", 
+            "full_name": "P. Vaillant", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Blanken", 
+            "gender": "m", 
+            "place": "Middelstum", 
+            "full_name": "W. Blanken", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Louwes", 
+            "gender": "m", 
+            "place": "'t Zandt", 
+            "full_name": "P.W. Louwes", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Marinus", 
+            "last_name": "de Graaff", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "M. de Graaff", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "Zandhuis", 
+            "gender": "m", 
+            "place": "Badhoevedorp", 
+            "full_name": "M.A.I.M. Zandhuis", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Freek", 
+            "last_name": "de Bruin", 
+            "gender": "m", 
+            "place": "Rotterdam", 
+            "full_name": "F. de Bruin", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Luida", 
+            "last_name": "Kremer", 
+            "gender": "v", 
+            "place": "Leens", 
+            "full_name": "L. Kremer", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Harriet", 
+            "last_name": "Boer", 
+            "gender": "v", 
+            "place": "'t Zandt", 
+            "full_name": "H. Boer", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Gerry", 
+            "last_name": "Kuipers", 
+            "gender": "m", 
+            "place": "Appingedam", 
+            "full_name": "G.J. Kuipers", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "van Wijhe", 
+            "gender": "m", 
+            "place": "Doornspijk", 
+            "full_name": "M. van Wijhe", 
+            "position": 21
+        }, 
+        {
+            "first_name": "John", 
+            "last_name": "Lanting", 
+            "gender": "m", 
+            "place": "Uithuizermeeden", 
+            "full_name": "J.M. Lanting", 
+            "position": 22
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 19 Groningen Centraal!"
+}

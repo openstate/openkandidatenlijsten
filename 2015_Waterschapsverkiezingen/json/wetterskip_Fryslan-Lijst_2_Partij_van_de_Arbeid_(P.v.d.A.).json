@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henni", 
+            "last_name": "van Asten", 
+            "gender": "v", 
+            "place": "Dokkum", 
+            "full_name": "H.C.G. van Asten", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Remco", 
+            "last_name": "Admiraal", 
+            "gender": "m", 
+            "place": "Dokkum", 
+            "full_name": "R.J. Admiraal", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Annelies", 
+            "last_name": "Stolp", 
+            "gender": "v", 
+            "place": "Oosterwolde", 
+            "full_name": "A. Stolp", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "Haarsma", 
+            "gender": "m", 
+            "place": "Drachten", 
+            "full_name": "W.J.M. Haarsma", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Sprong", 
+            "gender": "m", 
+            "place": "Oudemirdum", 
+            "full_name": "D. Sprong", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sjef", 
+            "last_name": "van der Lubbe", 
+            "gender": "m", 
+            "place": "Marsum", 
+            "full_name": "J.C.L.M. van der Lubbe", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Thomas", 
+            "last_name": "Groeneveld", 
+            "gender": "m", 
+            "place": "Makkum", 
+            "full_name": "T. Groeneveld", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mark", 
+            "last_name": "de Lange", 
+            "gender": "m", 
+            "place": "Franeker", 
+            "full_name": "M.R.W. de Lange", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Burgum", 
+            "full_name": "B.R. Bakker", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Theun", 
+            "last_name": "Nicolai", 
+            "gender": "m", 
+            "place": "Drogeham", 
+            "full_name": "T. Nicolai", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Rottum", 
+            "full_name": "J.R. de Jong", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Rolie", 
+            "last_name": "Groninger", 
+            "gender": "m", 
+            "place": "Wergea", 
+            "full_name": "R. Groninger", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Korthof", 
+            "gender": "m", 
+            "place": "Boksum", 
+            "full_name": "H. Korthof", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Eline", 
+            "last_name": "de Koning", 
+            "gender": "v", 
+            "place": "Goutum", 
+            "full_name": "E. de Koning", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Chris", 
+            "last_name": "van Beek", 
+            "gender": "m", 
+            "place": "Easterlittens", 
+            "full_name": "C.W.L. van Beek", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Halbe", 
+            "last_name": "Klijnstra", 
+            "gender": "m", 
+            "place": "Kubaard", 
+            "full_name": "H. Klijnstra", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Sjoukje", 
+            "last_name": "Akkerman", 
+            "gender": "v", 
+            "place": "Drachten", 
+            "full_name": "S. Akkerman", 
+            "position": 17
+        }
+    ], 
+    "description": "Gecombineerd met Water Natuurlijk", 
+    "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)"
+}

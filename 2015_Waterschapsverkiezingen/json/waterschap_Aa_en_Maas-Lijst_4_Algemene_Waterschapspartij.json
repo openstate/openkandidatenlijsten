@@ -1,0 +1,126 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Siroen", 
+            "gender": "m", 
+            "place": "Cuijk", 
+            "full_name": "H.P.J.M. Siroen", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "van den Hoven", 
+            "gender": "m", 
+            "place": "Drunen", 
+            "full_name": "A.P.M. van den Hoven", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Michael", 
+            "last_name": "Rieter", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "M.P.J. Rieter", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anita", 
+            "last_name": "Slaats-Damen", 
+            "gender": "v", 
+            "place": "Lieshout", 
+            "full_name": "A.E.M. Slaats-Damen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Mari", 
+            "last_name": "van Roosmalen", 
+            "gender": "m", 
+            "place": "Lith", 
+            "full_name": "M.J.P.A. van Roosmalen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Perry", 
+            "last_name": "Peeters", 
+            "gender": "m", 
+            "place": "Haps", 
+            "full_name": "P.J. Peeters", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Albert", 
+            "last_name": "van de Koolwijk", 
+            "gender": "m", 
+            "place": "Uden", 
+            "full_name": "A.P.J. van de Koolwijk", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Arjan", 
+            "last_name": "de Kuiper", 
+            "gender": "m", 
+            "place": "Cuijk", 
+            "full_name": "A.C.S. de Kuiper", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jolanda", 
+            "last_name": "Lensen-van den Wildenberg", 
+            "gender": "v", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "J.J.M. Lensen-van den Wildenberg", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jankees", 
+            "last_name": "Blok", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "J.K. Blok", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Gerald Jan", 
+            "last_name": "Ellen", 
+            "gender": "m", 
+            "place": "'s-Hertogenbosch", 
+            "full_name": "G.J. Ellen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "van Herpen", 
+            "gender": "m", 
+            "place": "Rosmalen", 
+            "full_name": "L.G. van Herpen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Joseph", 
+            "last_name": "Kuijpers", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "J.J.M. Kuijpers", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Pierre", 
+            "last_name": "Spierings", 
+            "gender": "m", 
+            "place": "Oss", 
+            "full_name": "P.C.M. Spierings", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Harry", 
+            "last_name": "Kuypers", 
+            "gender": "m", 
+            "place": "Helmond", 
+            "full_name": "H.A.J.M. Kuypers", 
+            "position": 15
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 4 Algemene Waterschapspartij"
+}

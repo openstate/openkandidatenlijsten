@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Sake", 
+            "last_name": "van der Meer", 
+            "gender": "m", 
+            "place": "Kootstertille", 
+            "full_name": "S.D. van der Meer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Kooi", 
+            "gender": "m", 
+            "place": "Ryptsjerk", 
+            "full_name": "J. van der Kooi", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Anna Martha", 
+            "last_name": "van der Mei", 
+            "gender": "v", 
+            "place": "Tzum", 
+            "full_name": "A.M. van der Mei", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Lolke", 
+            "last_name": "Folkertsma", 
+            "gender": "m", 
+            "place": "Dokkum", 
+            "full_name": "L. Folkertsma", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Annigje", 
+            "last_name": "Toering", 
+            "gender": "v", 
+            "place": "Mantgum", 
+            "full_name": "A. Toering", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Yde", 
+            "last_name": "Dijkstra", 
+            "gender": "m", 
+            "place": "Leeuwarden", 
+            "full_name": "IJ. Dijkstra", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Breimer", 
+            "gender": "m", 
+            "place": "Warns", 
+            "full_name": "H. Breimer", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Age", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Skearnegoutum", 
+            "full_name": "A. de Jong", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Sicco", 
+            "last_name": "Rypma", 
+            "gender": "m", 
+            "place": "Blauwhuis", 
+            "full_name": "S. Rypma", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "Hoekstra-Wiersma", 
+            "gender": "v", 
+            "place": "Minnertsga", 
+            "full_name": "M. Hoekstra-Wiersma", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Westra", 
+            "gender": "m", 
+            "place": "Sint Nicolaasga", 
+            "full_name": "J. Westra", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "Gerritsma", 
+            "gender": "m", 
+            "place": "Nijemirdum", 
+            "full_name": "F.S. Gerritsma", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Poppe", 
+            "last_name": "Hooijsma", 
+            "gender": "m", 
+            "place": "Mildam", 
+            "full_name": "P. Hooijsma", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Wietse", 
+            "last_name": "Lap", 
+            "gender": "m", 
+            "place": "Rottevalle", 
+            "full_name": "W. Lap", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Fokke", 
+            "last_name": "Benedictus", 
+            "gender": "m", 
+            "place": "Eastermar", 
+            "full_name": "F. Benedictus", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Joep", 
+            "last_name": "Bergsma", 
+            "gender": "m", 
+            "place": "Makkum", 
+            "full_name": "H.J.J.G.M. Bergsma", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Hessel", 
+            "last_name": "Agema", 
+            "gender": "m", 
+            "place": "Kollumerpomp", 
+            "full_name": "H. Agema", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hiemstra", 
+            "gender": "m", 
+            "place": "Franeker", 
+            "full_name": "J. Hiemstra", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Schaar", 
+            "gender": "m", 
+            "place": "Tzummarum", 
+            "full_name": "J. van der Schaar", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Ultsje", 
+            "last_name": "Hosper", 
+            "gender": "m", 
+            "place": "Ureterp", 
+            "full_name": "U.G. Hosper", 
+            "position": 20
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 FNP"
+}

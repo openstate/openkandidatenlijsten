@@ -1,0 +1,102 @@
+{
+    "candidates": [
+        {
+            "first_name": "Johan", 
+            "last_name": "de Leeuw", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.G. de Leeuw", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Dick", 
+            "last_name": "Rensema", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "D. Rensema", 
+            "position": 2
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "R.J. Dekker", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Sibele", 
+            "last_name": "Ongering", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "S.W. Ongering", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Bouwma", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.J. Bouwma", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Adri", 
+            "last_name": "Koopman", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "A.L. Koopman", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "de Jonge", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "N.E. de Jonge", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Annet", 
+            "last_name": "van Zwol", 
+            "gender": "v", 
+            "place": "Lelystad", 
+            "full_name": "A.M. van Zwol", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Kitty", 
+            "last_name": "Reijers", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "C.C.J. Reijers", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Johan", 
+            "last_name": "de Jong", 
+            "gender": "m", 
+            "place": "Marknesse", 
+            "full_name": "J.M. de Jong", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van de Laar", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "F.W. van de Laar", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "Fonhof", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "B. Fonhof", 
+            "position": 12
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 12 OPA"
+}

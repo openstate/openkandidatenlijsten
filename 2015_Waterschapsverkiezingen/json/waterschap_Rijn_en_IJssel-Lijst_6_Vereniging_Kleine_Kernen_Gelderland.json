@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "Tinie", 
+            "last_name": "te Dorsthorst", 
+            "gender": "v", 
+            "place": "Didam", 
+            "full_name": "C.W.J. te Dorsthorst", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Jos", 
+            "last_name": "Baak", 
+            "gender": "m", 
+            "place": "Beltrum", 
+            "full_name": "J.M.M. Baak", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Wim", 
+            "last_name": "Dijkstra", 
+            "gender": "m", 
+            "place": "Wichmond", 
+            "full_name": "W.T. Dijkstra", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "van Heek", 
+            "gender": "m", 
+            "place": "Eibergen", 
+            "full_name": "P.T. van Heek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Grijsen", 
+            "gender": "m", 
+            "place": "Bredevoort", 
+            "full_name": "E.J. Grijsen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gemma", 
+            "last_name": "Tiedink-Koning", 
+            "gender": "v", 
+            "place": "Groessen", 
+            "full_name": "G.M. Tiedink-Koning", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 6 Vereniging Kleine Kernen Gelderland"
+}

@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Peter", 
+            "last_name": "Pels", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "P.T.J. Pels", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Nora", 
+            "last_name": "Azarkan", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "R. Azarkan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Willem", 
+            "last_name": "de Jager", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "W. de Jager", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Roy", 
+            "last_name": "Breederveld", 
+            "gender": "m", 
+            "place": "Dronten", 
+            "full_name": "R. Breederveld", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jesse", 
+            "last_name": "Luijendijk", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J. Luijendijk", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "van Wees-Schilder", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "G.C.E. van Wees-Schilder", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Wiegertjes", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "M.W. Wiegertjes", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Farid", 
+            "last_name": "Boundati", 
+            "gender": "m", 
+            "place": "Emmeloord", 
+            "full_name": "F. Boundati", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Lidwien", 
+            "last_name": "Venselaar", 
+            "gender": "v", 
+            "place": "Almere", 
+            "full_name": "L.B.M. Venselaar", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "Sloot", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "E. Sloot", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Manon", 
+            "last_name": "Westenbroek", 
+            "gender": "v", 
+            "place": "Dronten", 
+            "full_name": "M.A.J. Westenbroek", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Joukje", 
+            "last_name": "van den Berg-Otter", 
+            "gender": "v", 
+            "place": "Ens", 
+            "full_name": "J. van den Berg-Otter", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van Gelder", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "J. van Gelder", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Merijn", 
+            "last_name": "Jacops", 
+            "gender": "m", 
+            "place": "Zeewolde", 
+            "full_name": "M.J. Jacops", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Dingeman", 
+            "last_name": "Lievense", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "D.J. Lievense", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Loek", 
+            "last_name": "Kuijpers", 
+            "gender": "m", 
+            "place": "Lelystad", 
+            "full_name": "L. Kuijpers", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Tity", 
+            "last_name": "Zeilstra-van der Meulen", 
+            "gender": "v", 
+            "place": "Emmeloord", 
+            "full_name": "T. Zeilstra-van der Meulen", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Joost", 
+            "last_name": "van den Donk", 
+            "gender": "m", 
+            "place": "Almere", 
+            "full_name": "J.J.T.M. van den Donk", 
+            "position": 18
+        }
+    ], 
+    "description": "Gecombineerd met GROENLINKS", 
+    "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)"
+}

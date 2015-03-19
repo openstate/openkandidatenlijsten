@@ -1,0 +1,222 @@
+{
+    "candidates": [
+        {
+            "first_name": "Eddy", 
+            "last_name": "van Hijum", 
+            "gender": "m", 
+            "place": "Laag Zuthem", 
+            "full_name": "Y.J. van Hijum", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Hester", 
+            "last_name": "Maij", 
+            "gender": "v", 
+            "place": "Delden", 
+            "full_name": "W.H. Maij", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Martin", 
+            "last_name": "Reesink", 
+            "gender": "m", 
+            "place": "Borne", 
+            "full_name": "M.J.B.B. Reesink", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Engbers", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "R.H.J. Engbers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Alida", 
+            "last_name": "Renkema", 
+            "gender": "v", 
+            "place": "Zwolle", 
+            "full_name": "A.J. Renkema", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Christiaan", 
+            "last_name": "Schrijver", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "C. Schrijver", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Gerda", 
+            "last_name": "ter Denge-Alards", 
+            "gender": "v", 
+            "place": "Losser", 
+            "full_name": "G.P.L. ter Denge-Alards", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Marco", 
+            "last_name": "van der Vegte", 
+            "gender": "m", 
+            "place": "Mastenbroek", 
+            "full_name": "M. van der Vegte", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Bart", 
+            "last_name": "van Moorsel", 
+            "gender": "m", 
+            "place": "Deventer", 
+            "full_name": "L.M.M. van Moorsel", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ben", 
+            "last_name": "Eshuis", 
+            "gender": "m", 
+            "place": "Hengevelde", 
+            "full_name": "B.M.J. Eshuis", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Meulink", 
+            "gender": "m", 
+            "place": "Hardenberg", 
+            "full_name": "H. Meulink", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Piksen", 
+            "gender": "m", 
+            "place": "Hellendoorn", 
+            "full_name": "J. Piksen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Zwart", 
+            "gender": "m", 
+            "place": "Dalfsen", 
+            "full_name": "H. Zwart", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Susan", 
+            "last_name": "Faal-Takak", 
+            "gender": "v", 
+            "place": "Rijssen", 
+            "full_name": "S. Faal-Takak", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Gerrit Jan", 
+            "last_name": "van der Veen", 
+            "gender": "m", 
+            "place": "Enschede", 
+            "full_name": "G.J. van der Veen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Bart-Jan", 
+            "last_name": "Gardebroek", 
+            "gender": "m", 
+            "place": "Kampen", 
+            "full_name": "B. Gardebroek", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Kuiper", 
+            "gender": "m", 
+            "place": "Den Ham", 
+            "full_name": "G.J.H. Kuiper", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Tineke", 
+            "last_name": "ter Horst-Oppewal", 
+            "gender": "v", 
+            "place": "Wierden", 
+            "full_name": "T.W. ter Horst-Oppewal", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Hoogendoorn", 
+            "gender": "m", 
+            "place": "Hengelo (O)", 
+            "full_name": "P.J. Hoogendoorn", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Bouwien", 
+            "last_name": "Rutten", 
+            "gender": "v", 
+            "place": "Agelo", 
+            "full_name": "B.G.J.H. Rutten", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Gonnie", 
+            "last_name": "Ebbink-de Nooij", 
+            "gender": "v", 
+            "place": "Schalkhaar", 
+            "full_name": "J.H. Ebbink-de Nooij", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Giesselink", 
+            "gender": "m", 
+            "place": "Oldenzaal", 
+            "full_name": "P.F.M. Giesselink", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Arend Jan", 
+            "last_name": "Schuurman", 
+            "gender": "m", 
+            "place": "Nieuwleusen", 
+            "full_name": "A.J. Schuurman", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Arno", 
+            "last_name": "van Dijk", 
+            "gender": "m", 
+            "place": "Nieuwleusen", 
+            "full_name": "A.J. van Dijk", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Leo", 
+            "last_name": "Elfers", 
+            "gender": "m", 
+            "place": "Zwolle", 
+            "full_name": "L.V. Elfers", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Moniek", 
+            "last_name": "Kleinsman", 
+            "gender": "v", 
+            "place": "Albergen", 
+            "full_name": "M.F.M. Kleinsman", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Herman", 
+            "last_name": "Brouwer", 
+            "gender": "m", 
+            "place": "Oldemarkt", 
+            "full_name": "H. Brouwer", 
+            "position": 27
+        }
+    ], 
+    "description": "", 
+    "title": "Lijst 1 CDA"
+}
