@@ -31,6 +31,7 @@ Elections which have not yet been processed (listing PDF file if available):
   - https://zoek.officielebekendmakingen.nl/stcrt-2006-207-p18-SC77436.html
   - https://zoek.officielebekendmakingen.nl/stcrt-2006-209-p10-v1-SC77469.html (rectification)
 
+This Wikipedia page lists the candidates for elections back till 1994, but only with first name and last name (so no initials, gender or place of residence): https://nl.wikipedia.org/wiki/Categorie:Kandidatenlijsten_verkiezingen_in_Nederland
 
 Requirements
 ============
