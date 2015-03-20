@@ -1,0 +1,22 @@
+13
+Ouderen Partij Amsterdam (OPA)
+
+Nr     Naam                                 Woonplaats
+1      Schimmelpennink, L.M.H. (Luud) (m) Amsterdam
+2      Roeten, H.J. (Helen) (v)             Amsterdam
+3      de Bree, C.M. (Conny) (v)            Hoofddorp
+4      Kuitert, K. (Kyra) (v)               Amsterdam
+5      van den Muijzenberg, E.P. (Erik) (m) Parijs (FR)
+6      Ooijens, J.C. (Catharina) (v)        Amsterdam
+7      van de Weetering, I. (Irene) (v)     Amsterdam
+8      de Haan, H.P. (Hein) (m)             Amsterdam
+9      de Keijzer, I. (Indy) (v)            Amsterdam
+10     Colon, F.J. (Ferry) (m)              Amsterdam
+11     Pater, T.S.D. (Tyrone) (m)           Amsterdam
+12     van Egmond, C.J.M. (Ellie) (v)       Amstelveen
+13     Roorda, J. (Jan) (m)                 Amsterdam
+14     Roos, L.P. (Lucienne) (v)            Amsterdam
+15     van 't Veen, J.M. (Jeroen) (m)       Amsterdam
+16     Besuch, A. (Angela) (v)              Amsterdam
+17     Smit-Boerma, J.J. (Anneke) (v)       Diemen
+18     Leever, J.H. (Jeff) (m)              Wieringerwerf

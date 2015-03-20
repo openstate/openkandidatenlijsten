@@ -1,0 +1,26 @@
+9
+TROTS
+(gecombineerd met lijst 26)
+
+Nr      Naam                             Woonplaats
+1       van der Velde, A. (Ans) (v)      Amsterdam
+2       Onel, B.J. (Bryan) (m)           Amsterdam
+3       Dest, R.C. (Ramon) (m)           Amsterdam
+4       Betsalel, H. (Hadas) (v)         Amsterdam
+5       van der Velde, R. (Ronald) (m)   Amsterdam
+6       Hogendorp, D. (Daniël) (m)       Amsterdam
+7       Vreeken, D.R.A.M. (Robert) (m)   Amsterdam
+8       Sarphti, S. (Sony) (m)           Amsterdam
+9       Groenewoud, C.M. (Carlo) (m)     Amsterdam
+10      Bavelaar, J.C. (Josje) (v)       Amsterdam
+11      Linting, T. (Taetske) (v)        Amsterdam
+12      Bonnet, A. (Annelies) (v)        Amsterdam
+13      Einhorn, D.B. (Dan) (m)          Amsterdam
+14      Dekker, C.J. (Joop) (m)          Amsterdam
+15      Rashwan, D.N. (Daniëlle) (v)     Amsterdam
+16      Ersoy, S. (Suayip) (m)           Amsterdam
+17      de Jong, E. (Elles) (v)          Amsterdam
+18      Hogendorp, D.B.D. (Donovan) (m) Amsterdam
+19      Ferwerda, I.A.G.M. (Irma) (v)    Amsterdam
+20      Ferwerda, J. (Jelle) (m)         Amsterdam
+21      van Veen, J.J.M. (Hannie) (v)    Amsterdam

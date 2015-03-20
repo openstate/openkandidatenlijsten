@@ -1,0 +1,70 @@
+{
+    "candidates": [
+        {
+            "first_name": "Kader", 
+            "last_name": "El Oufir", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A. El Oufir", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Nathan", 
+            "last_name": "Bouscher", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N. Bouscher", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Caroline", 
+            "last_name": "Vonhoff", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.E. Vonhoff", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Arno", 
+            "last_name": "Inen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.Q. Inen", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Minne", 
+            "last_name": "Telman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Telman", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sujan", 
+            "last_name": "Lahiri", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S. Lahiri", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Valentine", 
+            "gender": "m", 
+            "place": "Baarn", 
+            "full_name": "R.W. Valentine", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Mario", 
+            "last_name": "Aandewiel", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Aandewiel", 
+            "position": 8
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 27 Libertarische Partij (LP)"
+}

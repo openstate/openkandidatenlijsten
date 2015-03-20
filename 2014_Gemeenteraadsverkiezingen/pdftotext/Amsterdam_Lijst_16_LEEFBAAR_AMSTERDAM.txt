@@ -1,0 +1,13 @@
+16
+LEEFBAAR AMSTERDAM
+
+Nr   Naam                              Woonplaats
+1    Bakker, H.H.G. (Henk) (m)         Amsterdam
+2    Laan, R. (Roberto) (m)            Amsterdam
+3    Leeflang, T. (Tom) (m)            Amsterdam
+4    van Wijnkoop, T.J. (Theo) (m)     Amsterdam
+5    van Lemmeren, B. (Brigitte) (v)   Amsterdam
+6    Smith-Jansen, C.E. (Caroline) (v) Amsterdam
+7    Leider, R.M.D. (Marcel) (m)       Diemen
+8    Oudendorp, R. (Roxana) (v)        Amsterdam
+9    Sol, J.A.C. (Ton) (m)             Amsterdam

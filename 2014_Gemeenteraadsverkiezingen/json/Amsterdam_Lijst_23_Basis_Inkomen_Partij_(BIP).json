@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ron", 
+            "last_name": "Smit", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.R.M.P. Smit", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Sodis", 
+            "last_name": "Vita", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "S. Vita", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Nic", 
+            "last_name": "Wempe", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N.J. Wempe", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Monique", 
+            "last_name": "Dol", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.J. Dol", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 23 Basis Inkomen Partij (BIP)"
+}

@@ -1,0 +1,56 @@
+2
+VVD
+(gecombineerd met lijst 4)
+
+Nr      Naam                                    Woonplaats
+1       van der Burg, E. (Eric) (m)             Amsterdam
+2       Ruigrok, M.H. (Marja) (v)               Amsterdam
+3       van der Ree, D.A. (Daniël) (m)          Amsterdam
+4       Yeṣilgöz-Zegerius, D. (Dilan) (v)       Amsterdam
+5       Poot, M.C.G. (Marianne) (v)             Amsterdam
+6       Torn, R.K. (Rik) (m)                    Amsterdam
+7       Toonk, W.L. (Werner) (m)                Amsterdam
+8       Dijk, T.W. (Tjakko) (m)                 Amsterdam
+9       Bouchibti, S. (Samira) (v)              Amsterdam
+10      Benjamin, B.P. (Brian) (m)              Amsterdam
+11      Berghuijs, K.W.T. (Thomas) (m)          Amsterdam
+12      de Bruijn, S.J.W. (Stefan) (m)          Amsterdam
+13      Lagerveld, F.M. (Femke) (v)             Amsterdam
+14      de Bruin, R. (Rob) (m)                  Amsterdam
+15      Meyer, E. (Eddy) (m)                    Amsterdam
+16      van Dijk, D.P. (Pepijn) (m)             Amsterdam
+17      Hoog, P.A.M. (Ariane) (v)               Amsterdam
+18      Boer, M. (Martijn) (m)                  Amsterdam
+19      Terwal, K.J. (Klaas-Jeroen) (m)         Amsterdam
+20      Went, R.G. (Reimond) (m)                Amsterdam
+21      Naoum Nehme, H. (Hala) (v)              Amsterdam
+22      Jongma, G.W. (Gijs) (m)                 Amsterdam
+23      van der Baan, D.A. (Alex) (m)           Amsterdam
+24      van Kraaij, R.L.R. (Raphaël) (m)        Amsterdam
+25      Tromp, M.N.J.L. (Michèl) (m)            Amsterdam
+26      van Doorn, J.H.J. (John) (m)            Amsterdam
+27      Groot, E. (Elisabeth) (v)               Amsterdam
+28      Aerden, O. (Onno) (m)                   Amsterdam
+29      Mokveld, M.C.N. (Marcel) (m)            Amsterdam
+30      van Bijsterveld, M.J.E. (Monique) (v)   Amsterdam
+31      de Geus, J.E. (Joep) (m)                Amsterdam
+32      Laiti, N. (Nadia) (v)                   Amsterdam
+33      Meijer, K.T. (Karsten) (m)              Amsterdam
+Nr   Naam                                      Woonplaats
+34   Miedema, A.L. (Alexander) (m)             Amsterdam
+35   Eenhoorn, P.C. (Cees) (m)                 Amsterdam
+36   Hellendoorn, J.C. (Jan Coen) (m)          Amsterdam
+37   Can, A. (Ahmet) (m)                       Amsterdam
+38   Lamme, N. (Nils) (m)                      Amsterdam
+39   Meis, D.R. (Daniël) (m)                   Amsterdam
+40   Goring, J.B. (John) (m)                   Amsterdam
+41   IJkelenstam, A.P. (Alexander) (m)         Amsterdam
+42   van Voorst tot Voorst, R.G.M. (Roderic) (m) Amsterdam
+43   Kreuger, M.G.K. (Marco) (m)               Amsterdam
+44   Jänsch, E.R. (Emile) (m)                  Amsterdam
+45   Slettenhaar, P.P.J. (Paul) (m)            Amsterdam
+46   Flos, R.E. (Robert) (m)                   Amsterdam
+47   Eisenmann, J.P. (Jaïr) (m)                Amsterdam
+48   Asscher, E. (Edward) (m)                  Amsterdam
+49   de Grave-Verkerk, D.G.M. (Dorienke) (v)   Amsterdam
+50   Wiebes, E.D. (Eric) (m)                   Amsterdam

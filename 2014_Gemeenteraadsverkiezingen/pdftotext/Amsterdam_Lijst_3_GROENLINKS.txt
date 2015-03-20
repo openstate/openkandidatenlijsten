@@ -1,0 +1,35 @@
+3
+GROENLINKS
+(gecombineerd met lijst 1)
+
+Nr      Naam                               Woonplaats
+1       Groot Wassink, B.R. (Rutger) (m)   Amsterdam
+2       van Es, A.C. (Andrée) (v)          Amsterdam
+3       Groen, R.J. (Jasper) (m)           Amsterdam
+4       Roosma, F. (Femke) (v)             Amsterdam
+5       Nuijens, J.W. (Jorrit) (m)         Amsterdam
+6       Blom, S.R.H. (Simion) (m)          Amsterdam
+7       Ernsting, Z.D. (Zeeger) (m)        Amsterdam
+8       Grooten, L. (Lene) (v)             Amsterdam
+9       van Reijen, M. (Marie-Anne) (v)    Amsterdam
+10      Schol, A. (Aisha) (v)              Amsterdam
+11      Vanderveen, J.S. (Jojanneke) (v)   Amsterdam
+12      ten Kate, G. (Gisela) (v)          Amsterdam
+13      Gerrits, B. (Bram) (m)             Amsterdam
+14      Duits, G.C. (Gerrit) (m)           Amsterdam
+15      van der Grift, J.M. (Jan) (m)      Amsterdam
+16      Combrink, T.J. (Tamira) (v)        Amsterdam
+17      van Roemburg, E.T.W. (Evelien) (v) Amsterdam
+18      van Doorninck, G.A.M. (Marieke) (v) Amsterdam
+19      Hoek, J. (Jan) (m)                 Amsterdam
+20      Molenaar, F.M. (Fjodor) (m)        Amsterdam
+21      Ulichki, F. (Fenna) (v)            Amsterdam
+22      de Wilt, P. (Paulus) (m)           Amsterdam
+23      Welschen, H.C.M. (Hetty) (v)       Amsterdam
+24      Diepeveen, K. (Kees) (m)           Amsterdam
+25      Özütok, N. (Nevin) (v)             Amsterdam
+26      Vyent, U.C. (Urwin) (m)            Amsterdam
+27      van Pinxteren, A. (Jeanine) (v)    Amsterdam
+28      Vos, M.B. (Marijke) (v)            Amsterdam
+29      van Tongeren, L. (Liesbeth) (v)    Amsterdam
+30      van Poelgeest, M. (Maarten) (m)    Amsterdam

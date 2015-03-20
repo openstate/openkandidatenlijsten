@@ -1,0 +1,22 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ton", 
+            "last_name": "Thonon", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.H.M. Thonon", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Anuschka", 
+            "last_name": "Groot", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.L. Groot", 
+            "position": 2
+        }
+    ], 
+    "description": "Nr   Naam                     Woonplaats", 
+    "title": "Amsterdam Lijst 10 "
+}

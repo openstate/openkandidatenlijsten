@@ -1,0 +1,43 @@
+15
+ChristenUnie
+
+Nr     Naam                                  Woonplaats
+1      de Groot, B.T. (Bas) (m)              Amsterdam
+2      Kuiper-de Haan, T. (Tjitske) (v)      Amsterdam
+3      Ceder, D.G.M. (Don) (m)               Amsterdam
+4      Voordewind, J.S. (Joël) (m)           Amsterdam
+5      de Bruine, H.M. (Hélène) (v)          Amsterdam
+6      Nooitgedacht, R.G. (Rita) (v)         Amsterdam
+7      Olsen, J.H. (John) (m)                Amsterdam
+8      Ramzy, K. (Katrina) (v)               Almere
+9      Butt, M.A. (Asger) (m)                Amsterdam
+10     van Houwelingen, A.J. (Jurjen) (m)    Amsterdam
+11     Gunnink, J.M. (Judith) (v)            Amsterdam
+12     Boiten, C.L. (Christiaan) (m)         Amsterdam
+13     Voordewind-Timman, D. (Debora) (v) Amsterdam
+14     William, J. (John) (m)                Almere
+15     Benjamin, V.B. (Vincent) (m)          Amsterdam
+16     Kotadiny, R.C.F. (Ravenna) (v)        Amsterdam
+17     de Vries, M.S. (Matthias) (m)         Amsterdam
+18     Arnold, J.J. (Joppe) (m)              Amsterdam
+19     Klein, A.C. (Annacarina) (v)          Amsterdam
+20     Benschop, G.J. (Gerrit) (m)           Amsterdam
+21     Zmnako Karem Ali, -- (Zmnako) (m)     Amsterdam
+22     van Riessen, E.M. (Liesbeth) (v)      Amsterdam
+23     Tensen, I. (Iwan) (m)                 Amsterdam
+24     Huijbrechts, H. (Hilbert) (m)         Amsterdam
+25     Vos, W.K. (Wilko) (m)                 Amsterdam
+26     van Essen, H. J. (Hendrik) (m)        Amsterdam
+27     Schavemaker, J.G.M. (Coby) (v)        Amsterdam
+28     de Snoo, T. (Teun-Pieter) (m)         Amsterdam
+29     Spronk, F. (Floris) (m)               Amsterdam
+30     Boogaard, R.C.M. (Roel) (m)           Amsterdam
+31     Waardenburg, R. (Roland) (m)          Amsterdam
+32     Wiersma-Krijtenburg, Y.J. (Yke) (v)   Amsterdam
+33     Scherff, H.C. (Hugo) (m)              Amsterdam
+34     Bezemer, J. (Jan) (m)                 Amsterdam
+Nr   Naam                            Woonplaats
+35   van Andel, C. (Chris) (m)       Amsterdam
+36   ten Brinke, J.M. (Jurjen) (m)   Amsterdam
+37   Rutgers, M.J. (Martijn) (m)     Amsterdam
+38   Kuiper, R. (Roel) (m)           Amsterdam

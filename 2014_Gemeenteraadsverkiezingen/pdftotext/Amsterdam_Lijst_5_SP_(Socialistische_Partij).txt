@@ -1,0 +1,55 @@
+5
+SP (Socialistische Partij)
+
+Nr      Naam                                Woonplaats
+1       Ivens, L. G. F. (Laurens) (m)       Amsterdam
+2       van der Pligt, M.M. (Maureen) (v)   Amsterdam
+3       Kwint, J.P. (Peter) (m)             Amsterdam
+4       Peters, D.W.S. (Daniël) (m)         Amsterdam
+5       Flentge, E.A. (Erik) (m)            Amsterdam
+6       Alberts-Oosterbaan, R. (Remine) (v) Amsterdam
+7       Bakker, N.T. (Tiers) (m)            Amsterdam
+8       Bobeldijk, E. (Erik) (m)            Amsterdam
+9       Duijndam, P.J.M. (Nelly) (v)        Amsterdam
+10      Lividikou, D. (Dessie) (v)          Amsterdam
+11      Boersbroek, R. (Ramon) (m)          Amsterdam
+12      van der Veen, G. (Gerben) (m)       Amsterdam
+13      Ritsema, G. (Geert) (m)             Amsterdam
+14      Schaeffer, C. (Chris) (m)           Amsterdam
+15      Yahyaoui, J. (Jamila) (v)           Utrecht
+16      Uitdenbogaart, B.P. (Bart) (m)      Amsterdam
+17      Reudler Talsma, F. (Femke) (v)      Amsterdam
+18      Eikenaar, E. (Eelco) (m)            Amsterdam
+19      Busz, M.C. (Machteld) (v)           Amsterdam
+20      Hiep, C.J.E.M. (Kees) (m)           Amsterdam
+21      Brink, D. (Dic) (m)                 Amsterdam
+22      Luijten, J. (Justin) (m)            Amsterdam
+23      Bijleveld, W.A.M. (Helmie) (v)      Amsterdam
+24      van der Velden, R.E. (Robin) (m)    Amsterdam
+25      Brand, R.C. (Robert) (m)            Amsterdam
+26      van Schaik, G.J. (Geert) (m)        Amsterdam
+27      Boelhouwer, C. (Carlien) (v)        Amsterdam
+28      Berends, E. (Erna) (v)              Amsterdam
+29      van Raak, A.A.G.M. (Ronald) (m)     Amsterdam
+30      van Dijk, J.J. (Jasper) (m)         Amsterdam
+31      Merkies, A.Z. (Arnold) (m)          Amsterdam
+32      Vissia, N. (Nynke) (v)              Amsterdam
+33      Reuten, G.A.T.M. (Geert) (m)        Amsterdam
+34      Vliegenthart, A. (Arjan) (m)        Amsterdam
+Nr   Naam                             Woonplaats
+35   Bruggeman, J.M. (Marnix) (m)     Amsterdam
+36   Graatsma, D. (Mienk) (m)         Amsterdam
+37   Paquay, W.G.H. (Willem) (m)      Amsterdam
+38   Bakker, J.L. (Hans) (m)          Amsterdam
+39   Meijer, M.P. (Meta) (v)          Amsterdam
+40   Moayyed, R. (Roya) (v)           Amsterdam
+41   Icke, F. (Frans) (m)             Amsterdam
+42   Jurrema, F.R. (Frans-Rein) (m)   Amsterdam
+43   Terribili, S. (Silvia) (v)       Amsterdam
+44   Proos, T.S.L. (Sebastiaan) (m)   Amsterdam
+45   Meijler, A. (André) (m)          Amsterdam
+46   Boeijen, W.P. (Wilbert) (m)      Amsterdam
+47   Wirtz, R. (Reinier) (m)          Amsterdam
+48   van Dijnen, P.M.E. (Paula) (v)   Amsterdam
+49   Awater, M. (Maike) (v)           Amsterdam
+50   Karabulut, S. (Sadet) (v)        Amsterdam

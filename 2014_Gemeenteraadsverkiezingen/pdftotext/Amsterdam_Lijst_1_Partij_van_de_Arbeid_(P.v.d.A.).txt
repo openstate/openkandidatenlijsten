@@ -1,0 +1,35 @@
+1
+Partij van de Arbeid (P.v.d.A.)
+(gecombineerd met lijst 3)
+
+Nr      Naam                              Woonplaats
+1       Hilhorst, P.F.C. (Pieter) (m)     Amsterdam
+2       Moorman, M. (Marjolein) (v)       Amsterdam
+3       Poorter, M.F. (Maarten) (m)       Amsterdam
+4       Boutkan, D.F. (Dennis) (m)        Amsterdam
+5       van den Berg, P.J.M. (Pia) (v)    Amsterdam
+6       Mbarki, S. (Sofyan) (m)           Amsterdam
+7       Ünver, E. (Emre) (m)              Amsterdam
+8       Boldewijn, H.B. (Henk) (m)        Amsterdam
+9       de Heer, A.C. (Carolien) (v)      Amsterdam
+10      Verburg, A. (Arco) (m)            Amsterdam
+11      Mulder, M. (Michiel) (m)          Amsterdam
+12      Saadi, I. (Ilham) (v)             Amsterdam
+13      de Groot, E.J. (Erik) (m)         Amsterdam
+14      Geenen, T.A.J. (Toon) (m)         Amsterdam
+15      Zanzen, A. (Aissa) (m)            Amsterdam
+16      Groenendijk, J. (Cobie) (v)       Amsterdam
+17      Kayar, O. (Orhan) (m)             Amsterdam
+18      Winsemius, R. (Rik) (m)           Amsterdam
+19      Boerkamp, R. (Ruben) (m)          Amsterdam
+20      Jager, G. (Ger) (m)               Amsterdam
+21      Doevendans, S.S. (Sandra) (v)     Amsterdam
+22      Abid, B. (Brahim) (m)             Amsterdam
+23      van der Geest, N.A.M. (Natasja) (v) Amsterdam
+24      Nelom, G.H. (Guillaumine) (v)     Amsterdam
+25      de Boer, G.W. (Gery) (v)          Amsterdam
+26      Ringma, J. (Marianne) (v)         Amsterdam
+27      Steenwinkel, R.A. (Rolf) (m)      Amsterdam
+28      de Vries, E.J. (Egbert) (m)       Amsterdam
+29      Brommet, J.E. (Jitske) (v)        Amsterdam
+30      Koopman, C.J.M. (Tineke) (v)      Amsterdam

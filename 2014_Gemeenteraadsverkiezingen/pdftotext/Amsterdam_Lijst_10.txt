@@ -1,0 +1,5 @@
+10
+
+Nr   Naam                     Woonplaats
+1    Thonon, A.H.M. (Ton) (m) Amsterdam
+2    Groot, A.L. (Anuschka) (v) Amsterdam

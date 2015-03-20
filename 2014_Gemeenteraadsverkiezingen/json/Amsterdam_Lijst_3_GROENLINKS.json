@@ -1,0 +1,246 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rutger", 
+            "last_name": "Groot Wassink", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.R. Groot Wassink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Andrée", 
+            "last_name": "van Es", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.C. van Es", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jasper", 
+            "last_name": "Groen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.J. Groen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Femke", 
+            "last_name": "Roosma", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. Roosma", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jorrit", 
+            "last_name": "Nuijens", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.W. Nuijens", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Simion", 
+            "last_name": "Blom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S.R.H. Blom", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Zeeger", 
+            "last_name": "Ernsting", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "Z.D. Ernsting", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Lene", 
+            "last_name": "Grooten", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L. Grooten", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Marie-Anne", 
+            "last_name": "van Reijen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M. van Reijen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Aisha", 
+            "last_name": "Schol", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. Schol", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jojanneke", 
+            "last_name": "Vanderveen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.S. Vanderveen", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Gisela", 
+            "last_name": "ten Kate", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "G. ten Kate", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bram", 
+            "last_name": "Gerrits", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B. Gerrits", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Gerrit", 
+            "last_name": "Duits", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "G.C. Duits", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van der Grift", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.M. van der Grift", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Tamira", 
+            "last_name": "Combrink", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.J. Combrink", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Evelien", 
+            "last_name": "van Roemburg", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E.T.W. van Roemburg", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Marieke", 
+            "last_name": "van Doorninck", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "G.A.M. van Doorninck", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Hoek", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Hoek", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Fjodor", 
+            "last_name": "Molenaar", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.M. Molenaar", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Fenna", 
+            "last_name": "Ulichki", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. Ulichki", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Paulus", 
+            "last_name": "de Wilt", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. de Wilt", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Hetty", 
+            "last_name": "Welschen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.C.M. Welschen", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Kees", 
+            "last_name": "Diepeveen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "K. Diepeveen", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Nevin", 
+            "last_name": "Özütok", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N. Özütok", 
+            "position": 25
+        }, 
+        {
+            "first_name": "Urwin", 
+            "last_name": "Vyent", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "U.C. Vyent", 
+            "position": 26
+        }, 
+        {
+            "first_name": "Jeanine", 
+            "last_name": "van Pinxteren", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. van Pinxteren", 
+            "position": 27
+        }, 
+        {
+            "first_name": "Marijke", 
+            "last_name": "Vos", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.B. Vos", 
+            "position": 28
+        }, 
+        {
+            "first_name": "Liesbeth", 
+            "last_name": "van Tongeren", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L. van Tongeren", 
+            "position": 29
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "van Poelgeest", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. van Poelgeest", 
+            "position": 30
+        }
+    ], 
+    "description": "gecombineerd met lijst 1", 
+    "title": "Amsterdam Lijst 3 GROENLINKS"
+}

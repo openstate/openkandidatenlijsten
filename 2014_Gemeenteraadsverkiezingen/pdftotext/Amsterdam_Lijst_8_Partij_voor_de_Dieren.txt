@@ -1,0 +1,25 @@
+8
+Partij voor de Dieren
+(gecombineerd met lijst 6)
+
+Nr      Naam                              Woonplaats
+1       van Lammeren, J.F.W. (Johnas) (m) Amsterdam
+2       van Raan, L. (Lammert) (m)        Amsterdam
+3       van Heijningen, J. (Joyce) (v)    Amsterdam
+4       Bakker, A.L. (Anke) (v)           Amsterdam
+5       Oetelmans, T.A. (Tamar) (v)       Amsterdam
+6       van Donselaar, A.J. (Dreas) (m)   Amsterdam
+7       Boogaard, H. (Hannah) (v)         Amsterdam
+8       de Man, D.A. (Daniëlle) (v)       Parijs (FR)
+9       Blom, M.L. (Mario) (m)            Amsterdam
+10      Brink, J. (Jeroen) (m)            Amsterdam
+11      Dicke, I.M. (Iris) (v)            Amsterdam
+12      Asselbergs, X. (Xandra) (v)       Amsterdam
+13      Sternheim, I.E. (Isabelle) (v)    Amsterdam
+14      van Lierop, F.W.D. (Friso) (m)    Amsterdam
+15      Ligthart, M.E. (Mandy) (v)        Amsterdam
+16      Broersen, L.M. (Linda) (v)        Amsterdam
+17      van Dijk-Armor, M.M. (Monique) (v) Amsterdam
+18      van der Waaij, J. (Jaap) (m)      Amsterdam
+19      Akerboom, E.S. (Eva) (v)          Amsterdam
+20      Swabe, J.M. (Jo) (v)              Amsterdam

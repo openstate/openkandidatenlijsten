@@ -1,0 +1,166 @@
+{
+    "candidates": [
+        {
+            "first_name": "Johnas", 
+            "last_name": "van Lammeren", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.F.W. van Lammeren", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lammert", 
+            "last_name": "van Raan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L. van Raan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Joyce", 
+            "last_name": "van Heijningen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. van Heijningen", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Anke", 
+            "last_name": "Bakker", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.L. Bakker", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Tamar", 
+            "last_name": "Oetelmans", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.A. Oetelmans", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Dreas", 
+            "last_name": "van Donselaar", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.J. van Donselaar", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Hannah", 
+            "last_name": "Boogaard", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H. Boogaard", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Daniëlle", 
+            "last_name": "de Man", 
+            "gender": "v", 
+            "place": "Parijs (FR)", 
+            "full_name": "D.A. de Man", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Mario", 
+            "last_name": "Blom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.L. Blom", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "Brink", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Brink", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Iris", 
+            "last_name": "Dicke", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.M. Dicke", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Xandra", 
+            "last_name": "Asselbergs", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "X. Asselbergs", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Isabelle", 
+            "last_name": "Sternheim", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.E. Sternheim", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Friso", 
+            "last_name": "van Lierop", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.W.D. van Lierop", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Mandy", 
+            "last_name": "Ligthart", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.E. Ligthart", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Linda", 
+            "last_name": "Broersen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.M. Broersen", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Monique", 
+            "last_name": "van Dijk-Armor", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.M. van Dijk-Armor", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "van der Waaij", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. van der Waaij", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Eva", 
+            "last_name": "Akerboom", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E.S. Akerboom", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jo", 
+            "last_name": "Swabe", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.M. Swabe", 
+            "position": 20
+        }
+    ], 
+    "description": "gecombineerd met lijst 6", 
+    "title": "Amsterdam Lijst 8 Partij voor de Dieren"
+}

@@ -1,0 +1,8 @@
+23
+Basis Inkomen Partij (BIP)
+
+Nr      Naam                      Woonplaats
+1       Smit, H.R.M.P. (Ron) (m) Amsterdam
+2       Vita, S. (Sodis) (v)      Amsterdam
+3       Wempe, N.J. (Nic) (v)     Amsterdam
+4       Dol, M.J. (Monique) (v)   Amsterdam

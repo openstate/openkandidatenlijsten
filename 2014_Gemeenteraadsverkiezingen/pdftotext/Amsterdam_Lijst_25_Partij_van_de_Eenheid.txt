@@ -1,0 +1,13 @@
+25
+Partij van de Eenheid
+
+Nr      Naam                  Woonplaats
+1       Ez-Zaouak, M.R. (m)   Amsterdam
+2       Vergunst, W.P.A. (m) 's-Gravenhage
+3       Atasoy, L. (m)        's-Gravenhage
+4       Önal, H. (m)          Amsterdam
+5       Thiel, K.G.M. (v)     Amsterdam
+6       van der Horst, J.E. (v) Amsterdam
+7       Aulad Ahmed, M. (m) Amsterdam
+8       Özoğlu, A. (m)        Amsterdam
+9       Khoulani, O. (m)      's-Gravenhage

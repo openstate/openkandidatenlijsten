@@ -1,0 +1,21 @@
+20
+Nieuwe Amsterdamse Toekomst (NAT)
+
+Nr    Naam                             Woonplaats
+1     Berkhout, J.V. (Jarmo) (m)       Amsterdam
+2     van der Spek, Z.L. (Zilla) (v)   Amsterdam
+3     Cramer, J. (Joey) (m)            Amsterdam
+4     Scholten, O.T. (Olav) (m)        Amsterdam
+5     Peters, E.A. (Eline) (v)         Amsterdam
+6     Stapper, E.W. (Michiel) (m)      Amsterdam
+7     Brink, R. (Rianne) (v)           Amsterdam
+8     van den Berg, N. (Noeri) (m)     Amsterdam
+9     Willms, E.C. (Emiel) (m)         Amsterdam
+10    Pepić, E. (Emil) (m)             Amsterdam
+11    Jonker, B. (Birk) (m)            Amsterdam
+12    van de Kerke, T.W. (Titus) (m) Amstelveen
+13    Stevens, J. (Judith) (v)         Amsterdam
+14    Markus, M.P. (Maarten) (m)       Amsterdam
+15    van Heest, F.C. (Frans) (m)      Amsterdam
+16    Boersma, C. (Cornelis) (m)       Amsterdam
+17    van Dalen, M.J.M. (Marc) (m) Amsterdam

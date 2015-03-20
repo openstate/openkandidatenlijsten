@@ -1,0 +1,14 @@
+24
+Visie Op Amsterdam (Lijst Ina Brouwer)
+
+Nr     Naam                           Woonplaats
+1      Brouwer, I. (Ina) (v)          Amsterdam
+2      Selier, L.S. (Lotte) (v)       Amsterdam
+3      Berg, J. (Jonathan) (m)        Amsterdam
+4      M'Charek, A. (Al) (m)          Amsterdam
+5      Beckers, D. (Dennis) (m)       Amsterdam
+6      Horstink, M.J. (Marijke) (v)   Amsterdam
+7      Kroon, P.C.M. (Petra) (v)      Amsterdam
+8      Melissen, A. (Antje) (v)       Amsterdam
+9      Zwanink, Y. (Yael) (v)         Amsterdam
+10     van Hoek, A.Q.A.M. (Ton) (m) Amsterdam

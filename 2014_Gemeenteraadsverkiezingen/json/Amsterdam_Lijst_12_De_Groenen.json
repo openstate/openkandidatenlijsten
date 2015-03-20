@@ -1,0 +1,174 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ronald", 
+            "last_name": "Schönberger", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.A. Schönberger", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Mouna", 
+            "last_name": "Jabrane", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M. Jabrane", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Mirjam", 
+            "last_name": "van Rijn", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.P. van Rijn", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Khaled", 
+            "last_name": "Sakhel", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "K. Sakhel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bayla", 
+            "last_name": "van de Loo", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.P. van de Loo", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Rakesh", 
+            "last_name": "Mijling", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H. Mijling", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Elly", 
+            "last_name": "Kamp", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E.H. Kamp", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Nabille", 
+            "last_name": "El Hajoui", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N. El Hajoui", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "van Hagen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.G.H. van Hagen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ymie", 
+            "last_name": "Vonk", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "IJ.H. Vonk", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Otto", 
+            "last_name": "ter Haar", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "O.H. ter Haar", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Rijndert", 
+            "last_name": "Doting", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. Doting", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Theodoor", 
+            "last_name": "Blom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T. Blom", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Tamara", 
+            "last_name": "Vrielink", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.E. Vrielink", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Max", 
+            "last_name": "van den Dool", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.J. van den Dool", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "Bolweg", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.C. Bolweg", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Ruben", 
+            "last_name": "Duister", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. Duister", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Walter", 
+            "last_name": "Visser", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.W. Visser", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Arthur", 
+            "last_name": "Boelhouwer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.A. Boelhouwer", 
+            "position": 19
+        }, 
+        {
+            "first_name": "David", 
+            "last_name": "Blik", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D. Blik", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Hero", 
+            "last_name": "Werkman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H. Werkman", 
+            "position": 21
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 12 De Groenen"
+}

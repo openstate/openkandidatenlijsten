@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "", 
+            "last_name": "Ez-Zaouak", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.R. Ez-Zaouak", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Vergunst", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "W.P.A. Vergunst", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Atasoy", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "L. Atasoy", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Önal", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H. Önal", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Thiel", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "K.G.M. Thiel", 
+            "position": 5
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van der Horst", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.E. van der Horst", 
+            "position": 6
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Aulad Ahmed", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Aulad Ahmed", 
+            "position": 7
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Özoğlu", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A. Özoğlu", 
+            "position": 8
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Khoulani", 
+            "gender": "m", 
+            "place": "'s-Gravenhage", 
+            "full_name": "O. Khoulani", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 25 Partij van de Eenheid"
+}

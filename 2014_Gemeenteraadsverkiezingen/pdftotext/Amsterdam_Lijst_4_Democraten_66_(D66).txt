@@ -1,0 +1,56 @@
+4
+Democraten 66 (D66)
+(gecombineerd met lijst 2)
+
+Nr      Naam                                Woonplaats
+1       Paternotte, J.M. (Jan) (m)          Amsterdam
+2       Kwint, Z. (Zoë) (v)                 Amsterdam
+3       Guldemond, P.V. (Paul) (m)          Amsterdam
+4       van Dantzig, R.H. (Reinier) (m)     Amsterdam
+5       Bakker, A.J.M. (Guus) (m)           Amsterdam
+6       Vroege, J.S.A. (Jan-Bert) (m)       Amsterdam
+7       Verheul, A. (Ariëlla) (v)           Amsterdam
+8       ten Bruggencate, M. (Mascha) (v)    Amsterdam
+9       Van Osselaer, J.P.D. (Joris) (m)    Amsterdam
+10      Bosman, A.M. (Marijn) (v)           Amsterdam
+11      van den Heuvel, M.E. (Marcel) (m) Amsterdam
+12      Kaya, M. (Meltem) (v)               Amsterdam
+13      Vink, B.L. (Bart) (m)               Amsterdam
+14      Timman, D. (Dehlia) (v)             Amsterdam
+15      Glaubitz, B.O.J.R. (Hans) (m)       Amsterdam
+16      Hammelburg, A.R. (Alexander) (m) Amsterdam
+17      El Ksaihi, Y. (Yassmine) (v)        Amsterdam
+18      van Schagen, M.R. (Marcel) (m)      Amsterdam
+19      Mirck, J.H. (Jeroen) (m)            Amsterdam
+20      Sisli, S.S. (Sinem) (v)             Amsterdam
+21      Meeter, J. (Jurrian) (m)            Amsterdam
+22      van Egmond, T. (Thomas) (m)         Amsterdam
+23      Janssen, A.N.G. (Nico) (m)          Amsterdam
+24      Boink, J.C.C. (Jorine) (v)          Amsterdam
+25      Ranzijn, A.F.H. (Alfred) (m)        Amsterdam
+26      Ristie, R.H. (Roy) (m)              Amsterdam
+27      Caupain, M.A. (Maureen) (v)         Amsterdam
+28      Passchier, R. (Rigtje) (v)          Amsterdam
+29      de Vries, R.S. (Reinout) (m)        Amsterdam
+30      van der Molen, G.E. (Evelien) (v)   Amsterdam
+31      Capel, S.T. (Sebastiaan) (m)        Amsterdam
+32      Rustema, R. (Reinder) (m)           Amsterdam
+33      Verhoeven, L.G.C. (Lisa) (v)        Amsterdam
+Nr   Naam                              Woonplaats
+34   Dol, W. (Wouter) (m)              Amsterdam
+35   Roorda, J.C.M. (Jaap) (m)         Amsterdam
+36   Alkema, J. (Yellie) (v)           Amsterdam
+37   Chao, A.M.B. (Andrea) (v)         Amsterdam
+38   Rietman, P. (Pieter) (m)          Amsterdam
+39   Choho, A. (Abdeluheb) (m)         Amsterdam
+40   Sevinçer, T. (Tüncay) (m)         Amsterdam
+41   Boesenkool, L.K. (Liesbeth) (v)   Amsterdam
+42   Talie, K. (Karim) (m)             Amsterdam
+43   Kukenheim, S. (Simone) (v)        Amsterdam
+44   Mauer, R.J. (Ronald) (m)          Amsterdam
+45   Yurdakul, Z. (Zafer) (m)          Amsterdam
+46   Rooderkerk, I. (Ilana) (v)        Amsterdam
+47   Tordoir, P.P. (Pieter) (m)        Amsterdam
+48   Baba, M. (Mohamed) (m)            Amsterdam
+49   Shapiro, G.S. (Gregory) (m)       Amsterdam
+50   van der Ham, B. (Boris) (m)       Amsterdam

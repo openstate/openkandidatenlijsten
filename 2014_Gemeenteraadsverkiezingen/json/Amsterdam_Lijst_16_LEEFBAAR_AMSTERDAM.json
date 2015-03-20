@@ -1,0 +1,78 @@
+{
+    "candidates": [
+        {
+            "first_name": "Henk", 
+            "last_name": "Bakker", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.H.G. Bakker", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Roberto", 
+            "last_name": "Laan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. Laan", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Tom", 
+            "last_name": "Leeflang", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T. Leeflang", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "van Wijnkoop", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.J. van Wijnkoop", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Brigitte", 
+            "last_name": "van Lemmeren", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B. van Lemmeren", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Caroline", 
+            "last_name": "Smith-Jansen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.E. Smith-Jansen", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Marcel", 
+            "last_name": "Leider", 
+            "gender": "m", 
+            "place": "Diemen", 
+            "full_name": "R.M.D. Leider", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Roxana", 
+            "last_name": "Oudendorp", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "R. Oudendorp", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Sol", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.A.C. Sol", 
+            "position": 9
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 16 LEEFBAAR AMSTERDAM"
+}

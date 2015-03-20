@@ -1,0 +1,10 @@
+18
+Partij Voor Vrije Amsterdammers (PVVA)
+
+Nr     Naam                Woonplaats
+1      Bremer, H.C.        Amsterdam
+2      van Bennekum, W.H.J. Amsterdam
+3      Monker, J.A.        Amsterdam
+4      Maij, W.P.          Monnickendam
+5      Koppen, O.C.        Amsterdam
+6      de Weerd, J.        Apeldoorn

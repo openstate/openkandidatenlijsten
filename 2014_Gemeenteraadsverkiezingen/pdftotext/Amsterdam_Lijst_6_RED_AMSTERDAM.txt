@@ -1,0 +1,30 @@
+6
+RED AMSTERDAM
+(gecombineerd met lijst 8)
+
+Nr      Naam                              Woonplaats
+1       Evans-Knaup, I.R. (Roderic) (m) Amsterdam
+2       van Vliet, B.B. (Bas) (m)         Amsterdam
+3       Brekveld, D. (Daphna) (v)         Amsterdam
+4       Klatser, B.V. (Boris) (m)         Amsterdam
+5       Buijs, L.J. (Laurens) (m)         Amsterdam
+6       Frijda, N. (Nelly) (v)            Amsterdam
+7       Ringeling, D.A. (Alex) (m)        Amsterdam
+8       Boerlage, S. (Saar) (v)           Amsterdam
+9       de Laaf, B.J. (Jantien) (v)       Amsterdam
+10      Bierman, M. (Marten) (m)          Amsterdam
+11      Burger, J.E.J.M. (Jan Erik) (m)   Amsterdam
+12      van Buuren, O. (Onno) (m)         Amsterdam
+13      Brons, P.L. (Bert) (m)            Amsterdam
+14      de Graaff, N.A. (Nana) (v)        Amsterdam
+15      van de Sande, B.B.H. (BoB) (m) Amsterdam
+16      Lieshout, F.E.A. (Floris) (m)     Haarlem
+17      IJsendijk, R.A. (Rob) (m)         Amsterdam
+18      Gieling, R.R.M. (Ramon) (m)       Amsterdam
+19      Stokkink, T.W.J. (Theo) (m)       Amsterdam
+20      Uittenbogaard, T.A. (Theo) (m)    Amsterdam
+21      Spaan, H.G.M. (Henk) (m)          Amsterdam
+22      Dulfer, H.F. (Hans) (m)           Grootschermer
+23      ten Holt, N.A. (Klaas) (m)        Amsterdam
+24      Mengelberg, K.M.J. (Kaspar) (m) Amsterdam
+25      Stapel, H.W.J.M. (Huub) (m)       Amsterdam

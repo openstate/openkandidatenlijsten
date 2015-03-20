@@ -1,0 +1,51 @@
+7
+CDA
+
+Nr    Naam                                          Woonplaats
+1     Shahsavari-Jansen, M.D. (Marijke) (v)         Amsterdam
+2     Verstoep, J. (Joram) (m)                      Amsterdam
+3     Boomsma, D.T. (Diederik) (m)                  Amsterdam
+4     Dullaert, C.W.M. (Christ'l) (v)               Amsterdam
+5     Blommers, L.D. (Luc) (m)                      Amsterdam
+6     Beij, G.I. (Ginio) (m)                        Amsterdam
+7     Gardeniers, B.H.M. (Barbara) (v)              Amsterdam
+8     van Geijn, F.H.M.A. (Erik) (m)                Amsterdam
+9     Haverkamp, C.M. (Marc) (m)                    Amsterdam
+10    Klokke, N. (Nadine) (v)                       Amsterdam
+11    de Roy van Zuidewijn-Rive, S.C.T. (Susanne) (v) Amsterdam
+12    Res, H.M. (Hans) (m)                          Amsterdam
+13    Nefkens, M.W.G. (Michael) (m)                 Amsterdam
+14    Fraanje, M.J. (Rien) (m)                      Amsterdam
+15    Heijnen, D.G. (Dennis) (m)                    Amsterdam
+16    Keulen, S.J. (Sjoerd) (m)                     Amsterdam
+17    Wijmenga, J.N. (Niek) (m)                     Amsterdam
+18    Tanyildiz, A. (Abdulkadir) (m)                Amsterdam
+19    de Jong, M. (Martin) (m)                      Amsterdam
+20    Badal, L. (Jozef) (m)                         Amsterdam
+21    Klingenberg, H.H.L. (Helmer) (m)              Amsterdam
+22    Beij-van Andel, J. (Anja) (v)                 Amsterdam
+23    Voogdt, P.C. (Peter) (m)                      Amsterdam
+24    Burggraaf, J.L. (Jan Louis) (m)               Amsterdam
+25    Grapperhaus, F.B.J. (Ferdinand) (m)           Amsterdam
+26    van der Werf, M.C.I. (Marieke) (v)            Amsterdam
+27    Estourgie, C.E.M. (Camille) (m)               Amsterdam
+28    Olmer, O.J.M. (Olaf) (m)                      Amsterdam
+29    Claassen, C.N.A.M. (Karel) (m)                Amsterdam
+30    Kassies, A.J.I. (Albert) (m)                  Amsterdam
+31    Koning, J. (Jan) (m)                          Amsterdam
+32    Jhr. van Sminia, W.J. (Wilco) (m)             Amsterdam
+33    Dunselman, J.W. (Jaap) (m)                    Amsterdam
+34    Brugmans, P.J.L. (Pascal) (m)                 Amsterdam
+Nr   Naam                                           Woonplaats
+35   Leushuis, G.H.M. (Gerda) (v)                   Amsterdam
+36   Laseur, M.A. (Marilia) (v)                     Amsterdam
+37   Rombouts, S.J.E. (Steffi) (v)                  Amsterdam
+38   van der Meulen, J.L. (Janna) (v)               Amsterdam
+39   Lokin, E.C.H.J. (Manuel) (m)                   Amsterdam
+40   de Boer, M.H. (Menno) (m)                      Amsterdam
+41   van Lanschot, D.J. (Duco) (m)                  Amsterdam
+42   de Jonge, J. (Jan) (m)                         Amsterdam
+43   Goyert, A.A.E. (Aranka) (v)                    Amsterdam
+44   van Triest, S. (Sebastiaan) (m)                Amsterdam
+45   Jhr. de Roy van Zuidewijn, B.W.J.M. (Barend) (m) Amsterdam
+46   van Drooge, A.H. (Lex) (m)                     Amsterdam

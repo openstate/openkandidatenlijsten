@@ -1,0 +1,22 @@
+21
+OMA Amsterdam
+
+Nr    Naam                                  Woonplaats
+1     Pinto, D. (David) (m)                 Amsterdam
+2     Weijman, M.A. (Maria) (v)             Amsterdam
+3     Oonk, J.W. (Joop) (m)                 Amsterdam
+4     Bremers, W.J.L. (Wil) (m)             Amsterdam
+5     Uitterdijk, J.H. (Jaap) (m)           Amsterdam
+6     Wurtz, A. (Ton) (m)                   Gouda
+7     Beks, W.J. (Wieger) (m)               Amsterdam
+8     Meijer, N. (Nico) (m)                 Amsterdam
+9     van Harling, S.G. (Guan) (m)          Amsterdam
+10    Zapata Sepulveda, R.J. (Jacqueline) (v) Amsterdam
+11    van Meerten, M. (Marina) (v)          Amsterdam
+12    Faber, T.E.M. (Melissa) (v)           Amsterdam
+13    Meijll, D.G. (Diana) (v)              Amsterdam
+14    Cairo, B.M. (Brandy) (v)              Amsterdam
+15    Cairo, C.D.J. (Clementine) (v)        Amsterdam
+16    Schouw, R.M. (Maurice) (m)            Amsterdam
+17    van der Zon, N.P. (Niek) (m)          Amsterdam
+18    van der Helm, M.P. (Anneke) (v)       Hoofddorp

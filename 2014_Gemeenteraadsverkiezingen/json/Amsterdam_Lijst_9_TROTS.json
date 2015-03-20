@@ -1,0 +1,174 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ans", 
+            "last_name": "van der Velde", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. van der Velde", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bryan", 
+            "last_name": "Onel", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.J. Onel", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ramon", 
+            "last_name": "Dest", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.C. Dest", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Hadas", 
+            "last_name": "Betsalel", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H. Betsalel", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Ronald", 
+            "last_name": "van der Velde", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. van der Velde", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Daniël", 
+            "last_name": "Hogendorp", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D. Hogendorp", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Robert", 
+            "last_name": "Vreeken", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D.R.A.M. Vreeken", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Sony", 
+            "last_name": "Sarphti", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S. Sarphti", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Carlo", 
+            "last_name": "Groenewoud", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.M. Groenewoud", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Josje", 
+            "last_name": "Bavelaar", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.C. Bavelaar", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Taetske", 
+            "last_name": "Linting", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T. Linting", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Annelies", 
+            "last_name": "Bonnet", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. Bonnet", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Dan", 
+            "last_name": "Einhorn", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D.B. Einhorn", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Dekker", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.J. Dekker", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Daniëlle", 
+            "last_name": "Rashwan", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "D.N. Rashwan", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Suayip", 
+            "last_name": "Ersoy", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S. Ersoy", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Elles", 
+            "last_name": "de Jong", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E. de Jong", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Donovan", 
+            "last_name": "Hogendorp", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D.B.D. Hogendorp", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Irma", 
+            "last_name": "Ferwerda", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.A.G.M. Ferwerda", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Jelle", 
+            "last_name": "Ferwerda", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Ferwerda", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Hannie", 
+            "last_name": "van Veen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.J.M. van Veen", 
+            "position": 21
+        }
+    ], 
+    "description": "gecombineerd met lijst 26", 
+    "title": "Amsterdam Lijst 9 TROTS"
+}

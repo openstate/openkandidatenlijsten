@@ -1,0 +1,12 @@
+27
+Libertarische Partij (LP)
+
+Nr      Naam                           Woonplaats
+1       El Oufir, A. (Kader) (m)       Amsterdam
+2       Bouscher, N. (Nathan) (m)      Amsterdam
+3       Vonhoff, C.E. (Caroline) (v)   Amsterdam
+4       Inen, A.Q. (Arno) (m)          Amsterdam
+5       Telman, M. (Minne) (m)         Amsterdam
+6       Lahiri, S. (Sujan) (m)         Amsterdam
+7       Valentine, R.W. (Robert) (m) Baarn
+8       Aandewiel, M. (Mario) (m)      Amsterdam

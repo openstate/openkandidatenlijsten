@@ -1,0 +1,17 @@
+11
+Piratenpartij
+
+Nr      Naam                            Woonplaats
+1       Sikkema, G.B. (Bob) (m)         Enkhuizen
+2       Pontier, M.A. (Matthijs) (m)    Amsterdam
+3       Van de Leest, A.T. (Ancilla) (v) Amsterdam
+4       Govers, A.S.D. (Arthur) (m)     Amsterdam
+5       Benmiloud, H. (Hadjar) (v)      Amsterdam
+6       Vollmer, S.J. (Sidney) (m)      Amsterdam
+7       Caton, M.P. (Maxime) (v)        Wageningen
+8       Vardar, I.F.C. (Isabelle) (v)   Amsterdam
+9       Tijsterman, M.B. (Michael) (m) Santpoort-Noord
+10      Nieuwenhuijs, J.F. (Jan) (m)    Amsterdam
+11      Kanhai, V.A. (Vijay) (m)        Amsterdam
+12      Opgenhaffen, P. (Paul) (m)      Amsterdam
+13      West, H.R.J. (Hans) (m)         Utrecht

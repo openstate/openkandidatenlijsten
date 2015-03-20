@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Rob", 
+            "last_name": "Zwetsloot", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.G.A. Zwetsloot", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Ellen", 
+            "last_name": "ter Gast", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E. ter Gast", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Sam", 
+            "last_name": "Németh", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.G.G.E. Németh", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Fenna", 
+            "last_name": "Swart", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. Swart", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "van Aken", 
+            "gender": "m", 
+            "place": "Badhoevedorp", 
+            "full_name": "J.W. van Aken", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Frankie", 
+            "last_name": "Das", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F.M. Das", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Joseph", 
+            "last_name": "Scorsello", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Scorsello", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Kabier", 
+            "last_name": "Noor Mohamed", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.F. Noor Mohamed", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Floortje", 
+            "last_name": "van Spaendonck", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F.I.A. van Spaendonck", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Hansje", 
+            "last_name": "Kalt", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.C. Kalt", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 19 Radicale Oppositie Beweging (R.O.B.)"
+}

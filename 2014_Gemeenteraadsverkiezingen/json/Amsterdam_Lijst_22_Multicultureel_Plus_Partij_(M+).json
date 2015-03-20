@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "", 
+            "last_name": "Köprülü", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "A. Köprülü", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Coşkun", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "Y. Coşkun", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Alici", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "A. Alici", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Karadeniz", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "E. Karadeniz", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 22 Multicultureel Plus Partij (M+)"
+}

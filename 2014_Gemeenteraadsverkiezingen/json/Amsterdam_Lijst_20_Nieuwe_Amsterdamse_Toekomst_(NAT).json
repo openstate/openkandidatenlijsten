@@ -1,0 +1,142 @@
+{
+    "candidates": [
+        {
+            "first_name": "Jarmo", 
+            "last_name": "Berkhout", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.V. Berkhout", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Zilla", 
+            "last_name": "van der Spek", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "Z.L. van der Spek", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Joey", 
+            "last_name": "Cramer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Cramer", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Olav", 
+            "last_name": "Scholten", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "O.T. Scholten", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Eline", 
+            "last_name": "Peters", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "E.A. Peters", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Michiel", 
+            "last_name": "Stapper", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.W. Stapper", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Rianne", 
+            "last_name": "Brink", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "R. Brink", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Noeri", 
+            "last_name": "van den Berg", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N. van den Berg", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Emiel", 
+            "last_name": "Willms", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E.C. Willms", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Emil", 
+            "last_name": "Pepić", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "E. Pepić", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Birk", 
+            "last_name": "Jonker", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B. Jonker", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Titus", 
+            "last_name": "van de Kerke", 
+            "gender": "m", 
+            "place": "Amstelveen", 
+            "full_name": "T.W. van de Kerke", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Judith", 
+            "last_name": "Stevens", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J. Stevens", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Maarten", 
+            "last_name": "Markus", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.P. Markus", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Frans", 
+            "last_name": "van Heest", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.C. van Heest", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Cornelis", 
+            "last_name": "Boersma", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C. Boersma", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Marc", 
+            "last_name": "van Dalen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.J.M. van Dalen", 
+            "position": 17
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 20 Nieuwe Amsterdamse Toekomst (NAT)"
+}

@@ -1,0 +1,29 @@
+26
+Partij van de Ouderen (P.v.d.O.)
+(gecombineerd met lijst 9)
+
+Nr      Naam                          Woonplaats
+1       van Soest, W. (Wil) (v)       Amsterdam
+2       van Brug, R. (Reenze) (m)     Amsterdam
+3       Frank, B.F.C. (Bernard) (m)   Amsterdam
+4       Ng, Y.K. (Yuen) (m)           Amsterdam
+5       Brakhoven, B.F. (Bob) (m)     Amsterdam
+6       Koppers, F. (Frits) (m)       Amsterdam
+7       Koebeer, N. (Narin) (m)       Amsterdam
+8       Engel, F. (Vera) (v)          Amsterdam
+9       Boshuizen, J.C. (Jan) (m)     Amsterdam
+10      Aberkrom, P. (Piet) (m)       Amsterdam
+11      Blok, J.E.M. (Johanna) (v)    Amsterdam
+12      Bom, C.J. (Cor) (m)           Amsterdam
+13      Lammers, A.L. (Bep) (v)       Amsterdam
+14      de Weerdt, A. (Ton) (m)       Amsterdam
+15      Lorent, K.C. (Karel) (m)      Amsterdam
+16      Arendse, A. (Appie) (m)       Amsterdam
+17      Tuininga, C.J.P. (Cor) (m)    Amsterdam
+18      Man, K.M. (Frank) (m)         Amsterdam
+19      van Gelder, C.M. (Conny) (v) Amsterdam
+20      Berkhout, P. (Peter) (m)      Amsterdam
+21      de Groot, R.V. (René) (m)     Amsterdam
+22      de Lange, C.F. (Cees) (m)     Amsterdam
+23      Prins, P.A. (Peter) (m)       Diemen
+24      Faanhof, H.J. (Henk) (m)      Amsterdam

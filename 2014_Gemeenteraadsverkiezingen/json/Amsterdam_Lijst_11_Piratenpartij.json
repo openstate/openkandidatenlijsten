@@ -1,0 +1,110 @@
+{
+    "candidates": [
+        {
+            "first_name": "Bob", 
+            "last_name": "Sikkema", 
+            "gender": "m", 
+            "place": "Enkhuizen", 
+            "full_name": "G.B. Sikkema", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Matthijs", 
+            "last_name": "Pontier", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M.A. Pontier", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Ancilla", 
+            "last_name": "Van de Leest", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.T. Van de Leest", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Arthur", 
+            "last_name": "Govers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.S.D. Govers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Hadjar", 
+            "last_name": "Benmiloud", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H. Benmiloud", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Sidney", 
+            "last_name": "Vollmer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S.J. Vollmer", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Maxime", 
+            "last_name": "Caton", 
+            "gender": "v", 
+            "place": "Wageningen", 
+            "full_name": "M.P. Caton", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Isabelle", 
+            "last_name": "Vardar", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I.F.C. Vardar", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Michael", 
+            "last_name": "Tijsterman", 
+            "gender": "m", 
+            "place": "Santpoort-Noord", 
+            "full_name": "M.B. Tijsterman", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Nieuwenhuijs", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.F. Nieuwenhuijs", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Vijay", 
+            "last_name": "Kanhai", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "V.A. Kanhai", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Paul", 
+            "last_name": "Opgenhaffen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Opgenhaffen", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "West", 
+            "gender": "m", 
+            "place": "Utrecht", 
+            "full_name": "H.R.J. West", 
+            "position": 13
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 11 Piratenpartij"
+}

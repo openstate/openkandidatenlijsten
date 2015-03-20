@@ -1,0 +1,8 @@
+14
+Amsterdam Sociaal
+
+Nr     Naam                      Woonplaats
+1      Merkx, B.P. (Bas) (m)     Amsterdam
+2      Postema, T.A. (Tomas) (m) Amsterdam
+3      Blaak, M.G.M.H. (Metje) (v) Amsterdam
+4      Goos, J. (Jan) (m)        Oostzaan

@@ -1,0 +1,86 @@
+{
+    "candidates": [
+        {
+            "first_name": "Ina", 
+            "last_name": "Brouwer", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I. Brouwer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Lotte", 
+            "last_name": "Selier", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.S. Selier", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Jonathan", 
+            "last_name": "Berg", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Berg", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Al", 
+            "last_name": "M'Charek", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A. M'Charek", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Dennis", 
+            "last_name": "Beckers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D. Beckers", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Marijke", 
+            "last_name": "Horstink", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.J. Horstink", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Petra", 
+            "last_name": "Kroon", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "P.C.M. Kroon", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Antje", 
+            "last_name": "Melissen", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. Melissen", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Yael", 
+            "last_name": "Zwanink", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "Y. Zwanink", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "van Hoek", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A.Q.A.M. van Hoek", 
+            "position": 10
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 24 Visie Op Amsterdam (Lijst Ina Brouwer)"
+}

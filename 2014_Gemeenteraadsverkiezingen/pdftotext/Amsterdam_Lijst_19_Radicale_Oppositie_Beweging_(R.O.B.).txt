@@ -1,0 +1,14 @@
+19
+Radicale Oppositie Beweging (R.O.B.)
+
+Nr     Naam                                Woonplaats
+1      Zwetsloot, R.G.A. (Rob) (m)         Amsterdam
+2      ter Gast, E. (Ellen) (v)            Amsterdam
+3      Németh, A.G.G.E. (Sam) (m)          Amsterdam
+4      Swart, F. (Fenna) (v)               Amsterdam
+5      van Aken, J.W. (Jan) (m)            Badhoevedorp
+6      Das, F.M. (Frankie) (v)             Amsterdam
+7      Scorsello, J. (Joseph) (m)          Amsterdam
+8      Noor Mohamed, M.F. (Kabier) (m)     Amsterdam
+9      van Spaendonck, F.I.A. (Floortje) (v) Amsterdam
+10     Kalt, J.C. (Hansje) (v)             Amsterdam

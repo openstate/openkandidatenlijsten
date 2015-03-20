@@ -1,0 +1,54 @@
+{
+    "candidates": [
+        {
+            "first_name": "", 
+            "last_name": "Bremer", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "H.C. Bremer", 
+            "position": 1
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "van Bennekum", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "W.H.J. van Bennekum", 
+            "position": 2
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Monker", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "J.A. Monker", 
+            "position": 3
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Maij", 
+            "gender": "", 
+            "place": "Monnickendam", 
+            "full_name": "W.P. Maij", 
+            "position": 4
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "Koppen", 
+            "gender": "", 
+            "place": "Amsterdam", 
+            "full_name": "O.C. Koppen", 
+            "position": 5
+        }, 
+        {
+            "first_name": "", 
+            "last_name": "de Weerd", 
+            "gender": "", 
+            "place": "Apeldoorn", 
+            "full_name": "J. de Weerd", 
+            "position": 6
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 18 Partij Voor Vrije Amsterdammers (PVVA)"
+}

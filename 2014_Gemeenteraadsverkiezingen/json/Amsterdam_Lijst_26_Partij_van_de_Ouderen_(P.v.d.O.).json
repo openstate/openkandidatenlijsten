@@ -1,0 +1,198 @@
+{
+    "candidates": [
+        {
+            "first_name": "Wil", 
+            "last_name": "van Soest", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "W. van Soest", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Reenze", 
+            "last_name": "van Brug", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R. van Brug", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Bernard", 
+            "last_name": "Frank", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.F.C. Frank", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Yuen", 
+            "last_name": "Ng", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "Y.K. Ng", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Bob", 
+            "last_name": "Brakhoven", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.F. Brakhoven", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Frits", 
+            "last_name": "Koppers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F. Koppers", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Narin", 
+            "last_name": "Koebeer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N. Koebeer", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Vera", 
+            "last_name": "Engel", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "F. Engel", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Boshuizen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.C. Boshuizen", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Piet", 
+            "last_name": "Aberkrom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Aberkrom", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Johanna", 
+            "last_name": "Blok", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.E.M. Blok", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Bom", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.J. Bom", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bep", 
+            "last_name": "Lammers", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A.L. Lammers", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "de Weerdt", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A. de Weerdt", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Karel", 
+            "last_name": "Lorent", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "K.C. Lorent", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Appie", 
+            "last_name": "Arendse", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "A. Arendse", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Cor", 
+            "last_name": "Tuininga", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.J.P. Tuininga", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Frank", 
+            "last_name": "Man", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "K.M. Man", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Conny", 
+            "last_name": "van Gelder", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.M. van Gelder", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Berkhout", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P. Berkhout", 
+            "position": 20
+        }, 
+        {
+            "first_name": "René", 
+            "last_name": "de Groot", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.V. de Groot", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Cees", 
+            "last_name": "de Lange", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "C.F. de Lange", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Peter", 
+            "last_name": "Prins", 
+            "gender": "m", 
+            "place": "Diemen", 
+            "full_name": "P.A. Prins", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Faanhof", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.J. Faanhof", 
+            "position": 24
+        }
+    ], 
+    "description": "gecombineerd met lijst 9", 
+    "title": "Amsterdam Lijst 26 Partij van de Ouderen (P.v.d.O.)"
+}

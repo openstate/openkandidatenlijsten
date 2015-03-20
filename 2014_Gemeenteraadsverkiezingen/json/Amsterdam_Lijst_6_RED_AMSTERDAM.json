@@ -1,0 +1,206 @@
+{
+    "candidates": [
+        {
+            "first_name": "Roderic", 
+            "last_name": "Evans-Knaup", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "I.R. Evans-Knaup", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Bas", 
+            "last_name": "van Vliet", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.B. van Vliet", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Daphna", 
+            "last_name": "Brekveld", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "D. Brekveld", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Boris", 
+            "last_name": "Klatser", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.V. Klatser", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Laurens", 
+            "last_name": "Buijs", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L.J. Buijs", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Nelly", 
+            "last_name": "Frijda", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N. Frijda", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Alex", 
+            "last_name": "Ringeling", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D.A. Ringeling", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Saar", 
+            "last_name": "Boerlage", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "S. Boerlage", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Jantien", 
+            "last_name": "de Laaf", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B.J. de Laaf", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Marten", 
+            "last_name": "Bierman", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "M. Bierman", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Jan Erik", 
+            "last_name": "Burger", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.E.J.M. Burger", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Onno", 
+            "last_name": "van Buuren", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "O. van Buuren", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Bert", 
+            "last_name": "Brons", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "P.L. Brons", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Nana", 
+            "last_name": "de Graaff", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "N.A. de Graaff", 
+            "position": 14
+        }, 
+        {
+            "first_name": "BoB", 
+            "last_name": "van de Sande", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.B.H. van de Sande", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Floris", 
+            "last_name": "Lieshout", 
+            "gender": "m", 
+            "place": "Haarlem", 
+            "full_name": "F.E.A. Lieshout", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Rob", 
+            "last_name": "IJsendijk", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.A. IJsendijk", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Ramon", 
+            "last_name": "Gieling", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.R.M. Gieling", 
+            "position": 18
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Stokkink", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.W.J. Stokkink", 
+            "position": 19
+        }, 
+        {
+            "first_name": "Theo", 
+            "last_name": "Uittenbogaard", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.A. Uittenbogaard", 
+            "position": 20
+        }, 
+        {
+            "first_name": "Henk", 
+            "last_name": "Spaan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.G.M. Spaan", 
+            "position": 21
+        }, 
+        {
+            "first_name": "Hans", 
+            "last_name": "Dulfer", 
+            "gender": "m", 
+            "place": "Grootschermer", 
+            "full_name": "H.F. Dulfer", 
+            "position": 22
+        }, 
+        {
+            "first_name": "Klaas", 
+            "last_name": "ten Holt", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N.A. ten Holt", 
+            "position": 23
+        }, 
+        {
+            "first_name": "Kaspar", 
+            "last_name": "Mengelberg", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "K.M.J. Mengelberg", 
+            "position": 24
+        }, 
+        {
+            "first_name": "Huub", 
+            "last_name": "Stapel", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.W.J.M. Stapel", 
+            "position": 25
+        }
+    ], 
+    "description": "gecombineerd met lijst 8", 
+    "title": "Amsterdam Lijst 6 RED AMSTERDAM"
+}

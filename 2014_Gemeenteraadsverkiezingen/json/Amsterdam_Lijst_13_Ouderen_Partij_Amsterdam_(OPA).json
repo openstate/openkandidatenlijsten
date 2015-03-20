@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "Luud", 
+            "last_name": "Schimmelpennink", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "L.M.H. Schimmelpennink", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Helen", 
+            "last_name": "Roeten", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "H.J. Roeten", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Conny", 
+            "last_name": "de Bree", 
+            "gender": "v", 
+            "place": "Hoofddorp", 
+            "full_name": "C.M. de Bree", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Kyra", 
+            "last_name": "Kuitert", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "K. Kuitert", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Erik", 
+            "last_name": "van den Muijzenberg", 
+            "gender": "m", 
+            "place": "Parijs (FR)", 
+            "full_name": "E.P. van den Muijzenberg", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Catharina", 
+            "last_name": "Ooijens", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "J.C. Ooijens", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Irene", 
+            "last_name": "van de Weetering", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I. van de Weetering", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Hein", 
+            "last_name": "de Haan", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "H.P. de Haan", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Indy", 
+            "last_name": "de Keijzer", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "I. de Keijzer", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Ferry", 
+            "last_name": "Colon", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "F.J. Colon", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Tyrone", 
+            "last_name": "Pater", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.S.D. Pater", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Ellie", 
+            "last_name": "van Egmond", 
+            "gender": "v", 
+            "place": "Amstelveen", 
+            "full_name": "C.J.M. van Egmond", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Roorda", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J. Roorda", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Lucienne", 
+            "last_name": "Roos", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "L.P. Roos", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Jeroen", 
+            "last_name": "van 't Veen", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.M. van 't Veen", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Angela", 
+            "last_name": "Besuch", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "A. Besuch", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Anneke", 
+            "last_name": "Smit-Boerma", 
+            "gender": "v", 
+            "place": "Diemen", 
+            "full_name": "J.J. Smit-Boerma", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Jeff", 
+            "last_name": "Leever", 
+            "gender": "m", 
+            "place": "Wieringerwerf", 
+            "full_name": "J.H. Leever", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 13 Ouderen Partij Amsterdam (OPA)"
+}

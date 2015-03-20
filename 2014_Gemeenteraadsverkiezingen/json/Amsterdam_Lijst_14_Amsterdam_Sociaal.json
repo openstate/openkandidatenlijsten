@@ -1,0 +1,38 @@
+{
+    "candidates": [
+        {
+            "first_name": "Bas", 
+            "last_name": "Merkx", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "B.P. Merkx", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Tomas", 
+            "last_name": "Postema", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "T.A. Postema", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Metje", 
+            "last_name": "Blaak", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.G.M.H. Blaak", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Jan", 
+            "last_name": "Goos", 
+            "gender": "m", 
+            "place": "Oostzaan", 
+            "full_name": "J. Goos", 
+            "position": 4
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 14 Amsterdam Sociaal"
+}

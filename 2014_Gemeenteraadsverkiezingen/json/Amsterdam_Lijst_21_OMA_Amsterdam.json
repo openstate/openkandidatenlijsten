@@ -1,0 +1,150 @@
+{
+    "candidates": [
+        {
+            "first_name": "David", 
+            "last_name": "Pinto", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "D. Pinto", 
+            "position": 1
+        }, 
+        {
+            "first_name": "Maria", 
+            "last_name": "Weijman", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M.A. Weijman", 
+            "position": 2
+        }, 
+        {
+            "first_name": "Joop", 
+            "last_name": "Oonk", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.W. Oonk", 
+            "position": 3
+        }, 
+        {
+            "first_name": "Wil", 
+            "last_name": "Bremers", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "W.J.L. Bremers", 
+            "position": 4
+        }, 
+        {
+            "first_name": "Jaap", 
+            "last_name": "Uitterdijk", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "J.H. Uitterdijk", 
+            "position": 5
+        }, 
+        {
+            "first_name": "Ton", 
+            "last_name": "Wurtz", 
+            "gender": "m", 
+            "place": "Gouda", 
+            "full_name": "A. Wurtz", 
+            "position": 6
+        }, 
+        {
+            "first_name": "Wieger", 
+            "last_name": "Beks", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "W.J. Beks", 
+            "position": 7
+        }, 
+        {
+            "first_name": "Nico", 
+            "last_name": "Meijer", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N. Meijer", 
+            "position": 8
+        }, 
+        {
+            "first_name": "Guan", 
+            "last_name": "van Harling", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "S.G. van Harling", 
+            "position": 9
+        }, 
+        {
+            "first_name": "Jacqueline", 
+            "last_name": "Zapata Sepulveda", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "R.J. Zapata Sepulveda", 
+            "position": 10
+        }, 
+        {
+            "first_name": "Marina", 
+            "last_name": "van Meerten", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "M. van Meerten", 
+            "position": 11
+        }, 
+        {
+            "first_name": "Melissa", 
+            "last_name": "Faber", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "T.E.M. Faber", 
+            "position": 12
+        }, 
+        {
+            "first_name": "Diana", 
+            "last_name": "Meijll", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "D.G. Meijll", 
+            "position": 13
+        }, 
+        {
+            "first_name": "Brandy", 
+            "last_name": "Cairo", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "B.M. Cairo", 
+            "position": 14
+        }, 
+        {
+            "first_name": "Clementine", 
+            "last_name": "Cairo", 
+            "gender": "v", 
+            "place": "Amsterdam", 
+            "full_name": "C.D.J. Cairo", 
+            "position": 15
+        }, 
+        {
+            "first_name": "Maurice", 
+            "last_name": "Schouw", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "R.M. Schouw", 
+            "position": 16
+        }, 
+        {
+            "first_name": "Niek", 
+            "last_name": "van der Zon", 
+            "gender": "m", 
+            "place": "Amsterdam", 
+            "full_name": "N.P. van der Zon", 
+            "position": 17
+        }, 
+        {
+            "first_name": "Anneke", 
+            "last_name": "van der Helm", 
+            "gender": "v", 
+            "place": "Hoofddorp", 
+            "full_name": "M.P. van der Helm", 
+            "position": 18
+        }
+    ], 
+    "description": "", 
+    "title": "Amsterdam Lijst 21 OMA Amsterdam"
+}

@@ -1,0 +1,8 @@
+22
+Multicultureel Plus Partij (M+)
+
+Nr      Naam          Woonplaats
+1       Köprülü, A.   Amsterdam
+2       Coşkun, Y.    Amsterdam
+3       Alici, A.     Amsterdam
+4       Karadeniz, E. Amsterdam

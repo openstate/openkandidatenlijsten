@@ -1,0 +1,25 @@
+12
+De Groenen
+
+Nr    Naam                            Woonplaats
+1     Schönberger, R.A. (Ronald) (m) Amsterdam
+2     Jabrane, M. (Mouna) (v)         Amsterdam
+3     van Rijn, M.P. (Mirjam) (v)     Amsterdam
+4     Sakhel, K. (Khaled) (m)         Amsterdam
+5     van de Loo, M.P. (Bayla) (v)    Amsterdam
+6     Mijling, H. (Rakesh) (m)        Amsterdam
+7     Kamp, E.H. (Elly) (v)           Amsterdam
+8     El Hajoui, N. (Nabille) (m)     Amsterdam
+9     van Hagen, T.G.H. (Theo) (m)    Amsterdam
+10    Vonk, IJ.H. (Ymie) (v)          Amsterdam
+11    ter Haar, O.H. (Otto) (m)       Utrecht
+12    Doting, R. (Rijndert) (m)       Amsterdam
+13    Blom, T. (Theodoor) (m)         Amsterdam
+14    Vrielink, T.E. (Tamara) (v)     Amsterdam
+15    van den Dool, M.J. (Max) (m)    Amsterdam
+16    Bolweg, R.C. (Rob) (m)          Amsterdam
+17    Duister, R. (Ruben) (m)         Amsterdam
+18    Visser, R.W. (Walter) (m)       Amsterdam
+19    Boelhouwer, A.A. (Arthur) (m)   Amsterdam
+20    Blik, D. (David) (m)            Amsterdam
+21    Werkman, H. (Hero) (m)          Amsterdam
