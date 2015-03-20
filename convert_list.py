@@ -161,13 +161,7 @@ class Runner(object):
                 raw_filename
             )
 
-            layout_specific_regex = ''
-            # Layout 1 needs a comma
-            if re.match("^\s*CENTRAAL STEMBUREAU", lines[0]) or re.match("^Lijst", lines[0]) or re.match('^\s*STAATSCOURANT', lines[0]):
-                layout_specific_regex = ','
-            # Layout 2 does not need a comma
-            elif re.match("^Overzicht definitieve kandidatenlijsten", lines[3]):
-                layout_specific_regex = ''
+            layout_specific_regex = ','
 
             # Are we in the description section (between header and candidates)?
             in_description = False
@@ -206,37 +200,46 @@ class Runner(object):
                 header_match = '^\d+\s+(\S\s?)+$'
 
             kieskring = ''
-            for line in lines:
+            list_number = line[0]
+            title = line[1]
+            description = line[2]
+            data = {
+                'title': 'Amsterdam Lijst %s %s' % (lines[0].strip(), lines[1].strip()),
+                'description': re.sub('[()]', '', lines[2].strip()),
+                'candidates': []
+            }
+            in_header = False
+            for line in lines[3:]:
                 line_contents = line.strip()
 
-                if re.match('^Kieskring', line_contents):
-                    kieskring = re.sub('\s+', ' ', line_contents)
+                #if re.match('^Kieskring', line_contents):
+                #    kieskring = re.sub('\s+', ' ', line_contents)
 
-                # If we find a new header and we were not in a header then we must
-                # have finished collecting candidates for a party so we write it
-                # to a JSON file and retrieve the new header data
-                if re.match(header_match, line):
-                    if not in_header:
-                        self.save_data(data, raw_filename, use_orig_filename)
-                    title = re.sub(r'\s+', ' ', line_contents)
-                    title = re.sub(u'–', '-', title)
-                    if use_orig_filename:
-                        title = raw_filename + '-' + title
-                    if 'Lijst' not in title:
-                        title = 'Lijst_' + title
+                ## If we find a new header and we were not in a header then we must
+                ## have finished collecting candidates for a party so we write it
+                ## to a JSON file and retrieve the new header data
+                #if re.match(header_match, line):
+                #    if not in_header:
+                #        self.save_data(data, raw_filename, use_orig_filename)
+                #    title = re.sub(r'\s+', ' ', line_contents)
+                #    title = re.sub(u'–', '-', title)
+                #    if use_orig_filename:
+                #        title = raw_filename + '-' + title
+                #    if 'Lijst' not in title:
+                #        title = 'Lijst ' + title
 
-                    title = kieskring + '-' + title
+                #    title = kieskring + '-' + title
 
-                    data = {
-                        'title': title,
-                        'description': u'',
-                        'candidates': []
-                    }
+                #    data = {
+                #        'title': title,
+                #        'description': u'',
+                #        'candidates': []
+                #    }
 
-                    # After the header section we enter the description section
-                    in_description = True
-                    in_header = False
-                    continue
+                #    # After the header section we enter the description section
+                #    in_description = True
+                #    in_header = False
+                #    continue
 
                 # This indicates the start of a tables holding candidates and thus
                 # the end of a description section
@@ -246,13 +249,13 @@ class Runner(object):
                     in_description = False
                     continue
 
-                # The Provinciale Statenverkiezingen and Waterschapsverkiezingen
-                # might only contain extra information concerning whether a party
-                # has a combined list with another party
-                if in_description and 'Gecombineerd' in line_contents:
-                    data['description'] = line_contents
-                    description_extracted = True
-                    in_description = False
+                ## The Provinciale Statenverkiezingen and Waterschapsverkiezingen
+                ## might only contain extra information concerning whether a party
+                ## has a combined list with another party
+                #if in_description and 'Gecombineerd' in line_contents:
+                #    data['description'] = line_contents
+                #    description_extracted = True
+                #    in_description = False
 
                 # Skip the footer lines on a page
                 if line_contents.startswith('pagina') or line_contents.startswith('naam'):
