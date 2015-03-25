@@ -1,4 +1,4 @@
-This script extracts candidcacy lists from the political parties as published by de Kiesraad or de Staatscourant in PDF and converts them to JSON and CSV.
+This script extracts candidacy lists from the political parties as published by de Kiesraad or de Staatscourant in PDF and converts them to JSON and CSV.
 The PDF files were taken from:
 
 - Europese Parlementsverkiezingen
