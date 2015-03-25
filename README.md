@@ -38,7 +38,7 @@ Elections which have not yet been processed (listing PDF file if available):
   - Amsterdam [stadsdeel Zuid](http://archief10.archiefweb.eu/archives/archiefweb/20140328184006/http://www.amsterdam.nl/verkiezingen/geldige-lijsten/kandidatenlijsten-4/)
   - Amsterdam [stadsdeel Zuidoost](http://archief10.archiefweb.eu/archives/archiefweb/20140328184006/http://www.amsterdam.nl/verkiezingen/geldige-lijsten/kandidatenlijsten-5/)
 
-This [Wikipedia page](https://nl.wikipedia.org/wiki/Categorie:Kandidatenlijsten_verkiezingen_in_Nederland) lists the candidates for elections back till 1994, but only with first name and last name (so no initials, gender or place of residence)
+This [Wikipedia page](https://nl.wikipedia.org/wiki/Categorie:Kandidatenlijsten_verkiezingen_in_Nederland) lists the candidates for EK, TK and EP elections back till 1994, but only with first name and last name (so no initials, gender or place of residence)
 
 Requirements
 ============
